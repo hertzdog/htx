@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>HTX - Human Tech eXcellence</title>
+    <link rel="icon" type="image/png" href="favicon.webp">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #000;
+            color: #fff;
+        }
+        header, footer {
+            background-color: #202020;
+            color: #ffffff;
+            padding: 20px;
+        }
+        .message {
+            margin: 50px auto;
+            max-width: 60ch;
+            padding: 20px;
+            color: #ffffff;
+        }
+        .language {
+            opacity: 0.7;
+            margin-top: 20px;
+            color: #bbbbbb;
+        }
+
+        #quoteText {
+            min-height: 250px; /* Imposta un'altezza minima appropriata */
+            display: flex;
+            align-items: center; /* Centra il testo verticalmente */
+            justify-content: center; /* Opzionale: centra il testo orizzontalmente se desiderato */
+            text-align: center; /* Assicura che il testo sia centrato se su più linee */
+            overflow: hidden; /* Nasconde il testo che supera l'altezza, se necessario */
+            padding: 10px; /* Aggiunge un po' di spazio intorno al testo */
+            font-size: 16px; /* Adegua a seconda delle necessità */
+            line-height: 1.5; /* Adegua per migliorare la leggibilità */
+            margin: 0 auto; /* Centra il paragrafo se necessario */
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>HT-X</h1>
+        <p>Human Tech eXcellence</p>
+    </header>
+    <div class="message">
+        <p id="quoteText">Qualsiasi lavoro tu faccia, se trasformi in arte ciò che stai facendo, con ogni probabilità scoprirai di essere divenuto per gli altri una persona interessante e non un oggetto. Questo perché le tue decisioni, fatte tenendo conto della Qualità, cambiano anche te. Meglio: non solo cambiano anche te e il lavoro, ma cambiano anche gli altri, perché la Qualità è come un'onda. Quel lavoro di Qualità che pensavi nessuno avrebbe notato viene notato eccome, e chi lo vede si sente un pochino meglio: probabilmente trasferirà negli altri questa sua sensazione e in questo modo la Qualità continuerà a diffondersi.</p>
+        <p class="language">Robert Pirsig. </p>
+        <p class="language" id="quoteLanguage">- Italiano </p>
+    </div>
+    <footer>
+        <p class="language">HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €10.000 i.v. | htx@pec.it</p>
+    </footer>
+    <script>
+        const quotes = [
+            { text: "Qualsiasi lavoro tu faccia, se trasformi in arte ciò che stai facendo, con ogni probabilità scoprirai di essere divenuto per gli altri una persona interessante e non un oggetto. Questo perché le tue decisioni, fatte tenendo conto della Qualità, cambiano anche te. Meglio: non solo cambiano anche te e il lavoro, ma cambiano anche gli altri, perché la Qualità è come un'onda. Quel lavoro di Qualità che pensavi nessuno avrebbe notato viene notato eccome, e chi lo vede si sente un pochino meglio: probabilmente trasferirà negli altri questa sua sensazione e in questo modo la Qualità continuerà a diffondersi.", language: "Italiano" },
+            { text: "No matter what job you do, if you turn it into an art, you're likely to become interesting to others. This is because your decisions, made with Quality in mind, change you too. Better yet, they change not only you and your work, but others as well, because Quality is like a wave. That Quality work you thought no one would notice is indeed noticed, and it makes those who see it feel a bit better: they're likely to pass on this feeling, thus Quality continues to spread.", language: "English" },
+            { text: "Peu importe le travail que vous faites, si vous le transformez en art, vous devenez probablement intéressant pour les autres. Cela est dû au fait que vos décisions, prises avec la Qualité à l'esprit, vous changent également. Mieux encore : elles changent non seulement vous et votre travail, mais aussi les autres, car la Qualité est comme une vague. Ce travail de Qualité que vous pensiez passer inaperçu est en effet remarqué, et il rend ceux qui le voient un peu meilleurs : ils sont susceptibles de transmettre ce sentiment, ainsi la Qualité continue de se propager.", language: "Français" },
+            { text: "Egal welche Arbeit du verrichtest, wenn du sie in eine Kunst verwandelst, wirst du wahrscheinlich für andere interessant. Dies liegt daran, dass deine Entscheidungen, mit Qualität im Sinn, auch dich verändern. Noch besser: Sie verändern nicht nur dich und deine Arbeit, sondern auch andere, denn Qualität ist wie eine Welle. Diese Qualitätsarbeit, von der du dachtest, dass sie niemand bemerken würde, wird tatsächlich bemerkt, und sie macht diejenigen, die sie sehen, ein bisschen besser: Sie werden wahrscheinlich dieses Gefühl weitergeben, so dass die Qualität weiterverbreitet wird.", language: "Deutsch" },
+            { text: "No importa el trabajo que hagas, si lo conviertes en un arte, probablemente te vuelvas interesante para los demás. Esto se debe a que tus decisiones, tomadas con la Calidad en mente, también te cambian a ti. Mejor aún: cambian no solo a ti y tu trabajo, sino también a los demás, porque la Calidad es como una ola. Ese trabajo de Calidad que pensabas que nadie notaría es, de hecho, notado, y hace que aquellos que lo ven se sientan un poco mejor: probablemente transmitan este sentimiento, así la Calidad sigue extendiéndose.", language: "Español" },
+            { text: "无论你做什么工作，如果你将其变成艺术，你很可能会变得对他人有趣。这是因为你的决定，以质量为考虑，也会改变你。更好的是：它们不仅改变你和你的工作，而且还改变其他人，因为质量就像波浪。那些你以为没人会注意到的优质工作实际上是被注意到的，它让看到它的人感觉更好一些：他们很可能会传递这种感觉，从而质量继续传播。", language: "Chinese" },
+            { text: "どんな仕事をしていても、それを芸術に変えることができれば、他人にとって興味深い存在になる可能性があります。これは、品質を念頭に置いたあなたの決断が、あなた自身をも変えるからです。さらに良いことに、それらはあなたやあなたの仕事だけでなく、他の人々も変えます。なぜなら、品質は波のようなものだからです。誰も気づかないと思っていたその品質の高い仕事は、実際には気づかれ、それを見た人を少しでも良くすることができます。それによって、その感覚を他の人にも伝える可能性があり、そうすることで品質はさらに広がっていきます。", language: "Japanese" }
+        ];
+
+        function scrambleEffect(element, finalText, duration = 1000) {
+            let originalText = element.textContent;
+            const maxSteps = 20; // Numero totale di passaggi per l'animazione
+            let step = 0;
+            const intervalTime = duration / maxSteps;
+            let scrambledText = originalText.split('');
+
+            const scrambleInterval = setInterval(() => {
+                scrambledText = scrambledText.map((char, index) => {
+                    // Se il carattere originale è uguale al carattere finale, lo lascia inalterato
+                    if (char === finalText.charAt(index)) {
+                        return char;
+                    }
+                    // Altrimenti, sceglie un carattere casuale, assicurandosi che si avvicini al carattere finale
+                    return randomChar(finalText.charAt(index));
+                });
+
+                element.innerHTML = scrambledText.join('');
+
+                step++;
+                if (step >= maxSteps) {
+                    clearInterval(scrambleInterval);
+                    element.textContent = finalText; // Completa l'animazione mostrando il testo finale
+                }
+            }, intervalTime);
+        }
+
+        function randomChar(targetChar) {
+            const characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+            //const characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789" + "汉字漢字あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをん" + "アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲン" + "一二三四五六七八九十百千万亿";
+
+            // Puoi introdurre qui una logica per rendere il carattere casuale più simile a targetChar se necessario
+            return characters.charAt(Math.floor(Math.random() * characters.length));
+        }
+
+
+
+        function changeQuote() {
+            const quoteElement = document.getElementById('quoteText');
+            const languageElement = document.getElementById('quoteLanguage');
+            
+            let quoteIndex = 0; // Indice iniziale per l'inglese
+
+            // Seleziona inizialmente l'indice corrispondente alla citazione in italiano
+            if (!quoteElement.textContent) {
+                quoteIndex = quotes.findIndex(quote => quote.language === "Italiano");
+            } else {
+                quoteIndex = (quotes.findIndex(quote => quote.text === quoteElement.textContent) +1) % quotes.length;
+            }
+            
+            scrambleEffect(quoteElement, quotes[quoteIndex].text, 1000, 20); // Aggiungi l'effetto scramble
+            quoteElement.textContent = quotes[quoteIndex].text; // Cambia il testo della citazione
+            scrambleEffect(languageElement, quotes[quoteIndex].language, 1000, 20); // Aggiungi l'effetto scramble
+            languageElement.textContent = `- ${quotes[quoteIndex].language}`; // Cambia la lingua visualizzata
+        }
+
+
+
+        // Cambia la citazione al caricamento della pagina
+        document.addEventListener('DOMContentLoaded', function() {
+            // Imposta un ritardo iniziale di 20 secondi prima di iniziare a cambiare le citazioni
+            setTimeout(function() {
+                // Dopo 20 secondi, cambia la citazione per la prima volta e poi ogni 15 secondi
+                changeQuote();
+                setInterval(changeQuote, 15000);
+            }, 20000);
+        });
+
+    </script>
+</body>
+</html>
+
+  
