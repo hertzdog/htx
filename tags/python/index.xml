@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on HUMAN TECHNOLOGY eXCELLENCE</title>
+    <link>https://ht-x.com/tags/python/</link>
+    <description>Recent content in Python on HUMAN TECHNOLOGY eXCELLENCE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €60.000 i.v. | htx@pec.it</copyright>
+    <lastBuildDate>Sat, 06 Sep 2025 04:06:07 +0000</lastBuildDate><atom:link href="https://ht-x.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SurfSense</title>
+      <link>https://ht-x.com/posts/2025/09/surfsense/</link>
+      <pubDate>Sat, 06 Sep 2025 04:06:07 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/09/surfsense/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>LoRAX: Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs</title>
+      <link>https://ht-x.com/posts/2025/09/lorax-multi-lora-inference-server-that-scales-to-1/</link>
+      <pubDate>Fri, 05 Sep 2025 07:09:18 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/09/lorax-multi-lora-inference-server-that-scales-to-1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The LLM Red Teaming Framework</title>
+      <link>https://ht-x.com/posts/2025/09/the-llm-red-teaming-framework/</link>
+      <pubDate>Thu, 04 Sep 2025 14:51:19 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/09/the-llm-red-teaming-framework/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Memvid</title>
+      <link>https://ht-x.com/posts/2025/09/memvid/</link>
+      <pubDate>Thu, 04 Sep 2025 12:45:37 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/09/memvid/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Elysia: Agentic Framework Powered by Decision Trees</title>
+      <link>https://ht-x.com/posts/2025/09/elysia-agentic-framework-powered-by-decision-trees/</link>
+      <pubDate>Sun, 17 Aug 2025 03:51:27 +0200</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/09/elysia-agentic-framework-powered-by-decision-trees/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>LangExtract</title>
+      <link>https://ht-x.com/posts/2025/09/langextract/</link>
+      <pubDate>Sun, 17 Aug 2025 03:48:51 +0200</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/09/langextract/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Litestar is worth a look</title>
+      <link>https://ht-x.com/posts/2025/09/litestar-is-worth-a-look/</link>
+      <pubDate>Wed, 06 Aug 2025 19:43:01 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/09/litestar-is-worth-a-look/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SymbolicAI: A neuro-symbolic perspective on LLMs</title>
+      <link>https://ht-x.com/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/</link>
+      <pubDate>Fri, 27 Jun 2025 18:49:57 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Agent Development Kit (ADK)</title>
+      <link>https://ht-x.com/posts/2025/09/agent-development-kit-adk/</link>
+      <pubDate>Thu, 29 May 2025 06:22:22 +0200</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/09/agent-development-kit-adk/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Show HN: My LLM CLI tool can run tools now, from Python code or plugins</title>
+      <link>https://ht-x.com/posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/</link>
+      <pubDate>Tue, 27 May 2025 20:53:03 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" role="img" aria-labelledby="title desc">
+  <title id="title">Migliora le decisioni strategiche</title>
+  <desc id="desc">Confronto illustrativo: ricerche più rapide e report più chiari grazie all'AI.</desc>
+
+  <style>
+    .bg { fill:#ffffff }
+    .title { font:700 42px/1.1 Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; fill:#0f172a }
+    .subtitle { font:500 22px/1.4 Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; fill:#334155 }
+    .label { font:700 18px/1.2 Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; fill:#0f172a }
+    .hint { font:500 16px/1.2 Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; fill:#475569 }
+    .track { fill:#e5e7eb }
+    .bar-gray { fill:#94a3b8 }
+    .bar-accent { fill:#2563eb }
+    .pill { fill:#e8eeff }
+    .pill-text { font:600 14px/1 Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; fill:#1f2937 }
+    .kpi { font:800 28px/1 Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; fill:#2563eb }
+    .foot { font:12px/1.2 Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; fill:#6b7280 }
+    .icon { fill:none; stroke:#2563eb; stroke-width:2.5; stroke-linecap:round; stroke-linejoin:round }
+  </style>
+
+  <rect class="bg" x="0" y="0" width="1200" height="600" rx="24"></rect>
+
+  <!-- Header -->
+  <text class="title" x="48" y="86">Migliora le decisioni strategiche</text>
+  <text class="subtitle" x="48" y="120">Ricerche più rapide. Report più chiari. Focus su ciò che conta.</text>
+
+  <!-- Icone -->
+  <g transform="translate(1050,40)">
+    <!-- lente (ricerche) -->
+    <circle class="icon" cx="24" cy="24" r="16"></circle>
+    <line class="icon" x1="36" y1="36" x2="52" y2="52"></line>
+  </g>
+  <g transform="translate(1100,40)">
+    <!-- documento (report) -->
+    <rect class="icon" x="0" y="6" width="40" height="48" rx="6"></rect>
+    <line class="icon" x1="10" y1="20" x2="30" y2="20"></line>
+    <line class="icon" x1="10" y1="30" x2="30" y2="30"></line>
+    <line class="icon" x1="10" y1="40" x2="26" y2="40"></line>
+  </g>
+
+  <!-- Blocco 1: Ricerche -->
+  <text class="label" x="48" y="190">Ricerche per decisioni</text>
+  <text class="hint" x="48" y="214">Dati da più fonti → sintesi pronta all’uso</text>
+
+  <!-- track -->
+  <rect class="track" x="48" y="236" width="1104" height="48" rx="12"></rect>
+  <!-- prima -->
+  <rect class="bar-gray" x="48" y="236" width="920" height="48" rx="12"></rect>
+  <text class="hint" x="60" y="268">Prima: ricerche manuali</text>
+  <!-- con AI -->
+  <rect class="bar-accent" x="48" y="300" width="420" height="48" rx="12"></rect>
+  <text class="hint" x="60" y="332">Con AI: ricerche assistite</text>
+
+  <!-- KPI messaggio forte -->
+  <text class="kpi" x="980" y="332" text-anchor="end">Meno fatica</text>
+
+  <!-- Pill benefits -->
+  <g transform="translate(48,360)">
+    <rect class="pill" x="0" y="0" width="230" height="32" rx="16"></rect>
+    <text class="pill-text" x="16" y="21">Sintesi fonti in minuti</text>
+    <rect class="pill" x="246" y="0" width="250" height="32" rx="16"></rect>
+    <text class="pill-text" x="262" y="21">Citazioni &amp; link organizzati</text>
+    <rect class="pill" x="510" y="0" width="256" height="32" rx="16"></rect>
+    <text class="pill-text" x="526" y="21">Q&amp;A sui dati aziendali</text>
+  </g>
+
+  <!-- Blocco 2: Report -->
+  <text class="label" x="48" y="438">Report per la direzione</text>
+  <text class="hint" x="48" y="462">Indicatori chiave, scenari e raccomandazioni</text>
+
+  <!-- track -->
+  <rect class="track" x="48" y="484" width="1104" height="48" rx="12"></rect>
+  <!-- prima qualità (più corta) -->
+  <rect class="bar-gray" x="48" y="484" width="560" height="48" rx="12"></rect>
+  <text class="hint" x="60" y="516">Prima: note sparse</text>
+  <!-- con AI qualità (più lunga) -->
+  <rect class="bar-accent" x="48" y="548" width="1040" height="48" rx="12"></rect>
+  <text class="hint" x="60" y="580">Con AI: report strutturati</text>
+
+  <text class="kpi" x="1140" y="516" text-anchor="end">Più chiarezza</text>
+
+  <text class="foot" x="48" y="592">Indicatori illustrativi (lunghezza barra = indice di sforzo/qualità). Adatta colori e testi al tuo brand.</text>
+</svg>
