@@ -4,25 +4,25 @@
 
   <url>
     <loc>https://ht-x.com/posts/2025/</loc>
-    <lastmod>2025-09-06T14:08:39+02:00</lastmod>
+    <lastmod>2025-09-14T15:17:44+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ht-x.com/posts/</loc>
-    <lastmod>2025-09-06T14:08:39+02:00</lastmod>
+    <lastmod>2025-09-14T15:17:44+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://ht-x.com/posts/2025/09/kimi-k2-open-agentic-intelligence/</loc>
-    <lastmod>2025-09-06T14:08:39+02:00</lastmod>
+    <loc>https://ht-x.com/posts/2025/09/dots-ocr-multilingual-document-layout-parsing-in-a/</loc>
+    <lastmod>2025-09-14T15:17:44+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ht-x.com/</loc>
-    <lastmod>2025-09-06T14:08:39+02:00</lastmod>
+    <lastmod>2025-09-14T15:17:44+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -35,6 +35,36 @@
       hreflang="it"
       href="https://ht-x.com/"
     />
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/09/paddleocr/</loc>
+    <lastmod>2025-09-14T15:15:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/09/deepsite-v2-a-hugging-face-space-by-enzostvs/</loc>
+    <lastmod>2025-09-14T08:54:06+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/09/how-to-use-claude-code-subagents-to-parallelize-de/</loc>
+    <lastmod>2025-09-14T05:37:08+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/09/show-hn-clavier-36-a-programming-environment-for-g/</loc>
+    <lastmod>2025-09-13T14:22:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/09/kimi-k2-open-agentic-intelligence/</loc>
+    <lastmod>2025-09-06T14:08:39+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ht-x.com/posts/2025/09/introducing-qwen3-max-preview-instruct/</loc>
@@ -255,12 +285,6 @@
   <url>
     <loc>https://ht-x.com/posts/2025/09/fallinorg-v1-0-0-beta/</loc>
     <lastmod>2025-08-18T05:14:37+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ht-x.com/posts/2025/09/dots-ocr-multilingual-document-layout-parsing-in-a/</loc>
-    <lastmod>2025-08-18T04:42:36+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

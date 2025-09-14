@@ -7,14 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €60.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Sat, 06 Sep 2025 14:08:39 +0200</lastBuildDate><atom:link href="https://ht-x.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Sep 2025 15:17:44 +0000</lastBuildDate><atom:link href="https://ht-x.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GitHub</title>
+      <link>https://ht-x.com/categories/github/</link>
+      <pubDate>Sun, 14 Sep 2025 15:17:44 +0000</pubDate>
+      
+      <guid>https://ht-x.com/categories/github/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tool</title>
+      <link>https://ht-x.com/categories/tool/</link>
+      <pubDate>Sun, 14 Sep 2025 15:15:24 +0000</pubDate>
+      
+      <guid>https://ht-x.com/categories/tool/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Articoli</title>
       <link>https://ht-x.com/categories/articoli/</link>
-      <pubDate>Sat, 06 Sep 2025 14:08:39 +0200</pubDate>
+      <pubDate>Sun, 14 Sep 2025 08:54:06 +0200</pubDate>
       
       <guid>https://ht-x.com/categories/articoli/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hacker News</title>
+      <link>https://ht-x.com/categories/hacker-news/</link>
+      <pubDate>Sat, 13 Sep 2025 14:22:59 +0000</pubDate>
+      
+      <guid>https://ht-x.com/categories/hacker-news/</guid>
       <description></description>
       
     </item>
@@ -30,41 +60,11 @@
     </item>
     
     <item>
-      <title>GitHub</title>
-      <link>https://ht-x.com/categories/github/</link>
-      <pubDate>Sat, 06 Sep 2025 10:10:32 +0000</pubDate>
-      
-      <guid>https://ht-x.com/categories/github/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Framework</title>
       <link>https://ht-x.com/categories/framework/</link>
       <pubDate>Thu, 04 Sep 2025 14:51:19 +0000</pubDate>
       
       <guid>https://ht-x.com/categories/framework/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Hacker News</title>
-      <link>https://ht-x.com/categories/hacker-news/</link>
-      <pubDate>Wed, 03 Sep 2025 10:44:01 +0000</pubDate>
-      
-      <guid>https://ht-x.com/categories/hacker-news/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tool</title>
-      <link>https://ht-x.com/categories/tool/</link>
-      <pubDate>Sat, 30 Aug 2025 05:39:37 +0200</pubDate>
-      
-      <guid>https://ht-x.com/categories/tool/</guid>
       <description></description>
       
     </item>
