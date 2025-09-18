@@ -7,14 +7,54 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €60.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Sun, 14 Sep 2025 15:17:44 +0000</lastBuildDate><atom:link href="https://ht-x.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Sep 2025 14:48:56 +0000</lastBuildDate><atom:link href="https://ht-x.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Computer Vision</title>
-      <link>https://ht-x.com/tags/computer-vision/</link>
-      <pubDate>Sun, 14 Sep 2025 15:17:44 +0000</pubDate>
+      <title>Open Source</title>
+      <link>https://ht-x.com/tags/open-source/</link>
+      <pubDate>Thu, 18 Sep 2025 14:48:56 +0000</pubDate>
       
-      <guid>https://ht-x.com/tags/computer-vision/</guid>
+      <guid>https://ht-x.com/tags/open-source/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://ht-x.com/tags/python/</link>
+      <pubDate>Thu, 18 Sep 2025 14:48:56 +0000</pubDate>
+      
+      <guid>https://ht-x.com/tags/python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>https://ht-x.com/tags/ai/</link>
+      <pubDate>Thu, 18 Sep 2025 14:40:36 +0000</pubDate>
+      
+      <guid>https://ht-x.com/tags/ai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AI Agent</title>
+      <link>https://ht-x.com/tags/ai-agent/</link>
+      <pubDate>Thu, 18 Sep 2025 14:40:36 +0000</pubDate>
+      
+      <guid>https://ht-x.com/tags/ai-agent/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Browser Automation</title>
+      <link>https://ht-x.com/tags/browser-automation/</link>
+      <pubDate>Thu, 18 Sep 2025 14:40:36 +0000</pubDate>
+      
+      <guid>https://ht-x.com/tags/browser-automation/</guid>
       <description></description>
       
     </item>
@@ -22,9 +62,19 @@
     <item>
       <title>Foundation Model</title>
       <link>https://ht-x.com/tags/foundation-model/</link>
-      <pubDate>Sun, 14 Sep 2025 15:17:44 +0000</pubDate>
+      <pubDate>Thu, 18 Sep 2025 04:52:37 +0200</pubDate>
       
       <guid>https://ht-x.com/tags/foundation-model/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>https://ht-x.com/tags/computer-vision/</link>
+      <pubDate>Sun, 14 Sep 2025 15:17:44 +0000</pubDate>
+      
+      <guid>https://ht-x.com/tags/computer-vision/</guid>
       <description></description>
       
     </item>
@@ -40,51 +90,11 @@
     </item>
     
     <item>
-      <title>Open Source</title>
-      <link>https://ht-x.com/tags/open-source/</link>
-      <pubDate>Sun, 14 Sep 2025 15:17:44 +0000</pubDate>
-      
-      <guid>https://ht-x.com/tags/open-source/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://ht-x.com/tags/python/</link>
-      <pubDate>Sun, 14 Sep 2025 15:17:44 +0000</pubDate>
-      
-      <guid>https://ht-x.com/tags/python/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>AI</title>
-      <link>https://ht-x.com/tags/ai/</link>
-      <pubDate>Sun, 14 Sep 2025 15:15:24 +0000</pubDate>
-      
-      <guid>https://ht-x.com/tags/ai/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>DevOps</title>
       <link>https://ht-x.com/tags/devops/</link>
       <pubDate>Sun, 14 Sep 2025 15:15:24 +0000</pubDate>
       
       <guid>https://ht-x.com/tags/devops/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>AI Agent</title>
-      <link>https://ht-x.com/tags/ai-agent/</link>
-      <pubDate>Sun, 14 Sep 2025 05:37:08 +0200</pubDate>
-      
-      <guid>https://ht-x.com/tags/ai-agent/</guid>
       <description></description>
       
     </item>
@@ -135,16 +145,6 @@
       <pubDate>Thu, 04 Sep 2025 14:12:51 +0000</pubDate>
       
       <guid>https://ht-x.com/tags/html/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Browser Automation</title>
-      <link>https://ht-x.com/tags/browser-automation/</link>
-      <pubDate>Sat, 23 Aug 2025 23:06:18 +0200</pubDate>
-      
-      <guid>https://ht-x.com/tags/browser-automation/</guid>
       <description></description>
       
     </item>
