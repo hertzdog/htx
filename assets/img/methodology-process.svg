@@ -1,0 +1,102 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="processGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#8b5cf6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="200" fill="#f8fafc" rx="10"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e293b">
+    Il Nostro Processo AI in 3 Fasi
+  </text>
+  
+  <!-- Step 1: Analysis -->
+  <g transform="translate(80, 60)">
+    <circle cx="50" cy="50" r="40" fill="url(#processGradient)" opacity="0.1" stroke="#3b82f6" stroke-width="3"/>
+    <circle cx="50" cy="50" r="25" fill="#3b82f6"/>
+    
+    <!-- Search/Analysis icon -->
+    <circle cx="45" cy="45" r="8" fill="none" stroke="#ffffff" stroke-width="2"/>
+    <path d="m51,51 4,4" stroke="#ffffff" stroke-width="2"/>
+    
+    <text x="50" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#3b82f6">
+      1. ANALISI
+    </text>
+    <text x="50" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      Consulenza Gratuita
+    </text>
+  </g>
+  
+  <!-- Arrow 1 -->
+  <path d="M180,110 L220,110" stroke="#3b82f6" stroke-width="3" marker-end="url(#arrowhead1)"/>
+  
+  <!-- Step 2: Prototype -->
+  <g transform="translate(280, 60)">
+    <circle cx="50" cy="50" r="40" fill="url(#processGradient)" opacity="0.1" stroke="#8b5cf6" stroke-width="3"/>
+    <circle cx="50" cy="50" r="25" fill="#8b5cf6"/>
+    
+    <!-- Code/Build icon -->
+    <rect x="42" y="42" width="16" height="16" fill="none" stroke="#ffffff" stroke-width="2" rx="2"/>
+    <path d="M46,50 L50,46 L54,50" stroke="#ffffff" stroke-width="2" fill="none"/>
+    <path d="M46,50 L50,54 L54,50" stroke="#ffffff" stroke-width="2" fill="none"/>
+    
+    <text x="50" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#8b5cf6">
+      2. PROTOTIPO
+    </text>
+    <text x="50" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      MVP Funzionante
+    </text>
+  </g>
+  
+  <!-- Arrow 2 -->
+  <path d="M380,110 L420,110" stroke="#8b5cf6" stroke-width="3" marker-end="url(#arrowhead2)"/>
+  
+  <!-- Step 3: Implementation -->
+  <g transform="translate(480, 60)">
+    <circle cx="50" cy="50" r="40" fill="url(#processGradient)" opacity="0.1" stroke="#06b6d4" stroke-width="3"/>
+    <circle cx="50" cy="50" r="25" fill="#06b6d4"/>
+    
+    <!-- Rocket/Launch icon -->
+    <path d="M50,38 L50,62 M42,46 L50,38 L58,46 M46,58 L54,58" stroke="#ffffff" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <circle cx="50" cy="50" r="2" fill="#ffffff"/>
+    
+    <text x="50" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#06b6d4">
+      3. IMPLEMENTAZIONE
+    </text>
+    <text x="50" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      Scalabilità Graduale
+    </text>
+  </g>
+  
+  <!-- Success indicator -->
+  <g transform="translate(650, 80)">
+    <circle cx="30" cy="30" r="25" fill="#10b981" opacity="0.2"/>
+    <path d="M20,30 L27,37 L40,24" stroke="#10b981" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <text x="30" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#10b981">
+      SUCCESSO
+    </text>
+  </g>
+  
+  <!-- Timeline -->
+  <g transform="translate(80, 160)">
+    <line x1="0" y1="10" x2="500" y2="10" stroke="#e2e8f0" stroke-width="2"/>
+    <text x="0" y="25" font-family="Arial, sans-serif" font-size="9" fill="#64748b">0-30 giorni</text>
+    <text x="200" y="25" font-family="Arial, sans-serif" font-size="9" fill="#64748b">30-60 giorni</text>
+    <text x="400" y="25" font-family="Arial, sans-serif" font-size="9" fill="#64748b">60+ giorni</text>
+  </g>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowhead1" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#3b82f6"/>
+    </marker>
+    <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#8b5cf6"/>
+    </marker>
+  </defs>
+</svg>

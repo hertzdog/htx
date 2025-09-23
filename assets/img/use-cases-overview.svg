@@ -1,0 +1,107 @@
+<svg viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ecommerceGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d97706;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="servicesGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="manufacturingGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#06b6d4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0891b2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="600" height="300" fill="#fefefe" rx="10"/>
+  
+  <!-- Title -->
+  <text x="300" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e293b">
+    Soluzioni AI per Ogni Settore
+  </text>
+  
+  <!-- E-commerce Section -->
+  <g transform="translate(50, 60)">
+    <rect x="0" y="0" width="150" height="180" fill="url(#ecommerceGradient)" opacity="0.1" rx="8"/>
+    <rect x="10" y="10" width="130" height="40" fill="url(#ecommerceGradient)" rx="4"/>
+    <text x="75" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">
+      E-COMMERCE
+    </text>
+    
+    <!-- Shopping cart icon -->
+    <g transform="translate(60, 60)">
+      <rect x="5" y="15" width="20" height="12" fill="none" stroke="url(#ecommerceGradient)" stroke-width="2" rx="2"/>
+      <circle cx="10" cy="33" r="2" fill="url(#ecommerceGradient)"/>
+      <circle cx="20" cy="33" r="2" fill="url(#ecommerceGradient)"/>
+      <path d="M5,15 L2,5 L0,5" stroke="url(#ecommerceGradient)" stroke-width="2" fill="none"/>
+    </g>
+    
+    <!-- Features -->
+    <text x="15" y="110" font-family="Arial, sans-serif" font-size="11" fill="#d97706">• Chatbot 24/7</text>
+    <text x="15" y="125" font-family="Arial, sans-serif" font-size="11" fill="#d97706">• Raccomandazioni</text>
+    <text x="15" y="140" font-family="Arial, sans-serif" font-size="11" fill="#d97706">• Sentiment Analysis</text>
+    <text x="15" y="155" font-family="Arial, sans-serif" font-size="11" fill="#d97706">• Inventory AI</text>
+  </g>
+  
+  <!-- Professional Services Section -->
+  <g transform="translate(225, 60)">
+    <rect x="0" y="0" width="150" height="180" fill="url(#servicesGradient)" opacity="0.1" rx="8"/>
+    <rect x="10" y="10" width="130" height="40" fill="url(#servicesGradient)" rx="4"/>
+    <text x="75" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff">
+      SERVIZI
+    </text>
+    <text x="75" y="39" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff">
+      PROFESSIONALI
+    </text>
+    
+    <!-- Document/Legal icon -->
+    <g transform="translate(60, 60)">
+      <rect x="8" y="5" width="16" height="20" fill="none" stroke="url(#servicesGradient)" stroke-width="2" rx="1"/>
+      <line x1="11" y1="10" x2="21" y2="10" stroke="url(#servicesGradient)" stroke-width="1"/>
+      <line x1="11" y1="13" x2="18" y2="13" stroke="url(#servicesGradient)" stroke-width="1"/>
+      <line x1="11" y1="16" x2="21" y2="16" stroke="url(#servicesGradient)" stroke-width="1"/>
+    </g>
+    
+    <!-- Features -->
+    <text x="15" y="110" font-family="Arial, sans-serif" font-size="11" fill="#7c3aed">• Assistente Legale</text>
+    <text x="15" y="125" font-family="Arial, sans-serif" font-size="11" fill="#7c3aed">• Auto Fatturazione</text>
+    <text x="15" y="140" font-family="Arial, sans-serif" font-size="11" fill="#7c3aed">• CRM Intelligente</text>
+    <text x="15" y="155" font-family="Arial, sans-serif" font-size="11" fill="#7c3aed">• Lead Scoring</text>
+  </g>
+  
+  <!-- Manufacturing Section -->
+  <g transform="translate(400, 60)">
+    <rect x="0" y="0" width="150" height="180" fill="url(#manufacturingGradient)" opacity="0.1" rx="8"/>
+    <rect x="10" y="10" width="130" height="40" fill="url(#manufacturingGradient)" rx="4"/>
+    <text x="75" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">
+      MANIFATTURA
+    </text>
+    
+    <!-- Gear/Manufacturing icon -->
+    <g transform="translate(65, 60)">
+      <circle cx="15" cy="15" r="10" fill="none" stroke="url(#manufacturingGradient)" stroke-width="2"/>
+      <circle cx="15" cy="15" r="5" fill="url(#manufacturingGradient)"/>
+      <!-- Gear teeth -->
+      <rect x="13" y="2" width="4" height="6" fill="url(#manufacturingGradient)"/>
+      <rect x="22" y="13" width="6" height="4" fill="url(#manufacturingGradient)"/>
+      <rect x="13" y="22" width="4" height="6" fill="url(#manufacturingGradient)"/>
+      <rect x="2" y="13" width="6" height="4" fill="url(#manufacturingGradient)"/>
+    </g>
+    
+    <!-- Features -->
+    <text x="15" y="110" font-family="Arial, sans-serif" font-size="11" fill="#0891b2">• Manutenzione AI</text>
+    <text x="15" y="125" font-family="Arial, sans-serif" font-size="11" fill="#0891b2">• Controllo Qualità</text>
+    <text x="15" y="140" font-family="Arial, sans-serif" font-size="11" fill="#0891b2">• Supply Chain</text>
+    <text x="15" y="155" font-family="Arial, sans-serif" font-size="11" fill="#0891b2">• Predizioni IoT</text>
+  </g>
+  
+  <!-- Bottom banner -->
+  <g transform="translate(50, 260)">
+    <rect x="0" y="0" width="500" height="25" fill="#1e293b" rx="12"/>
+    <text x="250" y="17" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff">
+      Ogni soluzione personalizzata per il mercato italiano e normative GDPR
+    </text>
+  </g>
+</svg>

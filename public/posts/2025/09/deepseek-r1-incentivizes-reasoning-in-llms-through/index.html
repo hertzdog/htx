@@ -1,0 +1,3893 @@
+<!doctype html>
+<html
+  lang="it"
+  dir="ltr"
+  class="scroll-smooth"
+  data-default-appearance="light"
+  data-auto-appearance="true"><head>
+  <meta charset="utf-8">
+  
+    <meta http-equiv="content-language" content="it">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="theme-color">
+
+  
+  <title>DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning | Nature &middot; HUMAN TECHNOLOGY eXCELLENCE</title>
+    <meta name="title" content="DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning | Nature &middot; HUMAN TECHNOLOGY eXCELLENCE">
+
+  
+  <meta name="description" content="General reasoning represents a long-standing and formidable challenge in artificial intelligence (AI). Recent breakthroughs, exemplified by large language models (LLMs)1,2 and chain-of-thought (CoT) prompting3, have achieved considerable success on foundational reasoning tasks. However, this success is heavily contingent on extensive human-annotated demonstrations and the capabilities of models are still insufficient for more complex problems. Here we show that the reasoning abilities of LLMs can be incentivized through pure reinforcement learning (RL), obviating the need for human-labelled reasoning trajectories. The proposed RL framework facilitates the emergent development of advanced reasoning patterns, such as self-reflection, verification and dynamic strategy adaptation. Consequently, the trained model achieves superior performance on verifiable tasks such as mathematics, coding competitions and STEM fields, surpassing its counterparts trained through conventional supervised learning on human demonstrations. Moreover, the emergent reasoning patterns exhibited by these large-scale models can be systematically used to guide and enhance the reasoning capabilities of smaller models. A new artificial intelligence model, DeepSeek-R1, is introduced, demonstrating that the reasoning abilities of large language models can be incentivized through pure reinforcement learning, removing the need for human-annotated demonstrations.">
+  <meta name="keywords" content="LLM,AI,Best Practices,Foundation Model,">
+  
+  
+  <link rel="canonical" href="https://ht-x.com/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through/">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+    
+    
+  
+  
+  <link
+    type="text/css"
+    rel="stylesheet"
+    href="/css/main.bundle.min.692887c2bd9d597f5c752ce559df2abe1c76b19898aa04f36745717765036a377b095fafdcbefcdd7d2b7a89ef424ee8627e976a89254ba65532483c607105e4.css"
+    integrity="sha512-aSiHwr2dWX9cdSzlWd8qvhx2sZiYqgTzZ0Vxd2UDajd7CV&#43;v3L783X0reonvQk7oYn6XaoklS6ZVMkg8YHEF5A==">
+
+  
+  
+  <script
+    type="text/javascript"
+    src="/js/appearance.min.b86cda83e8b9ad155a9442d91cc0abf0bc581db915b2d17821c16bbe2af0ba622ff1429853f03f2eb8623284e9ecda263d77d4831ea707e5f2ebe3ca8d7412ea.js"
+    integrity="sha512-uGzag&#43;i5rRValELZHMCr8LxYHbkVstF4IcFrvirwumIv8UKYU/A/LrhiMoTp7NomPXfUgx6nB&#43;Xy6&#43;PKjXQS6g=="></script>
+  
+    
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    <script
+      defer
+      type="text/javascript"
+      id="script-bundle"
+      src="/js/main.bundle.min.a187118b41a60744310065c567365de85730c8495301d0ebae41810cc6f7a47432b1de7d4f3b11338959f1ac50c266be6b4b73acf6bf770016eb59b602cc1aa0.js"
+      integrity="sha512-oYcRi0GmB0QxAGXFZzZd6FcwyElTAdDrrkGBDMb3pHQysd59TzsRM4lZ8axQwma&#43;a0tzrPa/dwAW61m2AswaoA=="
+      data-copy="Copia"
+      data-copied="Copiato"></script>
+  
+  
+    
+    <script src="/lib/zoom/zoom.min.umd.a527109b68c082a70f3697716dd72a9d5aa8b545cf800cecbbc7399f2ca6f6e0ce3e431f2062b48bbfa47c9ea42822714060bef309be073f49b9c0e30d318d7b.js" integrity="sha512-pScQm2jAgqcPNpdxbdcqnVqotUXPgAzsu8c5nyym9uDOPkMfIGK0i7&#43;kfJ6kKCJxQGC&#43;8wm&#43;Bz9JucDjDTGNew=="></script>
+  
+
+  
+  
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  <meta property="og:url" content="https://ht-x.com/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through/">
+  <meta property="og:site_name" content="HUMAN TECHNOLOGY eXCELLENCE">
+  <meta property="og:title" content="DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning | Nature">
+  <meta property="og:description" content="General reasoning represents a long-standing and formidable challenge in artificial intelligence (AI). Recent breakthroughs, exemplified by large language models (LLMs)1,2 and chain-of-thought (CoT) prompting3, have achieved considerable success on foundational reasoning tasks. However, this success is heavily contingent on extensive human-annotated demonstrations and the capabilities of models are still insufficient for more complex problems. Here we show that the reasoning abilities of LLMs can be incentivized through pure reinforcement learning (RL), obviating the need for human-labelled reasoning trajectories. The proposed RL framework facilitates the emergent development of advanced reasoning patterns, such as self-reflection, verification and dynamic strategy adaptation. Consequently, the trained model achieves superior performance on verifiable tasks such as mathematics, coding competitions and STEM fields, surpassing its counterparts trained through conventional supervised learning on human demonstrations. Moreover, the emergent reasoning patterns exhibited by these large-scale models can be systematically used to guide and enhance the reasoning capabilities of smaller models. A new artificial intelligence model, DeepSeek-R1, is introduced, demonstrating that the reasoning abilities of large language models can be incentivized through pure reinforcement learning, removing the need for human-annotated demonstrations.">
+  <meta property="og:locale" content="it">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2025-02-14T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-02-14T00:00:00+00:00">
+    <meta property="article:tag" content="LLM">
+    <meta property="article:tag" content="AI">
+    <meta property="article:tag" content="Best Practices">
+    <meta property="article:tag" content="Foundation Model">
+    <meta property="og:image" content="https://ht-x.com/images/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through-reinforcement-learning-featured.webp">
+    <meta property="og:image" content="https://ht-x.com/images/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through-reinforcement-learning-4.webp">
+    <meta property="og:image" content="https://ht-x.com/images/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through-reinforcement-learning-5.webp">
+      <meta property="og:see_also" content="https://ht-x.com/posts/2025/09/agenticseek-private-local-manus-alternative/">
+      <meta property="og:see_also" content="https://ht-x.com/posts/2025/09/learn-your-way/">
+      <meta property="og:see_also" content="https://ht-x.com/posts/2025/09/qwen/">
+      <meta property="og:see_also" content="https://ht-x.com/posts/2025/09/qwen-image/">
+      <meta property="og:see_also" content="https://ht-x.com/posts/2025/09/introducing-tongyi-deep-research/">
+      <meta property="og:see_also" content="https://ht-x.com/posts/2025/09/copyparty/">
+      <meta property="og:see_also" content="https://ht-x.com/posts/2025/09/ai-engineering-hub/">
+
+  
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://ht-x.com/images/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through-reinforcement-learning-featured.webp">
+  <meta name="twitter:title" content="DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning | Nature">
+  <meta name="twitter:description" content="General reasoning represents a long-standing and formidable challenge in artificial intelligence (AI). Recent breakthroughs, exemplified by large language models (LLMs)1,2 and chain-of-thought (CoT) prompting3, have achieved considerable success on foundational reasoning tasks. However, this success is heavily contingent on extensive human-annotated demonstrations and the capabilities of models are still insufficient for more complex problems. Here we show that the reasoning abilities of LLMs can be incentivized through pure reinforcement learning (RL), obviating the need for human-labelled reasoning trajectories. The proposed RL framework facilitates the emergent development of advanced reasoning patterns, such as self-reflection, verification and dynamic strategy adaptation. Consequently, the trained model achieves superior performance on verifiable tasks such as mathematics, coding competitions and STEM fields, surpassing its counterparts trained through conventional supervised learning on human demonstrations. Moreover, the emergent reasoning patterns exhibited by these large-scale models can be systematically used to guide and enhance the reasoning capabilities of smaller models. A new artificial intelligence model, DeepSeek-R1, is introduced, demonstrating that the reasoning abilities of large language models can be incentivized through pure reinforcement learning, removing the need for human-annotated demonstrations.">
+
+  <script type="application/ld+json">
+  [{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "articleSection": "Blog",
+    "name": "DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning | Nature",
+    "headline": "DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning | Nature",
+    "description": "General reasoning represents a long-standing and formidable challenge in artificial intelligence (AI). Recent breakthroughs, exemplified by large language models (LLMs)1,2 and chain-of-thought (CoT) prompting3, have achieved considerable success on foundational reasoning tasks. However, this success is heavily contingent on extensive human-annotated demonstrations and the capabilities of models are still insufficient for more complex problems. Here we show that the reasoning abilities of LLMs can be incentivized through pure reinforcement learning (RL), obviating the need for human-labelled reasoning trajectories. The proposed RL framework facilitates the emergent development of advanced reasoning patterns, such as self-reflection, verification and dynamic strategy adaptation. Consequently, the trained model achieves superior performance on verifiable tasks such as mathematics, coding competitions and STEM fields, surpassing its counterparts trained through conventional supervised learning on human demonstrations. Moreover, the emergent reasoning patterns exhibited by these large-scale models can be systematically used to guide and enhance the reasoning capabilities of smaller models. A new artificial intelligence model, DeepSeek-R1, is introduced, demonstrating that the reasoning abilities of large language models can be incentivized through pure reinforcement learning, removing the need for human-annotated demonstrations.",
+    
+    "inLanguage": "it",
+    "url" : "https:\/\/ht-x.com\/posts\/2025\/09\/deepseek-r1-incentivizes-reasoning-in-llms-through\/",
+    "author" : {
+      "@type": "Person",
+      "name": ""
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2025-02-14T00:00:00\u002b00:00",
+    "datePublished": "2025-02-14T00:00:00\u002b00:00",
+    
+    "dateModified": "2025-02-14T00:00:00\u002b00:00",
+    
+    "keywords": ["LLM","AI","Best Practices","Foundation Model"],
+    
+    "mainEntityOfPage": "true",
+    "wordCount": "476"
+  }]
+  </script>
+
+
+
+  
+  
+  
+
+  
+  
+
+<script src="/lib/jquery/jquery.slim.min.b0dca576e87d7eaa5850ae4e61759c065786cdb6489d68fcc82240539eebd5da522bdb4fda085ffd245808c8fe2acb2516408eb774ef26b5f6015fc6737c0ea8.js" integrity="sha512-sNylduh9fqpYUK5OYXWcBleGzbZInWj8yCJAU57r1dpSK9tP2ghf/SRYCMj&#43;KsslFkCOt3TvJrX2AV/Gc3wOqA=="></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+</head>
+<body
+    class="flex flex-col h-screen px-6 m-auto text-lg leading-7 max-w-7xl bg-neutral text-neutral-900 dark:bg-neutral-800 dark:text-neutral sm:px-14 md:px-24 lg:px-32 scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600">
+    <div id="the-top" class="absolute flex self-center">
+      <a
+        class="px-3 py-1 text-sm -translate-y-8 rounded-b-lg bg-primary-200 focus:translate-y-0 dark:bg-neutral-600"
+        href="#main-content"
+        ><span class="font-bold text-primary-600 ltr:pr-2 rtl:pl-2 dark:text-primary-400">&darr;</span>Salta al contenuto principale</a
+      >
+    </div>
+    
+    
+      
+
+
+
+
+
+
+
+
+<div
+  class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start gap-x-3 pt-[2px] pr-0 pb-[3px] pl-0">
+  
+  
+    
+    
+      <div>
+        <a href="/" class="flex">
+          <span class="sr-only">HUMAN TECHNOLOGY eXCELLENCE</span>
+          
+            <img
+              src="/img/Logo-HTX-Black.png"
+              width="709"
+              height="448"
+              class="logo max-h-[5rem] max-w-[5rem] object-scale-down object-left nozoom"
+              alt="HUMAN TECHNOLOGY eXCELLENCE">
+          
+        </a>
+      </div>
+    
+
+  <div class="flex flex-1 items-center justify-between">
+    <nav class="flex space-x-3">
+      
+        <a href="/" class="text-base font-medium text-gray-500 hover:text-gray-900">
+          HUMAN TECHNOLOGY eXCELLENCE
+        </a>
+      
+    </nav>
+    
+  <div class="flex items-center gap-x-5 md:ml-12 h-12">
+    <span></span>
+
+    
+
+    
+      <button
+        id="search-button-mobile"
+        aria-label="Search"
+        class="text-base hover:text-primary-600 dark:hover:text-primary-400"
+        title="Cerca (/)">
+        
+
+  <span class="relative block icon">
+    <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="search" class="svg-inline--fa fa-search fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg>
+
+  </span>
+
+
+      </button>
+    
+
+    
+      <button
+        id="appearance-switcher-mobile"
+        aria-label="Dark mode switcher"
+        type="button"
+        class="text-base hover:text-primary-600 dark:hover:text-primary-400 ltr:mr-1 rtl:ml-1">
+        <div class="flex items-center justify-center dark:hidden">
+          
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M32 256c0-123.8 100.3-224 223.8-224c11.36 0 29.7 1.668 40.9 3.746c9.616 1.777 11.75 14.63 3.279 19.44C245 86.5 211.2 144.6 211.2 207.8c0 109.7 99.71 193 208.3 172.3c9.561-1.805 16.28 9.324 10.11 16.95C387.9 448.6 324.8 480 255.8 480C132.1 480 32 379.6 32 256z"/></svg>
+
+  </span>
+
+
+        </div>
+        <div class="items-center justify-center hidden dark:flex">
+          
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 159.1c-53.02 0-95.1 42.98-95.1 95.1S202.1 351.1 256 351.1s95.1-42.98 95.1-95.1S309 159.1 256 159.1zM509.3 347L446.1 255.1l63.15-91.01c6.332-9.125 1.104-21.74-9.826-23.72l-109-19.7l-19.7-109c-1.975-10.93-14.59-16.16-23.72-9.824L256 65.89L164.1 2.736c-9.125-6.332-21.74-1.107-23.72 9.824L121.6 121.6L12.56 141.3C1.633 143.2-3.596 155.9 2.736 164.1L65.89 256l-63.15 91.01c-6.332 9.125-1.105 21.74 9.824 23.72l109 19.7l19.7 109c1.975 10.93 14.59 16.16 23.72 9.824L256 446.1l91.01 63.15c9.127 6.334 21.75 1.107 23.72-9.822l19.7-109l109-19.7C510.4 368.8 515.6 356.1 509.3 347zM256 383.1c-70.69 0-127.1-57.31-127.1-127.1c0-70.69 57.31-127.1 127.1-127.1s127.1 57.3 127.1 127.1C383.1 326.7 326.7 383.1 256 383.1z"/></svg>
+
+  </span>
+
+
+        </div>
+      </button>
+    
+  </div>
+
+  </div>
+  
+  <div class="-my-2">
+    <div id="menu-button" class="block">
+      
+        <div class="cursor-pointer hover:text-primary-600 dark:hover:text-primary-400">
+          
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M0 96C0 78.33 14.33 64 32 64H416C433.7 64 448 78.33 448 96C448 113.7 433.7 128 416 128H32C14.33 128 0 113.7 0 96zM0 256C0 238.3 14.33 224 32 224H416C433.7 224 448 238.3 448 256C448 273.7 433.7 288 416 288H32C14.33 288 0 273.7 0 256zM416 448H32C14.33 448 0 433.7 0 416C0 398.3 14.33 384 32 384H416C433.7 384 448 398.3 448 416C448 433.7 433.7 448 416 448z"/></svg>
+
+  </span>
+
+
+        </div>
+        <div
+          id="menu-wrapper"
+          class="fixed inset-0 z-30 invisible w-screen h-screen m-0 overflow-auto transition-opacity opacity-0 cursor-default bg-neutral-100/50 backdrop-blur-sm dark:bg-neutral-900/50 pt-[5px]">
+          <ul
+            class="flex space-y-2 mt-3 flex-col items-end w-full px-6 py-6 mx-auto overflow-visible list-none ltr:text-right rtl:text-left max-w-7xl">
+            <li id="menu-close-button">
+              <span
+                class="cursor-pointer inline-block align-text-bottom hover:text-primary-600 dark:hover:text-primary-400">
+                
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M310.6 361.4c12.5 12.5 12.5 32.75 0 45.25C304.4 412.9 296.2 416 288 416s-16.38-3.125-22.62-9.375L160 301.3L54.63 406.6C48.38 412.9 40.19 416 32 416S15.63 412.9 9.375 406.6c-12.5-12.5-12.5-32.75 0-45.25l105.4-105.4L9.375 150.6c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L160 210.8l105.4-105.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-105.4 105.4L310.6 361.4z"/></svg>
+
+  </span>
+
+
+              </span>
+            </li>
+
+            
+              
+  <li class="mt-1">
+  <a
+    href="/chi-siamo/"
+    
+    class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+    
+    <p class="text-bg font-bg" title="">
+      Chi siamo
+    </p>
+  </a>
+</li>
+
+
+
+            
+              
+  <li class="mt-1">
+  <a
+    href="/progetti-finanziati/"
+    
+    class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+    
+    <p class="text-bg font-bg" title="Progetti finanziati">
+      Progetti finanziati
+    </p>
+  </a>
+</li>
+
+
+
+            
+              
+  <li class="mt-1">
+  <a
+    href="/posts/"
+    
+    class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+    
+    <p class="text-bg font-bg" title="Blog">
+      Blog
+    </p>
+  </a>
+</li>
+
+
+
+            
+
+          </ul>
+          
+        </div>
+      
+    </div>
+  </div>
+
+</div>
+
+
+
+
+    
+    <div class="relative flex flex-col grow">
+      <main id="main-content" class="grow">
+        
+  
+
+  <div class="w-full max-w-none mx-auto">
+    <div class="mx-auto max-w-prose">
+      <article>
+        
+          
+          
+          
+          
+            
+ 
+  
+   
+  
+ 
+
+
+
+<div id="hero" class="h-[150px] md:h-[200px]"></div>
+
+
+
+    
+    <div class="fixed inset-x-0 top-0 h-[800px] single_hero_background nozoom"
+    style="background-image:url(/img/ripples.svg);">
+    
+
+
+    <div class="absolute inset-0 bg-gradient-to-t from-neutral dark:from-neutral-800 to-transparent mix-blend-normal">
+    </div>
+    <div
+        class="absolute inset-0 opacity-60 bg-gradient-to-t from-neutral dark:from-neutral-800 to-neutral-100 dark:to-neutral-800 mix-blend-normal">
+    </div>
+</div>
+
+<div id="background-blur" class="fixed opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl"></div>
+
+
+<script type="text/javascript" src="/js/background-blur.min.78ad5090e7c0c2533bac9dd23bdb1f723f834e5c3626627bd31017cc139ce0651b529877862129cee49e380ab2fdcd8baef28ae3e086bc54957fdaa7758775b2.js" integrity="sha512-eK1QkOfAwlM7rJ3SO9sfcj&#43;DTlw2JmJ70xAXzBOc4GUbUph3hiEpzuSeOAqy/c2LrvKK4&#43;CGvFSVf9qndYd1sg==" data-target-id="background-blur"></script>
+
+          
+        
+
+
+        <header id="single_header" class="mt-5">
+          
+          <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
+            DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning | Nature
+          </h1>
+          <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
+            
+
+
+
+
+
+  
+  
+
+
+
+  
+
+  
+  
+  
+
+  
+  
+    
+  
+
+  
+    
+  
+
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  <div class="flex flex-row flex-wrap items-center">
+    
+    
+      <time datetime="2025-02-14T00:00:00&#43;00:00">14 febbraio 2025</time><span class="px-2 text-primary-500">&middot;</span><span>476 parole</span><span class="px-2 text-primary-500">&middot;</span><span title="Tempo di lettura">3 minuti</span>
+    
+
+    
+    
+  </div>
+
+  
+
+  
+  
+    <div class="flex flex-row flex-wrap items-center">
+      
+        
+      
+        
+          
+            
+              <span
+                class="mr-2 mt-[0.5rem]"
+                onclick="window.open(&#34;/categories/corso/&#34;,'_self');return false;">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Corso
+  </span>
+</span>
+
+              </span>
+            
+              <span
+                class="mr-2 mt-[0.5rem]"
+                onclick="window.open(&#34;/categories/framework/&#34;,'_self');return false;">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Framework
+  </span>
+</span>
+
+              </span>
+            
+          
+        
+      
+        
+      
+        
+          
+            
+              <span
+                class="mr-2 mt-[0.5rem]"
+                onclick="window.open(&#34;/tags/llm/&#34;,'_self');return false;">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    LLM
+  </span>
+</span>
+
+              </span>
+            
+              <span
+                class="mr-2 mt-[0.5rem]"
+                onclick="window.open(&#34;/tags/ai/&#34;,'_self');return false;">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    AI
+  </span>
+</span>
+
+              </span>
+            
+              <span
+                class="mr-2 mt-[0.5rem]"
+                onclick="window.open(&#34;/tags/best-practices/&#34;,'_self');return false;">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Best Practices
+  </span>
+</span>
+
+              </span>
+            
+              <span
+                class="mr-2 mt-[0.5rem]"
+                onclick="window.open(&#34;/tags/foundation-model/&#34;,'_self');return false;">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Foundation Model
+  </span>
+</span>
+
+              </span>
+            
+          
+        
+      
+    </div>
+  
+
+  
+  
+
+
+
+          </div>
+
+          
+          
+          
+          
+          
+
+          
+
+          
+
+            
+              
+              
+<div class="flex author">
+  
+  <div class="place-self-center">
+    
+    
+    <div class="text-2xl sm:text-lg">
+</div>
+  </div>
+</div>
+
+            
+
+            
+
+            
+              <div class="mb-5"></div>
+            
+
+          
+
+        </header>
+
+        <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row">
+          
+
+
+          <div class="min-w-0 min-h-0 max-w-fit">
+            
+  <details
+    class="mt-2 mb-5 overflow-hidden rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 ml-0"
+    >
+    
+  <summary
+    class="py-1 text-lg font-semibold cursor-pointer bg-primary-200 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-primary-800 dark:text-neutral-100">
+    Articoli Interessanti -
+    This article is part of a series.
+  </summary>
+  
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/agenticseek-private-local-manus-alternative/">
+          Part :
+          AgenticSeek: Private, Local Manus Alternative
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/learn-your-way/">
+          Part :
+          Learn Your Way
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/qwen/">
+          Part :
+          Qwen-Image-Edit-2509: Multi-Image Support，Improved Consistency
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/qwen-image/">
+          Part :
+          Qwen-Image
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/introducing-tongyi-deep-research/">
+          Part :
+          Introducing Tongyi Deep Research
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/copyparty/">
+          Part :
+          💾🎉 copyparty
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/ai-engineering-hub/">
+          Part :
+          AI Engineering Hub
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/deep-chat/">
+          Part :
+          Deep Chat
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/ibm-granite-granite-docling-258m-hugging-face/">
+          Part :
+          ibm-granite/granite-docling-258M · Hugging Face
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/google-just-dropped-an-ace-64-page-guide-on-buildi/">
+          Part :
+          Google just dropped an ace 64-page guide on building AI Agents
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/opcode-the-elegant-desktop-companion-for-claude-co/">
+          Part :
+          opcode - The Elegant Desktop Companion for Claude Code
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/nocodb-cloud/">
+          Part :
+          NocoDB Cloud
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/a-step-by-step-implementation-of-qwen-3-moe-archit/">
+          Part :
+          A Step-by-Step Implementation of Qwen 3 MoE Architecture from Scratch
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/memorag-moving-towards-next-gen-rag-via-memory-ins/">
+          Part :
+          MemoRAG: Moving Towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/enable-ai-to-control-your-browser/">
+          Part :
+          Enable AI to control your browser 🤖
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/total-monthly-distance-traveled-by-passengers-in-c/">
+          Part :
+          Total monthly distance traveled by passengers in California’s driverless taxis - Our World in Data
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/a-must-bookmark-for-vibe-coders/">
+          Part :
+          A must-bookmark for vibe-coders
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/huge-ai-market-opportunity-in-2025/">
+          Part :
+          Huge AI market opportunity in 2025
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/the-anthropic-economic-index-anthropic/">
+          Part :
+          The Anthropic Economic Index  Anthropic
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/dots-ocr-multilingual-document-layout-parsing-in-a/">
+          Part :
+          dots.ocr: Multilingual Document Layout Parsing in a Single Vision-Language Model
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/paddleocr/">
+          Part :
+          PaddleOCR
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/deepsite-v2-a-hugging-face-space-by-enzostvs/">
+          Part :
+          DeepSite v2 - a Hugging Face Space by enzostvs
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/how-to-use-claude-code-subagents-to-parallelize-de/">
+          Part :
+          How to Use Claude Code Subagents to Parallelize Development
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/show-hn-clavier-36-a-programming-environment-for-g/">
+          Part :
+          Show HN: CLAVIER-36 – A programming environment for generative music
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/small-models-are-the-future-of-agentic-ai/">
+          Part :
+          Small models are the future of agentic ai
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/kimi-k2-open-agentic-intelligence/">
+          Part :
+          Kimi K2: Open Agentic Intelligence
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/introducing-qwen3-max-preview-instruct/">
+          Part :
+          Introducing Qwen3-Max-Preview (Instruct)
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/scientific-paper-agent-with-langgraph/">
+          Part :
+          Scientific Paper Agent with LangGraph
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/anthropic-s-interactive-prompt-engineering-tutoria/">
+          Part :
+          Anthropic&#39;s Interactive Prompt Engineering Tutorial
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/ragflow/">
+          Part :
+          RAGFlow
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/swiss-ai-apertus-70b-2509-hugging-face/">
+          Part :
+          swiss-ai/Apertus-70B-2509 · Hugging Face
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/making-a-font-of-my-handwriting-chameth-com/">
+          Part :
+          Making a font of my handwriting · Chameth.com
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/surfsense/">
+          Part :
+          SurfSense
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/lorax-multi-lora-inference-server-that-scales-to-1/">
+          Part :
+          LoRAX: Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/nextchat/">
+          Part :
+          NextChat
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/the-llm-red-teaming-framework/">
+          Part :
+          The LLM Red Teaming Framework
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/colette/">
+          Part :
+          Colette - ci ricorda molto Kotaemon
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/memvid/">
+          Part :
+          Memvid
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/">
+          Part :
+          VibeVoice: A Frontier Open-Source Text-to-Speech Model
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/2502-12110-a-mem-agentic-memory-for-llm-agents/">
+          Part :
+          [2502.12110] A-MEM: Agentic Memory for LLM Agents
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/2504-19413-mem0-building-production-ready-ai-agent/">
+          Part :
+          [2504.19413] Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/apertus-70b-truly-open-swiss-llm-by-eth-epfl-and-c/">
+          Part :
+          Apertus 70B: Truly Open - Swiss LLM by ETH, EPFL and CSCS
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/humanlayer/">
+          Part :
+          HumanLayer
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/pageindex-document-index-for-reasoning-based-rag/">
+          Part :
+          PageIndex: Document Index for Reasoning-based RAG
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/deploying-deepseek-on-96-h100-gpus/">
+          Part :
+          Deploying DeepSeek on 96 H100 GPUs
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/claude-code-a-highly-agentic-coding-assistant-deep/">
+          Part :
+          Claude Code: A Highly Agentic Coding Assistant - DeepLearning.AI
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/dyg-rag-dynamic-graph-retrieval-augmented-generati/">
+          Part :
+          DyG-RAG: Dynamic Graph Retrieval-Augmented Generation with Event-Centric Reasoning
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/2508-15126-aixiv-a-next-generation-open-access-eco/">
+          Part :
+          [2508.15126] aiXiv: A Next-Generation Open Access Ecosystem for Scientific Discovery Generated by AI Scientists
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/alexander-kruel-links-for-2025-08-24/">
+          Part :
+          Alexander Kruel - Links for 2025-08-24
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/dspy/">
+          Part :
+          DSPy
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/ai-agents-for-beginners-a-course/">
+          Part :
+          AI Agents for Beginners - A Course
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/turning-claude-code-into-my-best-design-partner/">
+          Part :
+          Turning Claude Code into my best design partner
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/how-to-build-a-coding-agent/">
+          Part :
+          How to build a coding agent
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/tiledesk-design-studio/">
+          Part :
+          Tiledesk Design Studio
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/build-a-large-language-model-from-scratch/">
+          Part :
+          Build a Large Language Model (From Scratch)
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/data-formulator-create-rich-visualizations-with-ai/">
+          Part :
+          Data Formulator: Create Rich Visualizations with AI
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/browser-use-web-ui/">
+          Part :
+          browser-use/web-ui
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/casper-capital-100-ai-tools-you-cant-ignore-in-202/">
+          Part :
+          Casper Capital - 100 AI Tools You Can’t Ignore in 2025...
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/parlant/">
+          Part :
+          Parlant
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/cs294-194-196-large-language-model-agents-cs-194-2/">
+          Part :
+          CS294/194-196 Large Language Model Agents | CS 194/294-196 Large Language Model Agents
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/show-hn-whispering-open-source-local-first-dictati/">
+          Part :
+          Show HN: Whispering – Open-source, local-first dictation you can trust
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/fallinorg-v1-0-0-beta/">
+          Part :
+          Fallinorg v1.0.0-beta
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/dokieli/">
+          Part :
+          dokieli
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/paperetl/">
+          Part :
+          paperetl
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/automatically-annotate-papers-using-llms/">
+          Part :
+          Automatically annotate papers using LLMs
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/my-ai-had-already-fixed-the-code-before-i-saw-it/">
+          Part :
+          My AI Had Already Fixed the Code Before I Saw It
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/llama-scan-convert-pdfs-to-text-w-local-llms/">
+          Part :
+          Llama-Scan: Convert PDFs to Text W Local LLMs
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/claudia-desktop-companion-for-claude-code/">
+          Part :
+          Claudia – Desktop companion for Claude code
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/show-hn-fallinorg-offline-mac-app-that-organizes-f/">
+          Part :
+          Show HN: Fallinorg - Offline Mac app that organizes files by meaning
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/focalboard/">
+          Part :
+          Focalboard
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/elysia-agentic-framework-powered-by-decision-trees/">
+          Part :
+          Elysia: Agentic Framework Powered by Decision Trees
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/langextract/">
+          Part :
+          LangExtract
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/mcp-use/">
+          Part :
+          MCP-Use
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/1-for-context-engineering-over-prompt-engineering/">
+          Part :
+          &#43;1 for &#34;context engineering&#34; over &#34;prompt engineering&#34;
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/the-race-for-llm-cognitive-core/">
+          Part :
+          The race for LLM cognitive core
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/2507-07935-working-with-ai-measuring-the-occupatio/">
+          Part :
+          [2507.07935] Working with AI: Measuring the Occupational Implications of Generative AI
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/dolphin-document-image-parsing-via-heterogeneous-a/">
+          Part :
+          Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/prava-teaching-gpt-5-to-use-a-computer/">
+          Part :
+          Prava - Teaching GPT‑5 to use a computer
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/instavm-secure-code-execution-platform/">
+          Part :
+          InstaVM - Secure Code Execution Platform
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/sim/">
+          Part :
+          Sim
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/litestar-is-worth-a-look/">
+          Part :
+          Litestar is worth a look
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/jobs-at-kaizen-y-combinator/">
+          Part :
+          Jobs at Kaizen | Y Combinator
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/launch-hn-lucidic-yc-w25-debug-test-and-evaluate-a/">
+          Part :
+          Launch HN: Lucidic (YC W25) – Debug, test, and evaluate AI agents in production
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/introducing-pay-per-crawl-enabling-content-owners/">
+          Part :
+          Introducing pay per crawl: Enabling content owners to charge AI crawlers for access
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/agentic-design-patterns-documenti-google/">
+          Part :
+          Agentic Design Patterns - Documenti Google
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/2507-14447-routine-a-structural-planning-framework/">
+          Part :
+          [2507.14447] Routine: A Structural Planning Framework for LLM Agent System in Enterprise
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/qwen3-coder-agentic-coding-in-the-world/">
+          Part :
+          Qwen3-Coder: Agentic coding in the world
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/futurehouse-platform/">
+          Part :
+          FutureHouse Platform
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/voxtral-mistral-ai/">
+          Part :
+          Voxtral | Mistral AI
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/research-agent-with-gemini-2-5-pro-and-llamaindex/">
+          Part :
+          Research Agent with Gemini 2.5 Pro and LlamaIndex  |  Gemini API  |  Google AI for Developers
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/ai-act-c-e-il-codice-di-condotta-per-un-approccio/">
+          Part :
+          AI Act, c&#39;è il codice di condotta per un approccio responsabile e facilitato per le Pmi - Cyber Security 360
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/2507-06398-jolting-technologies-superexponential-a/">
+          Part :
+          [2507.06398] Jolting Technologies: Superexponential Acceleration in AI Capabilities and Implications for AGI
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/mindsdb-an-ai-data-solution-mindsdb/">
+          Part :
+          MindsDB, an AI Data Solution - MindsDB
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/backlog-md-markdown-native-task-manager-and-kanban/">
+          Part :
+          Backlog.md – Markdown-native Task Manager and Kanban visualizer for any Git repo
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/opencode-ai-coding-agent-built-for-the-terminal/">
+          Part :
+          Opencode: AI coding agent, built for the terminal
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/the-new-skill-in-ai-is-not-prompting-it-s-context/">
+          Part :
+          The new skill in AI is not prompting, it&#39;s context engineering
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/">
+          Part :
+          SymbolicAI: A neuro-symbolic perspective on LLMs
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/gemini-for-google-workspace-prompting-guide-101/">
+          Part :
+          Gemini for Google Workspace Prompting Guide 101
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/judge-rules-training-ai-on-copyrighted-works-is-fa/">
+          Part :
+          Judge Rules Training AI on Copyrighted Works Is Fair Use, Agentic Biology Evolves, and more...
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/mcp-is-eating-the-world-and-it-s-here-to-stay/">
+          Part :
+          MCP is eating the world—and it&#39;s here to stay
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/how-dataherald-makes-natural-language-to-sql-easy/">
+          Part :
+          How Dataherald Makes Natural Language to SQL Easy
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/field-notes-from-shipping-real-code-with-claude/">
+          Part :
+          Field Notes From Shipping Real Code With Claude
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/nice-my-ai-startup-school-talk-is-now-up/">
+          Part :
+          Nice - my AI startup school talk is now up!
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/automated-73-of-his-remote-job-using-basic-automat/">
+          Part :
+          Automated 73% of his remote job using basic automation tools, told his manager everything, and got a promotion
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/building-effective-ai-agents/">
+          Part :
+          Building Effective AI Agents
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/how-anthropic-teams-use-claude-code/">
+          Part :
+          How Anthropic Teams Use Claude Code
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/snorting-the-agi-with-claude-code/">
+          Part :
+          Snorting the AGI with Claude Code
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/nanonets-ocr-s-ocr-model-that-transforms-documents/">
+          Part :
+          Nanonets-OCR-s – OCR model that transforms documents into structured markdown
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/the-illusion-of-thinking/">
+          Part :
+          The Illusion of Thinking
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/trends-artificial-intelligence-bond/">
+          Part :
+          Trends – Artificial Intelligence | BOND
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/claude-code-is-my-computer-peter-steinberger/">
+          Part :
+          Claude Code is My Computer | Peter Steinberger
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/2505-24863-alphaone-reasoning-models-thinking-slow/">
+          Part :
+          [2505.24863] AlphaOne: Reasoning Models Thinking Slow and Fast at Test Time
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/2505-24864-prorl-prolonged-reinforcement-learning/">
+          Part :
+          [2505.24864] ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/my-ai-skeptic-friends-are-all-nuts-the-fly-blog/">
+          Part :
+          My AI Skeptic Friends Are All Nuts · The Fly Blog
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/designing-pareto-optimal-genai-workflows-with-syft/">
+          Part :
+          Designing Pareto-optimal GenAI workflows with syftr
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/billionmail-an-open-source-mailserver-newsletter-e/">
+          Part :
+          BillionMail 📧 An Open-Source MailServer, NewsLetter, Email Marketing Solution for Smarter Campaigns
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/ask-hn-what-is-the-best-llm-for-consumer-grade-har/">
+          Part :
+          Ask HN: What is the best LLM for consumer grade hardware?
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/2411-06037-sufficient-context-a-new-lens-on-retrie/">
+          Part :
+          [2411.06037] Sufficient Context: A New Lens on Retrieval Augmented Generation Systems
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/show-hn-onlook-open-source-visual-first-cursor-for/">
+          Part :
+          Show HN: Onlook – Open-source, visual-first Cursor for designers
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/agent-development-kit-adk/">
+          Part :
+          Agent Development Kit (ADK)
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/strands-agents/">
+          Part :
+          Strands Agents
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/show-hn-autothink-boosts-local-llm-performance-wit/">
+          Part :
+          Show HN: AutoThink – Boosts local LLM performance with adaptive reasoning
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/introduction-intelowl-project-documentation/">
+          Part :
+          Introduction - IntelOwl Project Documentation
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/">
+          Part :
+          Show HN: My LLM CLI tool can run tools now, from Python code or plugins
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/2505-03335v2-absolute-zero-reinforced-self-play-re/">
+          Part :
+          [2505.03335v2] Absolute Zero: Reinforced Self-play Reasoning with Zero Data
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/codexs-robot-dev-team-grok-s-fixation-on-south-afr/">
+          Part :
+          Codex’s Robot Dev Team, Grok&#39;s Fixation on South Africa, Saudi Arabia’s AI Power Play, and more...
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/2502-00032v1-querying-databases-with-function-call/">
+          Part :
+          [2502.00032v1] Querying Databases with Function Calling
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/come-addestrare-un-llm-con-i-tuoi-dati-personali-g/">
+          Part :
+          Come Addestrare un LLM con i Tuoi Dati Personali: Guida Completa con LLaMA 3.2
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/ai-hedge-fund/">
+          Part :
+          AI Hedge Fund
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/troy-hunt-have-i-been-pwned-2-0-is-now-live/">
+          Part :
+          Troy Hunt: Have I Been Pwned 2.0 is Now Live!
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/a-research-preview-of-codex/">
+          Part :
+          A Research Preview of Codex
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/2505-06120-llms-get-lost-in-multi-turn-conversatio/">
+          Part :
+          [2505.06120] LLMs Get Lost In Multi-Turn Conversation
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/ollama-s-new-engine-for-multimodal-models/">
+          Part :
+          Ollama&#39;s new engine for multimodal models
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/vision-now-available-in-llama-cpp/">
+          Part :
+          Vision Now Available in Llama.cpp
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/2505-03335-absolute-zero-reinforced-self-play-reas/">
+          Part :
+          [2505.03335] Absolute Zero: Reinforced Self-play Reasoning with Zero Data
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/requests-for-startups-y-combinator/">
+          Part :
+          Requests for Startups | Y Combinator
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/token-token-usage-deepseek-api-docs/">
+          Part :
+          Token &amp; Token Usage | DeepSeek API Docs
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/cua-is-docker-for-computer-use-ai-agents/">
+          Part :
+          Cua is Docker for Computer-Use AI Agents
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/2504-07139-artificial-intelligence-index-report-20/">
+          Part :
+          [2504.07139] Artificial Intelligence Index Report 2025
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/gemma-3-qat-models-bringing-state-of-the-art-ai-to/">
+          Part :
+          Gemma 3 QAT Models: Bringing state-of-the-Art AI to consumer GPUs
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        Part :
+        This Article
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/a-foundation-model-to-predict-and-capture-human-co/">
+          Part :
+          A foundation model to predict and capture human cognition | Nature
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/large-language-models-are-proficient-in-solving-an/">
+          Part :
+          Large language models are proficient in solving and creating emotional intelligence tests | Communications Psychology
+        </a>
+      </div>
+    
+  
+
+
+  </details>
+
+
+
+
+            <div class="article-content mb-20">
+              <div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+  <figure>
+    <img class="my-0 rounded-md" loading="lazy" alt="Featured image" src="/images/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through-reinforcement-learning-featured.webp">
+
+  
+</figure>
+</div>
+
+<small>
+#### Fonte
+<p><strong>Tipo:</strong> Web Article<br>
+<strong>Link originale:</strong> <a
+  href="https://www.nature.com/articles/s41586-025-09422-z"
+    target="_blank"
+  >https://www.nature.com/articles/s41586-025-09422-z</a><br>
+<strong>Data pubblicazione:</strong> 2025-02-14</p>
+</small>
+<hr>
+
+<h2 class="relative group">Sintesi 
+    <div id="sintesi" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#sintesi" aria-label="Ancora">#</a>
+    </span>        
+    
+</h2>
+<p><strong>WHAT</strong> - L&rsquo;articolo di Nature descrive DeepSeek-R1, un modello di AI che utilizza il reinforcement learning (RL) per migliorare le capacità di ragionamento dei Large Language Models (LLMs). Questo approccio elimina la necessità di dimostrazioni annotate da umani, permettendo ai modelli di sviluppare pattern di ragionamento avanzati come l&rsquo;auto-riflessione e l&rsquo;adattamento dinamico delle strategie.</p>
+<p><strong>WHY</strong> - È rilevante perché supera i limiti delle tecniche tradizionali basate su dimostrazioni umane, offrendo prestazioni superiori in compiti verificabili come matematica, programmazione e STEM. Questo può portare a modelli più autonomi e performanti.</p>
+<p><strong>WHO</strong> - Gli attori principali includono i ricercatori che hanno sviluppato DeepSeek-R1 e la comunità scientifica che studia e implementa modelli di AI avanzati. La community di GitHub è attiva nel discutere e migliorare il modello.</p>
+<p><strong>WHERE</strong> - Si posiziona nel mercato delle AI avanzate, specificamente nel settore dei Large Language Models e del reinforcement learning. È parte dell&rsquo;ecosistema di ricerca e sviluppo di modelli di intelligenza artificiale.</p>
+<p><strong>WHEN</strong> - L&rsquo;articolo è stato pubblicato nel febbraio 2025, indicando che DeepSeek-R1 è un modello relativamente nuovo ma già consolidato nella ricerca accademica.</p>
+<p><strong>BUSINESS IMPACT:</strong></p>
+<ul>
+<li><strong>Opportunità:</strong> Integrazione di DeepSeek-R1 per migliorare le capacità di ragionamento dei modelli esistenti, offrendo soluzioni più autonome e performanti.</li>
+<li><strong>Rischi:</strong> Competizione con modelli che utilizzano tecniche di RL avanzate, potenziale necessità di investimenti in ricerca e sviluppo per mantenere la competitività.</li>
+<li><strong>Integrazione:</strong> Possibile integrazione con lo stack esistente per migliorare le capacità di ragionamento dei modelli di AI aziendali.</li>
+</ul>
+<p><strong>TECHNICAL SUMMARY:</strong></p>
+<ul>
+<li><strong>Core technology stack:</strong> Python, Go, framework di machine learning, neural networks, algoritmi di RL.</li>
+<li><strong>Scalabilità:</strong> Il modello può essere scalato per migliorare le capacità di ragionamento, ma richiede risorse computazionali significative.</li>
+<li><strong>Differenziatori tecnici:</strong> Utilizzo di Group Relative Policy Optimization (GRPO) e bypass della fase di fine-tuning supervisionato, permettendo un&rsquo;esplorazione più libera e autonoma del modello.</li>
+</ul>
+<hr>
+
+<h2 class="relative group">Casi d&rsquo;uso 
+    <div id="casi-duso" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#casi-duso" aria-label="Ancora">#</a>
+    </span>        
+    
+</h2>
+<ul>
+<li><strong>Private AI Stack</strong>: Integrazione in pipeline proprietarie</li>
+<li><strong>Client Solutions</strong>: Implementazione per progetti clienti</li>
+<li><strong>Development Acceleration</strong>: Riduzione time-to-market progetti</li>
+</ul>
+<hr>
+
+<h2 class="relative group">Feedback da terzi 
+    <div id="feedback-da-terzi" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#feedback-da-terzi" aria-label="Ancora">#</a>
+    </span>        
+    
+</h2>
+<p><strong>Community feedback:</strong> Gli utenti apprezzano DeepSeek-R1 per la sua capacità di ragionamento, ma esprimono preoccupazioni su problemi come la ripetizione e la leggibilità. Alcuni suggeriscono di utilizzare versioni quantizzate per migliorare l&rsquo;efficienza e propongono di integrare dati di cold-start per migliorare le prestazioni.</p>
+<p><a
+  href="https://github.com/deepseek-ai/DeepSeek-R1"
+    target="_blank"
+  >Discussione completa</a></p>
+<hr>
+
+<h2 class="relative group">Risorse 
+    <div id="risorse" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#risorse" aria-label="Ancora">#</a>
+    </span>        
+    
+</h2>
+
+<h3 class="relative group">Link Originali 
+    <div id="link-originali" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#link-originali" aria-label="Ancora">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><a
+  href="https://www.nature.com/articles/s41586-025-09422-z"
+    target="_blank"
+  >DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning | Nature</a> - Link originale</li>
+</ul>
+<hr>
+<p><em><small>Articolo segnalato e selezionato dal team Human Technology eXcellence elaborato tramite intelligenza artificiale (in questo caso con LLM HTX-EU-Mistral3.1Small) il 2025-09-18 15:08
+Fonte originale: <a
+  href="https://www.nature.com/articles/s41586-025-09422-z"
+    target="_blank"
+  >https://www.nature.com/articles/s41586-025-09422-z</a></small></em></p>
+
+<h2 class="relative group">Articoli Correlati 
+    <div id="articoli-correlati" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#articoli-correlati" aria-label="Ancora">#</a>
+    </span>        
+    
+</h2>
+<ul>
+<li><a
+  href="/posts/2024/10/large-language-models-are-proficient-in-solving-an/">Large language models are proficient in solving and creating emotional intelligence tests | Communications Psychology</a> - <em>AI, LLM, Foundation Model</em></li>
+<li><a
+  href="/posts/2025/09/2505-03335v2-absolute-zero-reinforced-self-play-re/">[2505.03335v2] Absolute Zero: Reinforced Self-play Reasoning with Zero Data</a> - <em>Tech</em></li>
+<li><a
+  href="/posts/2024/10/a-foundation-model-to-predict-and-capture-human-co/">A foundation model to predict and capture human cognition | Nature</a> - <em>Go, Foundation Model, Natural Language Processing</em></li>
+</ul>
+
+              
+              
+              
+            </div>
+
+            
+
+            
+  <details class="mt-2 mb-5 overflow-hidden rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 ml-0">
+    
+  <summary
+    class="py-1 text-lg font-semibold cursor-pointer bg-primary-200 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-primary-800 dark:text-neutral-100">
+    Articoli Interessanti -
+    This article is part of a series.
+  </summary>
+  
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/agenticseek-private-local-manus-alternative/">
+          Part :
+          AgenticSeek: Private, Local Manus Alternative
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/learn-your-way/">
+          Part :
+          Learn Your Way
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/qwen/">
+          Part :
+          Qwen-Image-Edit-2509: Multi-Image Support，Improved Consistency
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/qwen-image/">
+          Part :
+          Qwen-Image
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/introducing-tongyi-deep-research/">
+          Part :
+          Introducing Tongyi Deep Research
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/copyparty/">
+          Part :
+          💾🎉 copyparty
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/ai-engineering-hub/">
+          Part :
+          AI Engineering Hub
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/deep-chat/">
+          Part :
+          Deep Chat
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/ibm-granite-granite-docling-258m-hugging-face/">
+          Part :
+          ibm-granite/granite-docling-258M · Hugging Face
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/google-just-dropped-an-ace-64-page-guide-on-buildi/">
+          Part :
+          Google just dropped an ace 64-page guide on building AI Agents
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/opcode-the-elegant-desktop-companion-for-claude-co/">
+          Part :
+          opcode - The Elegant Desktop Companion for Claude Code
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/nocodb-cloud/">
+          Part :
+          NocoDB Cloud
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/a-step-by-step-implementation-of-qwen-3-moe-archit/">
+          Part :
+          A Step-by-Step Implementation of Qwen 3 MoE Architecture from Scratch
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/memorag-moving-towards-next-gen-rag-via-memory-ins/">
+          Part :
+          MemoRAG: Moving Towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/enable-ai-to-control-your-browser/">
+          Part :
+          Enable AI to control your browser 🤖
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/total-monthly-distance-traveled-by-passengers-in-c/">
+          Part :
+          Total monthly distance traveled by passengers in California’s driverless taxis - Our World in Data
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/a-must-bookmark-for-vibe-coders/">
+          Part :
+          A must-bookmark for vibe-coders
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/huge-ai-market-opportunity-in-2025/">
+          Part :
+          Huge AI market opportunity in 2025
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/the-anthropic-economic-index-anthropic/">
+          Part :
+          The Anthropic Economic Index  Anthropic
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/dots-ocr-multilingual-document-layout-parsing-in-a/">
+          Part :
+          dots.ocr: Multilingual Document Layout Parsing in a Single Vision-Language Model
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/paddleocr/">
+          Part :
+          PaddleOCR
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/deepsite-v2-a-hugging-face-space-by-enzostvs/">
+          Part :
+          DeepSite v2 - a Hugging Face Space by enzostvs
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/how-to-use-claude-code-subagents-to-parallelize-de/">
+          Part :
+          How to Use Claude Code Subagents to Parallelize Development
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/show-hn-clavier-36-a-programming-environment-for-g/">
+          Part :
+          Show HN: CLAVIER-36 – A programming environment for generative music
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/small-models-are-the-future-of-agentic-ai/">
+          Part :
+          Small models are the future of agentic ai
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/kimi-k2-open-agentic-intelligence/">
+          Part :
+          Kimi K2: Open Agentic Intelligence
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/introducing-qwen3-max-preview-instruct/">
+          Part :
+          Introducing Qwen3-Max-Preview (Instruct)
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/scientific-paper-agent-with-langgraph/">
+          Part :
+          Scientific Paper Agent with LangGraph
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/anthropic-s-interactive-prompt-engineering-tutoria/">
+          Part :
+          Anthropic&#39;s Interactive Prompt Engineering Tutorial
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/ragflow/">
+          Part :
+          RAGFlow
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/swiss-ai-apertus-70b-2509-hugging-face/">
+          Part :
+          swiss-ai/Apertus-70B-2509 · Hugging Face
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/making-a-font-of-my-handwriting-chameth-com/">
+          Part :
+          Making a font of my handwriting · Chameth.com
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/surfsense/">
+          Part :
+          SurfSense
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/lorax-multi-lora-inference-server-that-scales-to-1/">
+          Part :
+          LoRAX: Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/nextchat/">
+          Part :
+          NextChat
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/the-llm-red-teaming-framework/">
+          Part :
+          The LLM Red Teaming Framework
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/colette/">
+          Part :
+          Colette - ci ricorda molto Kotaemon
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/memvid/">
+          Part :
+          Memvid
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/">
+          Part :
+          VibeVoice: A Frontier Open-Source Text-to-Speech Model
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/2502-12110-a-mem-agentic-memory-for-llm-agents/">
+          Part :
+          [2502.12110] A-MEM: Agentic Memory for LLM Agents
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/2504-19413-mem0-building-production-ready-ai-agent/">
+          Part :
+          [2504.19413] Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/apertus-70b-truly-open-swiss-llm-by-eth-epfl-and-c/">
+          Part :
+          Apertus 70B: Truly Open - Swiss LLM by ETH, EPFL and CSCS
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/humanlayer/">
+          Part :
+          HumanLayer
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/pageindex-document-index-for-reasoning-based-rag/">
+          Part :
+          PageIndex: Document Index for Reasoning-based RAG
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/deploying-deepseek-on-96-h100-gpus/">
+          Part :
+          Deploying DeepSeek on 96 H100 GPUs
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/claude-code-a-highly-agentic-coding-assistant-deep/">
+          Part :
+          Claude Code: A Highly Agentic Coding Assistant - DeepLearning.AI
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/dyg-rag-dynamic-graph-retrieval-augmented-generati/">
+          Part :
+          DyG-RAG: Dynamic Graph Retrieval-Augmented Generation with Event-Centric Reasoning
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/2508-15126-aixiv-a-next-generation-open-access-eco/">
+          Part :
+          [2508.15126] aiXiv: A Next-Generation Open Access Ecosystem for Scientific Discovery Generated by AI Scientists
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/alexander-kruel-links-for-2025-08-24/">
+          Part :
+          Alexander Kruel - Links for 2025-08-24
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/dspy/">
+          Part :
+          DSPy
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/ai-agents-for-beginners-a-course/">
+          Part :
+          AI Agents for Beginners - A Course
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/turning-claude-code-into-my-best-design-partner/">
+          Part :
+          Turning Claude Code into my best design partner
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/how-to-build-a-coding-agent/">
+          Part :
+          How to build a coding agent
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/tiledesk-design-studio/">
+          Part :
+          Tiledesk Design Studio
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/build-a-large-language-model-from-scratch/">
+          Part :
+          Build a Large Language Model (From Scratch)
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/data-formulator-create-rich-visualizations-with-ai/">
+          Part :
+          Data Formulator: Create Rich Visualizations with AI
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/browser-use-web-ui/">
+          Part :
+          browser-use/web-ui
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/casper-capital-100-ai-tools-you-cant-ignore-in-202/">
+          Part :
+          Casper Capital - 100 AI Tools You Can’t Ignore in 2025...
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/parlant/">
+          Part :
+          Parlant
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/cs294-194-196-large-language-model-agents-cs-194-2/">
+          Part :
+          CS294/194-196 Large Language Model Agents | CS 194/294-196 Large Language Model Agents
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/show-hn-whispering-open-source-local-first-dictati/">
+          Part :
+          Show HN: Whispering – Open-source, local-first dictation you can trust
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/fallinorg-v1-0-0-beta/">
+          Part :
+          Fallinorg v1.0.0-beta
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/dokieli/">
+          Part :
+          dokieli
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/paperetl/">
+          Part :
+          paperetl
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/automatically-annotate-papers-using-llms/">
+          Part :
+          Automatically annotate papers using LLMs
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/my-ai-had-already-fixed-the-code-before-i-saw-it/">
+          Part :
+          My AI Had Already Fixed the Code Before I Saw It
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/llama-scan-convert-pdfs-to-text-w-local-llms/">
+          Part :
+          Llama-Scan: Convert PDFs to Text W Local LLMs
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/claudia-desktop-companion-for-claude-code/">
+          Part :
+          Claudia – Desktop companion for Claude code
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/show-hn-fallinorg-offline-mac-app-that-organizes-f/">
+          Part :
+          Show HN: Fallinorg - Offline Mac app that organizes files by meaning
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/focalboard/">
+          Part :
+          Focalboard
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/elysia-agentic-framework-powered-by-decision-trees/">
+          Part :
+          Elysia: Agentic Framework Powered by Decision Trees
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/langextract/">
+          Part :
+          LangExtract
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/mcp-use/">
+          Part :
+          MCP-Use
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/1-for-context-engineering-over-prompt-engineering/">
+          Part :
+          &#43;1 for &#34;context engineering&#34; over &#34;prompt engineering&#34;
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/the-race-for-llm-cognitive-core/">
+          Part :
+          The race for LLM cognitive core
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/2507-07935-working-with-ai-measuring-the-occupatio/">
+          Part :
+          [2507.07935] Working with AI: Measuring the Occupational Implications of Generative AI
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/dolphin-document-image-parsing-via-heterogeneous-a/">
+          Part :
+          Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/prava-teaching-gpt-5-to-use-a-computer/">
+          Part :
+          Prava - Teaching GPT‑5 to use a computer
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/instavm-secure-code-execution-platform/">
+          Part :
+          InstaVM - Secure Code Execution Platform
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/sim/">
+          Part :
+          Sim
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/litestar-is-worth-a-look/">
+          Part :
+          Litestar is worth a look
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/jobs-at-kaizen-y-combinator/">
+          Part :
+          Jobs at Kaizen | Y Combinator
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/launch-hn-lucidic-yc-w25-debug-test-and-evaluate-a/">
+          Part :
+          Launch HN: Lucidic (YC W25) – Debug, test, and evaluate AI agents in production
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/introducing-pay-per-crawl-enabling-content-owners/">
+          Part :
+          Introducing pay per crawl: Enabling content owners to charge AI crawlers for access
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/agentic-design-patterns-documenti-google/">
+          Part :
+          Agentic Design Patterns - Documenti Google
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/2507-14447-routine-a-structural-planning-framework/">
+          Part :
+          [2507.14447] Routine: A Structural Planning Framework for LLM Agent System in Enterprise
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/qwen3-coder-agentic-coding-in-the-world/">
+          Part :
+          Qwen3-Coder: Agentic coding in the world
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/futurehouse-platform/">
+          Part :
+          FutureHouse Platform
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/voxtral-mistral-ai/">
+          Part :
+          Voxtral | Mistral AI
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/research-agent-with-gemini-2-5-pro-and-llamaindex/">
+          Part :
+          Research Agent with Gemini 2.5 Pro and LlamaIndex  |  Gemini API  |  Google AI for Developers
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/ai-act-c-e-il-codice-di-condotta-per-un-approccio/">
+          Part :
+          AI Act, c&#39;è il codice di condotta per un approccio responsabile e facilitato per le Pmi - Cyber Security 360
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/2507-06398-jolting-technologies-superexponential-a/">
+          Part :
+          [2507.06398] Jolting Technologies: Superexponential Acceleration in AI Capabilities and Implications for AGI
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/mindsdb-an-ai-data-solution-mindsdb/">
+          Part :
+          MindsDB, an AI Data Solution - MindsDB
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/backlog-md-markdown-native-task-manager-and-kanban/">
+          Part :
+          Backlog.md – Markdown-native Task Manager and Kanban visualizer for any Git repo
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/opencode-ai-coding-agent-built-for-the-terminal/">
+          Part :
+          Opencode: AI coding agent, built for the terminal
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/the-new-skill-in-ai-is-not-prompting-it-s-context/">
+          Part :
+          The new skill in AI is not prompting, it&#39;s context engineering
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/">
+          Part :
+          SymbolicAI: A neuro-symbolic perspective on LLMs
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/gemini-for-google-workspace-prompting-guide-101/">
+          Part :
+          Gemini for Google Workspace Prompting Guide 101
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/judge-rules-training-ai-on-copyrighted-works-is-fa/">
+          Part :
+          Judge Rules Training AI on Copyrighted Works Is Fair Use, Agentic Biology Evolves, and more...
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/mcp-is-eating-the-world-and-it-s-here-to-stay/">
+          Part :
+          MCP is eating the world—and it&#39;s here to stay
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/how-dataherald-makes-natural-language-to-sql-easy/">
+          Part :
+          How Dataherald Makes Natural Language to SQL Easy
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/field-notes-from-shipping-real-code-with-claude/">
+          Part :
+          Field Notes From Shipping Real Code With Claude
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/nice-my-ai-startup-school-talk-is-now-up/">
+          Part :
+          Nice - my AI startup school talk is now up!
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/automated-73-of-his-remote-job-using-basic-automat/">
+          Part :
+          Automated 73% of his remote job using basic automation tools, told his manager everything, and got a promotion
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/building-effective-ai-agents/">
+          Part :
+          Building Effective AI Agents
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/how-anthropic-teams-use-claude-code/">
+          Part :
+          How Anthropic Teams Use Claude Code
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/snorting-the-agi-with-claude-code/">
+          Part :
+          Snorting the AGI with Claude Code
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/nanonets-ocr-s-ocr-model-that-transforms-documents/">
+          Part :
+          Nanonets-OCR-s – OCR model that transforms documents into structured markdown
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/the-illusion-of-thinking/">
+          Part :
+          The Illusion of Thinking
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/trends-artificial-intelligence-bond/">
+          Part :
+          Trends – Artificial Intelligence | BOND
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/claude-code-is-my-computer-peter-steinberger/">
+          Part :
+          Claude Code is My Computer | Peter Steinberger
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/2505-24863-alphaone-reasoning-models-thinking-slow/">
+          Part :
+          [2505.24863] AlphaOne: Reasoning Models Thinking Slow and Fast at Test Time
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/2505-24864-prorl-prolonged-reinforcement-learning/">
+          Part :
+          [2505.24864] ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/my-ai-skeptic-friends-are-all-nuts-the-fly-blog/">
+          Part :
+          My AI Skeptic Friends Are All Nuts · The Fly Blog
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/designing-pareto-optimal-genai-workflows-with-syft/">
+          Part :
+          Designing Pareto-optimal GenAI workflows with syftr
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/billionmail-an-open-source-mailserver-newsletter-e/">
+          Part :
+          BillionMail 📧 An Open-Source MailServer, NewsLetter, Email Marketing Solution for Smarter Campaigns
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/ask-hn-what-is-the-best-llm-for-consumer-grade-har/">
+          Part :
+          Ask HN: What is the best LLM for consumer grade hardware?
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/2411-06037-sufficient-context-a-new-lens-on-retrie/">
+          Part :
+          [2411.06037] Sufficient Context: A New Lens on Retrieval Augmented Generation Systems
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/show-hn-onlook-open-source-visual-first-cursor-for/">
+          Part :
+          Show HN: Onlook – Open-source, visual-first Cursor for designers
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/agent-development-kit-adk/">
+          Part :
+          Agent Development Kit (ADK)
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/strands-agents/">
+          Part :
+          Strands Agents
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/show-hn-autothink-boosts-local-llm-performance-wit/">
+          Part :
+          Show HN: AutoThink – Boosts local LLM performance with adaptive reasoning
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/introduction-intelowl-project-documentation/">
+          Part :
+          Introduction - IntelOwl Project Documentation
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/">
+          Part :
+          Show HN: My LLM CLI tool can run tools now, from Python code or plugins
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/2505-03335v2-absolute-zero-reinforced-self-play-re/">
+          Part :
+          [2505.03335v2] Absolute Zero: Reinforced Self-play Reasoning with Zero Data
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/codexs-robot-dev-team-grok-s-fixation-on-south-afr/">
+          Part :
+          Codex’s Robot Dev Team, Grok&#39;s Fixation on South Africa, Saudi Arabia’s AI Power Play, and more...
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/2502-00032v1-querying-databases-with-function-call/">
+          Part :
+          [2502.00032v1] Querying Databases with Function Calling
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/come-addestrare-un-llm-con-i-tuoi-dati-personali-g/">
+          Part :
+          Come Addestrare un LLM con i Tuoi Dati Personali: Guida Completa con LLaMA 3.2
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/ai-hedge-fund/">
+          Part :
+          AI Hedge Fund
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/troy-hunt-have-i-been-pwned-2-0-is-now-live/">
+          Part :
+          Troy Hunt: Have I Been Pwned 2.0 is Now Live!
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/a-research-preview-of-codex/">
+          Part :
+          A Research Preview of Codex
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/2505-06120-llms-get-lost-in-multi-turn-conversatio/">
+          Part :
+          [2505.06120] LLMs Get Lost In Multi-Turn Conversation
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/ollama-s-new-engine-for-multimodal-models/">
+          Part :
+          Ollama&#39;s new engine for multimodal models
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/vision-now-available-in-llama-cpp/">
+          Part :
+          Vision Now Available in Llama.cpp
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/2505-03335-absolute-zero-reinforced-self-play-reas/">
+          Part :
+          [2505.03335] Absolute Zero: Reinforced Self-play Reasoning with Zero Data
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/requests-for-startups-y-combinator/">
+          Part :
+          Requests for Startups | Y Combinator
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/token-token-usage-deepseek-api-docs/">
+          Part :
+          Token &amp; Token Usage | DeepSeek API Docs
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/cua-is-docker-for-computer-use-ai-agents/">
+          Part :
+          Cua is Docker for Computer-Use AI Agents
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/2504-07139-artificial-intelligence-index-report-20/">
+          Part :
+          [2504.07139] Artificial Intelligence Index Report 2025
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/gemma-3-qat-models-bringing-state-of-the-art-ai-to/">
+          Part :
+          Gemma 3 QAT Models: Bringing state-of-the-Art AI to consumer GPUs
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        Part :
+        This Article
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/a-foundation-model-to-predict-and-capture-human-co/">
+          Part :
+          A foundation model to predict and capture human cognition | Nature
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/posts/2025/09/large-language-models-are-proficient-in-solving-an/">
+          Part :
+          Large language models are proficient in solving and creating emotional intelligence tests | Communications Psychology
+        </a>
+      </div>
+    
+  
+
+
+  </details>
+
+
+            
+
+            
+
+          </div>
+
+          
+          
+            
+            
+              
+              
+            
+            
+            
+            <script
+              type="text/javascript"
+              src="/js/page.min.54b6f4371722649edbe871e431d8670d670878c22be8f36e229fe53cc9b786fe25a834def5e6de621f7a3e37b72bc8cd73839aa5ed907ed6cbd45cd3e1b0fa20.js"
+              integrity="sha512-VLb0NxciZJ7b6HHkMdhnDWcIeMIr6PNuIp/lPMm3hv4lqDTe9ebeYh96Pje3K8jNc4Oape2QftbL1FzT4bD6IA=="
+              data-oid="views_posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through.md"
+              data-oid-likes="likes_posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through.md"></script>
+          
+
+        </section>
+        <footer class="pt-8 print:hidden">
+          
+  
+    
+    
+    
+    <div class="pt-8">
+      <hr class="border-dotted border-neutral-300 dark:border-neutral-600">
+      <div class="flex justify-between pt-3">
+        <span>
+          
+            <a class="flex group mr-3" href="/posts/2025/09/a-foundation-model-to-predict-and-capture-human-co/">
+              <span
+                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
+                >&larr;</span
+              >
+              <span
+                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
+                >&rarr;</span
+              >
+              <span class="flex flex-col">
+                <span class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+                  >A foundation model to predict and capture human cognition | Nature</span
+                >
+                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+                  
+                    <time datetime="2024-10-26T00:00:00&#43;00:00">26 ottobre 2024</time>
+                  
+                </span>
+              </span>
+            </a>
+          
+        </span>
+        <span>
+          
+            <a class="flex text-right group ml-3" href="/posts/2025/09/gemma-3-qat-models-bringing-state-of-the-art-ai-to/">
+              <span class="flex flex-col">
+                <span class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+                  >Gemma 3 QAT Models: Bringing state-of-the-Art AI to consumer GPUs</span
+                >
+                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+                  
+                    <time datetime="2025-04-21T07:38:58&#43;02:00">21 aprile 2025</time>
+                  
+                </span>
+              </span>
+              <span
+                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
+                >&rarr;</span
+              >
+              <span
+                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
+                >&larr;</span
+              >
+            </a>
+          
+        </span>
+      </div>
+    </div>
+  
+
+
+          
+        </footer>
+      </article>
+    </div>
+  </div>
+
+        <div id="top-scroller" class="pointer-events-none absolute top-[110vh] bottom-0 w-12 ltr:right-0 rtl:left-0">
+  <a
+    href="#the-top"
+    class="pointer-events-auto sticky top-[calc(100vh-5.5rem)] flex h-12 w-12 mb-16 items-center justify-center rounded-full bg-neutral/50 text-xl text-neutral-700 hover:text-primary-600 dark:bg-neutral-800/50 dark:text-neutral dark:hover:text-primary-400"
+    aria-label="Torna in cima"
+    title="Torna in cima">
+    &uarr;
+  </a>
+</div>
+
+      </main><footer id="site-footer" class="py-10 print:hidden">
+  
+  
+    
+  
+  <div class="flex items-center justify-between">
+    
+    
+      <p class="text-sm text-neutral-500 dark:text-neutral-400">
+          Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €60.000 i.v. | <a
+  href="mailto:htx@pec.it">htx@pec.it</a>
+      </p>
+    
+
+    
+    
+      <p class="text-xs text-neutral-500 dark:text-neutral-400">
+        
+        
+        Creato con <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
+          href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo</a> &amp; <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
+          href="https://blowfish.page/" target="_blank" rel="noopener noreferrer">Blowfish</a>
+      </p>
+    
+
+  </div>
+  <script>
+    
+    mediumZoom(document.querySelectorAll("img:not(.nozoom)"), {
+      margin: 24,
+      background: 'rgba(0,0,0,0.5)',
+      scrollOffset: 0,
+    })
+    
+  </script> 
+  
+  <script
+    type="text/javascript"
+    src="/js/process.min.ee03488f19c93c2efb199e2e3014ea5f3cb2ce7d45154adb3399a158cac27ca52831db249ede5bb602700ef87eb02434139de0858af1818ab0fb4182472204a4.js"
+    integrity="sha512-7gNIjxnJPC77GZ4uMBTqXzyyzn1FFUrbM5mhWMrCfKUoMdsknt5btgJwDvh&#43;sCQ0E53ghYrxgYqw&#43;0GCRyIEpA=="></script>
+  
+  
+    
+<div class="flex justify-center py-6 border-t border-neutral-200 dark:border-neutral-700">
+  <img src="/images/NEW_STRISCIA_LOGHI_ORIZZ_4hiq3uE.jpg" 
+       alt="Iniziativa sostenuta con il contributo dei fondi EU PR FESR Europa FVG " 
+       class="max-h-16 w-auto opacity-75 hover:opacity-100 transition-opacity duration-300" />
+</div>
+  
+</footer>
+<div
+  id="search-wrapper"
+  class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh] z-500"
+  data-url="https://ht-x.com/">
+  <div
+    id="search-modal"
+    class="flex flex-col w-full max-w-3xl min-h-0 mx-auto border rounded-md shadow-lg top-20 border-neutral-200 bg-neutral dark:border-neutral-700 dark:bg-neutral-800">
+    <header class="relative z-10 flex items-center justify-between flex-none px-2">
+      <form class="flex items-center flex-auto min-w-0">
+        <div class="flex items-center justify-center w-8 h-8 text-neutral-400">
+          
+
+  <span class="relative block icon">
+    <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="search" class="svg-inline--fa fa-search fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg>
+
+  </span>
+
+
+        </div>
+        <input
+          type="search"
+          id="search-query"
+          class="flex flex-auto h-12 mx-1 bg-transparent appearance-none focus:outline-dotted focus:outline-2 focus:outline-transparent"
+          placeholder="Cerca"
+          tabindex="0">
+      </form>
+      <button
+        id="close-search-button"
+        class="flex items-center justify-center w-8 h-8 text-neutral-700 hover:text-primary-600 dark:text-neutral dark:hover:text-primary-400"
+        title="Chiudi (Esc)">
+        
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M310.6 361.4c12.5 12.5 12.5 32.75 0 45.25C304.4 412.9 296.2 416 288 416s-16.38-3.125-22.62-9.375L160 301.3L54.63 406.6C48.38 412.9 40.19 416 32 416S15.63 412.9 9.375 406.6c-12.5-12.5-12.5-32.75 0-45.25l105.4-105.4L9.375 150.6c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L160 210.8l105.4-105.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-105.4 105.4L310.6 361.4z"/></svg>
+
+  </span>
+
+
+      </button>
+    </header>
+    <section class="flex-auto px-2 overflow-auto">
+      <ul id="search-results">
+        
+      </ul>
+    </section>
+  </div>
+</div>
+
+    </div>
+  </body>
+  
+</html>
