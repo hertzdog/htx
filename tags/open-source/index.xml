@@ -7,7 +7,87 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €60.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Thu, 18 Sep 2025 14:48:56 +0000</lastBuildDate><atom:link href="https://ht-x.com/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Sep 2025 07:31:07 +0000</lastBuildDate><atom:link href="https://ht-x.com/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AI-Researcher: Autonomous Scientific Innovation</title>
+      <link>https://ht-x.com/posts/2025/09/ai-researcher-autonomous-scientific-innovation/</link>
+      <pubDate>Wed, 24 Sep 2025 07:31:07 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/09/ai-researcher-autonomous-scientific-innovation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AgenticSeek: Private, Local Manus Alternative</title>
+      <link>https://ht-x.com/posts/2025/09/agenticseek-private-local-manus-alternative/</link>
+      <pubDate>Tue, 23 Sep 2025 16:44:11 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/09/agenticseek-private-local-manus-alternative/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Qwen-Image</title>
+      <link>https://ht-x.com/posts/2025/09/qwen-image/</link>
+      <pubDate>Tue, 23 Sep 2025 16:14:19 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/09/qwen-image/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Introducing Tongyi Deep Research</title>
+      <link>https://ht-x.com/posts/2025/09/introducing-tongyi-deep-research/</link>
+      <pubDate>Mon, 22 Sep 2025 15:17:00 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/09/introducing-tongyi-deep-research/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>💾🎉 copyparty</title>
+      <link>https://ht-x.com/posts/2025/09/copyparty/</link>
+      <pubDate>Mon, 22 Sep 2025 15:04:19 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/09/copyparty/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AI Engineering Hub</title>
+      <link>https://ht-x.com/posts/2025/09/ai-engineering-hub/</link>
+      <pubDate>Mon, 22 Sep 2025 14:57:38 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/09/ai-engineering-hub/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Deep Chat</title>
+      <link>https://ht-x.com/posts/2025/09/deep-chat/</link>
+      <pubDate>Mon, 22 Sep 2025 12:04:31 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/09/deep-chat/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>A Step-by-Step Implementation of Qwen 3 MoE Architecture from Scratch</title>
+      <link>https://ht-x.com/posts/2025/09/a-step-by-step-implementation-of-qwen-3-moe-archit/</link>
+      <pubDate>Sat, 20 Sep 2025 06:33:27 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/09/a-step-by-step-implementation-of-qwen-3-moe-archit/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>MemoRAG: Moving Towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery</title>
@@ -220,16 +300,6 @@
     </item>
     
     <item>
-      <title>Qwen-Image</title>
-      <link>https://ht-x.com/posts/2025/09/qwen-image/</link>
-      <pubDate>Wed, 20 Aug 2025 06:33:09 +0200</pubDate>
-      
-      <guid>https://ht-x.com/posts/2025/09/qwen-image/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Parlant</title>
       <link>https://ht-x.com/posts/2025/09/parlant/</link>
       <pubDate>Tue, 19 Aug 2025 05:11:09 +0200</pubDate>
@@ -275,16 +345,6 @@
       <pubDate>Mon, 18 Aug 2025 04:29:38 +0200</pubDate>
       
       <guid>https://ht-x.com/posts/2025/09/automatically-annotate-papers-using-llms/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>A Step-by-Step Implementation of Qwen 3 MoE Architecture from Scratch</title>
-      <link>https://ht-x.com/posts/2025/09/a-step-by-step-implementation-of-qwen-3-moe-archit/</link>
-      <pubDate>Sun, 17 Aug 2025 08:36:42 +0200</pubDate>
-      
-      <guid>https://ht-x.com/posts/2025/09/a-step-by-step-implementation-of-qwen-3-moe-archit/</guid>
       <description></description>
       
     </item>
@@ -370,21 +430,21 @@
     </item>
     
     <item>
-      <title>AgenticSeek: Private, Local Manus Alternative</title>
-      <link>https://ht-x.com/posts/2025/09/agenticseek-private-local-manus-alternative/</link>
-      <pubDate>Mon, 26 May 2025 04:22:05 +0200</pubDate>
-      
-      <guid>https://ht-x.com/posts/2025/09/agenticseek-private-local-manus-alternative/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>AI Hedge Fund</title>
       <link>https://ht-x.com/posts/2025/09/ai-hedge-fund/</link>
       <pubDate>Tue, 20 May 2025 02:02:44 +0200</pubDate>
       
       <guid>https://ht-x.com/posts/2025/09/ai-hedge-fund/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cua is Docker for Computer-Use AI Agents</title>
+      <link>https://ht-x.com/posts/2025/09/cua-is-docker-for-computer-use-ai-agents/</link>
+      <pubDate>Thu, 24 Apr 2025 04:47:08 +0200</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/09/cua-is-docker-for-computer-use-ai-agents/</guid>
       <description></description>
       
     </item>

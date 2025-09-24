@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €60.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Sat, 06 Sep 2025 09:59:50 +0000</lastBuildDate><atom:link href="https://ht-x.com/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Sep 2025 03:36:01 +0200</lastBuildDate><atom:link href="https://ht-x.com/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Context Engineering for AI Agents: Lessons from Building Manus</title>
+      <link>https://ht-x.com/posts/2025/09/context-engineering-for-ai-agents-lessons-from-bui/</link>
+      <pubDate>Wed, 24 Sep 2025 03:36:01 +0200</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/09/context-engineering-for-ai-agents-lessons-from-bui/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Qwen-Image</title>
+      <link>https://ht-x.com/posts/2025/09/qwen-image/</link>
+      <pubDate>Tue, 23 Sep 2025 16:14:19 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/09/qwen-image/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>RAGFlow</title>
@@ -40,16 +60,6 @@
     </item>
     
     <item>
-      <title>Qwen-Image</title>
-      <link>https://ht-x.com/posts/2025/09/qwen-image/</link>
-      <pubDate>Wed, 20 Aug 2025 06:33:09 +0200</pubDate>
-      
-      <guid>https://ht-x.com/posts/2025/09/qwen-image/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Llama-Scan: Convert PDFs to Text W Local LLMs</title>
       <link>https://ht-x.com/posts/2025/09/llama-scan-convert-pdfs-to-text-w-local-llms/</link>
       <pubDate>Sun, 17 Aug 2025 21:40:47 +0000</pubDate>
@@ -65,6 +75,16 @@
       <pubDate>Sun, 17 Aug 2025 03:48:51 +0200</pubDate>
       
       <guid>https://ht-x.com/posts/2025/09/langextract/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>&#43;1 for &#34;context engineering&#34; over &#34;prompt engineering&#34;</title>
+      <link>https://ht-x.com/posts/2025/09/1-for-context-engineering-over-prompt-engineering/</link>
+      <pubDate>Tue, 12 Aug 2025 03:59:32 +0200</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/09/1-for-context-engineering-over-prompt-engineering/</guid>
       <description></description>
       
     </item>
@@ -105,6 +125,16 @@
       <pubDate>Thu, 29 May 2025 22:42:18 +0200</pubDate>
       
       <guid>https://ht-x.com/posts/2025/09/2411-06037-sufficient-context-a-new-lens-on-retrie/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Token &amp; Token Usage | DeepSeek API Docs</title>
+      <link>https://ht-x.com/posts/2025/09/token-token-usage-deepseek-api-docs/</link>
+      <pubDate>Thu, 01 May 2025 08:56:17 +0200</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/09/token-token-usage-deepseek-api-docs/</guid>
       <description></description>
       
     </item>
