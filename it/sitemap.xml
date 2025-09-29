@@ -4,25 +4,19 @@
 
   <url>
     <loc>https://ht-x.com/posts/2025/</loc>
-    <lastmod>2025-09-24T07:31:07+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ht-x.com/posts/2025/09/ai-researcher-autonomous-scientific-innovation/</loc>
-    <lastmod>2025-09-24T07:31:07+00:00</lastmod>
+    <lastmod>2025-09-29T13:02:53+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ht-x.com/posts/</loc>
-    <lastmod>2025-09-24T07:31:07+00:00</lastmod>
+    <lastmod>2025-09-29T13:02:53+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ht-x.com/</loc>
-    <lastmod>2025-09-24T07:31:07+00:00</lastmod>
+    <lastmod>2025-09-29T13:02:53+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -35,6 +29,42 @@
       hreflang="it"
       href="https://ht-x.com/"
     />
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/09/rag-anything-all-in-one-rag-framework/</loc>
+    <lastmod>2025-09-29T13:02:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/09/raglight/</loc>
+    <lastmod>2025-09-29T12:45:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/09/turns-codebase-into-easy-tutorial-with-ai/</loc>
+    <lastmod>2025-09-29T04:32:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/09/failing-to-understand-the-exponential-again/</loc>
+    <lastmod>2025-09-29T02:49:32+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/09/prompt-packs-openai-academy/</loc>
+    <lastmod>2025-09-29T02:27:47+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/09/ai-researcher-autonomous-scientific-innovation/</loc>
+    <lastmod>2025-09-24T07:31:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ht-x.com/posts/2025/09/context-engineering-for-ai-agents-lessons-from-bui/</loc>
