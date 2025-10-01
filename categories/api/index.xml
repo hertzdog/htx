@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>API on HUMAN TECHNOLOGY eXCELLENCE</title>
-    <link>https://ht-x.com/categories/api/</link>
+    <link>http://localhost:1313/categories/api/</link>
     <description>Recent content in API on HUMAN TECHNOLOGY eXCELLENCE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €60.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Tue, 23 Sep 2025 16:44:11 +0000</lastBuildDate><atom:link href="https://ht-x.com/categories/api/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Sep 2025 16:44:11 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/api/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AgenticSeek: Private, Local Manus Alternative</title>
-      <link>https://ht-x.com/posts/2025/09/agenticseek-private-local-manus-alternative/</link>
+      <link>http://localhost:1313/posts/2025/09/agenticseek-private-local-manus-alternative/</link>
       <pubDate>Tue, 23 Sep 2025 16:44:11 +0000</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/agenticseek-private-local-manus-alternative/</guid>
+      <guid>http://localhost:1313/posts/2025/09/agenticseek-private-local-manus-alternative/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Huge AI market opportunity in 2025</title>
-      <link>https://ht-x.com/posts/2025/09/huge-ai-market-opportunity-in-2025/</link>
+      <link>http://localhost:1313/posts/2025/09/huge-ai-market-opportunity-in-2025/</link>
       <pubDate>Thu, 18 Sep 2025 04:52:37 +0200</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/huge-ai-market-opportunity-in-2025/</guid>
+      <guid>http://localhost:1313/posts/2025/09/huge-ai-market-opportunity-in-2025/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Introducing Qwen3-Max-Preview (Instruct)</title>
-      <link>https://ht-x.com/posts/2025/09/introducing-qwen3-max-preview-instruct/</link>
+      <link>http://localhost:1313/posts/2025/09/introducing-qwen3-max-preview-instruct/</link>
       <pubDate>Sat, 06 Sep 2025 14:05:23 +0200</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/introducing-qwen3-max-preview-instruct/</guid>
+      <guid>http://localhost:1313/posts/2025/09/introducing-qwen3-max-preview-instruct/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Casper Capital - 100 AI Tools You Can’t Ignore in 2025...</title>
-      <link>https://ht-x.com/posts/2025/09/casper-capital-100-ai-tools-you-cant-ignore-in-202/</link>
+      <link>http://localhost:1313/posts/2025/09/casper-capital-100-ai-tools-you-cant-ignore-in-202/</link>
       <pubDate>Tue, 19 Aug 2025 09:29:16 +0200</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/casper-capital-100-ai-tools-you-cant-ignore-in-202/</guid>
+      <guid>http://localhost:1313/posts/2025/09/casper-capital-100-ai-tools-you-cant-ignore-in-202/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Research Agent with Gemini 2.5 Pro and LlamaIndex  |  Gemini API  |  Google AI for Developers</title>
-      <link>https://ht-x.com/posts/2025/09/research-agent-with-gemini-2-5-pro-and-llamaindex/</link>
+      <link>http://localhost:1313/posts/2025/09/research-agent-with-gemini-2-5-pro-and-llamaindex/</link>
       <pubDate>Wed, 16 Jul 2025 03:21:12 +0200</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/research-agent-with-gemini-2-5-pro-and-llamaindex/</guid>
+      <guid>http://localhost:1313/posts/2025/09/research-agent-with-gemini-2-5-pro-and-llamaindex/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Token &amp; Token Usage | DeepSeek API Docs</title>
-      <link>https://ht-x.com/posts/2025/09/token-token-usage-deepseek-api-docs/</link>
+      <link>http://localhost:1313/posts/2025/09/token-token-usage-deepseek-api-docs/</link>
       <pubDate>Thu, 01 May 2025 08:56:17 +0200</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/token-token-usage-deepseek-api-docs/</guid>
+      <guid>http://localhost:1313/posts/2025/09/token-token-usage-deepseek-api-docs/</guid>
       <description></description>
       
     </item>

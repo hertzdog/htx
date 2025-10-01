@@ -2,149 +2,149 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Natural Language Processing on HUMAN TECHNOLOGY eXCELLENCE</title>
-    <link>https://ht-x.com/tags/natural-language-processing/</link>
+    <link>http://localhost:1313/tags/natural-language-processing/</link>
     <description>Recent content in Natural Language Processing on HUMAN TECHNOLOGY eXCELLENCE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €60.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Wed, 24 Sep 2025 03:36:01 +0200</lastBuildDate><atom:link href="https://ht-x.com/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Sep 2025 03:36:01 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Context Engineering for AI Agents: Lessons from Building Manus</title>
-      <link>https://ht-x.com/posts/2025/09/context-engineering-for-ai-agents-lessons-from-bui/</link>
+      <link>http://localhost:1313/posts/2025/09/context-engineering-for-ai-agents-lessons-from-bui/</link>
       <pubDate>Wed, 24 Sep 2025 03:36:01 +0200</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/context-engineering-for-ai-agents-lessons-from-bui/</guid>
+      <guid>http://localhost:1313/posts/2025/09/context-engineering-for-ai-agents-lessons-from-bui/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Qwen-Image</title>
-      <link>https://ht-x.com/posts/2025/09/qwen-image/</link>
+      <link>http://localhost:1313/posts/2025/09/qwen-image/</link>
       <pubDate>Tue, 23 Sep 2025 16:14:19 +0000</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/qwen-image/</guid>
+      <guid>http://localhost:1313/posts/2025/09/qwen-image/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>RAGFlow</title>
-      <link>https://ht-x.com/posts/2025/09/ragflow/</link>
+      <link>http://localhost:1313/posts/2025/09/ragflow/</link>
       <pubDate>Sat, 06 Sep 2025 09:59:50 +0000</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/ragflow/</guid>
+      <guid>http://localhost:1313/posts/2025/09/ragflow/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Memvid</title>
-      <link>https://ht-x.com/posts/2025/09/memvid/</link>
+      <link>http://localhost:1313/posts/2025/09/memvid/</link>
       <pubDate>Thu, 04 Sep 2025 12:45:37 +0000</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/memvid/</guid>
+      <guid>http://localhost:1313/posts/2025/09/memvid/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>VibeVoice: A Frontier Open-Source Text-to-Speech Model</title>
-      <link>https://ht-x.com/posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/</link>
+      <link>http://localhost:1313/posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/</link>
       <pubDate>Wed, 03 Sep 2025 10:44:01 +0000</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/</guid>
+      <guid>http://localhost:1313/posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Llama-Scan: Convert PDFs to Text W Local LLMs</title>
-      <link>https://ht-x.com/posts/2025/09/llama-scan-convert-pdfs-to-text-w-local-llms/</link>
+      <link>http://localhost:1313/posts/2025/09/llama-scan-convert-pdfs-to-text-w-local-llms/</link>
       <pubDate>Sun, 17 Aug 2025 21:40:47 +0000</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/llama-scan-convert-pdfs-to-text-w-local-llms/</guid>
+      <guid>http://localhost:1313/posts/2025/09/llama-scan-convert-pdfs-to-text-w-local-llms/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>LangExtract</title>
-      <link>https://ht-x.com/posts/2025/09/langextract/</link>
+      <link>http://localhost:1313/posts/2025/09/langextract/</link>
       <pubDate>Sun, 17 Aug 2025 03:48:51 +0200</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/langextract/</guid>
+      <guid>http://localhost:1313/posts/2025/09/langextract/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>&#43;1 for &#34;context engineering&#34; over &#34;prompt engineering&#34;</title>
-      <link>https://ht-x.com/posts/2025/09/1-for-context-engineering-over-prompt-engineering/</link>
+      <link>http://localhost:1313/posts/2025/09/1-for-context-engineering-over-prompt-engineering/</link>
       <pubDate>Tue, 12 Aug 2025 03:59:32 +0200</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/1-for-context-engineering-over-prompt-engineering/</guid>
+      <guid>http://localhost:1313/posts/2025/09/1-for-context-engineering-over-prompt-engineering/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>The new skill in AI is not prompting, it&#39;s context engineering</title>
-      <link>https://ht-x.com/posts/2025/09/the-new-skill-in-ai-is-not-prompting-it-s-context/</link>
+      <link>http://localhost:1313/posts/2025/09/the-new-skill-in-ai-is-not-prompting-it-s-context/</link>
       <pubDate>Mon, 30 Jun 2025 20:53:55 +0000</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/the-new-skill-in-ai-is-not-prompting-it-s-context/</guid>
+      <guid>http://localhost:1313/posts/2025/09/the-new-skill-in-ai-is-not-prompting-it-s-context/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>MCP is eating the world—and it&#39;s here to stay</title>
-      <link>https://ht-x.com/posts/2025/09/mcp-is-eating-the-world-and-it-s-here-to-stay/</link>
+      <link>http://localhost:1313/posts/2025/09/mcp-is-eating-the-world-and-it-s-here-to-stay/</link>
       <pubDate>Wed, 25 Jun 2025 14:39:14 +0200</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/mcp-is-eating-the-world-and-it-s-here-to-stay/</guid>
+      <guid>http://localhost:1313/posts/2025/09/mcp-is-eating-the-world-and-it-s-here-to-stay/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>How Dataherald Makes Natural Language to SQL Easy</title>
-      <link>https://ht-x.com/posts/2025/09/how-dataherald-makes-natural-language-to-sql-easy/</link>
+      <link>http://localhost:1313/posts/2025/09/how-dataherald-makes-natural-language-to-sql-easy/</link>
       <pubDate>Fri, 20 Jun 2025 19:47:22 +0200</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/how-dataherald-makes-natural-language-to-sql-easy/</guid>
+      <guid>http://localhost:1313/posts/2025/09/how-dataherald-makes-natural-language-to-sql-easy/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>[2411.06037] Sufficient Context: A New Lens on Retrieval Augmented Generation Systems</title>
-      <link>https://ht-x.com/posts/2025/09/2411-06037-sufficient-context-a-new-lens-on-retrie/</link>
+      <link>http://localhost:1313/posts/2025/09/2411-06037-sufficient-context-a-new-lens-on-retrie/</link>
       <pubDate>Thu, 29 May 2025 22:42:18 +0200</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/2411-06037-sufficient-context-a-new-lens-on-retrie/</guid>
+      <guid>http://localhost:1313/posts/2025/09/2411-06037-sufficient-context-a-new-lens-on-retrie/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Token &amp; Token Usage | DeepSeek API Docs</title>
-      <link>https://ht-x.com/posts/2025/09/token-token-usage-deepseek-api-docs/</link>
+      <link>http://localhost:1313/posts/2025/09/token-token-usage-deepseek-api-docs/</link>
       <pubDate>Thu, 01 May 2025 08:56:17 +0200</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/token-token-usage-deepseek-api-docs/</guid>
+      <guid>http://localhost:1313/posts/2025/09/token-token-usage-deepseek-api-docs/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>A foundation model to predict and capture human cognition | Nature</title>
-      <link>https://ht-x.com/posts/2025/09/a-foundation-model-to-predict-and-capture-human-co/</link>
+      <link>http://localhost:1313/posts/2025/09/a-foundation-model-to-predict-and-capture-human-co/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/a-foundation-model-to-predict-and-capture-human-co/</guid>
+      <guid>http://localhost:1313/posts/2025/09/a-foundation-model-to-predict-and-capture-human-co/</guid>
       <description></description>
       
     </item>
