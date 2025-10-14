@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Image Generation on HUMAN TECHNOLOGY eXCELLENCE</title>
-    <link>http://localhost:1313/tags/image-generation/</link>
+    <link>https://ht-x.com/tags/image-generation/</link>
     <description>Recent content in Image Generation on HUMAN TECHNOLOGY eXCELLENCE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €60.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Tue, 23 Sep 2025 18:34:18 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/image-generation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Sep 2025 18:34:18 +0200</lastBuildDate><atom:link href="https://ht-x.com/tags/image-generation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Qwen-Image-Edit-2509: Multi-Image Support，Improved Consistency</title>
-      <link>http://localhost:1313/posts/2025/09/qwen/</link>
+      <link>https://ht-x.com/posts/2025/09/qwen/</link>
       <pubDate>Tue, 23 Sep 2025 18:34:18 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/2025/09/qwen/</guid>
+      <guid>https://ht-x.com/posts/2025/09/qwen/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Qwen-Image</title>
-      <link>http://localhost:1313/posts/2025/09/qwen-image/</link>
+      <link>https://ht-x.com/posts/2025/09/qwen-image/</link>
       <pubDate>Tue, 23 Sep 2025 16:14:19 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2025/09/qwen-image/</guid>
+      <guid>https://ht-x.com/posts/2025/09/qwen-image/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting</title>
-      <link>http://localhost:1313/posts/2025/09/dolphin-document-image-parsing-via-heterogeneous-a/</link>
+      <link>https://ht-x.com/posts/2025/09/dolphin-document-image-parsing-via-heterogeneous-a/</link>
       <pubDate>Tue, 12 Aug 2025 03:11:43 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/2025/09/dolphin-document-image-parsing-via-heterogeneous-a/</guid>
+      <guid>https://ht-x.com/posts/2025/09/dolphin-document-image-parsing-via-heterogeneous-a/</guid>
       <description></description>
       
     </item>

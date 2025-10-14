@@ -2,39 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Typescript on HUMAN TECHNOLOGY eXCELLENCE</title>
-    <link>http://localhost:1313/tags/typescript/</link>
+    <link>https://ht-x.com/tags/typescript/</link>
     <description>Recent content in Typescript on HUMAN TECHNOLOGY eXCELLENCE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €60.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Mon, 22 Sep 2025 12:04:31 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Oct 2025 05:39:36 +0000</lastBuildDate><atom:link href="https://ht-x.com/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MCP Analytics and Authentication Platform</title>
+      <link>https://ht-x.com/posts/2025/10/mcp-analytics-and-authentication-platform/</link>
+      <pubDate>Tue, 14 Oct 2025 05:39:36 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/10/mcp-analytics-and-authentication-platform/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Deep Chat</title>
-      <link>http://localhost:1313/posts/2025/09/deep-chat/</link>
+      <link>https://ht-x.com/posts/2025/09/deep-chat/</link>
       <pubDate>Mon, 22 Sep 2025 12:04:31 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2025/09/deep-chat/</guid>
+      <guid>https://ht-x.com/posts/2025/09/deep-chat/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>RAGFlow</title>
-      <link>http://localhost:1313/posts/2025/09/ragflow/</link>
+      <link>https://ht-x.com/posts/2025/09/ragflow/</link>
       <pubDate>Sat, 06 Sep 2025 09:59:50 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2025/09/ragflow/</guid>
+      <guid>https://ht-x.com/posts/2025/09/ragflow/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>NextChat</title>
-      <link>http://localhost:1313/posts/2025/09/nextchat/</link>
+      <link>https://ht-x.com/posts/2025/09/nextchat/</link>
       <pubDate>Thu, 04 Sep 2025 18:45:09 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2025/09/nextchat/</guid>
+      <guid>https://ht-x.com/posts/2025/09/nextchat/</guid>
       <description></description>
       
     </item>
