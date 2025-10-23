@@ -1,36 +1,3 @@
-# robots.txt per https://ht-x.com
-# Ultimo aggiornamento: 2025-10-18
-
 User-agent: *
-# Consenti la scansione di tutto il contenuto pubblico
 Allow: /
-
-# Blocca directory non rilevanti o tecniche
-Disallow: /assets/
-Disallow: /static/
-Disallow: /resources/
-Disallow: /temp/
-Disallow: /drafts/
-
-# Imposta un piccolo crawl delay per non sovraccaricare il server
-Crawl-delay: 5
-
-# Sitemap per ogni lingua
 Sitemap: https://ht-x.com/sitemap.xml
-Sitemap: https://ht-x.com/it/sitemap.xml
-Sitemap: https://ht-x.com/en/sitemap.xml
-
-# Blocca alcuni bot noti per scraping aggressivo
-User-agent: MJ12bot
-Disallow: /
-User-agent: AhrefsBot
-Disallow: /
-User-agent: SemrushBot
-Disallow: /
-
-# Consenti esplicitamente ai bot di Google e Bing
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
-Allow: /

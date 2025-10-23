@@ -4,25 +4,25 @@
 
   <url>
     <loc>https://ht-x.com/posts/2025/</loc>
-    <lastmod>2025-10-18T09:23:13+00:00</lastmod>
+    <lastmod>2025-10-23T13:57:12+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ht-x.com/posts/</loc>
-    <lastmod>2025-10-18T09:23:13+00:00</lastmod>
+    <lastmod>2025-10-23T13:57:12+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://ht-x.com/posts/2025/10/make-any-app-searchable-for-ai-agents/</loc>
-    <lastmod>2025-10-18T09:23:13+00:00</lastmod>
+    <loc>https://ht-x.com/posts/2025/10/deepseek-ocr/</loc>
+    <lastmod>2025-10-23T13:57:12+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ht-x.com/</loc>
-    <lastmod>2025-10-18T09:23:13+00:00</lastmod>
+    <lastmod>2025-10-23T13:57:12+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -35,6 +35,78 @@
       hreflang="it"
       href="https://ht-x.com/"
     />
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/10/airbyte-the-leading-data-integration-platform-for/</loc>
+    <lastmod>2025-10-23T13:54:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/10/enterprise-deep-research/</loc>
+    <lastmod>2025-10-23T13:53:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/10/i-quite-like-the-new-deepseek-ocr-paper/</loc>
+    <lastmod>2025-10-23T06:34:30+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/10/olmocr-2-unit-test-rewards-for-document-ocr-ai2/</loc>
+    <lastmod>2025-10-22T22:14:31+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/10/we-used-deepseek-ocr-to-extract-every-dataset-from/</loc>
+    <lastmod>2025-10-22T07:59:29+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/10/scripts-i-wrote-that-i-use-all-the-time/</loc>
+    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/10/deepseek-ocr-more-than-ocr-youtube/</loc>
+    <lastmod>2025-10-21T19:55:35+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/10/how-to-get-consistent-classification-from-inconsis/</loc>
+    <lastmod>2025-10-21T07:33:04+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/10/production-rag-what-i-learned-from-processing-5m-d/</loc>
+    <lastmod>2025-10-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/10/stanford-s-all-free-courses-2024-2025-cs230-deep-l/</loc>
+    <lastmod>2025-10-19T02:59:45+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/10/syllabus/</loc>
+    <lastmod>2025-10-19T02:39:22+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/10/make-any-app-searchable-for-ai-agents/</loc>
+    <lastmod>2025-10-18T09:23:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ht-x.com/posts/2025/10/paddleocr-vl-boosting-multilingual-document-parsin/</loc>
@@ -75,6 +147,12 @@
   <url>
     <loc>https://ht-x.com/posts/2025/10/mcp-analytics-and-authentication-platform/</loc>
     <lastmod>2025-10-14T05:39:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/10/my-trick-for-getting-consistent-classification-fro/</loc>
+    <lastmod>2025-10-13T18:01:07+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
