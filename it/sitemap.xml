@@ -4,25 +4,25 @@
 
   <url>
     <loc>https://ht-x.com/posts/2025/</loc>
-    <lastmod>2025-10-23T13:57:12+00:00</lastmod>
+    <lastmod>2025-10-24T02:11:12+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ht-x.com/posts/</loc>
-    <lastmod>2025-10-23T13:57:12+00:00</lastmod>
+    <lastmod>2025-10-24T02:11:12+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://ht-x.com/posts/2025/10/deepseek-ocr/</loc>
-    <lastmod>2025-10-23T13:57:12+00:00</lastmod>
+    <loc>https://ht-x.com/posts/2025/10/opensnowcat-enterprise-grade-behavioral-data-platf/</loc>
+    <lastmod>2025-10-24T02:11:12+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ht-x.com/</loc>
-    <lastmod>2025-10-23T13:57:12+00:00</lastmod>
+    <lastmod>2025-10-24T02:11:12+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -35,6 +35,24 @@
       hreflang="it"
       href="https://ht-x.com/"
     />
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/10/dr-milan-milanovic-milan-milanovic-on-x/</loc>
+    <lastmod>2025-10-24T02:02:31+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/10/game-theory-open-yale-courses/</loc>
+    <lastmod>2025-10-24T01:58:37+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/10/deepseek-ocr/</loc>
+    <lastmod>2025-10-23T13:57:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ht-x.com/posts/2025/10/airbyte-the-leading-data-integration-platform-for/</loc>
