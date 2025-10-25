@@ -2,89 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on HUMAN TECHNOLOGY eXCELLENCE</title>
-    <link>https://ht-x.com/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on HUMAN TECHNOLOGY eXCELLENCE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €60.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Fri, 24 Oct 2025 02:11:12 +0200</lastBuildDate><atom:link href="https://ht-x.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Oct 2025 02:11:12 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Articoli</title>
-      <link>https://ht-x.com/categories/articoli/</link>
+      <link>http://localhost:1313/categories/articoli/</link>
       <pubDate>Fri, 24 Oct 2025 02:11:12 +0200</pubDate>
       
-      <guid>https://ht-x.com/categories/articoli/</guid>
+      <guid>http://localhost:1313/categories/articoli/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Corso</title>
-      <link>https://ht-x.com/categories/corso/</link>
+      <link>http://localhost:1313/categories/corso/</link>
       <pubDate>Fri, 24 Oct 2025 01:58:37 +0200</pubDate>
       
-      <guid>https://ht-x.com/categories/corso/</guid>
+      <guid>http://localhost:1313/categories/corso/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub</title>
-      <link>https://ht-x.com/categories/github/</link>
+      <link>http://localhost:1313/categories/github/</link>
       <pubDate>Thu, 23 Oct 2025 13:57:12 +0000</pubDate>
       
-      <guid>https://ht-x.com/categories/github/</guid>
+      <guid>http://localhost:1313/categories/github/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>API</title>
-      <link>https://ht-x.com/categories/api/</link>
+      <link>http://localhost:1313/categories/api/</link>
       <pubDate>Thu, 23 Oct 2025 13:54:13 +0000</pubDate>
       
-      <guid>https://ht-x.com/categories/api/</guid>
+      <guid>http://localhost:1313/categories/api/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Framework</title>
-      <link>https://ht-x.com/categories/framework/</link>
+      <link>http://localhost:1313/categories/framework/</link>
       <pubDate>Tue, 14 Oct 2025 06:35:25 +0000</pubDate>
       
-      <guid>https://ht-x.com/categories/framework/</guid>
+      <guid>http://localhost:1313/categories/framework/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hacker News</title>
-      <link>https://ht-x.com/categories/hacker-news/</link>
+      <link>http://localhost:1313/categories/hacker-news/</link>
       <pubDate>Mon, 13 Oct 2025 18:01:07 +0000</pubDate>
       
-      <guid>https://ht-x.com/categories/hacker-news/</guid>
+      <guid>http://localhost:1313/categories/hacker-news/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tool</title>
-      <link>https://ht-x.com/categories/tool/</link>
+      <link>http://localhost:1313/categories/tool/</link>
       <pubDate>Mon, 29 Sep 2025 12:45:31 +0000</pubDate>
       
-      <guid>https://ht-x.com/categories/tool/</guid>
+      <guid>http://localhost:1313/categories/tool/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Progetti Finanziati</title>
-      <link>https://ht-x.com/categories/progetti-finanziati/</link>
+      <link>http://localhost:1313/categories/progetti-finanziati/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://ht-x.com/categories/progetti-finanziati/</guid>
+      <guid>http://localhost:1313/categories/progetti-finanziati/</guid>
       <description></description>
       
     </item>

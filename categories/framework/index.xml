@@ -2,139 +2,139 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Framework on HUMAN TECHNOLOGY eXCELLENCE</title>
-    <link>https://ht-x.com/categories/framework/</link>
+    <link>http://localhost:1313/categories/framework/</link>
     <description>Recent content in Framework on HUMAN TECHNOLOGY eXCELLENCE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €60.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Tue, 14 Oct 2025 06:35:25 +0000</lastBuildDate><atom:link href="https://ht-x.com/categories/framework/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Oct 2025 06:35:25 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/framework/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>ROMA: Recursive Open Meta-Agents</title>
-      <link>https://ht-x.com/posts/2025/10/roma-recursive-open-meta-agents/</link>
+      <link>http://localhost:1313/posts/2025/10/roma-recursive-open-meta-agents/</link>
       <pubDate>Tue, 14 Oct 2025 06:35:25 +0000</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/10/roma-recursive-open-meta-agents/</guid>
+      <guid>http://localhost:1313/posts/2025/10/roma-recursive-open-meta-agents/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>RAG-Anything: All-in-One RAG Framework</title>
-      <link>https://ht-x.com/posts/2025/09/rag-anything-all-in-one-rag-framework/</link>
+      <link>http://localhost:1313/posts/2025/09/rag-anything-all-in-one-rag-framework/</link>
       <pubDate>Mon, 29 Sep 2025 13:02:53 +0000</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/rag-anything-all-in-one-rag-framework/</guid>
+      <guid>http://localhost:1313/posts/2025/09/rag-anything-all-in-one-rag-framework/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>The LLM Red Teaming Framework</title>
-      <link>https://ht-x.com/posts/2025/09/the-llm-red-teaming-framework/</link>
+      <link>http://localhost:1313/posts/2025/09/the-llm-red-teaming-framework/</link>
       <pubDate>Thu, 04 Sep 2025 14:51:19 +0000</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/the-llm-red-teaming-framework/</guid>
+      <guid>http://localhost:1313/posts/2025/09/the-llm-red-teaming-framework/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Memvid</title>
-      <link>https://ht-x.com/posts/2025/09/memvid/</link>
+      <link>http://localhost:1313/posts/2025/09/memvid/</link>
       <pubDate>Thu, 04 Sep 2025 12:45:37 +0000</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/memvid/</guid>
+      <guid>http://localhost:1313/posts/2025/09/memvid/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>VibeVoice: A Frontier Open-Source Text-to-Speech Model</title>
-      <link>https://ht-x.com/posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/</link>
+      <link>http://localhost:1313/posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/</link>
       <pubDate>Wed, 03 Sep 2025 10:44:01 +0000</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/</guid>
+      <guid>http://localhost:1313/posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>DSPy</title>
-      <link>https://ht-x.com/posts/2025/09/dspy/</link>
+      <link>http://localhost:1313/posts/2025/09/dspy/</link>
       <pubDate>Mon, 25 Aug 2025 04:11:52 +0200</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/dspy/</guid>
+      <guid>http://localhost:1313/posts/2025/09/dspy/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Elysia: Agentic Framework Powered by Decision Trees</title>
-      <link>https://ht-x.com/posts/2025/09/elysia-agentic-framework-powered-by-decision-trees/</link>
+      <link>http://localhost:1313/posts/2025/09/elysia-agentic-framework-powered-by-decision-trees/</link>
       <pubDate>Sun, 17 Aug 2025 03:51:27 +0200</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/elysia-agentic-framework-powered-by-decision-trees/</guid>
+      <guid>http://localhost:1313/posts/2025/09/elysia-agentic-framework-powered-by-decision-trees/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>LangExtract</title>
-      <link>https://ht-x.com/posts/2025/09/langextract/</link>
+      <link>http://localhost:1313/posts/2025/09/langextract/</link>
       <pubDate>Sun, 17 Aug 2025 03:48:51 +0200</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/langextract/</guid>
+      <guid>http://localhost:1313/posts/2025/09/langextract/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Litestar is worth a look</title>
-      <link>https://ht-x.com/posts/2025/09/litestar-is-worth-a-look/</link>
+      <link>http://localhost:1313/posts/2025/09/litestar-is-worth-a-look/</link>
       <pubDate>Wed, 06 Aug 2025 19:43:01 +0000</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/litestar-is-worth-a-look/</guid>
+      <guid>http://localhost:1313/posts/2025/09/litestar-is-worth-a-look/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>[2507.14447] Routine: A Structural Planning Framework for LLM Agent System in Enterprise</title>
-      <link>https://ht-x.com/posts/2025/09/2507-14447-routine-a-structural-planning-framework/</link>
+      <link>http://localhost:1313/posts/2025/09/2507-14447-routine-a-structural-planning-framework/</link>
       <pubDate>Thu, 24 Jul 2025 07:41:30 +0200</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/2507-14447-routine-a-structural-planning-framework/</guid>
+      <guid>http://localhost:1313/posts/2025/09/2507-14447-routine-a-structural-planning-framework/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>SymbolicAI: A neuro-symbolic perspective on LLMs</title>
-      <link>https://ht-x.com/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/</link>
+      <link>http://localhost:1313/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/</link>
       <pubDate>Fri, 27 Jun 2025 18:49:57 +0000</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/</guid>
+      <guid>http://localhost:1313/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Snorting the AGI with Claude Code</title>
-      <link>https://ht-x.com/posts/2025/09/snorting-the-agi-with-claude-code/</link>
+      <link>http://localhost:1313/posts/2025/09/snorting-the-agi-with-claude-code/</link>
       <pubDate>Mon, 16 Jun 2025 11:01:32 +0000</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/snorting-the-agi-with-claude-code/</guid>
+      <guid>http://localhost:1313/posts/2025/09/snorting-the-agi-with-claude-code/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning | Nature</title>
-      <link>https://ht-x.com/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through/</link>
+      <link>http://localhost:1313/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through/</link>
       <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through/</guid>
+      <guid>http://localhost:1313/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through/</guid>
       <description></description>
       
     </item>

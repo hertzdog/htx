@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computer Vision on HUMAN TECHNOLOGY eXCELLENCE</title>
-    <link>https://ht-x.com/tags/computer-vision/</link>
+    <link>http://localhost:1313/tags/computer-vision/</link>
     <description>Recent content in Computer Vision on HUMAN TECHNOLOGY eXCELLENCE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €60.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Thu, 23 Oct 2025 06:34:30 +0200</lastBuildDate><atom:link href="https://ht-x.com/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Oct 2025 06:34:30 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>I quite like the new DeepSeek-OCR paper</title>
-      <link>https://ht-x.com/posts/2025/10/i-quite-like-the-new-deepseek-ocr-paper/</link>
+      <link>http://localhost:1313/posts/2025/10/i-quite-like-the-new-deepseek-ocr-paper/</link>
       <pubDate>Thu, 23 Oct 2025 06:34:30 +0200</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/10/i-quite-like-the-new-deepseek-ocr-paper/</guid>
+      <guid>http://localhost:1313/posts/2025/10/i-quite-like-the-new-deepseek-ocr-paper/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model</title>
-      <link>https://ht-x.com/posts/2025/10/paddleocr-vl-boosting-multilingual-document-parsin/</link>
+      <link>http://localhost:1313/posts/2025/10/paddleocr-vl-boosting-multilingual-document-parsin/</link>
       <pubDate>Sat, 18 Oct 2025 03:53:02 +0200</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/10/paddleocr-vl-boosting-multilingual-document-parsin/</guid>
+      <guid>http://localhost:1313/posts/2025/10/paddleocr-vl-boosting-multilingual-document-parsin/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Qwen-Image</title>
-      <link>https://ht-x.com/posts/2025/09/qwen-image/</link>
+      <link>http://localhost:1313/posts/2025/09/qwen-image/</link>
       <pubDate>Tue, 23 Sep 2025 16:14:19 +0000</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/qwen-image/</guid>
+      <guid>http://localhost:1313/posts/2025/09/qwen-image/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>dots.ocr: Multilingual Document Layout Parsing in a Single Vision-Language Model</title>
-      <link>https://ht-x.com/posts/2025/09/dots-ocr-multilingual-document-layout-parsing-in-a/</link>
+      <link>http://localhost:1313/posts/2025/09/dots-ocr-multilingual-document-layout-parsing-in-a/</link>
       <pubDate>Sun, 14 Sep 2025 15:17:44 +0000</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/dots-ocr-multilingual-document-layout-parsing-in-a/</guid>
+      <guid>http://localhost:1313/posts/2025/09/dots-ocr-multilingual-document-layout-parsing-in-a/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Vision Now Available in Llama.cpp</title>
-      <link>https://ht-x.com/posts/2025/09/vision-now-available-in-llama-cpp/</link>
+      <link>http://localhost:1313/posts/2025/09/vision-now-available-in-llama-cpp/</link>
       <pubDate>Sat, 10 May 2025 03:39:46 +0000</pubDate>
       
-      <guid>https://ht-x.com/posts/2025/09/vision-now-available-in-llama-cpp/</guid>
+      <guid>http://localhost:1313/posts/2025/09/vision-now-available-in-llama-cpp/</guid>
       <description></description>
       
     </item>
