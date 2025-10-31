@@ -4,25 +4,25 @@
 
   <url>
     <loc>https://ht-x.com/posts/2025/</loc>
-    <lastmod>2025-10-24T02:11:12+02:00</lastmod>
+    <lastmod>2025-10-31T07:05:40+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ht-x.com/posts/</loc>
-    <lastmod>2025-10-24T02:11:12+02:00</lastmod>
+    <lastmod>2025-10-31T07:05:40+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://ht-x.com/posts/2025/10/opensnowcat-enterprise-grade-behavioral-data-platf/</loc>
-    <lastmod>2025-10-24T02:11:12+02:00</lastmod>
+    <loc>https://ht-x.com/posts/2025/10/openskills/</loc>
+    <lastmod>2025-10-31T07:05:40+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ht-x.com/</loc>
-    <lastmod>2025-10-24T02:11:12+02:00</lastmod>
+    <lastmod>2025-10-31T07:05:40+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -35,6 +35,30 @@
       hreflang="it"
       href="https://ht-x.com/"
     />
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/10/minimax-m2/</loc>
+    <lastmod>2025-10-31T06:42:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/10/ai-act-single-information-platform-ai-act-service/</loc>
+    <lastmod>2025-10-31T06:08:13+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/10/eurollm-io/</loc>
+    <lastmod>2025-10-29T13:47:51+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/10/opensnowcat-enterprise-grade-behavioral-data-platf/</loc>
+    <lastmod>2025-10-24T02:11:12+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ht-x.com/posts/2025/10/dr-milan-milanovic-milan-milanovic-on-x/</loc>
@@ -1131,6 +1155,12 @@
   <url>
     <loc>https://ht-x.com/posts/2025/09/large-language-models-are-proficient-in-solving-an/</loc>
     <lastmod>2024-10-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/10/everything-about-transformers/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
