@@ -8,12 +8,12 @@ feature_image: /images/posts/2025/09/sim-piattaforma-open-source-ai-featured.web
 images:
 - /images/posts/2025/09/sim-piattaforma-open-source-ai-featured.webp
 - /images/posts/2025/09/sim-piattaforma-open-source-ai-2.webp
-last_linked: '2025-09-23T19:30:33.929055'
+last_linked: '2025-10-31T08:34:31.583526'
 processed_date: 2025-09-04 19:30
 related_articles:
-- /posts/2025/09/cua-is-docker-for-computer-use-ai-agents/
-- /posts/2025/09/enable-ai-to-control-your-browser/
-- /posts/2025/09/mcp-use/
+- /posts/2025/10/cua-open-source-infrastructure-for-computer-use-ag/
+- /posts/2025/08/parlant/
+- /posts/2025/09/turns-codebase-into-easy-tutorial-with-ai/
 series:
 - Articoli Interessanti
 showDate: true
@@ -102,6 +102,6 @@ Fonte originale: [https://github.com/simstudioai/sim](https://github.com/simstud
 
 ## Articoli Correlati
 
-- [Cua is Docker for Computer-Use AI Agents](/posts/2025/09/cua-is-docker-for-computer-use-ai-agents/) - *Open Source, AI Agent, AI*
-- [Enable AI to control your browser 🤖](/posts/2025/09/enable-ai-to-control-your-browser/) - *AI Agent, Open Source, Python*
-- [MCP-Use](/posts/2025/09/mcp-use/) - *AI Agent, Open Source*
+- [Cua: Open-source infrastructure for Computer-Use Agents](/posts/2025/10/cua-open-source-infrastructure-for-computer-use-ag/) - *Python, AI, Open Source*
+- [Parlant](/posts/2025/08/parlant/) - *AI Agent, LLM, Open Source*
+- [Turns Codebase into Easy Tutorial with AI](/posts/2025/09/turns-codebase-into-easy-tutorial-with-ai/) - *Python, Open Source, AI*

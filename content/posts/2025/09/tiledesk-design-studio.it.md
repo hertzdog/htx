@@ -11,12 +11,12 @@ images:
 - /images/posts/2025/09/tiledesk-design-studio-featured.webp
 - /images/posts/2025/09/tiledesk-design-studio-2.webp
 - /images/posts/2025/09/tiledesk-design-studio-4.webp
-last_linked: '2025-09-23T19:30:34.064742'
+last_linked: '2025-10-31T08:34:31.764982'
 processed_date: 2025-09-04 19:03
 related_articles:
-- /posts/2025/09/show-hn-onlook-open-source-visual-first-cursor-for/
+- /posts/2025/08/sim/
 - /posts/2025/09/nextchat/
-- /posts/2025/09/surfsense/
+- /posts/2025/08/elysia-agentic-framework-powered-by-decision-trees/
 series:
 - Articoli Interessanti
 showDate: true
@@ -99,6 +99,6 @@ Fonte originale: [https://github.com/Tiledesk/design-studio](https://github.com/
 
 ## Articoli Correlati
 
-- [Show HN: Onlook – Open-source, visual-first Cursor for designers](/posts/2025/09/show-hn-onlook-open-source-visual-first-cursor-for/) - *Tech*
+- [Sim](/posts/2025/08/sim/) - *AI, AI Agent, Open Source*
 - [NextChat](/posts/2025/09/nextchat/) - *AI, Open Source, Typescript*
-- [SurfSense](/posts/2025/09/surfsense/) - *Open Source, Python*
+- [Elysia: Agentic Framework Powered by Decision Trees](/posts/2025/08/elysia-agentic-framework-powered-by-decision-trees/) - *Best Practices, Python, AI Agent*

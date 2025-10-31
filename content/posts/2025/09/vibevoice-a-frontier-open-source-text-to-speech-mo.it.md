@@ -11,12 +11,12 @@ feature_image: /images/posts/2025/09/vibevice-frontier-open-source-text-to-speec
 images:
 - /images/posts/2025/09/vibevice-frontier-open-source-text-to-speech-model-2.webp
 - /images/posts/2025/09/vibevice-frontier-open-source-text-to-speech-model-3.webp
-last_linked: '2025-09-23T19:30:34.003000'
+last_linked: '2025-10-31T08:34:31.684778'
 processed_date: 2025-09-04 18:55
 related_articles:
 - /posts/2025/09/show-hn-clavier-36-a-programming-environment-for-g/
-- /posts/2025/09/claudia-desktop-companion-for-claude-code/
-- /posts/2025/09/litestar-is-worth-a-look/
+- /posts/2025/05/show-hn-onlook-open-source-visual-first-cursor-for/
+- /posts/2025/08/llama-scan-convert-pdfs-to-text-w-local-llms/
 series:
 - Articoli Interessanti
 showDate: true
@@ -111,5 +111,5 @@ Fonte originale: [https://news.ycombinator.com/item?id=45114245](https://news.yc
 ## Articoli Correlati
 
 - [Show HN: CLAVIER-36 – A programming environment for generative music](/posts/2025/09/show-hn-clavier-36-a-programming-environment-for-g/) - *Tech*
-- [Claudia – Desktop companion for Claude code](/posts/2025/09/claudia-desktop-companion-for-claude-code/) - *Foundation Model, AI*
-- [Litestar is worth a look](/posts/2025/09/litestar-is-worth-a-look/) - *Best Practices, Python*
+- [Show HN: Onlook – Open-source, visual-first Cursor for designers](/posts/2025/05/show-hn-onlook-open-source-visual-first-cursor-for/) - *Tech*
+- [Llama-Scan: Convert PDFs to Text W Local LLMs](/posts/2025/08/llama-scan-convert-pdfs-to-text-w-local-llms/) - *LLM, Natural Language Processing*

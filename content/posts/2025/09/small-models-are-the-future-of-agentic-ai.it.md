@@ -7,12 +7,12 @@ description: Articolo di ricerca su come i modelli piccoli stanno rivoluzionando
 draft: false
 feature_image: /images/background.svg
 images: []
-last_linked: '2025-09-23T19:30:34.053968'
+last_linked: '2025-10-31T08:34:31.751659'
 processed_date: 2025-09-18 15:12
 related_articles:
-- /posts/2025/09/how-anthropic-teams-use-claude-code/
-- /posts/2025/09/alexander-kruel-links-for-2025-08-24/
-- /posts/2025/09/research-agent-with-gemini-2-5-pro-and-llamaindex/
+- /posts/2025/07/research-agent-with-gemini-2-5-pro-and-llamaindex/
+- /posts/2025/06/gemini-for-google-workspace-prompting-guide-101/
+- /posts/2025/09/google-just-dropped-an-ace-64-page-guide-on-buildi/
 series:
 - Articoli Interessanti
 showDate: true
@@ -93,6 +93,6 @@ Fonte originale: []()</small>*
 
 ## Articoli Correlati
 
-- [How Anthropic Teams Use Claude Code](/posts/2025/09/how-anthropic-teams-use-claude-code/) - *AI*
-- [Alexander Kruel - Links for 2025-08-24](/posts/2025/09/alexander-kruel-links-for-2025-08-24/) - *Foundation Model, AI*
-- [Research Agent with Gemini 2.5 Pro and LlamaIndex  |  Gemini API  |  Google AI for Developers](/posts/2025/09/research-agent-with-gemini-2-5-pro-and-llamaindex/) - *AI, Go, AI Agent*
+- [Research Agent with Gemini 2.5 Pro and LlamaIndex  |  Gemini API  |  Google AI for Developers](/posts/2025/07/research-agent-with-gemini-2-5-pro-and-llamaindex/) - *AI, Go, AI Agent*
+- [Gemini for Google Workspace Prompting Guide 101](/posts/2025/06/gemini-for-google-workspace-prompting-guide-101/) - *AI, Go, Foundation Model*
+- [Google just dropped an ace 64-page guide on building AI Agents](/posts/2025/09/google-just-dropped-an-ace-64-page-guide-on-buildi/) - *Go, AI Agent, AI*

@@ -11,12 +11,12 @@ feature_image: /images/posts/2025/09/agenticseek-private-local-manus-alternative
 images:
 - /images/posts/2025/09/agenticseek-private-local-manus-alternative-4.webp
 language: Python
-last_linked: '2025-09-23T19:30:33.919171'
+last_linked: '2025-10-31T08:34:31.571815'
 processed_date: 2025-09-23 16:49
 related_articles:
-- /posts/2025/09/focalboard/
-- /posts/2025/09/sim/
-- /posts/2025/09/fallinorg-v1-0-0-beta/
+- /posts/2025/08/focalboard/
+- /posts/2025/10/airbyte-the-leading-data-integration-platform-for/
+- /posts/2025/08/fallinorg-v1-0-0-beta/
 series:
 - Articoli Interessanti
 showDate: true
@@ -108,6 +108,6 @@ Fonte originale: [https://github.com/Fosowl/agenticSeek](https://github.com/Foso
 
 ## Articoli Correlati
 
-- [Focalboard](/posts/2025/09/focalboard/) - *Open Source*
-- [Sim](/posts/2025/09/sim/) - *AI, AI Agent, Open Source*
-- [Fallinorg v1.0.0-beta](/posts/2025/09/fallinorg-v1-0-0-beta/) - *Open Source*
+- [Focalboard](/posts/2025/08/focalboard/) - *Open Source*
+- [Airbyte: The Leading Data Integration Platform for ETL/ELT Pipelines](/posts/2025/10/airbyte-the-leading-data-integration-platform-for/) - *Python, DevOps, AI*
+- [Fallinorg v1.0.0-beta](/posts/2025/08/fallinorg-v1-0-0-beta/) - *Open Source*

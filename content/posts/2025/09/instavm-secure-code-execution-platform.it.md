@@ -13,12 +13,12 @@ images:
 - /images/posts/2025/09/instavm-secure-code-execution-platform-4.webp
 - /images/posts/2025/09/instavm-secure-code-execution-platform-5.webp
 language: en
-last_linked: '2025-09-23T19:30:33.858999'
+last_linked: '2025-10-31T08:34:31.508082'
 processed_date: 2025-09-04 19:29
 related_articles:
-- /posts/2025/09/my-ai-skeptic-friends-are-all-nuts-the-fly-blog/
-- /posts/2025/09/field-notes-from-shipping-real-code-with-claude/
 - /posts/2025/09/how-to-use-claude-code-subagents-to-parallelize-de/
+- /posts/2025/08/fallinorg-v1-0-0-beta/
+- /posts/2025/06/my-ai-skeptic-friends-are-all-nuts-the-fly-blog/
 series:
 - Articoli Interessanti
 showDate: true
@@ -97,6 +97,6 @@ Fonte originale: [https://instavm.io/blog/building-my-offline-ai-workspace](http
 
 ## Articoli Correlati
 
-- [My AI Skeptic Friends Are All Nuts · The Fly Blog](/posts/2025/09/my-ai-skeptic-friends-are-all-nuts-the-fly-blog/) - *LLM, AI*
-- [Field Notes From Shipping Real Code With Claude](/posts/2025/09/field-notes-from-shipping-real-code-with-claude/) - *Tech*
 - [How to Use Claude Code Subagents to Parallelize Development](/posts/2025/09/how-to-use-claude-code-subagents-to-parallelize-de/) - *AI Agent, AI*
+- [Fallinorg v1.0.0-beta](/posts/2025/08/fallinorg-v1-0-0-beta/) - *Open Source*
+- [My AI Skeptic Friends Are All Nuts · The Fly Blog](/posts/2025/06/my-ai-skeptic-friends-are-all-nuts-the-fly-blog/) - *LLM, AI*

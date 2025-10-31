@@ -14,12 +14,12 @@ images:
 - /images/posts/2025/09/backlog-md-markdown-native-task-manager-kanban-visualizer-4.webp
 - /images/posts/2025/09/backlog-md-markdown-native-task-manager-kanban-visualizer-5.webp
 - /images/posts/2025/09/backlog-md-markdown-native-task-manager-kanban-visualizer-6.webp
-last_linked: '2025-09-23T19:30:33.999593'
+last_linked: '2025-10-31T08:34:31.679627'
 processed_date: 2025-09-06 10:27
 related_articles:
-- /posts/2025/09/opencode-ai-coding-agent-built-for-the-terminal/
-- /posts/2025/09/nanonets-ocr-s-ocr-model-that-transforms-documents/
-- /posts/2025/09/claudia-desktop-companion-for-claude-code/
+- /posts/2025/07/opencode-ai-coding-agent-built-for-the-terminal/
+- /posts/2025/07/qwen3-coder-agentic-coding-in-the-world/
+- /posts/2025/06/symbolicai-a-neuro-symbolic-perspective-on-llms/
 series:
 - Articoli Interessanti
 showDate: true
@@ -109,6 +109,6 @@ Fonte originale: [https://news.ycombinator.com/item?id=44483530](https://news.yc
 
 ## Articoli Correlati
 
-- [Opencode: AI coding agent, built for the terminal](/posts/2025/09/opencode-ai-coding-agent-built-for-the-terminal/) - *AI Agent, AI*
-- [Nanonets-OCR-s – OCR model that transforms documents into structured markdown](/posts/2025/09/nanonets-ocr-s-ocr-model-that-transforms-documents/) - *LLM, Foundation Model*
-- [Claudia – Desktop companion for Claude code](/posts/2025/09/claudia-desktop-companion-for-claude-code/) - *Foundation Model, AI*
+- [Opencode: AI coding agent, built for the terminal](/posts/2025/07/opencode-ai-coding-agent-built-for-the-terminal/) - *AI Agent, AI*
+- [Qwen3-Coder: Agentic coding in the world](/posts/2025/07/qwen3-coder-agentic-coding-in-the-world/) - *AI Agent, Foundation Model*
+- [SymbolicAI: A neuro-symbolic perspective on LLMs](/posts/2025/06/symbolicai-a-neuro-symbolic-perspective-on-llms/) - *Foundation Model, Python, Best Practices*

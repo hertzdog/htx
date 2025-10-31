@@ -9,12 +9,12 @@ feature_image: /images/posts/2025/09/come-addestrare-un-llm-con-i-tuoi-dati-pers
 images:
 - /images/posts/2025/09/come-addestrare-un-llm-con-i-tuoi-dati-personali-featured.webp
 language: en
-last_linked: '2025-09-23T19:30:33.953477'
+last_linked: '2025-10-31T08:34:31.611506'
 processed_date: 2025-09-06 10:52
 related_articles:
-- /posts/2025/09/build-a-large-language-model-from-scratch/
-- /posts/2025/09/judge-rules-training-ai-on-copyrighted-works-is-fa/
-- /posts/2025/09/agentic-design-patterns-documenti-google/
+- /posts/2025/06/gemini-for-google-workspace-prompting-guide-101/
+- /posts/2025/09/google-just-dropped-an-ace-64-page-guide-on-buildi/
+- /posts/2025/07/agentic-design-patterns-documenti-google/
 series:
 - Articoli Interessanti
 showDate: true
@@ -96,6 +96,6 @@ Fonte originale: [https://m.youtube.com/watch?v=UYOLlCuPFMc&pp=0gcJCY0JAYcqIYzv]
 
 ## Articoli Correlati
 
-- [Build a Large Language Model (From Scratch)](/posts/2025/09/build-a-large-language-model-from-scratch/) - *Foundation Model, LLM, Open Source*
-- [Judge Rules Training AI on Copyrighted Works Is Fair Use, Agentic Biology Evolves, and more...](/posts/2025/09/judge-rules-training-ai-on-copyrighted-works-is-fa/) - *AI Agent, LLM, AI*
-- [Agentic Design Patterns - Documenti Google](/posts/2025/09/agentic-design-patterns-documenti-google/) - *Go, AI Agent*
+- [Gemini for Google Workspace Prompting Guide 101](/posts/2025/06/gemini-for-google-workspace-prompting-guide-101/) - *AI, Go, Foundation Model*
+- [Google just dropped an ace 64-page guide on building AI Agents](/posts/2025/09/google-just-dropped-an-ace-64-page-guide-on-buildi/) - *Go, AI Agent, AI*
+- [Agentic Design Patterns - Documenti Google](/posts/2025/07/agentic-design-patterns-documenti-google/) - *Go, AI Agent*

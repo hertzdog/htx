@@ -13,12 +13,12 @@ images:
 - /images/posts/2025/09/building-effective-ai-agents-4.webp
 - /images/posts/2025/09/building-effective-ai-agents-5.webp
 - /images/posts/2025/09/building-effective-ai-agents-6.webp
-last_linked: '2025-09-23T19:30:34.018330'
+last_linked: '2025-10-31T08:34:31.705426'
 processed_date: 2025-09-06 10:30
 related_articles:
-- /posts/2025/09/litestar-is-worth-a-look/
-- /posts/2025/09/launch-hn-lucidic-yc-w25-debug-test-and-evaluate-a/
-- /posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/
+- /posts/2025/08/litestar-is-worth-a-look/
+- /posts/2025/06/snorting-the-agi-with-claude-code/
+- /posts/2025/05/vision-now-available-in-llama-cpp/
 series:
 - Articoli Interessanti
 showDate: true
@@ -115,6 +115,6 @@ Fonte originale: [https://news.ycombinator.com/item?id=44301809](https://news.yc
 
 ## Articoli Correlati
 
-- [Litestar is worth a look](/posts/2025/09/litestar-is-worth-a-look/) - *Best Practices, Python*
-- [Launch HN: Lucidic (YC W25) – Debug, test, and evaluate AI agents in production](/posts/2025/09/launch-hn-lucidic-yc-w25-debug-test-and-evaluate-a/) - *AI, AI Agent*
-- [SymbolicAI: A neuro-symbolic perspective on LLMs](/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/) - *Foundation Model, Python, Best Practices*
+- [Litestar is worth a look](/posts/2025/08/litestar-is-worth-a-look/) - *Best Practices, Python*
+- [Snorting the AGI with Claude Code](/posts/2025/06/snorting-the-agi-with-claude-code/) - *Code Review, AI, Best Practices*
+- [Vision Now Available in Llama.cpp](/posts/2025/05/vision-now-available-in-llama-cpp/) - *Foundation Model, AI, Computer Vision*

@@ -10,12 +10,12 @@ images:
 - /images/posts/2025/09/prorl-prolonged-reinforcement-learning-large-language-models-featured.webp
 - /images/posts/2025/09/prorl-prolonged-reinforcement-learning-large-language-models-5.webp
 language: en
-last_linked: '2025-09-23T19:30:33.973929'
+last_linked: '2025-10-31T08:34:31.645583'
 processed_date: 2025-09-06 10:48
 related_articles:
-- /posts/2025/09/2505-24863-alphaone-reasoning-models-thinking-slow/
-- /posts/2025/09/2505-03335v2-absolute-zero-reinforced-self-play-re/
-- /posts/2025/09/the-illusion-of-thinking/
+- /posts/2025/05/2505-03335v2-absolute-zero-reinforced-self-play-re/
+- /posts/2025/02/deepseek-r1-incentivizes-reasoning-in-llms-through/
+- /posts/2025/06/the-illusion-of-thinking/
 series:
 - Articoli Interessanti
 showDate: true
@@ -96,6 +96,6 @@ Fonte originale: [https://arxiv.org/abs/2505.24864](https://arxiv.org/abs/2505.2
 
 ## Articoli Correlati
 
-- [[2505.24863] AlphaOne: Reasoning Models Thinking Slow and Fast at Test Time](/posts/2025/09/2505-24863-alphaone-reasoning-models-thinking-slow/) - *Foundation Model*
-- [[2505.03335v2] Absolute Zero: Reinforced Self-play Reasoning with Zero Data](/posts/2025/09/2505-03335v2-absolute-zero-reinforced-self-play-re/) - *Tech*
-- [The Illusion of Thinking](/posts/2025/09/the-illusion-of-thinking/) - *AI*
+- [[2505.03335v2] Absolute Zero: Reinforced Self-play Reasoning with Zero Data](/posts/2025/05/2505-03335v2-absolute-zero-reinforced-self-play-re/) - *Tech*
+- [DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning | Nature](/posts/2025/02/deepseek-r1-incentivizes-reasoning-in-llms-through/) - *LLM, AI, Best Practices*
+- [The Illusion of Thinking](/posts/2025/06/the-illusion-of-thinking/) - *AI*

@@ -8,12 +8,12 @@ draft: false
 feature_image: /images/posts/2025/09/billionmail-open-source-email-marketing-featured.webp
 images:
 - /images/posts/2025/09/billionmail-open-source-email-marketing-featured.webp
-last_linked: '2025-09-23T19:30:33.951852'
+last_linked: '2025-10-31T08:34:31.609839'
 processed_date: 2025-09-06 10:49
 related_articles:
-- /posts/2025/09/agenticseek-private-local-manus-alternative/
-- /posts/2025/09/focalboard/
-- /posts/2025/09/sim/
+- /posts/2025/08/focalboard/
+- /posts/2025/10/airbyte-the-leading-data-integration-platform-for/
+- /posts/2025/08/sim/
 series:
 - Articoli Interessanti
 showDate: true
@@ -95,6 +95,6 @@ Fonte originale: [https://github.com/aaPanel/BillionMail](https://github.com/aaP
 
 ## Articoli Correlati
 
-- [AgenticSeek: Private, Local Manus Alternative](/posts/2025/09/agenticseek-private-local-manus-alternative/) - *AI Agent, AI, Python*
-- [Focalboard](/posts/2025/09/focalboard/) - *Open Source*
-- [Sim](/posts/2025/09/sim/) - *AI, AI Agent, Open Source*
+- [Focalboard](/posts/2025/08/focalboard/) - *Open Source*
+- [Airbyte: The Leading Data Integration Platform for ETL/ELT Pipelines](/posts/2025/10/airbyte-the-leading-data-integration-platform-for/) - *Python, DevOps, AI*
+- [Sim](/posts/2025/08/sim/) - *AI, AI Agent, Open Source*

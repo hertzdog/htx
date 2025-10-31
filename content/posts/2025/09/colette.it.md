@@ -10,12 +10,12 @@ images:
 - /images/posts/2025/09/colette-open-source-rag-software-featured.webp
 - /images/posts/2025/09/colette-open-source-rag-software-2.webp
 language: HTML
-last_linked: '2025-09-23T19:30:33.927320'
+last_linked: '2025-10-31T08:34:31.581255'
 processed_date: 2025-09-04 19:37
 related_articles:
-- /posts/2025/09/pageindex-document-index-for-reasoning-based-rag/
+- /posts/2025/08/dyg-rag-dynamic-graph-retrieval-augmented-generati/
+- /posts/2025/08/pageindex-document-index-for-reasoning-based-rag/
 - /posts/2025/09/dots-ocr-multilingual-document-layout-parsing-in-a/
-- /posts/2025/09/ragflow/
 series:
 - Articoli Interessanti
 showDate: true
@@ -96,6 +96,6 @@ Fonte originale: [https://github.com/jolibrain/colette/tree/main](https://github
 
 ## Articoli Correlati
 
-- [PageIndex: Document Index for Reasoning-based RAG](/posts/2025/09/pageindex-document-index-for-reasoning-based-rag/) - *Open Source*
+- [DyG-RAG: Dynamic Graph Retrieval-Augmented Generation with Event-Centric Reasoning](/posts/2025/08/dyg-rag-dynamic-graph-retrieval-augmented-generati/) - *Open Source*
+- [PageIndex: Document Index for Reasoning-based RAG](/posts/2025/08/pageindex-document-index-for-reasoning-based-rag/) - *Open Source*
 - [dots.ocr: Multilingual Document Layout Parsing in a Single Vision-Language Model](/posts/2025/09/dots-ocr-multilingual-document-layout-parsing-in-a/) - *Foundation Model, LLM, Python*
-- [RAGFlow](/posts/2025/09/ragflow/) - *Open Source, Typescript, AI Agent*

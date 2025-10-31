@@ -9,12 +9,12 @@ draft: false
 feature_image: /images/posts/2025/09/langextract-python-library-featured.webp
 images:
 - /images/posts/2025/09/langextract-python-library-featured.webp
-last_linked: '2025-09-23T19:30:34.068809'
+last_linked: '2025-10-31T08:34:31.770959'
 processed_date: 2025-09-04 19:18
 related_articles:
-- /posts/2025/09/paperetl/
+- /posts/2025/08/paperetl/
+- /posts/2025/09/the-llm-red-teaming-framework/
 - /posts/2025/09/surfsense/
-- /posts/2025/09/paddleocr/
 series:
 - Articoli Interessanti
 showDate: true
@@ -97,6 +97,6 @@ Fonte originale: [https://github.com/google/langextract](https://github.com/goog
 
 ## Articoli Correlati
 
-- [paperetl](/posts/2025/09/paperetl/) - *Open Source*
+- [paperetl](/posts/2025/08/paperetl/) - *Open Source*
+- [The LLM Red Teaming Framework](/posts/2025/09/the-llm-red-teaming-framework/) - *Open Source, Python, LLM*
 - [SurfSense](/posts/2025/09/surfsense/) - *Open Source, Python*
-- [PaddleOCR](/posts/2025/09/paddleocr/) - *Open Source, DevOps, Python*

@@ -8,12 +8,12 @@ draft: false
 feature_image: /images/posts/2025/09/dyg-rag-dynamic-graph-retrieval-augmented-generation-featured.webp
 images:
 - /images/posts/2025/09/dyg-rag-dynamic-graph-retrieval-augmented-generation-featured.webp
-last_linked: '2025-09-23T19:30:33.923945'
+last_linked: '2025-10-31T08:34:31.577030'
 processed_date: 2025-09-04 19:00
 related_articles:
+- /posts/2025/09/rag-anything-all-in-one-rag-framework/
 - /posts/2025/09/colette/
 - /posts/2025/09/ragflow/
-- /posts/2025/09/pageindex-document-index-for-reasoning-based-rag/
 series:
 - Articoli Interessanti
 showDate: true
@@ -93,6 +93,6 @@ Fonte originale: [https://github.com/RingBDStack/DyG-RAG](https://github.com/Rin
 
 ## Articoli Correlati
 
+- [RAG-Anything: All-in-One RAG Framework](/posts/2025/09/rag-anything-all-in-one-rag-framework/) - *Python, Open Source, Best Practices*
 - [Colette - ci ricorda molto Kotaemon](/posts/2025/09/colette/) - *Html, Open Source*
 - [RAGFlow](/posts/2025/09/ragflow/) - *Open Source, Typescript, AI Agent*
-- [PageIndex: Document Index for Reasoning-based RAG](/posts/2025/09/pageindex-document-index-for-reasoning-based-rag/) - *Open Source*

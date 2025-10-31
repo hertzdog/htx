@@ -7,7 +7,167 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €60.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Tue, 23 Sep 2025 16:44:11 +0000</lastBuildDate><atom:link href="https://ht-x.com/categories/github/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Oct 2025 07:05:40 +0000</lastBuildDate><atom:link href="https://ht-x.com/categories/github/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenSkills</title>
+      <link>https://ht-x.com/posts/2025/10/openskills/</link>
+      <pubDate>Fri, 31 Oct 2025 07:05:40 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/10/openskills/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>MiniMax-M2</title>
+      <link>https://ht-x.com/posts/2025/10/minimax-m2/</link>
+      <pubDate>Fri, 31 Oct 2025 06:42:38 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/10/minimax-m2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DeepSeek-OCR</title>
+      <link>https://ht-x.com/posts/2025/10/deepseek-ocr/</link>
+      <pubDate>Thu, 23 Oct 2025 13:57:12 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/10/deepseek-ocr/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Airbyte: The Leading Data Integration Platform for ETL/ELT Pipelines</title>
+      <link>https://ht-x.com/posts/2025/10/airbyte-the-leading-data-integration-platform-for/</link>
+      <pubDate>Thu, 23 Oct 2025 13:54:13 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/10/airbyte-the-leading-data-integration-platform-for/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Enterprise Deep Research</title>
+      <link>https://ht-x.com/posts/2025/10/enterprise-deep-research/</link>
+      <pubDate>Thu, 23 Oct 2025 13:53:13 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/10/enterprise-deep-research/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Make Any App Searchable for AI Agents</title>
+      <link>https://ht-x.com/posts/2025/10/make-any-app-searchable-for-ai-agents/</link>
+      <pubDate>Sat, 18 Oct 2025 09:23:13 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/10/make-any-app-searchable-for-ai-agents/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting</title>
+      <link>https://ht-x.com/posts/2025/10/dolphin-document-image-parsing-via-heterogeneous-a/</link>
+      <pubDate>Fri, 17 Oct 2025 18:51:12 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/10/dolphin-document-image-parsing-via-heterogeneous-a/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>nanochat</title>
+      <link>https://ht-x.com/posts/2025/10/nanochat/</link>
+      <pubDate>Tue, 14 Oct 2025 06:36:15 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/10/nanochat/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ROMA: Recursive Open Meta-Agents</title>
+      <link>https://ht-x.com/posts/2025/10/roma-recursive-open-meta-agents/</link>
+      <pubDate>Tue, 14 Oct 2025 06:35:25 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/10/roma-recursive-open-meta-agents/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>NeuTTS Air</title>
+      <link>https://ht-x.com/posts/2025/10/neutts-air/</link>
+      <pubDate>Tue, 14 Oct 2025 06:32:59 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/10/neutts-air/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cua: Open-source infrastructure for Computer-Use Agents</title>
+      <link>https://ht-x.com/posts/2025/10/cua-open-source-infrastructure-for-computer-use-ag/</link>
+      <pubDate>Tue, 14 Oct 2025 06:17:05 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/10/cua-open-source-infrastructure-for-computer-use-ag/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>MCP Analytics and Authentication Platform</title>
+      <link>https://ht-x.com/posts/2025/10/mcp-analytics-and-authentication-platform/</link>
+      <pubDate>Tue, 14 Oct 2025 05:39:36 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/10/mcp-analytics-and-authentication-platform/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>RAG-Anything: All-in-One RAG Framework</title>
+      <link>https://ht-x.com/posts/2025/09/rag-anything-all-in-one-rag-framework/</link>
+      <pubDate>Mon, 29 Sep 2025 13:02:53 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/09/rag-anything-all-in-one-rag-framework/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>RAGLight</title>
+      <link>https://ht-x.com/posts/2025/09/raglight/</link>
+      <pubDate>Mon, 29 Sep 2025 12:45:31 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/09/raglight/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Turns Codebase into Easy Tutorial with AI</title>
+      <link>https://ht-x.com/posts/2025/09/turns-codebase-into-easy-tutorial-with-ai/</link>
+      <pubDate>Mon, 29 Sep 2025 04:32:54 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/09/turns-codebase-into-easy-tutorial-with-ai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AI-Researcher: Autonomous Scientific Innovation</title>
+      <link>https://ht-x.com/posts/2025/09/ai-researcher-autonomous-scientific-innovation/</link>
+      <pubDate>Wed, 24 Sep 2025 07:31:07 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/09/ai-researcher-autonomous-scientific-innovation/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>AgenticSeek: Private, Local Manus Alternative</title>

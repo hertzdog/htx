@@ -17,12 +17,12 @@ images:
 - /images/posts/2025/09/come-usare-claude-code-subagents-per-parallelizzare-lo-sviluppo-4.webp
 - /images/posts/2025/09/come-usare-claude-code-subagents-per-parallelizzare-lo-sviluppo-5.webp
 language: en
-last_linked: '2025-09-23T19:30:34.001229'
+last_linked: '2025-10-31T08:34:31.682286'
 processed_date: 2025-09-14 15:36
 related_articles:
-- /posts/2025/09/my-ai-skeptic-friends-are-all-nuts-the-fly-blog/
-- /posts/2025/09/field-notes-from-shipping-real-code-with-claude/
-- /posts/2025/09/claude-code-is-my-computer-peter-steinberger/
+- /posts/2025/06/claude-code-is-my-computer-peter-steinberger/
+- /posts/2025/06/field-notes-from-shipping-real-code-with-claude/
+- /posts/2025/08/my-ai-had-already-fixed-the-code-before-i-saw-it/
 series:
 - Articoli Interessanti
 showDate: true
@@ -103,6 +103,6 @@ Fonte originale: [https://zachwills.net/how-to-use-claude-code-subagents-to-para
 
 ## Articoli Correlati
 
-- [My AI Skeptic Friends Are All Nuts · The Fly Blog](/posts/2025/09/my-ai-skeptic-friends-are-all-nuts-the-fly-blog/) - *LLM, AI*
-- [Field Notes From Shipping Real Code With Claude](/posts/2025/09/field-notes-from-shipping-real-code-with-claude/) - *Tech*
-- [Claude Code is My Computer | Peter Steinberger](/posts/2025/09/claude-code-is-my-computer-peter-steinberger/) - *Tech*
+- [Claude Code is My Computer | Peter Steinberger](/posts/2025/06/claude-code-is-my-computer-peter-steinberger/) - *Tech*
+- [Field Notes From Shipping Real Code With Claude](/posts/2025/06/field-notes-from-shipping-real-code-with-claude/) - *Tech*
+- [My AI Had Already Fixed the Code Before I Saw It](/posts/2025/08/my-ai-had-already-fixed-the-code-before-i-saw-it/) - *Code Review, Software Development, AI*

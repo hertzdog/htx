@@ -11,12 +11,12 @@ images:
 - /images/posts/2025/09/nextchat-assistente-ai-light-fast-2.webp
 - /images/posts/2025/09/nextchat-assistente-ai-light-fast-3.webp
 language: TypeScript
-last_linked: '2025-09-23T19:30:34.038381'
+last_linked: '2025-10-31T08:34:31.732629'
 processed_date: 2025-09-04 19:36
 related_articles:
-- /posts/2025/09/sim/
-- /posts/2025/09/surfsense/
-- /posts/2025/09/tiledesk-design-studio/
+- /posts/2025/09/ai-researcher-autonomous-scientific-innovation/
+- /posts/2025/08/ai-agents-for-beginners-a-course/
+- /posts/2025/08/parlant/
 series:
 - Articoli Interessanti
 showDate: true
@@ -99,6 +99,6 @@ Fonte originale: [https://github.com/ChatGPTNextWeb/NextChat](https://github.com
 
 ## Articoli Correlati
 
-- [Sim](/posts/2025/09/sim/) - *AI, AI Agent, Open Source*
-- [SurfSense](/posts/2025/09/surfsense/) - *Open Source, Python*
-- [Tiledesk Design Studio](/posts/2025/09/tiledesk-design-studio/) - *Open Source, Browser Automation, AI*
+- [AI-Researcher: Autonomous Scientific Innovation](/posts/2025/09/ai-researcher-autonomous-scientific-innovation/) - *Python, Open Source, AI*
+- [AI Agents for Beginners - A Course](/posts/2025/08/ai-agents-for-beginners-a-course/) - *AI Agent, Open Source, AI*
+- [Parlant](/posts/2025/08/parlant/) - *AI Agent, LLM, Open Source*

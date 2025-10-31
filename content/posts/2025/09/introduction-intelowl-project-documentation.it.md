@@ -9,12 +9,12 @@ feature_image: /images/posts/2025/09/introduzione-documentazione-progetto-intelo
 images:
 - /images/posts/2025/09/introduzione-documentazione-progetto-intelowl-featured.webp
 language: en
-last_linked: '2025-09-23T19:30:33.987597'
+last_linked: '2025-10-31T08:34:31.667778'
 processed_date: 2025-09-06 10:51
 related_articles:
-- /posts/2025/09/billionmail-an-open-source-mailserver-newsletter-e/
 - /posts/2025/09/surfsense/
-- /posts/2025/09/paperetl/
+- /posts/2025/08/paperetl/
+- /posts/2025/09/nocodb-cloud/
 series:
 - Articoli Interessanti
 showDate: true
@@ -93,6 +93,6 @@ Fonte originale: [https://intelowlproject.github.io/docs/IntelOwl/introduction/]
 
 ## Articoli Correlati
 
-- [BillionMail 📧 An Open-Source MailServer, NewsLetter, Email Marketing Solution for Smarter Campaigns](/posts/2025/09/billionmail-an-open-source-mailserver-newsletter-e/) - *AI, Open Source*
 - [SurfSense](/posts/2025/09/surfsense/) - *Open Source, Python*
-- [paperetl](/posts/2025/09/paperetl/) - *Open Source*
+- [paperetl](/posts/2025/08/paperetl/) - *Open Source*
+- [NocoDB Cloud](/posts/2025/09/nocodb-cloud/) - *Tech*

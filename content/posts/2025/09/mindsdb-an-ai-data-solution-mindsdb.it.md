@@ -9,12 +9,12 @@ images:
 - /images/posts/2025/09/mindsdb-ai-data-solution-featured.webp
 - /images/posts/2025/09/mindsdb-ai-data-solution-2.webp
 language: en
-last_linked: '2025-09-23T19:30:34.061816'
+last_linked: '2025-10-31T08:34:31.761886'
 processed_date: 2025-09-06 10:26
 related_articles:
-- /posts/2025/09/total-monthly-distance-traveled-by-passengers-in-c/
-- /posts/2025/09/futurehouse-platform/
+- /posts/2025/09/surfsense/
 - /posts/2025/09/nocodb-cloud/
+- /posts/2025/10/airbyte-the-leading-data-integration-platform-for/
 series:
 - Articoli Interessanti
 showDate: true
@@ -94,6 +94,6 @@ Fonte originale: [https://docs.mindsdb.com/mindsdb](https://docs.mindsdb.com/min
 
 ## Articoli Correlati
 
-- [Total monthly distance traveled by passengers in California’s driverless taxis - Our World in Data](/posts/2025/09/total-monthly-distance-traveled-by-passengers-in-c/) - *AI*
-- [FutureHouse Platform](/posts/2025/09/futurehouse-platform/) - *AI, AI Agent*
+- [SurfSense](/posts/2025/09/surfsense/) - *Open Source, Python*
 - [NocoDB Cloud](/posts/2025/09/nocodb-cloud/) - *Tech*
+- [Airbyte: The Leading Data Integration Platform for ETL/ELT Pipelines](/posts/2025/10/airbyte-the-leading-data-integration-platform-for/) - *Python, DevOps, AI*

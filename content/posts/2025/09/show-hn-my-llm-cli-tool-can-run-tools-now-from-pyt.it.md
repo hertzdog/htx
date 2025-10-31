@@ -12,12 +12,12 @@ images:
 - /images/posts/2025/09/llm-cli-tool-run-tools-python-plugins-featured.webp
 - /images/posts/2025/09/llm-cli-tool-run-tools-python-plugins-2.webp
 - /images/posts/2025/09/llm-cli-tool-run-tools-python-plugins-3.webp
-last_linked: '2025-09-23T19:30:33.856721'
+last_linked: '2025-10-31T08:34:31.506056'
 processed_date: 2025-09-06 10:51
 related_articles:
-- /posts/2025/09/opencode-ai-coding-agent-built-for-the-terminal/
-- /posts/2025/09/litestar-is-worth-a-look/
-- /posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/
+- /posts/2025/06/snorting-the-agi-with-claude-code/
+- /posts/2025/08/litestar-is-worth-a-look/
+- /posts/2025/06/building-effective-ai-agents/
 series:
 - Articoli Interessanti
 showDate: true
@@ -114,6 +114,6 @@ Fonte originale: [https://news.ycombinator.com/item?id=44110584](https://news.yc
 
 ## Articoli Correlati
 
-- [Opencode: AI coding agent, built for the terminal](/posts/2025/09/opencode-ai-coding-agent-built-for-the-terminal/) - *AI Agent, AI*
-- [Litestar is worth a look](/posts/2025/09/litestar-is-worth-a-look/) - *Best Practices, Python*
-- [SymbolicAI: A neuro-symbolic perspective on LLMs](/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/) - *Foundation Model, Python, Best Practices*
+- [Snorting the AGI with Claude Code](/posts/2025/06/snorting-the-agi-with-claude-code/) - *Code Review, AI, Best Practices*
+- [Litestar is worth a look](/posts/2025/08/litestar-is-worth-a-look/) - *Best Practices, Python*
+- [Building Effective AI Agents](/posts/2025/06/building-effective-ai-agents/) - *AI Agent, AI, Foundation Model*

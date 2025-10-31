@@ -11,12 +11,12 @@ images:
 - /images/posts/2025/09/qwen3-coder-agentic-coding-in-the-world-2.webp
 - /images/posts/2025/09/qwen3-coder-agentic-coding-in-the-world-3.webp
 - /images/posts/2025/09/qwen3-coder-agentic-coding-in-the-world-4.webp
-last_linked: '2025-09-23T19:30:33.970658'
+last_linked: '2025-10-31T08:34:31.634288'
 processed_date: 2025-09-23 17:11
 related_articles:
-- /posts/2025/09/opencode-ai-coding-agent-built-for-the-terminal/
-- /posts/2025/09/deploying-deepseek-on-96-h100-gpus/
-- /posts/2025/09/vision-now-available-in-llama-cpp/
+- /posts/2025/07/backlog-md-markdown-native-task-manager-and-kanban/
+- /posts/2025/08/deploying-deepseek-on-96-h100-gpus/
+- /posts/2025/07/opencode-ai-coding-agent-built-for-the-terminal/
 series:
 - Articoli Interessanti
 showDate: true
@@ -106,6 +106,6 @@ Fonte originale: [https://news.ycombinator.com/item?id=44653072](https://news.yc
 
 ## Articoli Correlati
 
-- [Opencode: AI coding agent, built for the terminal](/posts/2025/09/opencode-ai-coding-agent-built-for-the-terminal/) - *AI Agent, AI*
-- [Deploying DeepSeek on 96 H100 GPUs](/posts/2025/09/deploying-deepseek-on-96-h100-gpus/) - *Tech*
-- [Vision Now Available in Llama.cpp](/posts/2025/09/vision-now-available-in-llama-cpp/) - *Foundation Model, AI, Computer Vision*
+- [Backlog.md – Markdown-native Task Manager and Kanban visualizer for any Git repo](/posts/2025/07/backlog-md-markdown-native-task-manager-and-kanban/) - *Tech*
+- [Deploying DeepSeek on 96 H100 GPUs](/posts/2025/08/deploying-deepseek-on-96-h100-gpus/) - *Tech*
+- [Opencode: AI coding agent, built for the terminal](/posts/2025/07/opencode-ai-coding-agent-built-for-the-terminal/) - *AI Agent, AI*

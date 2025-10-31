@@ -10,11 +10,11 @@ feature_image: /images/posts/2025/09/scientific-paper-agent-langgraph-4.webp
 images:
 - /images/posts/2025/09/scientific-paper-agent-langgraph-4.webp
 language: Jupyter Notebook
-last_linked: '2025-09-23T19:30:34.032957'
+last_linked: '2025-10-31T08:34:31.726871'
 processed_date: 2025-09-06 10:46
 related_articles:
+- /posts/2025/05/agent-development-kit-adk/
 - /posts/2025/09/ai-engineering-hub/
-- /posts/2025/09/ai-agents-for-beginners-a-course/
 - /posts/2025/09/anthropic-s-interactive-prompt-engineering-tutoria/
 series:
 - Articoli Interessanti
@@ -104,6 +104,6 @@ Fonte originale: [https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agent
 
 ## Articoli Correlati
 
+- [Agent Development Kit (ADK)](/posts/2025/05/agent-development-kit-adk/) - *AI Agent, AI, Open Source*
 - [AI Engineering Hub](/posts/2025/09/ai-engineering-hub/) - *Open Source, AI, LLM*
-- [AI Agents for Beginners - A Course](/posts/2025/09/ai-agents-for-beginners-a-course/) - *AI Agent, Open Source, AI*
 - [Anthropic's Interactive Prompt Engineering Tutorial](/posts/2025/09/anthropic-s-interactive-prompt-engineering-tutoria/) - *Open Source*

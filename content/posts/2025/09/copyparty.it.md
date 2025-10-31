@@ -12,12 +12,12 @@ images:
 - /images/posts/2025/09/copyparty-portable-file-server-3.webp
 - /images/posts/2025/09/copyparty-portable-file-server-4.webp
 language: Python
-last_linked: '2025-09-23T19:30:33.848015'
+last_linked: '2025-10-31T08:34:31.496261'
 processed_date: 2025-09-22 15:05
 related_articles:
+- /posts/2025/08/sim/
+- /posts/2025/09/enable-ai-to-control-your-browser/
 - /posts/2025/09/deep-chat/
-- /posts/2025/09/focalboard/
-- /posts/2025/09/mcp-use/
 series:
 - Articoli Interessanti
 showDate: true
@@ -111,6 +111,6 @@ Fonte originale: [https://github.com/9001/copyparty](https://github.com/9001/cop
 
 ## Articoli Correlati
 
+- [Sim](/posts/2025/08/sim/) - *AI, AI Agent, Open Source*
+- [Enable AI to control your browser 🤖](/posts/2025/09/enable-ai-to-control-your-browser/) - *AI Agent, Open Source, Python*
 - [Deep Chat](/posts/2025/09/deep-chat/) - *Typescript, Open Source, AI*
-- [Focalboard](/posts/2025/09/focalboard/) - *Open Source*
-- [MCP-Use](/posts/2025/09/mcp-use/) - *AI Agent, Open Source*

@@ -10,12 +10,12 @@ feature_image: /images/posts/2025/09/designing-pareto-optimal-genai-workflows-wi
 images:
 - /images/posts/2025/09/designing-pareto-optimal-genai-workflows-with-syftr-featured.webp
 language: en
-last_linked: '2025-09-23T19:30:33.965610'
+last_linked: '2025-10-31T08:34:31.628333'
 processed_date: 2025-09-06 10:49
 related_articles:
-- /posts/2025/09/mcp-is-eating-the-world-and-it-s-here-to-stay/
-- /posts/2025/09/strands-agents/
-- /posts/2025/09/sim/
+- /posts/2025/09/lorax-multi-lora-inference-server-that-scales-to-1/
+- /posts/2025/06/how-dataherald-makes-natural-language-to-sql-easy/
+- /posts/2025/05/strands-agents/
 series:
 - Articoli Interessanti
 showDate: true
@@ -96,6 +96,6 @@ Fonte originale: [https://www.datarobot.com/blog/pareto-optimized-ai-workflows-s
 
 ## Articoli Correlati
 
-- [MCP is eating the world—and it's here to stay](/posts/2025/09/mcp-is-eating-the-world-and-it-s-here-to-stay/) - *Natural Language Processing, AI, Foundation Model*
-- [Strands Agents](/posts/2025/09/strands-agents/) - *AI Agent, AI*
-- [Sim](/posts/2025/09/sim/) - *AI, AI Agent, Open Source*
+- [LoRAX: Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs](/posts/2025/09/lorax-multi-lora-inference-server-that-scales-to-1/) - *Open Source, LLM, Python*
+- [How Dataherald Makes Natural Language to SQL Easy](/posts/2025/06/how-dataherald-makes-natural-language-to-sql-easy/) - *Natural Language Processing, AI*
+- [Strands Agents](/posts/2025/05/strands-agents/) - *AI Agent, AI*

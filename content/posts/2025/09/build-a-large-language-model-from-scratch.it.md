@@ -9,12 +9,12 @@ images:
 - /images/posts/2025/09/build-large-language-model-from-scratch-featured.webp
 - /images/posts/2025/09/build-large-language-model-from-scratch-2.webp
 - /images/posts/2025/09/build-large-language-model-from-scratch-3.webp
-last_linked: '2025-09-23T19:30:33.890382'
+last_linked: '2025-10-31T08:34:31.540560'
 processed_date: 2025-09-04 19:22
 related_articles:
-- /posts/2025/09/cs294-194-196-large-language-model-agents-cs-194-2/
-- /posts/2025/09/a-step-by-step-implementation-of-qwen-3-moe-archit/
-- /posts/2025/09/agentic-design-patterns-documenti-google/
+- /posts/2025/09/ai-engineering-hub/
+- /posts/2025/08/ai-agents-for-beginners-a-course/
+- /posts/2025/05/token-token-usage-deepseek-api-docs/
 series:
 - Articoli Interessanti
 showDate: true
@@ -103,6 +103,6 @@ Fonte originale: [https://github.com/rasbt/LLMs-from-scratch](https://github.com
 
 ## Articoli Correlati
 
-- [CS294/194-196 Large Language Model Agents | CS 194/294-196 Large Language Model Agents](/posts/2025/09/cs294-194-196-large-language-model-agents-cs-194-2/) - *AI Agent, Foundation Model, LLM*
-- [A Step-by-Step Implementation of Qwen 3 MoE Architecture from Scratch](/posts/2025/09/a-step-by-step-implementation-of-qwen-3-moe-archit/) - *Open Source*
-- [Agentic Design Patterns - Documenti Google](/posts/2025/09/agentic-design-patterns-documenti-google/) - *Go, AI Agent*
+- [AI Engineering Hub](/posts/2025/09/ai-engineering-hub/) - *Open Source, AI, LLM*
+- [AI Agents for Beginners - A Course](/posts/2025/08/ai-agents-for-beginners-a-course/) - *AI Agent, Open Source, AI*
+- [Token & Token Usage | DeepSeek API Docs](/posts/2025/05/token-token-usage-deepseek-api-docs/) - *Natural Language Processing, Foundation Model*

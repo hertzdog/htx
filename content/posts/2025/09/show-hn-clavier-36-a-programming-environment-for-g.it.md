@@ -8,12 +8,12 @@ description: Scopri CLAVIER-36, un ambiente di programmazione per la musica gene
 draft: false
 feature_image: /images/background.svg
 images: []
-last_linked: '2025-09-23T19:30:33.996291'
+last_linked: '2025-10-31T08:34:31.675808'
 processed_date: 2025-09-14 15:36
 related_articles:
-- /posts/2025/09/litestar-is-worth-a-look/
-- /posts/2025/09/show-hn-autothink-boosts-local-llm-performance-wit/
-- /posts/2025/09/show-hn-onlook-open-source-visual-first-cursor-for/
+- /posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/
+- /posts/2025/05/show-hn-onlook-open-source-visual-first-cursor-for/
+- /posts/2025/08/show-hn-fallinorg-offline-mac-app-that-organizes-f/
 series:
 - Articoli Interessanti
 showDate: true
@@ -102,6 +102,6 @@ Fonte originale: [https://news.ycombinator.com/item?id=45232299](https://news.yc
 
 ## Articoli Correlati
 
-- [Litestar is worth a look](/posts/2025/09/litestar-is-worth-a-look/) - *Best Practices, Python*
-- [Show HN: AutoThink – Boosts local LLM performance with adaptive reasoning](/posts/2025/09/show-hn-autothink-boosts-local-llm-performance-wit/) - *LLM, Foundation Model*
-- [Show HN: Onlook – Open-source, visual-first Cursor for designers](/posts/2025/09/show-hn-onlook-open-source-visual-first-cursor-for/) - *Tech*
+- [VibeVoice: A Frontier Open-Source Text-to-Speech Model](/posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/) - *Best Practices, Foundation Model, Natural Language Processing*
+- [Show HN: Onlook – Open-source, visual-first Cursor for designers](/posts/2025/05/show-hn-onlook-open-source-visual-first-cursor-for/) - *Tech*
+- [Show HN: Fallinorg - Offline Mac app that organizes files by meaning](/posts/2025/08/show-hn-fallinorg-offline-mac-app-that-organizes-f/) - *AI*

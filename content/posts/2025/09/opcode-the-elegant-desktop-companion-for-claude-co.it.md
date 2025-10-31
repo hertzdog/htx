@@ -10,12 +10,12 @@ feature_image: /images/posts/2025/09/opcode-the-elegant-desktop-companion-for-cl
 images:
 - /images/posts/2025/09/opcode-the-elegant-desktop-companion-for-claude-code-featured.webp
 language: en
-last_linked: '2025-09-23T19:30:34.063034'
+last_linked: '2025-10-31T08:34:31.763363'
 processed_date: 2025-09-22 15:05
 related_articles:
-- /posts/2025/09/claude-code-is-my-computer-peter-steinberger/
-- /posts/2025/09/snorting-the-agi-with-claude-code/
-- /posts/2025/09/how-to-use-claude-code-subagents-to-parallelize-de/
+- /posts/2025/10/claude-code-best-practices-code-w-claude-youtube/
+- /posts/2025/08/claude-code-a-highly-agentic-coding-assistant-deep/
+- /posts/2025/05/troy-hunt-have-i-been-pwned-2-0-is-now-live/
 series:
 - Articoli Interessanti
 showDate: true
@@ -95,6 +95,6 @@ Fonte originale: [https://opcode.sh/](https://opcode.sh/)</small>*
 
 ## Articoli Correlati
 
-- [Claude Code is My Computer | Peter Steinberger](/posts/2025/09/claude-code-is-my-computer-peter-steinberger/) - *Tech*
-- [Snorting the AGI with Claude Code](/posts/2025/09/snorting-the-agi-with-claude-code/) - *Code Review, AI, Best Practices*
-- [How to Use Claude Code Subagents to Parallelize Development](/posts/2025/09/how-to-use-claude-code-subagents-to-parallelize-de/) - *AI Agent, AI*
+- [Claude Code best practices | Code w/ Claude - YouTube](/posts/2025/10/claude-code-best-practices-code-w-claude-youtube/) - *Code Review, AI, Best Practices*
+- [Claude Code: A Highly Agentic Coding Assistant - DeepLearning.AI](/posts/2025/08/claude-code-a-highly-agentic-coding-assistant-deep/) - *AI Agent, AI*
+- [Troy Hunt: Have I Been Pwned 2.0 is Now Live!](/posts/2025/05/troy-hunt-have-i-been-pwned-2-0-is-now-live/) - *Tech*

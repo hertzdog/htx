@@ -10,11 +10,11 @@ images:
 - /images/posts/2025/09/my-ai-skeptic-friends-are-all-nuts-2.webp
 - /images/posts/2025/09/my-ai-skeptic-friends-are-all-nuts-3.webp
 language: en
-last_linked: '2025-09-23T19:30:33.941351'
+last_linked: '2025-10-31T08:34:31.598083'
 processed_date: 2025-09-06 10:48
 related_articles:
+- /posts/2025/08/claude-code-a-highly-agentic-coding-assistant-deep/
 - /posts/2025/08/my-ai-had-already-fixed-the-code-before-i-saw-it/
-- /posts/2025/09/turning-claude-code-into-my-best-design-partner/
 - /posts/2025/09/how-to-use-claude-code-subagents-to-parallelize-de/
 series:
 - Articoli Interessanti
@@ -95,6 +95,6 @@ Fonte originale: [https://fly.io/blog/youre-all-nuts/](https://fly.io/blog/youre
 
 ## Articoli Correlati
 
+- [Claude Code: A Highly Agentic Coding Assistant - DeepLearning.AI](/posts/2025/08/claude-code-a-highly-agentic-coding-assistant-deep/) - *AI Agent, AI*
 - [My AI Had Already Fixed the Code Before I Saw It](/posts/2025/08/my-ai-had-already-fixed-the-code-before-i-saw-it/) - *Code Review, Software Development, AI*
-- [Turning Claude Code into my best design partner](/posts/2025/09/turning-claude-code-into-my-best-design-partner/) - *Tech*
 - [How to Use Claude Code Subagents to Parallelize Development](/posts/2025/09/how-to-use-claude-code-subagents-to-parallelize-de/) - *AI Agent, AI*

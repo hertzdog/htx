@@ -28,12 +28,12 @@ images:
 - /images/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through-reinforcement-learning-4.webp
 - /images/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through-reinforcement-learning-5.webp
 language: en
-last_linked: '2025-09-23T19:30:33.961867'
+last_linked: '2025-10-31T08:34:31.624593'
 processed_date: 2025-09-18 15:08
 related_articles:
-- /posts/2025/09/2505-03335v2-absolute-zero-reinforced-self-play-re/
-- /posts/2025/09/2505-03335-absolute-zero-reinforced-self-play-reas/
-- /posts/2024/10/a-foundation-model-to-predict-and-capture-human-co/
+- /posts/2025/05/2505-03335-absolute-zero-reinforced-self-play-reas/
+- /posts/2025/06/the-illusion-of-thinking/
+- /posts/2025/05/2505-03335v2-absolute-zero-reinforced-self-play-re/
 series:
 - Articoli Interessanti
 showDate: true
@@ -122,6 +122,6 @@ Fonte originale: [https://www.nature.com/articles/s41586-025-09422-z](https://ww
 
 ## Articoli Correlati
 
-- [[2505.03335v2] Absolute Zero: Reinforced Self-play Reasoning with Zero Data](/posts/2025/09/2505-03335v2-absolute-zero-reinforced-self-play-re/) - *Tech*
-- [[2505.03335] Absolute Zero: Reinforced Self-play Reasoning with Zero Data](/posts/2025/09/2505-03335-absolute-zero-reinforced-self-play-reas/) - *Tech*
-- [A foundation model to predict and capture human cognition | Nature](/posts/2024/10/a-foundation-model-to-predict-and-capture-human-co/) - *Go, Foundation Model, Natural Language Processing*
+- [[2505.03335] Absolute Zero: Reinforced Self-play Reasoning with Zero Data](/posts/2025/05/2505-03335-absolute-zero-reinforced-self-play-reas/) - *Tech*
+- [The Illusion of Thinking](/posts/2025/06/the-illusion-of-thinking/) - *AI*
+- [[2505.03335v2] Absolute Zero: Reinforced Self-play Reasoning with Zero Data](/posts/2025/05/2505-03335v2-absolute-zero-reinforced-self-play-re/) - *Tech*

@@ -3,20 +3,20 @@ author: robotswantdata
 categories:
 - Hacker News
 date: 2025-06-30T20:53:55+0000
-description: Scopri il nuovo concetto di Context Engineering nell'AI e come la qualità
-  del contesto determina il successo degli agenti AI.
+description: 'Scopri il concetto di Context Engineering nell''AI: come il contesto
+  determina il successo degli agenti AI.'
 draft: false
-feature_image: /images/posts/2025/09/the-new-skill-in-ai-is-not-prompting-its-context-engineering-featured.webp
+feature_image: /images/posts/2025/09/nuova-competenza-ai-non-e-prompting-ma-context-engineering-featured.webp
 images:
-- /images/posts/2025/09/the-new-skill-in-ai-is-not-prompting-its-context-engineering-featured.webp
-- /images/posts/2025/09/the-new-skill-in-ai-is-not-prompting-its-context-engineering-2.webp
-- /images/posts/2025/09/the-new-skill-in-ai-is-not-prompting-its-context-engineering-3.webp
-last_linked: '2025-09-23T19:30:33.935838'
-processed_date: 2025-09-06 10:28
+- /images/posts/2025/09/nuova-competenza-ai-non-e-prompting-ma-context-engineering-featured.webp
+- /images/posts/2025/09/nuova-competenza-ai-non-e-prompting-ma-context-engineering-2.webp
+- /images/posts/2025/09/nuova-competenza-ai-non-e-prompting-ma-context-engineering-3.webp
+last_linked: '2025-10-31T08:34:31.590332'
+processed_date: 2025-09-24 07:36
 related_articles:
-- /posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/
-- /posts/2025/09/building-effective-ai-agents/
-- /posts/2025/09/litestar-is-worth-a-look/
+- /posts/2025/08/claudia-desktop-companion-for-claude-code/
+- /posts/2025/08/turning-claude-code-into-my-best-design-partner/
+- /posts/2025/06/building-effective-ai-agents/
 series:
 - Articoli Interessanti
 showDate: true
@@ -35,7 +35,7 @@ title: The new skill in AI is not prompting, it's context engineering
 ---
 
 {{< lead >}}
-![Featured image](/images/posts/2025/09/the-new-skill-in-ai-is-not-prompting-its-context-engineering-featured.webp)
+![Featured image](/images/posts/2025/09/nuova-competenza-ai-non-e-prompting-ma-context-engineering-featured.webp)
 {{< /lead >}}
 
 <small>
@@ -51,33 +51,28 @@ title: The new skill in AI is not prompting, it's context engineering
 
 ## Sintesi
 
-### **WHAT**
-Context Engineering è la pratica di fornire tutto il contesto necessario per permettere a un modello linguistico di grandi dimensioni (LLM) di risolvere un compito. Include vari elementi come istruzioni, prompt dell'utente, stato della conversazione, memoria a lungo termine, informazioni recuperate, strumenti disponibili e formati di output strutturati.
+**WHAT** - Context Engineering è la pratica di fornire tutto il contesto necessario per permettere a un modello di linguaggio di risolvere un compito. Include istruzioni, storia della conversazione, memoria a lungo termine, informazioni recuperate e strumenti disponibili.
 
-### **WHY**
-È rilevante per il business AI perché la qualità del contesto determina il successo o il fallimento degli agenti AI. La maggior parte degli errori degli agenti AI non sono dovuti al modello stesso, ma alla mancanza di contesto adeguato. Questo approccio può trasformare prodotti AI da semplici demo a soluzioni efficaci e magiche.
+**WHY** - È rilevante perché la qualità del contesto determina il successo degli agenti AI. La maggior parte dei fallimenti degli agenti non è dovuta al modello, ma alla mancanza di contesto adeguato.
 
-### **WHO**
-Gli attori principali includono esperti AI come Tobi Lutke, aziende che sviluppano agenti AI, e la comunità di sviluppatori che sta adottando questo nuovo approccio. Competitor e startup nel settore AI stanno già esplorando come implementare il Context Engineering.
+**WHO** - Gli attori principali includono Tobi Lutke, che ha coniato il termine, e la comunità AI che sta adottando questo approccio per migliorare l'efficacia degli agenti.
 
-### **WHERE**
-Si posiziona nel mercato AI come una pratica avanzata per migliorare l'efficacia degli agenti AI. È parte dell'ecosistema AI che si concentra sull'ottimizzazione delle interazioni tra modelli linguistici e utenti, integrandosi con tecnologie come RAG (Retrieval-Augmented Generation).
+**WHERE** - Si posiziona nel mercato AI come una pratica avanzata per migliorare l'efficacia degli agenti AI, integrandosi con tecniche esistenti come il prompt engineering.
 
-### **WHEN**
-Il concetto è relativamente nuovo ma sta guadagnando rapidamente trazione. È un trend emergente che si prevede diventerà uno standard nel prossimo futuro, man mano che più aziende riconoscono il suo valore.
+**WHEN** - È un concetto emergente, in fase di adozione crescente, che sta guadagnando trazione con l'aumento dell'uso degli agenti AI.
 
-### **BUSINESS IMPACT**
-- **Opportunità**: Migliorare l'efficacia degli agenti AI esistenti, ridurre i tassi di errore e aumentare la soddisfazione degli utenti.
-- **Rischi**: Competitor che adottano rapidamente questa pratica potrebbero guadagnare un vantaggio competitivo.
-- **Integrazione**: Può essere integrato nello stack esistente attraverso l'aggiunta di moduli di gestione del contesto e l'ottimizzazione delle interazioni utente-modello.
+**BUSINESS IMPACT:**
+- **Opportunità**: Migliorare l'efficacia degli agenti AI attraverso un contesto più ricco e accurato.
+- **Rischi**: Competitor che adottano rapidamente questa pratica potrebbero ottenere un vantaggio competitivo.
+- **Integrazione**: Può essere integrato con lo stack esistente, migliorando la qualità delle risposte degli agenti AI.
 
-### **TECHNICAL SUMMARY**
-- **Core technology stack**: Linguaggi come Python, framework per LLM, database per memoria a lungo termine, API per recupero informazioni.
-- **Scalabilità**: Richiede una gestione efficiente della memoria e delle risorse di calcolo per scalare con l'aumentare delle interazioni.
-- **Differenziatori tecnici**: Gestione avanzata del contesto, integrazione con RAG, definizione chiara di strumenti e formati di output.
+**TECHNICAL SUMMARY:**
+- **Core technology stack**: Include istruzioni, prompt dell'utente, storia della conversazione, memoria a lungo termine, informazioni recuperate (RAG), strumenti disponibili e output strutturati.
+- **Scalabilità**: Richiede una gestione efficiente della memoria e delle informazioni recuperate per scalare con l'aumento dei dati.
+- **Differenziatori tecnici**: La qualità del contesto fornito è il principale fattore di successo degli agenti AI.
 
-### **DISCUSSIONE HACKER NEWS**
-La discussione su Hacker News ha evidenziato l'importanza degli strumenti e delle architetture necessarie per implementare il Context Engineering. La community ha identificato problemi specifici legati alla progettazione e all'integrazione di queste soluzioni. Il sentimento generale è di interesse e curiosità, con una forte attenzione alla praticità e all'implementabilità delle soluzioni proposte. I temi principali emersi sono stati la necessità di strumenti adeguati, la risoluzione di problemi tecnici specifici e la progettazione di architetture robuste.
+**DISCUSSIONE HACKER NEWS:**
+La discussione su Hacker News ha evidenziato l'importanza degli strumenti e delle architetture necessarie per implementare il Context Engineering. La community ha sottolineato come la gestione del contesto sia cruciale per risolvere problemi complessi e migliorare il design degli agenti AI. Il sentimento generale è di interesse e riconoscimento dell'importanza del contesto nel migliorare le prestazioni degli agenti AI. I temi principali emersi sono stati la necessità di strumenti adeguati, la risoluzione dei problemi legati al contesto e il design efficace degli agenti AI.
 
 ---
 
@@ -85,8 +80,6 @@ La discussione su Hacker News ha evidenziato l'importanza degli strumenti e dell
 
 - **Private AI Stack**: Integrazione in pipeline proprietarie
 - **Client Solutions**: Implementazione per progetti clienti
-- **Strategic Intelligence**: Input per roadmap tecnologica
-- **Competitive Analysis**: Monitoring ecosystem AI
 
 ---
 
@@ -107,11 +100,11 @@ La discussione su Hacker News ha evidenziato l'importanza degli strumenti e dell
 
 ---
 
-*<small>Articolo segnalato e selezionato dal team Human Technology eXcellence elaborato tramite intelligenza artificiale (in questo caso con LLM HTX-EU-Mistral3.1Small) il 2025-09-06 10:28
+*<small>Articolo segnalato e selezionato dal team Human Technology eXcellence elaborato tramite intelligenza artificiale (in questo caso con LLM HTX-EU-Mistral3.1Small) il 2025-09-24 07:36
 Fonte originale: [https://news.ycombinator.com/item?id=44427757](https://news.ycombinator.com/item?id=44427757)</small>*
 
 ## Articoli Correlati
 
-- [SymbolicAI: A neuro-symbolic perspective on LLMs](/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/) - *Foundation Model, Python, Best Practices*
-- [Building Effective AI Agents](/posts/2025/09/building-effective-ai-agents/) - *AI Agent, AI, Foundation Model*
-- [Litestar is worth a look](/posts/2025/09/litestar-is-worth-a-look/) - *Best Practices, Python*
+- [Claudia – Desktop companion for Claude code](/posts/2025/08/claudia-desktop-companion-for-claude-code/) - *Foundation Model, AI*
+- [Turning Claude Code into my best design partner](/posts/2025/08/turning-claude-code-into-my-best-design-partner/) - *Tech*
+- [Building Effective AI Agents](/posts/2025/06/building-effective-ai-agents/) - *AI Agent, AI, Foundation Model*

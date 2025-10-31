@@ -13,12 +13,12 @@ feature_image: /images/posts/2025/09/la-corsa-per-il-cognitive-core-degli-llm-fe
 images:
 - /images/posts/2025/09/la-corsa-per-il-cognitive-core-degli-llm-featured.webp
 language: en
-last_linked: '2025-09-23T19:30:34.073384'
+last_linked: '2025-10-31T08:34:31.776153'
 processed_date: 2025-09-04 19:28
 related_articles:
-- /posts/2025/09/nice-my-ai-startup-school-talk-is-now-up/
-- /posts/2025/09/automated-73-of-his-remote-job-using-basic-automat/
-- /posts/2025/09/1-for-context-engineering-over-prompt-engineering/
+- /posts/2025/08/1-for-context-engineering-over-prompt-engineering/
+- /posts/2025/06/nice-my-ai-startup-school-talk-is-now-up-chapters/
+- /posts/2025/09/huge-ai-market-opportunity-in-2025/
 series:
 - Articoli Interessanti
 showDate: true
@@ -98,6 +98,6 @@ Fonte originale: [https://x.com/karpathy/status/1938626382248149433?s=43&t=ANuJI
 
 ## Articoli Correlati
 
-- [Nice - my AI startup school talk is now up!](/posts/2025/09/nice-my-ai-startup-school-talk-is-now-up/) - *LLM, AI*
-- [Automated 73% of his remote job using basic automation tools, told his manager everything, and got a promotion](/posts/2025/09/automated-73-of-his-remote-job-using-basic-automat/) - *Browser Automation, Go*
-- [+1 for "context engineering" over "prompt engineering"](/posts/2025/09/1-for-context-engineering-over-prompt-engineering/) - *LLM, Natural Language Processing*
+- [+1 for "context engineering" over "prompt engineering"](/posts/2025/08/1-for-context-engineering-over-prompt-engineering/) - *LLM, Natural Language Processing*
+- [Nice - my AI startup school talk is now up! Chapters: 0:00 Imo fair to say that software is changing quite fundamentally again](/posts/2025/06/nice-my-ai-startup-school-talk-is-now-up-chapters/) - *LLM, AI*
+- [Huge AI market opportunity in 2025](/posts/2025/09/huge-ai-market-opportunity-in-2025/) - *AI, Foundation Model*

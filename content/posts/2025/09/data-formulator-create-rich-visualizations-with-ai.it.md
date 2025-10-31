@@ -7,12 +7,12 @@ draft: false
 feature_image: /images/posts/2025/09/data-formulator-create-rich-visualizations-with-ai-featured.webp
 images:
 - /images/posts/2025/09/data-formulator-create-rich-visualizations-with-ai-featured.webp
-last_linked: '2025-09-23T19:30:33.977083'
+last_linked: '2025-10-31T08:34:31.657795'
 processed_date: 2025-09-04 19:05
 related_articles:
-- /posts/2025/09/paperetl/
-- /posts/2025/09/sim/
-- /posts/2025/09/cua-is-docker-for-computer-use-ai-agents/
+- /posts/2025/08/browser-use-web-ui/
+- /posts/2025/10/cua-open-source-infrastructure-for-computer-use-ag/
+- /posts/2025/08/sim/
 series:
 - Articoli Interessanti
 showDate: true
@@ -118,6 +118,6 @@ Fonte originale: [https://github.com/microsoft/data-formulator](https://github.c
 
 ## Articoli Correlati
 
-- [paperetl](/posts/2025/09/paperetl/) - *Open Source*
-- [Sim](/posts/2025/09/sim/) - *AI, AI Agent, Open Source*
-- [Cua is Docker for Computer-Use AI Agents](/posts/2025/09/cua-is-docker-for-computer-use-ai-agents/) - *Open Source, AI Agent, AI*
+- [browser-use/web-ui](/posts/2025/08/browser-use-web-ui/) - *Browser Automation, AI, AI Agent*
+- [Cua: Open-source infrastructure for Computer-Use Agents](/posts/2025/10/cua-open-source-infrastructure-for-computer-use-ag/) - *Python, AI, Open Source*
+- [Sim](/posts/2025/08/sim/) - *AI, AI Agent, Open Source*

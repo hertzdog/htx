@@ -10,12 +10,12 @@ description: Lucidic AI è uno strumento per il debug e la valutazione degli age
 draft: false
 feature_image: /images/background.svg
 images: []
-last_linked: '2025-09-23T19:30:33.934074'
+last_linked: '2025-10-31T08:34:31.588761'
 processed_date: 2025-09-04 19:31
 related_articles:
-- /posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/
-- /posts/2025/09/litestar-is-worth-a-look/
-- /posts/2025/09/ask-hn-what-is-the-best-llm-for-consumer-grade-har/
+- /posts/2025/08/how-to-build-a-coding-agent/
+- /posts/2025/06/building-effective-ai-agents/
+- /posts/2025/06/snorting-the-agi-with-claude-code/
 series:
 - Articoli Interessanti
 showDate: true
@@ -108,6 +108,6 @@ Fonte originale: [https://news.ycombinator.com/item?id=44735843](https://news.yc
 
 ## Articoli Correlati
 
-- [SymbolicAI: A neuro-symbolic perspective on LLMs](/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/) - *Foundation Model, Python, Best Practices*
-- [Litestar is worth a look](/posts/2025/09/litestar-is-worth-a-look/) - *Best Practices, Python*
-- [Ask HN: What is the best LLM for consumer grade hardware?](/posts/2025/09/ask-hn-what-is-the-best-llm-for-consumer-grade-har/) - *LLM, Foundation Model*
+- [How to build a coding agent](/posts/2025/08/how-to-build-a-coding-agent/) - *AI Agent, AI*
+- [Building Effective AI Agents](/posts/2025/06/building-effective-ai-agents/) - *AI Agent, AI, Foundation Model*
+- [Snorting the AGI with Claude Code](/posts/2025/06/snorting-the-agi-with-claude-code/) - *Code Review, AI, Best Practices*

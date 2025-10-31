@@ -7,12 +7,12 @@ draft: false
 feature_image: /images/posts/2025/09/cua-docker-per-computer-use-ai-agents-2.webp
 images:
 - /images/posts/2025/09/cua-docker-per-computer-use-ai-agents-2.webp
-last_linked: '2025-09-23T19:30:34.004883'
+last_linked: '2025-10-31T08:34:31.686774'
 processed_date: 2025-09-22 15:53
 related_articles:
-- /posts/2025/09/sim/
+- /posts/2025/09/enable-ai-to-control-your-browser/
+- /posts/2025/08/sim/
 - /posts/2025/09/copyparty/
-- /posts/2025/09/data-formulator-create-rich-visualizations-with-ai/
 series:
 - Articoli Interessanti
 showDate: true
@@ -109,6 +109,6 @@ Fonte originale: [https://github.com/trycua/cua](https://github.com/trycua/cua)<
 
 ## Articoli Correlati
 
-- [Sim](/posts/2025/09/sim/) - *AI, AI Agent, Open Source*
+- [Enable AI to control your browser 🤖](/posts/2025/09/enable-ai-to-control-your-browser/) - *AI Agent, Open Source, Python*
+- [Sim](/posts/2025/08/sim/) - *AI, AI Agent, Open Source*
 - [💾🎉 copyparty](/posts/2025/09/copyparty/) - *Open Source, Python*
-- [Data Formulator: Create Rich Visualizations with AI](/posts/2025/09/data-formulator-create-rich-visualizations-with-ai/) - *Open Source, AI*

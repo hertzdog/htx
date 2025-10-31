@@ -9,12 +9,12 @@ draft: false
 feature_image: /images/posts/2025/09/show-hn-whispering-open-source-local-first-dictation-featured.webp
 images:
 - /images/posts/2025/09/show-hn-whispering-open-source-local-first-dictation-featured.webp
-last_linked: '2025-09-23T19:30:34.060258'
+last_linked: '2025-10-31T08:34:31.760357'
 processed_date: 2025-09-04 19:11
 related_articles:
-- /posts/2025/09/apertus-70b-truly-open-swiss-llm-by-eth-epfl-and-c/
-- /posts/2025/09/show-hn-clavier-36-a-programming-environment-for-g/
 - /posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/
+- /posts/2025/05/show-hn-onlook-open-source-visual-first-cursor-for/
+- /posts/2025/08/llama-scan-convert-pdfs-to-text-w-local-llms/
 series:
 - Articoli Interessanti
 showDate: true
@@ -108,6 +108,6 @@ Fonte originale: [https://news.ycombinator.com/item?id=44942731](https://news.yc
 
 ## Articoli Correlati
 
-- [Apertus 70B: Truly Open - Swiss LLM by ETH, EPFL and CSCS](/posts/2025/09/apertus-70b-truly-open-swiss-llm-by-eth-epfl-and-c/) - *LLM, AI, Foundation Model*
-- [Show HN: CLAVIER-36 – A programming environment for generative music](/posts/2025/09/show-hn-clavier-36-a-programming-environment-for-g/) - *Tech*
 - [VibeVoice: A Frontier Open-Source Text-to-Speech Model](/posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/) - *Best Practices, Foundation Model, Natural Language Processing*
+- [Show HN: Onlook – Open-source, visual-first Cursor for designers](/posts/2025/05/show-hn-onlook-open-source-visual-first-cursor-for/) - *Tech*
+- [Llama-Scan: Convert PDFs to Text W Local LLMs](/posts/2025/08/llama-scan-convert-pdfs-to-text-w-local-llms/) - *LLM, Natural Language Processing*

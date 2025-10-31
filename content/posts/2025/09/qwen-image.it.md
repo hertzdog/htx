@@ -10,12 +10,12 @@ images:
 - /images/posts/2025/09/qwen-image-modello-generazione-immagini-2.webp
 - /images/posts/2025/09/qwen-image-modello-generazione-immagini-4.webp
 language: Python
-last_linked: '2025-09-23T19:30:34.009582'
+last_linked: '2025-10-31T08:34:31.692155'
 processed_date: 2025-09-23 16:51
 related_articles:
+- /posts/2025/10/neutts-air/
 - /posts/2025/09/ragflow/
-- /posts/2025/09/paddleocr/
-- /posts/2025/09/colette/
+- /posts/2025/09/rag-anything-all-in-one-rag-framework/
 series:
 - Articoli Interessanti
 showDate: true
@@ -101,6 +101,6 @@ Fonte originale: [https://github.com/QwenLM/Qwen-Image](https://github.com/QwenL
 
 ## Articoli Correlati
 
+- [NeuTTS Air](/posts/2025/10/neutts-air/) - *Foundation Model, Python, AI*
 - [RAGFlow](/posts/2025/09/ragflow/) - *Open Source, Typescript, AI Agent*
-- [PaddleOCR](/posts/2025/09/paddleocr/) - *Open Source, DevOps, Python*
-- [Colette - ci ricorda molto Kotaemon](/posts/2025/09/colette/) - *Html, Open Source*
+- [RAG-Anything: All-in-One RAG Framework](/posts/2025/09/rag-anything-all-in-one-rag-framework/) - *Python, Open Source, Best Practices*

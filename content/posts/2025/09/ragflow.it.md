@@ -11,12 +11,12 @@ images:
 - /images/posts/2025/09/ragflow-open-source-retrieval-augmented-generation-featured.webp
 - /images/posts/2025/09/ragflow-open-source-retrieval-augmented-generation-2.webp
 language: TypeScript
-last_linked: '2025-09-23T19:30:33.912465'
+last_linked: '2025-10-31T08:34:31.564421'
 processed_date: 2025-09-06 10:31
 related_articles:
-- /posts/2025/09/dyg-rag-dynamic-graph-retrieval-augmented-generati/
-- /posts/2025/09/memorag-moving-towards-next-gen-rag-via-memory-ins/
-- /posts/2025/09/colette/
+- /posts/2025/09/raglight/
+- /posts/2025/08/dyg-rag-dynamic-graph-retrieval-augmented-generati/
+- /posts/2025/08/pageindex-document-index-for-reasoning-based-rag/
 series:
 - Articoli Interessanti
 showDate: true
@@ -107,6 +107,6 @@ Fonte originale: [https://github.com/infiniflow/ragflow](https://github.com/infi
 
 ## Articoli Correlati
 
-- [DyG-RAG: Dynamic Graph Retrieval-Augmented Generation with Event-Centric Reasoning](/posts/2025/09/dyg-rag-dynamic-graph-retrieval-augmented-generati/) - *Open Source*
-- [MemoRAG: Moving Towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery](/posts/2025/09/memorag-moving-towards-next-gen-rag-via-memory-ins/) - *Open Source, Python*
-- [Colette - ci ricorda molto Kotaemon](/posts/2025/09/colette/) - *Html, Open Source*
+- [RAGLight](/posts/2025/09/raglight/) - *LLM, Machine Learning, Open Source*
+- [DyG-RAG: Dynamic Graph Retrieval-Augmented Generation with Event-Centric Reasoning](/posts/2025/08/dyg-rag-dynamic-graph-retrieval-augmented-generati/) - *Open Source*
+- [PageIndex: Document Index for Reasoning-based RAG](/posts/2025/08/pageindex-document-index-for-reasoning-based-rag/) - *Open Source*

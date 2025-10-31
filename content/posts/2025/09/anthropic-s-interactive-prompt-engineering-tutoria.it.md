@@ -8,12 +8,12 @@ feature_image: /images/posts/2025/09/anthropics-interactive-prompt-engineering-t
 images:
 - /images/posts/2025/09/anthropics-interactive-prompt-engineering-tutorial-featured.webp
 language: Jupyter Notebook
-last_linked: '2025-09-23T19:30:33.854493'
+last_linked: '2025-10-31T08:34:31.502860'
 processed_date: 2025-09-06 10:27
 related_articles:
-- /posts/2025/09/dspy/
-- /posts/2025/09/the-llm-red-teaming-framework/
 - /posts/2025/09/scientific-paper-agent-with-langgraph/
+- /posts/2025/08/dspy/
+- /posts/2025/09/the-llm-red-teaming-framework/
 series:
 - Articoli Interessanti
 showDate: true
@@ -93,6 +93,6 @@ Fonte originale: [https://github.com/anthropics/prompt-eng-interactive-tutorial]
 
 ## Articoli Correlati
 
-- [DSPy](/posts/2025/09/dspy/) - *Best Practices, Foundation Model, LLM*
-- [The LLM Red Teaming Framework](/posts/2025/09/the-llm-red-teaming-framework/) - *Open Source, Python, LLM*
 - [Scientific Paper Agent with LangGraph](/posts/2025/09/scientific-paper-agent-with-langgraph/) - *AI Agent, AI, Open Source*
+- [DSPy](/posts/2025/08/dspy/) - *Best Practices, Foundation Model, LLM*
+- [The LLM Red Teaming Framework](/posts/2025/09/the-llm-red-teaming-framework/) - *Open Source, Python, LLM*

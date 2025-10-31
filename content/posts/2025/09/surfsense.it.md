@@ -12,12 +12,12 @@ images:
 - /images/posts/2025/09/surfsense-alternativa-open-source-3.webp
 - /images/posts/2025/09/surfsense-alternativa-open-source-4.webp
 language: Python
-last_linked: '2025-09-23T19:30:34.045904'
+last_linked: '2025-10-31T08:34:31.740119'
 processed_date: 2025-09-06 10:46
 related_articles:
-- /posts/2025/09/billionmail-an-open-source-mailserver-newsletter-e/
-- /posts/2025/09/dyg-rag-dynamic-graph-retrieval-augmented-generati/
-- /posts/2025/09/langextract/
+- /posts/2025/08/paperetl/
+- /posts/2025/09/raglight/
+- /posts/2025/10/enterprise-deep-research/
 series:
 - Articoli Interessanti
 showDate: true
@@ -98,6 +98,6 @@ Fonte originale: [https://github.com/MODSetter/SurfSense](https://github.com/MOD
 
 ## Articoli Correlati
 
-- [BillionMail 📧 An Open-Source MailServer, NewsLetter, Email Marketing Solution for Smarter Campaigns](/posts/2025/09/billionmail-an-open-source-mailserver-newsletter-e/) - *AI, Open Source*
-- [DyG-RAG: Dynamic Graph Retrieval-Augmented Generation with Event-Centric Reasoning](/posts/2025/09/dyg-rag-dynamic-graph-retrieval-augmented-generati/) - *Open Source*
-- [LangExtract](/posts/2025/09/langextract/) - *Python, LLM, Open Source*
+- [paperetl](/posts/2025/08/paperetl/) - *Open Source*
+- [RAGLight](/posts/2025/09/raglight/) - *LLM, Machine Learning, Open Source*
+- [Enterprise Deep Research](/posts/2025/10/enterprise-deep-research/) - *Python, Open Source*

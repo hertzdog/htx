@@ -12,12 +12,12 @@ images:
 - /images/posts/2025/09/ai-act-codice-di-condotta-per-un-approccio-responsabile-e-facilitato-per-le-pmi-featured.webp
 - /images/posts/2025/09/ai-act-codice-di-condotta-per-un-approccio-responsabile-e-facilitato-per-le-pmi-5.webp
 language: it
-last_linked: '2025-09-23T19:30:34.021730'
+last_linked: '2025-10-31T08:34:31.709025'
 processed_date: 2025-09-06 10:21
 related_articles:
-- /posts/2025/09/trends-artificial-intelligence-bond/
-- /posts/2025/09/troy-hunt-have-i-been-pwned-2-0-is-now-live/
-- /posts/2025/09/my-ai-skeptic-friends-are-all-nuts-the-fly-blog/
+- /posts/2025/06/field-notes-from-shipping-real-code-with-claude/
+- /posts/2025/10/claude-code-best-practices-code-w-claude-youtube/
+- /posts/2025/10/ai-act-single-information-platform-ai-act-service/
 series:
 - Articoli Interessanti
 showDate: true
@@ -99,6 +99,6 @@ Fonte originale: [https://www.cybersecurity360.it/legal/ai-act-ce-il-codice-di-c
 
 ## Articoli Correlati
 
-- [Trends – Artificial Intelligence | BOND](/posts/2025/09/trends-artificial-intelligence-bond/) - *AI*
-- [Troy Hunt: Have I Been Pwned 2.0 is Now Live!](/posts/2025/09/troy-hunt-have-i-been-pwned-2-0-is-now-live/) - *Tech*
-- [My AI Skeptic Friends Are All Nuts · The Fly Blog](/posts/2025/09/my-ai-skeptic-friends-are-all-nuts-the-fly-blog/) - *LLM, AI*
+- [Field Notes From Shipping Real Code With Claude](/posts/2025/06/field-notes-from-shipping-real-code-with-claude/) - *Tech*
+- [Claude Code best practices | Code w/ Claude - YouTube](/posts/2025/10/claude-code-best-practices-code-w-claude-youtube/) - *Code Review, AI, Best Practices*
+- [AI Act Single Information Platform | AI Act Service Desk](/posts/2025/10/ai-act-single-information-platform-ai-act-service/) - *AI*

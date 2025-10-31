@@ -11,11 +11,11 @@ images:
 - /images/posts/2025/09/claude-code-is-my-computer-featured.webp
 - /images/posts/2025/09/claude-code-is-my-computer-2.webp
 language: en
-last_linked: '2025-09-23T19:30:34.055563'
+last_linked: '2025-10-31T08:34:31.753622'
 processed_date: 2025-09-06 10:47
 related_articles:
-- /posts/2025/09/field-notes-from-shipping-real-code-with-claude/
-- /posts/2025/09/how-to-use-claude-code-subagents-to-parallelize-de/
+- /posts/2025/08/my-ai-had-already-fixed-the-code-before-i-saw-it/
+- /posts/2025/06/field-notes-from-shipping-real-code-with-claude/
 - /posts/2025/08/prava-teaching-gpt-5-to-use-a-computer/
 series:
 - Articoli Interessanti
@@ -95,6 +95,6 @@ Fonte originale: [https://steipete.me/posts/2025/claude-code-is-my-computer](htt
 
 ## Articoli Correlati
 
-- [Field Notes From Shipping Real Code With Claude](/posts/2025/09/field-notes-from-shipping-real-code-with-claude/) - *Tech*
-- [How to Use Claude Code Subagents to Parallelize Development](/posts/2025/09/how-to-use-claude-code-subagents-to-parallelize-de/) - *AI Agent, AI*
+- [My AI Had Already Fixed the Code Before I Saw It](/posts/2025/08/my-ai-had-already-fixed-the-code-before-i-saw-it/) - *Code Review, Software Development, AI*
+- [Field Notes From Shipping Real Code With Claude](/posts/2025/06/field-notes-from-shipping-real-code-with-claude/) - *Tech*
 - [Prava - Teaching GPT‑5 to use a computer](/posts/2025/08/prava-teaching-gpt-5-to-use-a-computer/) - *Tech*

@@ -8,12 +8,12 @@ feature_image: /images/posts/2025/09/automatically-annotate-papers-using-llms-fe
 images:
 - /images/posts/2025/09/automatically-annotate-papers-using-llms-featured.webp
 - /images/posts/2025/09/automatically-annotate-papers-using-llms-2.webp
-last_linked: '2025-09-23T19:30:33.989950'
+last_linked: '2025-10-31T08:34:31.669431'
 processed_date: 2025-09-04 19:27
 related_articles:
-- /posts/2025/09/paperetl/
-- /posts/2025/09/langextract/
-- /posts/2025/09/paddleocr/
+- /posts/2025/08/langextract/
+- /posts/2025/08/paperetl/
+- /posts/2025/08/elysia-agentic-framework-powered-by-decision-trees/
 series:
 - Articoli Interessanti
 showDate: true
@@ -94,6 +94,6 @@ Fonte originale: [https://github.com/neuml/annotateai](https://github.com/neuml/
 
 ## Articoli Correlati
 
-- [paperetl](/posts/2025/09/paperetl/) - *Open Source*
-- [LangExtract](/posts/2025/09/langextract/) - *Python, LLM, Open Source*
-- [PaddleOCR](/posts/2025/09/paddleocr/) - *Open Source, DevOps, Python*
+- [LangExtract](/posts/2025/08/langextract/) - *Python, LLM, Open Source*
+- [paperetl](/posts/2025/08/paperetl/) - *Open Source*
+- [Elysia: Agentic Framework Powered by Decision Trees](/posts/2025/08/elysia-agentic-framework-powered-by-decision-trees/) - *Best Practices, Python, AI Agent*

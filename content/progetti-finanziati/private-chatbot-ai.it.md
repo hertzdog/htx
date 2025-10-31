@@ -49,10 +49,24 @@ Grazie a quanto sviluppato, oggi è possibile interagire tramite una chat web co
 - **Gestione supply chain**: Ottimizzazione automatica della catena di fornitura
 - **Manutenzione predittiva**: Analisi preventiva dei guasti attraverso AI
 
+
 ## Prospettive future
 
 PrivateChatAI rappresenta la base per ulteriori sviluppi nel campo dell'AI privata e sicura. I risultati del progetto stanno già alimentando nuove ricerche e sviluppi per:
 
 - Estensione a nuovi settori industriali
-- Integrazione con sistemi ERP e CRM esistenti  
+- Integrazione con sistemi ERP e CRM esistenti
 - Sviluppo di capacità multimodali (voce, immagini, documenti)
+
+---
+
+## Ottobre 2025: primi prodotti commerciali
+
+Il progetto PrivateChatAI ha già generato il suo primo prodotto commerciale: **[ArisQL](/arisql/)**, una soluzione enterprise per integrare la conversione da linguaggio naturale a SQL nei prodotti aziendali.
+
+ArisQL rappresenta la concretizzazione delle ricerche condotte durante il progetto, trasformando le tecnologie sviluppate in un prodotto pronto per il mercato, progettato per garantire accuratezza, sicurezza e privacy.
+
+{{< button href="/arisql/" target="_self" >}}
+Scopri ArisQL
+{{< /button >}}
+

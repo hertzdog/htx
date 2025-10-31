@@ -8,12 +8,12 @@ feature_image: /images/posts/2025/09/fallinorg-v1-0-0-beta-featured.webp
 images:
 - /images/posts/2025/09/fallinorg-v1-0-0-beta-featured.webp
 - /images/posts/2025/09/fallinorg-v1-0-0-beta-2.webp
-last_linked: '2025-09-23T19:30:33.975571'
+last_linked: '2025-10-31T08:34:31.654320'
 processed_date: 2025-09-04 19:14
 related_articles:
-- /posts/2025/09/show-hn-fallinorg-offline-mac-app-that-organizes-f/
+- /posts/2025/08/show-hn-fallinorg-offline-mac-app-that-organizes-f/
 - /posts/2025/09/agenticseek-private-local-manus-alternative/
-- /posts/2025/09/colette/
+- /posts/2025/09/the-llm-red-teaming-framework/
 series:
 - Articoli Interessanti
 showDate: true
@@ -93,6 +93,6 @@ Fonte originale: [https://github.com/taranntell/fallinorg/releases/tag/1.0.0-bet
 
 ## Articoli Correlati
 
-- [Show HN: Fallinorg - Offline Mac app that organizes files by meaning](/posts/2025/09/show-hn-fallinorg-offline-mac-app-that-organizes-f/) - *AI*
+- [Show HN: Fallinorg - Offline Mac app that organizes files by meaning](/posts/2025/08/show-hn-fallinorg-offline-mac-app-that-organizes-f/) - *AI*
 - [AgenticSeek: Private, Local Manus Alternative](/posts/2025/09/agenticseek-private-local-manus-alternative/) - *AI Agent, AI, Python*
-- [Colette - ci ricorda molto Kotaemon](/posts/2025/09/colette/) - *Html, Open Source*
+- [The LLM Red Teaming Framework](/posts/2025/09/the-llm-red-teaming-framework/) - *Open Source, Python, LLM*

@@ -12,12 +12,12 @@ images:
 - /images/posts/2025/09/claude-code-highly-agentic-coding-assistant-5.webp
 - /images/posts/2025/09/claude-code-highly-agentic-coding-assistant-6.webp
 language: en
-last_linked: '2025-09-23T19:30:33.862681'
+last_linked: '2025-10-31T08:34:31.511361'
 processed_date: 2025-09-04 18:58
 related_articles:
-- /posts/2025/09/field-notes-from-shipping-real-code-with-claude/
-- /posts/2025/09/my-ai-skeptic-friends-are-all-nuts-the-fly-blog/
-- /posts/2025/09/how-to-use-claude-code-subagents-to-parallelize-de/
+- /posts/2025/08/my-ai-had-already-fixed-the-code-before-i-saw-it/
+- /posts/2025/09/a-must-bookmark-for-vibe-coders/
+- /posts/2025/06/field-notes-from-shipping-real-code-with-claude/
 series:
 - Articoli Interessanti
 showDate: true
@@ -97,6 +97,6 @@ Fonte originale: [https://learn.deeplearning.ai/courses/claude-code-a-highly-age
 
 ## Articoli Correlati
 
-- [Field Notes From Shipping Real Code With Claude](/posts/2025/09/field-notes-from-shipping-real-code-with-claude/) - *Tech*
-- [My AI Skeptic Friends Are All Nuts · The Fly Blog](/posts/2025/09/my-ai-skeptic-friends-are-all-nuts-the-fly-blog/) - *LLM, AI*
-- [How to Use Claude Code Subagents to Parallelize Development](/posts/2025/09/how-to-use-claude-code-subagents-to-parallelize-de/) - *AI Agent, AI*
+- [My AI Had Already Fixed the Code Before I Saw It](/posts/2025/08/my-ai-had-already-fixed-the-code-before-i-saw-it/) - *Code Review, Software Development, AI*
+- [A must-bookmark for vibe-coders](/posts/2025/09/a-must-bookmark-for-vibe-coders/) - *Tech*
+- [Field Notes From Shipping Real Code With Claude](/posts/2025/06/field-notes-from-shipping-real-code-with-claude/) - *Tech*

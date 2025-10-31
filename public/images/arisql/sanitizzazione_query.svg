@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 256" fill="none" stroke="#6B7280" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" role="img">
+  <!-- Documento query -->
+  <rect x="20" y="70" width="70" height="100" rx="10"></rect>
+  <path d="M32 90h46M32 106h40M32 122h46M32 138h28"></path>
+
+  <!-- Flusso verso scudo (tratteggiato = sanitizzazione/validazione in corso) -->
+  <path d="M90 120 C 115 120, 125 120, 140 120" stroke-dasharray="10 12"></path>
+
+  <!-- Scudo (spostato più in alto e ingrandito) -->
+  <g transform="translate(0,-10)">
+    <path d="M165 86c12 8 24 8 36 0 0 24-6 39-18 49-7 5-12 8-18 12-6-4-11-7-18-12-12-10-18-25-18-49 12 8 24 8 36 0z"></path>
+    <!-- Checkmark centrata -->
+    <path d="M160 122l10 10 18-20"></path>
+  </g>
+
+  <!-- Flusso sicuro verso DB (solido) -->
+  <path d="M200 130 C 225 130, 240 130, 260 130"></path>
+
+  <!-- Database (più grande e leggibile) -->
+  <ellipse cx="270" cy="110" rx="26" ry="10"></ellipse>
+  <rect x="244" y="110" width="52" height="60" rx="8"></rect>
+  <ellipse cx="270" cy="170" rx="26" ry="10"></ellipse>
+</svg>

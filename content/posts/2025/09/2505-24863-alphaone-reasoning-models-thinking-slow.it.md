@@ -10,12 +10,12 @@ images:
 - /images/posts/2025/09/alphaone-reasoning-models-thinking-slow-and-fast-featured.webp
 - /images/posts/2025/09/alphaone-reasoning-models-thinking-slow-and-fast-5.webp
 language: en
-last_linked: '2025-09-23T19:30:33.913965'
+last_linked: '2025-10-31T08:34:31.566741'
 processed_date: 2025-09-06 10:48
 related_articles:
-- /posts/2025/09/2505-24864-prorl-prolonged-reinforcement-learning/
-- /posts/2025/09/2411-06037-sufficient-context-a-new-lens-on-retrie/
-- /posts/2025/09/2505-06120-llms-get-lost-in-multi-turn-conversatio/
+- /posts/2025/05/2411-06037-sufficient-context-a-new-lens-on-retrie/
+- /posts/2025/05/2505-06120-llms-get-lost-in-multi-turn-conversatio/
+- /posts/2025/05/2502-00032v1-querying-databases-with-function-call/
 series:
 - Articoli Interessanti
 showDate: true
@@ -95,6 +95,6 @@ Fonte originale: [https://arxiv.org/abs/2505.24863](https://arxiv.org/abs/2505.2
 
 ## Articoli Correlati
 
-- [[2505.24864] ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models](/posts/2025/09/2505-24864-prorl-prolonged-reinforcement-learning/) - *LLM, Foundation Model*
-- [[2411.06037] Sufficient Context: A New Lens on Retrieval Augmented Generation Systems](/posts/2025/09/2411-06037-sufficient-context-a-new-lens-on-retrie/) - *Natural Language Processing*
-- [[2505.06120] LLMs Get Lost In Multi-Turn Conversation](/posts/2025/09/2505-06120-llms-get-lost-in-multi-turn-conversatio/) - *LLM*
+- [[2411.06037] Sufficient Context: A New Lens on Retrieval Augmented Generation Systems](/posts/2025/05/2411-06037-sufficient-context-a-new-lens-on-retrie/) - *Natural Language Processing*
+- [[2505.06120] LLMs Get Lost In Multi-Turn Conversation](/posts/2025/05/2505-06120-llms-get-lost-in-multi-turn-conversatio/) - *LLM*
+- [[2502.00032v1] Querying Databases with Function Calling](/posts/2025/05/2502-00032v1-querying-databases-with-function-call/) - *Tech*

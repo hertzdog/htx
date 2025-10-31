@@ -8,12 +8,12 @@ description: Scopri il miglior modello di linguaggio per hardware consumer, otti
 draft: false
 feature_image: /images/background.svg
 images: []
-last_linked: '2025-09-23T19:30:33.838561'
+last_linked: '2025-10-31T08:34:31.486630'
 processed_date: 2025-09-06 10:50
 related_articles:
-- /posts/2025/09/how-to-build-a-coding-agent/
-- /posts/2025/09/launch-hn-lucidic-yc-w25-debug-test-and-evaluate-a/
-- /posts/2025/09/a-research-preview-of-codex/
+- /posts/2025/06/building-effective-ai-agents/
+- /posts/2025/05/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/
+- /posts/2025/07/launch-hn-lucidic-yc-w25-debug-test-and-evaluate-a/
 series:
 - Articoli Interessanti
 showDate: true
@@ -103,6 +103,6 @@ Fonte originale: [https://news.ycombinator.com/item?id=44134896](https://news.yc
 
 ## Articoli Correlati
 
-- [How to build a coding agent](/posts/2025/09/how-to-build-a-coding-agent/) - *AI Agent, AI*
-- [Launch HN: Lucidic (YC W25) – Debug, test, and evaluate AI agents in production](/posts/2025/09/launch-hn-lucidic-yc-w25-debug-test-and-evaluate-a/) - *AI, AI Agent*
-- [A Research Preview of Codex](/posts/2025/09/a-research-preview-of-codex/) - *AI, Foundation Model*
+- [Building Effective AI Agents](/posts/2025/06/building-effective-ai-agents/) - *AI Agent, AI, Foundation Model*
+- [Show HN: My LLM CLI tool can run tools now, from Python code or plugins](/posts/2025/05/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/) - *LLM, Foundation Model, Python*
+- [Launch HN: Lucidic (YC W25) – Debug, test, and evaluate AI agents in production](/posts/2025/07/launch-hn-lucidic-yc-w25-debug-test-and-evaluate-a/) - *AI, AI Agent*

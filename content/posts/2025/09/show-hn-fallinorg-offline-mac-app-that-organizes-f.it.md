@@ -9,12 +9,12 @@ draft: false
 feature_image: /images/posts/2025/09/fallinorg-offline-mac-app-organizza-file-per-significato-featured.webp
 images:
 - /images/posts/2025/09/fallinorg-offline-mac-app-organizza-file-per-significato-featured.webp
-last_linked: '2025-09-23T19:30:34.080498'
+last_linked: '2025-10-31T08:34:31.785222'
 processed_date: 2025-09-04 19:13
 related_articles:
-- /posts/2025/09/llama-scan-convert-pdfs-to-text-w-local-llms/
 - /posts/2025/09/show-hn-clavier-36-a-programming-environment-for-g/
-- /posts/2025/09/show-hn-autothink-boosts-local-llm-performance-wit/
+- /posts/2025/08/llama-scan-convert-pdfs-to-text-w-local-llms/
+- /posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/
 series:
 - Articoli Interessanti
 showDate: true
@@ -103,6 +103,6 @@ Fonte originale: [https://news.ycombinator.com/item?id=44932375](https://news.yc
 
 ## Articoli Correlati
 
-- [Llama-Scan: Convert PDFs to Text W Local LLMs](/posts/2025/09/llama-scan-convert-pdfs-to-text-w-local-llms/) - *LLM, Natural Language Processing*
 - [Show HN: CLAVIER-36 – A programming environment for generative music](/posts/2025/09/show-hn-clavier-36-a-programming-environment-for-g/) - *Tech*
-- [Show HN: AutoThink – Boosts local LLM performance with adaptive reasoning](/posts/2025/09/show-hn-autothink-boosts-local-llm-performance-wit/) - *LLM, Foundation Model*
+- [Llama-Scan: Convert PDFs to Text W Local LLMs](/posts/2025/08/llama-scan-convert-pdfs-to-text-w-local-llms/) - *LLM, Natural Language Processing*
+- [VibeVoice: A Frontier Open-Source Text-to-Speech Model](/posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/) - *Best Practices, Foundation Model, Natural Language Processing*

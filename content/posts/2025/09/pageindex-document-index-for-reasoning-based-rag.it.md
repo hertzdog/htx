@@ -10,12 +10,12 @@ images:
 - /images/posts/2025/09/pageindex-document-index-for-reasoning-based-rag-2.webp
 - /images/posts/2025/09/pageindex-document-index-for-reasoning-based-rag-4.webp
 - /images/posts/2025/09/pageindex-document-index-for-reasoning-based-rag-6.webp
-last_linked: '2025-09-23T19:30:34.040523'
+last_linked: '2025-10-31T08:34:31.734771'
 processed_date: 2025-09-04 18:57
 related_articles:
+- /posts/2025/09/memorag-moving-towards-next-gen-rag-via-memory-ins/
 - /posts/2025/09/memvid/
-- /posts/2025/09/colette/
-- /posts/2025/09/dyg-rag-dynamic-graph-retrieval-augmented-generati/
+- /posts/2025/09/ragflow/
 series:
 - Articoli Interessanti
 showDate: true
@@ -102,6 +102,6 @@ Fonte originale: [https://github.com/VectifyAI/PageIndex](https://github.com/Vec
 
 ## Articoli Correlati
 
+- [MemoRAG: Moving Towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery](/posts/2025/09/memorag-moving-towards-next-gen-rag-via-memory-ins/) - *Open Source, Python*
 - [Memvid](/posts/2025/09/memvid/) - *Natural Language Processing, AI, Open Source*
-- [Colette - ci ricorda molto Kotaemon](/posts/2025/09/colette/) - *Html, Open Source*
-- [DyG-RAG: Dynamic Graph Retrieval-Augmented Generation with Event-Centric Reasoning](/posts/2025/09/dyg-rag-dynamic-graph-retrieval-augmented-generati/) - *Open Source*
+- [RAGFlow](/posts/2025/09/ragflow/) - *Open Source, Typescript, AI Agent*

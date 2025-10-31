@@ -29,11 +29,11 @@ images:
 - /images/posts/2025/09/a-foundation-model-to-predict-and-capture-human-cognition-5.webp
 - /images/posts/2025/09/a-foundation-model-to-predict-and-capture-human-cognition-6.webp
 language: en
-last_linked: '2025-09-23T19:30:34.014231'
+last_linked: '2025-10-31T08:34:31.698372'
 processed_date: 2025-09-06 10:28
 related_articles:
 - /posts/2024/10/large-language-models-are-proficient-in-solving-an/
-- /posts/2025/09/how-dataherald-makes-natural-language-to-sql-easy/
+- /posts/2025/06/how-dataherald-makes-natural-language-to-sql-easy/
 - /posts/2025/09/introducing-qwen3-max-preview-instruct/
 series:
 - Articoli Interessanti
@@ -118,5 +118,5 @@ Fonte originale: [https://www.nature.com/articles/s41586-025-09215-4](https://ww
 ## Articoli Correlati
 
 - [Large language models are proficient in solving and creating emotional intelligence tests | Communications Psychology](/posts/2024/10/large-language-models-are-proficient-in-solving-an/) - *AI, LLM, Foundation Model*
-- [How Dataherald Makes Natural Language to SQL Easy](/posts/2025/09/how-dataherald-makes-natural-language-to-sql-easy/) - *Natural Language Processing, AI*
+- [How Dataherald Makes Natural Language to SQL Easy](/posts/2025/06/how-dataherald-makes-natural-language-to-sql-easy/) - *Natural Language Processing, AI*
 - [Introducing Qwen3-Max-Preview (Instruct)](/posts/2025/09/introducing-qwen3-max-preview-instruct/) - *AI, Foundation Model*

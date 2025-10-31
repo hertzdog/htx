@@ -12,12 +12,12 @@ images:
 - /images/posts/2025/09/codex-robot-dev-team-groks-fixation-south-africa-saudi-arabia-ai-power-play-5.webp
 - /images/posts/2025/09/codex-robot-dev-team-groks-fixation-south-africa-saudi-arabia-ai-power-play-6.webp
 language: en
-last_linked: '2025-09-23T19:30:34.012802'
+last_linked: '2025-10-31T08:34:31.696722'
 processed_date: 2025-09-06 10:52
 related_articles:
-- /posts/2025/09/judge-rules-training-ai-on-copyrighted-works-is-fa/
-- /posts/2025/09/field-notes-from-shipping-real-code-with-claude/
-- /posts/2025/09/a-must-bookmark-for-vibe-coders/
+- /posts/2025/08/claude-code-a-highly-agentic-coding-assistant-deep/
+- /posts/2025/06/field-notes-from-shipping-real-code-with-claude/
+- /posts/2025/06/my-ai-skeptic-friends-are-all-nuts-the-fly-blog/
 series:
 - Articoli Interessanti
 showDate: true
@@ -97,6 +97,6 @@ Fonte originale: [https://www.deeplearning.ai/the-batch/issue-302/](https://www.
 
 ## Articoli Correlati
 
-- [Judge Rules Training AI on Copyrighted Works Is Fair Use, Agentic Biology Evolves, and more...](/posts/2025/09/judge-rules-training-ai-on-copyrighted-works-is-fa/) - *AI Agent, LLM, AI*
-- [Field Notes From Shipping Real Code With Claude](/posts/2025/09/field-notes-from-shipping-real-code-with-claude/) - *Tech*
-- [A must-bookmark for vibe-coders](/posts/2025/09/a-must-bookmark-for-vibe-coders/) - *Tech*
+- [Claude Code: A Highly Agentic Coding Assistant - DeepLearning.AI](/posts/2025/08/claude-code-a-highly-agentic-coding-assistant-deep/) - *AI Agent, AI*
+- [Field Notes From Shipping Real Code With Claude](/posts/2025/06/field-notes-from-shipping-real-code-with-claude/) - *Tech*
+- [My AI Skeptic Friends Are All Nuts · The Fly Blog](/posts/2025/06/my-ai-skeptic-friends-are-all-nuts-the-fly-blog/) - *LLM, AI*

@@ -30,12 +30,12 @@ images:
 - /images/posts/2025/09/large-language-models-emotional-intelligence-tests-4.webp
 - /images/posts/2025/09/large-language-models-emotional-intelligence-tests-5.webp
 language: en
-last_linked: '2025-09-23T19:30:33.930511'
+last_linked: '2025-10-31T08:34:31.585423'
 processed_date: 2025-09-06 10:48
 related_articles:
-- /posts/2024/10/a-foundation-model-to-predict-and-capture-human-co/
-- /posts/2025/09/agentic-design-patterns-documenti-google/
-- /posts/2025/09/judge-rules-training-ai-on-copyrighted-works-is-fa/
+- /posts/2025/08/cs294-194-196-large-language-model-agents-cs-194-2/
+- /posts/2025/02/deepseek-r1-incentivizes-reasoning-in-llms-through/
+- /posts/2025/06/mcp-is-eating-the-world-and-it-s-here-to-stay/
 series:
 - Articoli Interessanti
 showDate: true
@@ -117,6 +117,6 @@ Fonte originale: [https://www.nature.com/articles/s44271-025-00258-x](https://ww
 
 ## Articoli Correlati
 
-- [A foundation model to predict and capture human cognition | Nature](/posts/2024/10/a-foundation-model-to-predict-and-capture-human-co/) - *Go, Foundation Model, Natural Language Processing*
-- [Agentic Design Patterns - Documenti Google](/posts/2025/09/agentic-design-patterns-documenti-google/) - *Go, AI Agent*
-- [Judge Rules Training AI on Copyrighted Works Is Fair Use, Agentic Biology Evolves, and more...](/posts/2025/09/judge-rules-training-ai-on-copyrighted-works-is-fa/) - *AI Agent, LLM, AI*
+- [CS294/194-196 Large Language Model Agents | CS 194/294-196 Large Language Model Agents](/posts/2025/08/cs294-194-196-large-language-model-agents-cs-194-2/) - *AI Agent, Foundation Model, LLM*
+- [DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning | Nature](/posts/2025/02/deepseek-r1-incentivizes-reasoning-in-llms-through/) - *LLM, AI, Best Practices*
+- [MCP is eating the world—and it's here to stay](/posts/2025/06/mcp-is-eating-the-world-and-it-s-here-to-stay/) - *Natural Language Processing, AI, Foundation Model*

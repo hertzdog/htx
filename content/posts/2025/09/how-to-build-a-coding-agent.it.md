@@ -14,12 +14,12 @@ images:
 - /images/posts/2025/09/come-costruire-un-coding-agent-4.webp
 - /images/posts/2025/09/come-costruire-un-coding-agent-5.webp
 - /images/posts/2025/09/come-costruire-un-coding-agent-6.webp
-last_linked: '2025-09-23T19:30:33.895326'
+last_linked: '2025-10-31T08:34:31.545451'
 processed_date: 2025-09-04 19:01
 related_articles:
-- /posts/2025/09/qwen3-coder-agentic-coding-in-the-world/
-- /posts/2025/09/litestar-is-worth-a-look/
-- /posts/2025/09/opencode-ai-coding-agent-built-for-the-terminal/
+- /posts/2025/07/opencode-ai-coding-agent-built-for-the-terminal/
+- /posts/2025/07/launch-hn-lucidic-yc-w25-debug-test-and-evaluate-a/
+- /posts/2025/06/symbolicai-a-neuro-symbolic-perspective-on-llms/
 series:
 - Articoli Interessanti
 showDate: true
@@ -111,6 +111,6 @@ Fonte originale: [https://news.ycombinator.com/item?id=45001051](https://news.yc
 
 ## Articoli Correlati
 
-- [Qwen3-Coder: Agentic coding in the world](/posts/2025/09/qwen3-coder-agentic-coding-in-the-world/) - *AI Agent, Foundation Model*
-- [Litestar is worth a look](/posts/2025/09/litestar-is-worth-a-look/) - *Best Practices, Python*
-- [Opencode: AI coding agent, built for the terminal](/posts/2025/09/opencode-ai-coding-agent-built-for-the-terminal/) - *AI Agent, AI*
+- [Opencode: AI coding agent, built for the terminal](/posts/2025/07/opencode-ai-coding-agent-built-for-the-terminal/) - *AI Agent, AI*
+- [Launch HN: Lucidic (YC W25) – Debug, test, and evaluate AI agents in production](/posts/2025/07/launch-hn-lucidic-yc-w25-debug-test-and-evaluate-a/) - *AI, AI Agent*
+- [SymbolicAI: A neuro-symbolic perspective on LLMs](/posts/2025/06/symbolicai-a-neuro-symbolic-perspective-on-llms/) - *Foundation Model, Python, Best Practices*

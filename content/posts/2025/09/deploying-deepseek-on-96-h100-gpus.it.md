@@ -14,12 +14,12 @@ images:
 - /images/posts/2025/09/deploying-deepseek-on-96-h100-gpus-4.webp
 - /images/posts/2025/09/deploying-deepseek-on-96-h100-gpus-5.webp
 - /images/posts/2025/09/deploying-deepseek-on-96-h100-gpus-6.webp
-last_linked: '2025-09-23T19:30:33.905415'
+last_linked: '2025-10-31T08:34:31.556808'
 processed_date: 2025-09-04 18:56
 related_articles:
-- /posts/2025/09/qwen3-coder-agentic-coding-in-the-world/
-- /posts/2025/09/building-effective-ai-agents/
-- /posts/2025/09/litestar-is-worth-a-look/
+- /posts/2025/07/qwen3-coder-agentic-coding-in-the-world/
+- /posts/2025/05/show-hn-autothink-boosts-local-llm-performance-wit/
+- /posts/2025/06/building-effective-ai-agents/
 series:
 - Articoli Interessanti
 showDate: true
@@ -113,6 +113,6 @@ Fonte originale: [https://news.ycombinator.com/item?id=45064329](https://news.yc
 
 ## Articoli Correlati
 
-- [Qwen3-Coder: Agentic coding in the world](/posts/2025/09/qwen3-coder-agentic-coding-in-the-world/) - *AI Agent, Foundation Model*
-- [Building Effective AI Agents](/posts/2025/09/building-effective-ai-agents/) - *AI Agent, AI, Foundation Model*
-- [Litestar is worth a look](/posts/2025/09/litestar-is-worth-a-look/) - *Best Practices, Python*
+- [Qwen3-Coder: Agentic coding in the world](/posts/2025/07/qwen3-coder-agentic-coding-in-the-world/) - *AI Agent, Foundation Model*
+- [Show HN: AutoThink – Boosts local LLM performance with adaptive reasoning](/posts/2025/05/show-hn-autothink-boosts-local-llm-performance-wit/) - *LLM, Foundation Model*
+- [Building Effective AI Agents](/posts/2025/06/building-effective-ai-agents/) - *AI Agent, AI, Foundation Model*

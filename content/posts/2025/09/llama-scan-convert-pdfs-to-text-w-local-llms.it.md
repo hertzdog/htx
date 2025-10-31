@@ -12,12 +12,12 @@ images:
 - /images/posts/2025/09/llama-scan-convert-pdfs-to-text-with-local-llms-featured.webp
 - /images/posts/2025/09/llama-scan-convert-pdfs-to-text-with-local-llms-2.webp
 - /images/posts/2025/09/llama-scan-convert-pdfs-to-text-with-local-llms-3.webp
-last_linked: '2025-09-23T19:30:33.937333'
+last_linked: '2025-10-31T08:34:31.591924'
 processed_date: 2025-09-04 19:14
 related_articles:
-- /posts/2025/09/show-hn-whispering-open-source-local-first-dictati/
-- /posts/2025/09/show-hn-fallinorg-offline-mac-app-that-organizes-f/
-- /posts/2025/09/vision-now-available-in-llama-cpp/
+- /posts/2025/05/vision-now-available-in-llama-cpp/
+- /posts/2025/05/show-hn-onlook-open-source-visual-first-cursor-for/
+- /posts/2025/08/show-hn-fallinorg-offline-mac-app-that-organizes-f/
 series:
 - Articoli Interessanti
 showDate: true
@@ -114,6 +114,6 @@ Fonte originale: [https://news.ycombinator.com/item?id=44935169#44935997](https:
 
 ## Articoli Correlati
 
-- [Show HN: Whispering – Open-source, local-first dictation you can trust](/posts/2025/09/show-hn-whispering-open-source-local-first-dictati/) - *Rust*
-- [Show HN: Fallinorg - Offline Mac app that organizes files by meaning](/posts/2025/09/show-hn-fallinorg-offline-mac-app-that-organizes-f/) - *AI*
-- [Vision Now Available in Llama.cpp](/posts/2025/09/vision-now-available-in-llama-cpp/) - *Foundation Model, AI, Computer Vision*
+- [Vision Now Available in Llama.cpp](/posts/2025/05/vision-now-available-in-llama-cpp/) - *Foundation Model, AI, Computer Vision*
+- [Show HN: Onlook – Open-source, visual-first Cursor for designers](/posts/2025/05/show-hn-onlook-open-source-visual-first-cursor-for/) - *Tech*
+- [Show HN: Fallinorg - Offline Mac app that organizes files by meaning](/posts/2025/08/show-hn-fallinorg-offline-mac-app-that-organizes-f/) - *AI*

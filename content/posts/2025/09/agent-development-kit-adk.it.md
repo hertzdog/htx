@@ -9,12 +9,12 @@ draft: false
 feature_image: /images/posts/2025/09/agent-development-kit-adk-featured.webp
 images:
 - /images/posts/2025/09/agent-development-kit-adk-featured.webp
-last_linked: '2025-09-23T19:30:33.956348'
+last_linked: '2025-10-31T08:34:31.614824'
 processed_date: 2025-09-06 10:50
 related_articles:
-- /posts/2025/09/sim/
-- /posts/2025/09/ragflow/
-- /posts/2025/09/ai-agents-for-beginners-a-course/
+- /posts/2025/09/google-just-dropped-an-ace-64-page-guide-on-buildi/
+- /posts/2025/09/ai-researcher-autonomous-scientific-innovation/
+- /posts/2025/08/ai-agents-for-beginners-a-course/
 series:
 - Articoli Interessanti
 showDate: true
@@ -98,6 +98,6 @@ Fonte originale: [https://github.com/google/adk-python](https://github.com/googl
 
 ## Articoli Correlati
 
-- [Sim](/posts/2025/09/sim/) - *AI, AI Agent, Open Source*
-- [RAGFlow](/posts/2025/09/ragflow/) - *Open Source, Typescript, AI Agent*
-- [AI Agents for Beginners - A Course](/posts/2025/09/ai-agents-for-beginners-a-course/) - *AI Agent, Open Source, AI*
+- [Google just dropped an ace 64-page guide on building AI Agents](/posts/2025/09/google-just-dropped-an-ace-64-page-guide-on-buildi/) - *Go, AI Agent, AI*
+- [AI-Researcher: Autonomous Scientific Innovation](/posts/2025/09/ai-researcher-autonomous-scientific-innovation/) - *Python, Open Source, AI*
+- [AI Agents for Beginners - A Course](/posts/2025/08/ai-agents-for-beginners-a-course/) - *AI Agent, Open Source, AI*

@@ -10,12 +10,12 @@ images:
 - /images/posts/2025/09/sufficient-context-new-lens-retrieval-augmented-generation-systems-featured.webp
 - /images/posts/2025/09/sufficient-context-new-lens-retrieval-augmented-generation-systems-5.webp
 language: en
-last_linked: '2025-09-23T19:30:33.887428'
+last_linked: '2025-10-31T08:34:31.537231'
 processed_date: 2025-09-06 10:50
 related_articles:
+- /posts/2025/06/2505-24863-alphaone-reasoning-models-thinking-slow/
 - /posts/2025/09/2504-19413-mem0-building-production-ready-ai-agent/
-- /posts/2025/09/2502-00032v1-querying-databases-with-function-call/
-- /posts/2025/09/2505-24864-prorl-prolonged-reinforcement-learning/
+- /posts/2025/10/the-rag-obituary-killed-by-agents-buried-by-contex/
 series:
 - Articoli Interessanti
 showDate: true
@@ -95,6 +95,6 @@ Fonte originale: [https://arxiv.org/abs/2411.06037](https://arxiv.org/abs/2411.0
 
 ## Articoli Correlati
 
+- [[2505.24863] AlphaOne: Reasoning Models Thinking Slow and Fast at Test Time](/posts/2025/06/2505-24863-alphaone-reasoning-models-thinking-slow/) - *Foundation Model*
 - [[2504.19413] Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](/posts/2025/09/2504-19413-mem0-building-production-ready-ai-agent/) - *AI Agent, AI*
-- [[2502.00032v1] Querying Databases with Function Calling](/posts/2025/09/2502-00032v1-querying-databases-with-function-call/) - *Tech*
-- [[2505.24864] ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models](/posts/2025/09/2505-24864-prorl-prolonged-reinforcement-learning/) - *LLM, Foundation Model*
+- [The RAG Obituary: Killed by Agents, Buried by Context Windows](/posts/2025/10/the-rag-obituary-killed-by-agents-buried-by-contex/) - *AI Agent, Natural Language Processing*

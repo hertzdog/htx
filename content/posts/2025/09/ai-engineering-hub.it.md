@@ -7,12 +7,12 @@ draft: false
 feature_image: /images/background.svg
 images: []
 language: Jupyter Notebook
-last_linked: '2025-09-23T19:30:33.908942'
+last_linked: '2025-10-31T08:34:31.560090'
 processed_date: 2025-09-22 15:00
 related_articles:
 - /posts/2025/09/scientific-paper-agent-with-langgraph/
-- /posts/2025/09/build-a-large-language-model-from-scratch/
-- /posts/2025/09/ai-hedge-fund/
+- /posts/2025/08/build-a-large-language-model-from-scratch/
+- /posts/2025/08/ai-agents-for-beginners-a-course/
 series:
 - Articoli Interessanti
 showDate: true
@@ -97,5 +97,5 @@ Fonte originale: [https://github.com/patchy631/ai-engineering-hub](https://githu
 ## Articoli Correlati
 
 - [Scientific Paper Agent with LangGraph](/posts/2025/09/scientific-paper-agent-with-langgraph/) - *AI Agent, AI, Open Source*
-- [Build a Large Language Model (From Scratch)](/posts/2025/09/build-a-large-language-model-from-scratch/) - *Foundation Model, LLM, Open Source*
-- [AI Hedge Fund](/posts/2025/09/ai-hedge-fund/) - *AI, Open Source*
+- [Build a Large Language Model (From Scratch)](/posts/2025/08/build-a-large-language-model-from-scratch/) - *Foundation Model, LLM, Open Source*
+- [AI Agents for Beginners - A Course](/posts/2025/08/ai-agents-for-beginners-a-course/) - *AI Agent, Open Source, AI*

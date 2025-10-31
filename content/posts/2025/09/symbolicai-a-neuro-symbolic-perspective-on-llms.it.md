@@ -11,12 +11,12 @@ feature_image: /images/posts/2025/09/symbolicai-neuro-symbolic-perspective-on-ll
 images:
 - /images/posts/2025/09/symbolicai-neuro-symbolic-perspective-on-llms-featured.webp
 - /images/posts/2025/09/symbolicai-neuro-symbolic-perspective-on-llms-2.webp
-last_linked: '2025-09-23T19:30:33.907233'
+last_linked: '2025-10-31T08:34:31.558449'
 processed_date: 2025-09-06 10:28
 related_articles:
-- /posts/2025/09/opencode-ai-coding-agent-built-for-the-terminal/
-- /posts/2025/09/a-research-preview-of-codex/
-- /posts/2025/09/litestar-is-worth-a-look/
+- /posts/2025/07/opencode-ai-coding-agent-built-for-the-terminal/
+- /posts/2025/05/a-research-preview-of-codex/
+- /posts/2025/06/snorting-the-agi-with-claude-code/
 series:
 - Articoli Interessanti
 showDate: true
@@ -112,6 +112,6 @@ Fonte originale: [https://news.ycombinator.com/item?id=44399234](https://news.yc
 
 ## Articoli Correlati
 
-- [Opencode: AI coding agent, built for the terminal](/posts/2025/09/opencode-ai-coding-agent-built-for-the-terminal/) - *AI Agent, AI*
-- [A Research Preview of Codex](/posts/2025/09/a-research-preview-of-codex/) - *AI, Foundation Model*
-- [Litestar is worth a look](/posts/2025/09/litestar-is-worth-a-look/) - *Best Practices, Python*
+- [Opencode: AI coding agent, built for the terminal](/posts/2025/07/opencode-ai-coding-agent-built-for-the-terminal/) - *AI Agent, AI*
+- [A Research Preview of Codex](/posts/2025/05/a-research-preview-of-codex/) - *AI, Foundation Model*
+- [Snorting the AGI with Claude Code](/posts/2025/06/snorting-the-agi-with-claude-code/) - *Code Review, AI, Best Practices*

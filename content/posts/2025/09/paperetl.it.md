@@ -8,12 +8,12 @@ feature_image: /images/posts/2025/09/paperetl-etl-library-for-medical-scientific
 images:
 - /images/posts/2025/09/paperetl-etl-library-for-medical-scientific-papers-featured.webp
 - /images/posts/2025/09/paperetl-etl-library-for-medical-scientific-papers-2.webp
-last_linked: '2025-09-23T19:30:33.852670'
+last_linked: '2025-10-31T08:34:31.501165'
 processed_date: 2025-09-04 19:15
 related_articles:
-- /posts/2025/09/elysia-agentic-framework-powered-by-decision-trees/
-- /posts/2025/09/data-formulator-create-rich-visualizations-with-ai/
-- /posts/2025/09/langextract/
+- /posts/2025/08/automatically-annotate-papers-using-llms/
+- /posts/2025/08/langextract/
+- /posts/2025/09/the-llm-red-teaming-framework/
 series:
 - Articoli Interessanti
 showDate: true
@@ -98,6 +98,6 @@ Fonte originale: [https://github.com/neuml/paperetl](https://github.com/neuml/pa
 
 ## Articoli Correlati
 
-- [Elysia: Agentic Framework Powered by Decision Trees](/posts/2025/09/elysia-agentic-framework-powered-by-decision-trees/) - *Best Practices, Python, AI Agent*
-- [Data Formulator: Create Rich Visualizations with AI](/posts/2025/09/data-formulator-create-rich-visualizations-with-ai/) - *Open Source, AI*
-- [LangExtract](/posts/2025/09/langextract/) - *Python, LLM, Open Source*
+- [Automatically annotate papers using LLMs](/posts/2025/08/automatically-annotate-papers-using-llms/) - *LLM, Open Source*
+- [LangExtract](/posts/2025/08/langextract/) - *Python, LLM, Open Source*
+- [The LLM Red Teaming Framework](/posts/2025/09/the-llm-red-teaming-framework/) - *Open Source, Python, LLM*

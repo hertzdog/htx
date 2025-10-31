@@ -10,12 +10,12 @@ images:
 - /images/posts/2025/09/absolute-zero-reinforced-self-play-reasoning-with-zero-data-featured.webp
 - /images/posts/2025/09/absolute-zero-reinforced-self-play-reasoning-with-zero-data-5.webp
 language: en
-last_linked: '2025-09-23T19:30:33.985266'
+last_linked: '2025-10-31T08:34:31.665744'
 processed_date: 2025-09-22 14:59
 related_articles:
+- /posts/2025/06/2505-24864-prorl-prolonged-reinforcement-learning/
 - /posts/2025/02/deepseek-r1-incentivizes-reasoning-in-llms-through/
-- /posts/2025/09/the-illusion-of-thinking/
-- /posts/2025/09/2505-24863-alphaone-reasoning-models-thinking-slow/
+- /posts/2025/06/the-illusion-of-thinking/
 series:
 - Articoli Interessanti
 showDate: true
@@ -94,6 +94,6 @@ Fonte originale: [https://arxiv.org/abs/2505.03335](https://arxiv.org/abs/2505.0
 
 ## Articoli Correlati
 
+- [[2505.24864] ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models](/posts/2025/06/2505-24864-prorl-prolonged-reinforcement-learning/) - *LLM, Foundation Model*
 - [DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning | Nature](/posts/2025/02/deepseek-r1-incentivizes-reasoning-in-llms-through/) - *LLM, AI, Best Practices*
-- [The Illusion of Thinking](/posts/2025/09/the-illusion-of-thinking/) - *AI*
-- [[2505.24863] AlphaOne: Reasoning Models Thinking Slow and Fast at Test Time](/posts/2025/09/2505-24863-alphaone-reasoning-models-thinking-slow/) - *Foundation Model*
+- [The Illusion of Thinking](/posts/2025/06/the-illusion-of-thinking/) - *AI*

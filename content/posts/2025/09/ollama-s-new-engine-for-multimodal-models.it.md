@@ -13,12 +13,12 @@ images:
 - /images/posts/2025/09/ollamas-new-engine-for-multimodal-models-5.webp
 - /images/posts/2025/09/ollamas-new-engine-for-multimodal-models-6.webp
 language: unknown
-last_linked: '2025-09-23T19:30:33.879583'
+last_linked: '2025-10-31T08:34:31.526392'
 processed_date: 2025-09-06 12:10
 related_articles:
-- /posts/2025/09/llama-scan-convert-pdfs-to-text-w-local-llms/
-- /posts/2025/09/data-formulator-create-rich-visualizations-with-ai/
-- /posts/2025/09/introducing-pay-per-crawl-enabling-content-owners/
+- /posts/2025/04/gemma-3-qat-models-bringing-state-of-the-art-ai-to/
+- /posts/2025/09/rag-anything-all-in-one-rag-framework/
+- /posts/2025/09/colette/
 series:
 - Articoli Interessanti
 showDate: true
@@ -97,6 +97,6 @@ Fonte originale: [https://ollama.com/blog/multimodal-models](https://ollama.com/
 
 ## Articoli Correlati
 
-- [Llama-Scan: Convert PDFs to Text W Local LLMs](/posts/2025/09/llama-scan-convert-pdfs-to-text-w-local-llms/) - *LLM, Natural Language Processing*
-- [Data Formulator: Create Rich Visualizations with AI](/posts/2025/09/data-formulator-create-rich-visualizations-with-ai/) - *Open Source, AI*
-- [Introducing pay per crawl: Enabling content owners to charge AI crawlers for access](/posts/2025/09/introducing-pay-per-crawl-enabling-content-owners/) - *AI*
+- [Gemma 3 QAT Models: Bringing state-of-the-Art AI to consumer GPUs](/posts/2025/04/gemma-3-qat-models-bringing-state-of-the-art-ai-to/) - *Go, Foundation Model, AI*
+- [RAG-Anything: All-in-One RAG Framework](/posts/2025/09/rag-anything-all-in-one-rag-framework/) - *Python, Open Source, Best Practices*
+- [Colette - ci ricorda molto Kotaemon](/posts/2025/09/colette/) - *Html, Open Source*

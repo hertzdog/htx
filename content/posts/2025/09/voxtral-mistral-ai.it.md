@@ -9,12 +9,12 @@ images:
 - /images/posts/2025/09/voxtral-mistral-ai-modelli-open-source-featured.webp
 - /images/posts/2025/09/voxtral-mistral-ai-modelli-open-source-4.webp
 language: en
-last_linked: '2025-09-23T19:30:34.008209'
+last_linked: '2025-10-31T08:34:31.690483'
 processed_date: 2025-09-04 19:39
 related_articles:
-- /posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/
-- /posts/2025/09/kimi-k2-open-agentic-intelligence/
 - /posts/2024/10/a-foundation-model-to-predict-and-capture-human-co/
+- /posts/2025/08/show-hn-whispering-open-source-local-first-dictati/
+- /posts/2025/06/how-dataherald-makes-natural-language-to-sql-easy/
 series:
 - Articoli Interessanti
 showDate: true
@@ -94,6 +94,6 @@ Fonte originale: [https://mistral.ai/news/voxtral](https://mistral.ai/news/voxtr
 
 ## Articoli Correlati
 
-- [VibeVoice: A Frontier Open-Source Text-to-Speech Model](/posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/) - *Best Practices, Foundation Model, Natural Language Processing*
-- [Kimi K2: Open Agentic Intelligence](/posts/2025/09/kimi-k2-open-agentic-intelligence/) - *AI Agent, Foundation Model*
 - [A foundation model to predict and capture human cognition | Nature](/posts/2024/10/a-foundation-model-to-predict-and-capture-human-co/) - *Go, Foundation Model, Natural Language Processing*
+- [Show HN: Whispering – Open-source, local-first dictation you can trust](/posts/2025/08/show-hn-whispering-open-source-local-first-dictati/) - *Rust*
+- [How Dataherald Makes Natural Language to SQL Easy](/posts/2025/06/how-dataherald-makes-natural-language-to-sql-easy/) - *Natural Language Processing, AI*

@@ -10,12 +10,12 @@ draft: false
 feature_image: /images/background.svg
 images: []
 language: unknown
-last_linked: '2025-09-23T19:30:34.025431'
+last_linked: '2025-10-31T08:34:31.715344'
 processed_date: 2025-09-23 16:48
 related_articles:
-- /posts/2025/09/ollama-s-new-engine-for-multimodal-models/
-- /posts/2025/09/qwen3-coder-agentic-coding-in-the-world/
-- /posts/2025/09/data-formulator-create-rich-visualizations-with-ai/
+- /posts/2025/05/ollama-s-new-engine-for-multimodal-models/
+- /posts/2025/07/qwen3-coder-agentic-coding-in-the-world/
+- /posts/2025/09/qwen-image/
 series:
 - Articoli Interessanti
 showDate: true
@@ -102,6 +102,6 @@ Fonte originale: [https://qwen.ai/blog?id=7a90090115ee193ce6a7f619522771dd9696dd
 
 ## Articoli Correlati
 
-- [Ollama's new engine for multimodal models](/posts/2025/09/ollama-s-new-engine-for-multimodal-models/) - *Foundation Model*
-- [Qwen3-Coder: Agentic coding in the world](/posts/2025/09/qwen3-coder-agentic-coding-in-the-world/) - *AI Agent, Foundation Model*
-- [Data Formulator: Create Rich Visualizations with AI](/posts/2025/09/data-formulator-create-rich-visualizations-with-ai/) - *Open Source, AI*
+- [Ollama's new engine for multimodal models](/posts/2025/05/ollama-s-new-engine-for-multimodal-models/) - *Foundation Model*
+- [Qwen3-Coder: Agentic coding in the world](/posts/2025/07/qwen3-coder-agentic-coding-in-the-world/) - *AI Agent, Foundation Model*
+- [Qwen-Image](/posts/2025/09/qwen-image/) - *Computer Vision, Open Source, Foundation Model*

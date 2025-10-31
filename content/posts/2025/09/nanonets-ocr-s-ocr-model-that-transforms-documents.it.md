@@ -9,12 +9,12 @@ draft: false
 feature_image: /images/posts/2025/09/nanonets-ocr-s-modello-ocr-per-markdown-strutturato-featured.webp
 images:
 - /images/posts/2025/09/nanonets-ocr-s-modello-ocr-per-markdown-strutturato-featured.webp
-last_linked: '2025-09-23T19:30:34.082235'
+last_linked: '2025-10-31T08:34:31.789068'
 processed_date: 2025-09-06 10:31
 related_articles:
-- /posts/2025/09/llama-scan-convert-pdfs-to-text-w-local-llms/
-- /posts/2025/09/building-effective-ai-agents/
-- /posts/2025/09/vision-now-available-in-llama-cpp/
+- /posts/2025/08/llama-scan-convert-pdfs-to-text-w-local-llms/
+- /posts/2025/06/symbolicai-a-neuro-symbolic-perspective-on-llms/
+- /posts/2025/05/vision-now-available-in-llama-cpp/
 series:
 - Articoli Interessanti
 showDate: true
@@ -109,6 +109,6 @@ Fonte originale: [https://news.ycombinator.com/item?id=44287043](https://news.yc
 
 ## Articoli Correlati
 
-- [Llama-Scan: Convert PDFs to Text W Local LLMs](/posts/2025/09/llama-scan-convert-pdfs-to-text-w-local-llms/) - *LLM, Natural Language Processing*
-- [Building Effective AI Agents](/posts/2025/09/building-effective-ai-agents/) - *AI Agent, AI, Foundation Model*
-- [Vision Now Available in Llama.cpp](/posts/2025/09/vision-now-available-in-llama-cpp/) - *Foundation Model, AI, Computer Vision*
+- [Llama-Scan: Convert PDFs to Text W Local LLMs](/posts/2025/08/llama-scan-convert-pdfs-to-text-w-local-llms/) - *LLM, Natural Language Processing*
+- [SymbolicAI: A neuro-symbolic perspective on LLMs](/posts/2025/06/symbolicai-a-neuro-symbolic-perspective-on-llms/) - *Foundation Model, Python, Best Practices*
+- [Vision Now Available in Llama.cpp](/posts/2025/05/vision-now-available-in-llama-cpp/) - *Foundation Model, AI, Computer Vision*

@@ -8,12 +8,12 @@ draft: false
 feature_image: /images/background.svg
 images: []
 language: Python
-last_linked: '2025-09-23T19:30:33.969110'
+last_linked: '2025-10-31T08:34:31.632330'
 processed_date: 2025-09-04 19:37
 related_articles:
-- /posts/2025/09/anthropic-s-interactive-prompt-engineering-tutoria/
-- /posts/2025/09/elysia-agentic-framework-powered-by-decision-trees/
-- /posts/2025/09/humanlayer/
+- /posts/2025/08/langextract/
+- /posts/2025/08/paperetl/
+- /posts/2025/08/elysia-agentic-framework-powered-by-decision-trees/
 series:
 - Articoli Interessanti
 showDate: true
@@ -96,6 +96,6 @@ Fonte originale: [https://github.com/confident-ai/deepteam](https://github.com/c
 
 ## Articoli Correlati
 
-- [Anthropic's Interactive Prompt Engineering Tutorial](/posts/2025/09/anthropic-s-interactive-prompt-engineering-tutoria/) - *Open Source*
-- [Elysia: Agentic Framework Powered by Decision Trees](/posts/2025/09/elysia-agentic-framework-powered-by-decision-trees/) - *Best Practices, Python, AI Agent*
-- [HumanLayer](/posts/2025/09/humanlayer/) - *Best Practices, AI, LLM*
+- [LangExtract](/posts/2025/08/langextract/) - *Python, LLM, Open Source*
+- [paperetl](/posts/2025/08/paperetl/) - *Open Source*
+- [Elysia: Agentic Framework Powered by Decision Trees](/posts/2025/08/elysia-agentic-framework-powered-by-decision-trees/) - *Best Practices, Python, AI Agent*

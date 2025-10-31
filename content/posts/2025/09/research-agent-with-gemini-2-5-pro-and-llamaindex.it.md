@@ -9,12 +9,12 @@ feature_image: /images/posts/2025/09/research-agent-with-gemini-2-5-pro-and-llam
 images:
 - /images/posts/2025/09/research-agent-with-gemini-2-5-pro-and-llamaindex-featured.webp
 language: en
-last_linked: '2025-09-23T19:30:34.034720'
+last_linked: '2025-10-31T08:34:31.728551'
 processed_date: 2025-09-04 19:40
 related_articles:
-- /posts/2025/09/come-addestrare-un-llm-con-i-tuoi-dati-personali-g/
-- /posts/2025/09/agentic-design-patterns-documenti-google/
-- /posts/2025/09/agent-development-kit-adk/
+- /posts/2025/06/gemini-for-google-workspace-prompting-guide-101/
+- /posts/2025/05/come-addestrare-un-llm-con-i-tuoi-dati-personali-g/
+- /posts/2025/10/production-rag-what-i-learned-from-processing-5m-d/
 series:
 - Articoli Interessanti
 showDate: true
@@ -100,6 +100,6 @@ Fonte originale: [https://ai.google.dev/gemini-api/docs/llama-index](https://ai.
 
 ## Articoli Correlati
 
-- [Come Addestrare un LLM con i Tuoi Dati Personali: Guida Completa con LLaMA 3.2](/posts/2025/09/come-addestrare-un-llm-con-i-tuoi-dati-personali-g/) - *LLM, Go, AI*
-- [Agentic Design Patterns - Documenti Google](/posts/2025/09/agentic-design-patterns-documenti-google/) - *Go, AI Agent*
-- [Agent Development Kit (ADK)](/posts/2025/09/agent-development-kit-adk/) - *AI Agent, AI, Open Source*
+- [Gemini for Google Workspace Prompting Guide 101](/posts/2025/06/gemini-for-google-workspace-prompting-guide-101/) - *AI, Go, Foundation Model*
+- [Come Addestrare un LLM con i Tuoi Dati Personali: Guida Completa con LLaMA 3.2](/posts/2025/05/come-addestrare-un-llm-con-i-tuoi-dati-personali-g/) - *LLM, Go, AI*
+- [Production RAG: what I learned from processing 5M+ documents](/posts/2025/10/production-rag-what-i-learned-from-processing-5m-d/) - *AI*

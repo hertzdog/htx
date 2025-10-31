@@ -10,12 +10,12 @@ draft: false
 feature_image: /images/posts/2025/09/litestar-worth-a-look-featured.webp
 images:
 - /images/posts/2025/09/litestar-worth-a-look-featured.webp
-last_linked: '2025-09-23T19:30:33.899289'
+last_linked: '2025-10-31T08:34:31.548947'
 processed_date: 2025-09-04 19:29
 related_articles:
-- /posts/2025/09/building-effective-ai-agents/
-- /posts/2025/09/how-to-build-a-coding-agent/
-- /posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/
+- /posts/2025/05/vision-now-available-in-llama-cpp/
+- /posts/2025/06/symbolicai-a-neuro-symbolic-perspective-on-llms/
+- /posts/2025/05/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/
 series:
 - Articoli Interessanti
 showDate: true
@@ -106,6 +106,6 @@ Fonte originale: [https://news.ycombinator.com/item?id=44816755](https://news.yc
 
 ## Articoli Correlati
 
-- [Building Effective AI Agents](/posts/2025/09/building-effective-ai-agents/) - *AI Agent, AI, Foundation Model*
-- [How to build a coding agent](/posts/2025/09/how-to-build-a-coding-agent/) - *AI Agent, AI*
-- [Show HN: My LLM CLI tool can run tools now, from Python code or plugins](/posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/) - *LLM, Foundation Model, Python*
+- [Vision Now Available in Llama.cpp](/posts/2025/05/vision-now-available-in-llama-cpp/) - *Foundation Model, AI, Computer Vision*
+- [SymbolicAI: A neuro-symbolic perspective on LLMs](/posts/2025/06/symbolicai-a-neuro-symbolic-perspective-on-llms/) - *Foundation Model, Python, Best Practices*
+- [Show HN: My LLM CLI tool can run tools now, from Python code or plugins](/posts/2025/05/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/) - *LLM, Foundation Model, Python*

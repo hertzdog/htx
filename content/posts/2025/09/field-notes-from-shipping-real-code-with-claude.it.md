@@ -13,12 +13,12 @@ images:
 - /images/posts/2025/09/field-notes-from-shipping-real-code-with-claude-4.webp
 - /images/posts/2025/09/field-notes-from-shipping-real-code-with-claude-5.webp
 language: en
-last_linked: '2025-09-23T19:30:33.942746'
+last_linked: '2025-10-31T08:34:31.600575'
 processed_date: 2025-09-06 10:30
 related_articles:
 - /posts/2025/08/my-ai-had-already-fixed-the-code-before-i-saw-it/
-- /posts/2025/09/claude-code-is-my-computer-peter-steinberger/
-- /posts/2025/09/how-to-use-claude-code-subagents-to-parallelize-de/
+- /posts/2025/10/claude-code-best-practices-code-w-claude-youtube/
+- /posts/2025/07/ai-act-c-e-il-codice-di-condotta-per-un-approccio/
 series:
 - Articoli Interessanti
 showDate: true
@@ -98,5 +98,5 @@ Fonte originale: [https://diwank.space/field-notes-from-shipping-real-code-with-
 ## Articoli Correlati
 
 - [My AI Had Already Fixed the Code Before I Saw It](/posts/2025/08/my-ai-had-already-fixed-the-code-before-i-saw-it/) - *Code Review, Software Development, AI*
-- [Claude Code is My Computer | Peter Steinberger](/posts/2025/09/claude-code-is-my-computer-peter-steinberger/) - *Tech*
-- [How to Use Claude Code Subagents to Parallelize Development](/posts/2025/09/how-to-use-claude-code-subagents-to-parallelize-de/) - *AI Agent, AI*
+- [Claude Code best practices | Code w/ Claude - YouTube](/posts/2025/10/claude-code-best-practices-code-w-claude-youtube/) - *Code Review, AI, Best Practices*
+- [AI Act, c'è il codice di condotta per un approccio responsabile e facilitato per le Pmi - Cyber Security 360](/posts/2025/07/ai-act-c-e-il-codice-di-condotta-per-un-approccio/) - *Best Practices, AI, Go*

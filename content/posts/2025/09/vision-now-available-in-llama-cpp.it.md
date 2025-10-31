@@ -9,12 +9,12 @@ draft: false
 feature_image: /images/posts/2025/09/vision-now-available-in-llama-cpp-featured.webp
 images:
 - /images/posts/2025/09/vision-now-available-in-llama-cpp-featured.webp
-last_linked: '2025-09-23T19:30:33.960106'
+last_linked: '2025-10-31T08:34:31.620859'
 processed_date: 2025-09-22 14:59
 related_articles:
-- /posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/
-- /posts/2025/09/snorting-the-agi-with-claude-code/
-- /posts/2025/09/litestar-is-worth-a-look/
+- /posts/2025/08/litestar-is-worth-a-look/
+- /posts/2025/05/ask-hn-what-is-the-best-llm-for-consumer-grade-har/
+- /posts/2025/06/snorting-the-agi-with-claude-code/
 series:
 - Articoli Interessanti
 showDate: true
@@ -106,6 +106,6 @@ Fonte originale: [https://news.ycombinator.com/item?id=43943047](https://news.yc
 
 ## Articoli Correlati
 
-- [Show HN: My LLM CLI tool can run tools now, from Python code or plugins](/posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/) - *LLM, Foundation Model, Python*
-- [Snorting the AGI with Claude Code](/posts/2025/09/snorting-the-agi-with-claude-code/) - *Code Review, AI, Best Practices*
-- [Litestar is worth a look](/posts/2025/09/litestar-is-worth-a-look/) - *Best Practices, Python*
+- [Litestar is worth a look](/posts/2025/08/litestar-is-worth-a-look/) - *Best Practices, Python*
+- [Ask HN: What is the best LLM for consumer grade hardware?](/posts/2025/05/ask-hn-what-is-the-best-llm-for-consumer-grade-har/) - *LLM, Foundation Model*
+- [Snorting the AGI with Claude Code](/posts/2025/06/snorting-the-agi-with-claude-code/) - *Code Review, AI, Best Practices*

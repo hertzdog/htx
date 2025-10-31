@@ -16,12 +16,12 @@ feature_image: /images/posts/2025/09/huge-ai-market-opportunity-in-2025-featured
 images:
 - /images/posts/2025/09/huge-ai-market-opportunity-in-2025-featured.webp
 language: en
-last_linked: '2025-09-23T19:30:33.896923'
+last_linked: '2025-10-31T08:34:31.547185'
 processed_date: 2025-09-18 15:09
 related_articles:
-- /posts/2025/09/the-race-for-llm-cognitive-core/
-- /posts/2025/09/nice-my-ai-startup-school-talk-is-now-up/
-- /posts/2025/09/casper-capital-100-ai-tools-you-cant-ignore-in-202/
+- /posts/2025/06/nice-my-ai-startup-school-talk-is-now-up/
+- /posts/2025/06/nice-my-ai-startup-school-talk-is-now-up-chapters/
+- /posts/2025/08/the-race-for-llm-cognitive-core/
 series:
 - Articoli Interessanti
 showDate: true
@@ -102,6 +102,6 @@ Fonte originale: [https://x.com/liamottley_/status/1968158436820128137?s=43&t=AN
 
 ## Articoli Correlati
 
-- [The race for LLM cognitive core](/posts/2025/09/the-race-for-llm-cognitive-core/) - *LLM, Foundation Model*
-- [Nice - my AI startup school talk is now up!](/posts/2025/09/nice-my-ai-startup-school-talk-is-now-up/) - *LLM, AI*
-- [Casper Capital - 100 AI Tools You Can’t Ignore in 2025...](/posts/2025/09/casper-capital-100-ai-tools-you-cant-ignore-in-202/) - *AI*
+- [Nice - my AI startup school talk is now up!](/posts/2025/06/nice-my-ai-startup-school-talk-is-now-up/) - *LLM, AI*
+- [Nice - my AI startup school talk is now up! Chapters: 0:00 Imo fair to say that software is changing quite fundamentally again](/posts/2025/06/nice-my-ai-startup-school-talk-is-now-up-chapters/) - *LLM, AI*
+- [The race for LLM cognitive core](/posts/2025/08/the-race-for-llm-cognitive-core/) - *LLM, Foundation Model*

@@ -10,12 +10,12 @@ images:
 - /images/posts/2025/09/dspy-framework-per-programmare-modelli-linguistici-featured.webp
 - /images/posts/2025/09/dspy-framework-per-programmare-modelli-linguistici-2.webp
 language: en
-last_linked: '2025-09-23T19:30:33.893779'
+last_linked: '2025-10-31T08:34:31.543818'
 processed_date: 2025-09-04 19:00
 related_articles:
-- /posts/2025/09/strands-agents/
-- /posts/2025/09/mcp-use/
-- /posts/2025/09/alexander-kruel-links-for-2025-08-24/
+- /posts/2025/09/anthropic-s-interactive-prompt-engineering-tutoria/
+- /posts/2025/08/alexander-kruel-links-for-2025-08-24/
+- /posts/2025/08/mcp-use/
 series:
 - Articoli Interessanti
 showDate: true
@@ -97,6 +97,6 @@ Fonte originale: [https://dspy.ai/#__tabbed_2_2](https://dspy.ai/#__tabbed_2_2)<
 
 ## Articoli Correlati
 
-- [Strands Agents](/posts/2025/09/strands-agents/) - *AI Agent, AI*
-- [MCP-Use](/posts/2025/09/mcp-use/) - *AI Agent, Open Source*
-- [Alexander Kruel - Links for 2025-08-24](/posts/2025/09/alexander-kruel-links-for-2025-08-24/) - *Foundation Model, AI*
+- [Anthropic's Interactive Prompt Engineering Tutorial](/posts/2025/09/anthropic-s-interactive-prompt-engineering-tutoria/) - *Open Source*
+- [Alexander Kruel - Links for 2025-08-24](/posts/2025/08/alexander-kruel-links-for-2025-08-24/) - *Foundation Model, AI*
+- [MCP-Use](/posts/2025/08/mcp-use/) - *AI Agent, Open Source*

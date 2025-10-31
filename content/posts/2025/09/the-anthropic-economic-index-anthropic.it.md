@@ -13,12 +13,12 @@ feature_image: /images/posts/2025/09/the-anthropic-economic-index-anthropic-feat
 images:
 - /images/posts/2025/09/the-anthropic-economic-index-anthropic-featured.webp
 language: en
-last_linked: '2025-09-23T19:30:34.015619'
+last_linked: '2025-10-31T08:34:31.699983'
 processed_date: 2025-09-18 15:11
 related_articles:
-- /posts/2025/09/total-monthly-distance-traveled-by-passengers-in-c/
-- /posts/2025/09/casper-capital-100-ai-tools-you-cant-ignore-in-202/
-- /posts/2025/09/alexander-kruel-links-for-2025-08-24/
+- /posts/2025/10/anthropic-releases-claude-sonnet-4-5-in-latest-bid/
+- /posts/2025/09/prompt-packs-openai-academy/
+- /posts/2025/08/casper-capital-100-ai-tools-you-cant-ignore-in-202/
 series:
 - Articoli Interessanti
 showDate: true
@@ -97,6 +97,6 @@ Fonte originale: [https://www.anthropic.com/economic-index#us-usage](https://www
 
 ## Articoli Correlati
 
-- [Total monthly distance traveled by passengers in California’s driverless taxis - Our World in Data](/posts/2025/09/total-monthly-distance-traveled-by-passengers-in-c/) - *AI*
-- [Casper Capital - 100 AI Tools You Can’t Ignore in 2025...](/posts/2025/09/casper-capital-100-ai-tools-you-cant-ignore-in-202/) - *AI*
-- [Alexander Kruel - Links for 2025-08-24](/posts/2025/09/alexander-kruel-links-for-2025-08-24/) - *Foundation Model, AI*
+- [Anthropic releases Claude Sonnet 4.5 in latest bid for AI agents and coding supremacy](/posts/2025/10/anthropic-releases-claude-sonnet-4-5-in-latest-bid/) - *AI, AI Agent*
+- [Prompt Packs | OpenAI Academy](/posts/2025/09/prompt-packs-openai-academy/) - *AI*
+- [Casper Capital - 100 AI Tools You Can’t Ignore in 2025...](/posts/2025/08/casper-capital-100-ai-tools-you-cant-ignore-in-202/) - *AI*

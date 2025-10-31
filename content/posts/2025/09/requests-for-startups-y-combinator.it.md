@@ -9,12 +9,12 @@ feature_image: /images/posts/2025/09/requests-for-startups-y-combinator-featured
 images:
 - /images/posts/2025/09/requests-for-startups-y-combinator-featured.webp
 language: en
-last_linked: '2025-09-23T19:30:34.010954'
+last_linked: '2025-10-31T08:34:31.693831'
 processed_date: 2025-09-22 15:00
 related_articles:
-- /posts/2025/09/trends-artificial-intelligence-bond/
+- /posts/2025/06/nice-my-ai-startup-school-talk-is-now-up-chapters/
+- /posts/2025/06/automated-73-of-his-remote-job-using-basic-automat/
 - /posts/2025/09/nocodb-cloud/
-- /posts/2025/09/casper-capital-100-ai-tools-you-cant-ignore-in-202/
 series:
 - Articoli Interessanti
 showDate: true
@@ -93,6 +93,6 @@ Fonte originale: [https://www.ycombinator.com/rfs](https://www.ycombinator.com/r
 
 ## Articoli Correlati
 
-- [Trends – Artificial Intelligence | BOND](/posts/2025/09/trends-artificial-intelligence-bond/) - *AI*
+- [Nice - my AI startup school talk is now up! Chapters: 0:00 Imo fair to say that software is changing quite fundamentally again](/posts/2025/06/nice-my-ai-startup-school-talk-is-now-up-chapters/) - *LLM, AI*
+- [Automated 73% of his remote job using basic automation tools, told his manager everything, and got a promotion](/posts/2025/06/automated-73-of-his-remote-job-using-basic-automat/) - *Browser Automation, Go*
 - [NocoDB Cloud](/posts/2025/09/nocodb-cloud/) - *Tech*
-- [Casper Capital - 100 AI Tools You Can’t Ignore in 2025...](/posts/2025/09/casper-capital-100-ai-tools-you-cant-ignore-in-202/) - *AI*

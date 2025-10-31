@@ -11,12 +11,12 @@ feature_image: /images/posts/2025/09/agentic-design-patterns-documenti-google-fe
 images:
 - /images/posts/2025/09/agentic-design-patterns-documenti-google-featured.webp
 language: it
-last_linked: '2025-09-23T19:30:33.888727'
+last_linked: '2025-10-31T08:34:31.538911'
 processed_date: 2025-09-04 19:35
 related_articles:
-- /posts/2025/09/ai-agents-for-beginners-a-course/
-- /posts/2024/10/large-language-models-are-proficient-in-solving-an/
-- /posts/2025/09/build-a-large-language-model-from-scratch/
+- /posts/2025/07/research-agent-with-gemini-2-5-pro-and-llamaindex/
+- /posts/2025/05/come-addestrare-un-llm-con-i-tuoi-dati-personali-g/
+- /posts/2025/05/token-token-usage-deepseek-api-docs/
 series:
 - Articoli Interessanti
 showDate: true
@@ -96,6 +96,6 @@ Fonte originale: [https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbEL
 
 ## Articoli Correlati
 
-- [AI Agents for Beginners - A Course](/posts/2025/09/ai-agents-for-beginners-a-course/) - *AI Agent, Open Source, AI*
-- [Large language models are proficient in solving and creating emotional intelligence tests | Communications Psychology](/posts/2024/10/large-language-models-are-proficient-in-solving-an/) - *AI, LLM, Foundation Model*
-- [Build a Large Language Model (From Scratch)](/posts/2025/09/build-a-large-language-model-from-scratch/) - *Foundation Model, LLM, Open Source*
+- [Research Agent with Gemini 2.5 Pro and LlamaIndex  |  Gemini API  |  Google AI for Developers](/posts/2025/07/research-agent-with-gemini-2-5-pro-and-llamaindex/) - *AI, Go, AI Agent*
+- [Come Addestrare un LLM con i Tuoi Dati Personali: Guida Completa con LLaMA 3.2](/posts/2025/05/come-addestrare-un-llm-con-i-tuoi-dati-personali-g/) - *LLM, Go, AI*
+- [Token & Token Usage | DeepSeek API Docs](/posts/2025/05/token-token-usage-deepseek-api-docs/) - *Natural Language Processing, Foundation Model*

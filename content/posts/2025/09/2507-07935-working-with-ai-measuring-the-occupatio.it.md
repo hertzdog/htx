@@ -10,12 +10,12 @@ images:
 - /images/posts/2025/09/working-with-ai-measuring-occupational-implications-generative-ai-featured.webp
 - /images/posts/2025/09/working-with-ai-measuring-occupational-implications-generative-ai-5.webp
 language: en
-last_linked: '2025-09-23T19:30:33.944342'
+last_linked: '2025-10-31T08:34:31.602757'
 processed_date: 2025-09-04 19:28
 related_articles:
-- /posts/2025/09/2502-00032v1-querying-databases-with-function-call/
-- /posts/2025/09/2505-06120-llms-get-lost-in-multi-turn-conversatio/
-- /posts/2025/09/2507-14447-routine-a-structural-planning-framework/
+- /posts/2025/07/2507-06398-jolting-technologies-superexponential-a/
+- /posts/2025/07/2507-14447-routine-a-structural-planning-framework/
+- /posts/2025/07/futurehouse-platform/
 series:
 - Articoli Interessanti
 showDate: true
@@ -93,6 +93,6 @@ Fonte originale: [https://arxiv.org/abs/2507.07935](https://arxiv.org/abs/2507.0
 
 ## Articoli Correlati
 
-- [[2502.00032v1] Querying Databases with Function Calling](/posts/2025/09/2502-00032v1-querying-databases-with-function-call/) - *Tech*
-- [[2505.06120] LLMs Get Lost In Multi-Turn Conversation](/posts/2025/09/2505-06120-llms-get-lost-in-multi-turn-conversatio/) - *LLM*
-- [[2507.14447] Routine: A Structural Planning Framework for LLM Agent System in Enterprise](/posts/2025/09/2507-14447-routine-a-structural-planning-framework/) - *AI Agent, LLM, Best Practices*
+- [[2507.06398] Jolting Technologies: Superexponential Acceleration in AI Capabilities and Implications for AGI](/posts/2025/07/2507-06398-jolting-technologies-superexponential-a/) - *AI*
+- [[2507.14447] Routine: A Structural Planning Framework for LLM Agent System in Enterprise](/posts/2025/07/2507-14447-routine-a-structural-planning-framework/) - *AI Agent, LLM, Best Practices*
+- [FutureHouse Platform](/posts/2025/07/futurehouse-platform/) - *AI, AI Agent*

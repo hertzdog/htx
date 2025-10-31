@@ -10,12 +10,12 @@ feature_image: /images/posts/2025/09/opencode-ai-coding-agent-built-for-the-term
 images:
 - /images/posts/2025/09/opencode-ai-coding-agent-built-for-the-terminal-featured.webp
 - /images/posts/2025/09/opencode-ai-coding-agent-built-for-the-terminal-6.webp
-last_linked: '2025-09-23T19:30:33.957616'
+last_linked: '2025-10-31T08:34:31.616627'
 processed_date: 2025-09-06 10:27
 related_articles:
-- /posts/2025/09/a-research-preview-of-codex/
-- /posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/
-- /posts/2025/09/how-to-build-a-coding-agent/
+- /posts/2025/08/how-to-build-a-coding-agent/
+- /posts/2025/07/backlog-md-markdown-native-task-manager-and-kanban/
+- /posts/2025/05/a-research-preview-of-codex/
 series:
 - Articoli Interessanti
 showDate: true
@@ -105,6 +105,6 @@ Fonte originale: [https://news.ycombinator.com/item?id=44482504](https://news.yc
 
 ## Articoli Correlati
 
-- [A Research Preview of Codex](/posts/2025/09/a-research-preview-of-codex/) - *AI, Foundation Model*
-- [Show HN: My LLM CLI tool can run tools now, from Python code or plugins](/posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/) - *LLM, Foundation Model, Python*
-- [How to build a coding agent](/posts/2025/09/how-to-build-a-coding-agent/) - *AI Agent, AI*
+- [How to build a coding agent](/posts/2025/08/how-to-build-a-coding-agent/) - *AI Agent, AI*
+- [Backlog.md – Markdown-native Task Manager and Kanban visualizer for any Git repo](/posts/2025/07/backlog-md-markdown-native-task-manager-and-kanban/) - *Tech*
+- [A Research Preview of Codex](/posts/2025/05/a-research-preview-of-codex/) - *AI, Foundation Model*

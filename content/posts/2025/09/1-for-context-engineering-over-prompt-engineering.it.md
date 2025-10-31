@@ -11,12 +11,12 @@ feature_image: /images/posts/2025/09/+1-for-context-engineering-over-prompt-engi
 images:
 - /images/posts/2025/09/+1-for-context-engineering-over-prompt-engineering-featured.webp
 language: en
-last_linked: '2025-09-23T19:30:34.029744'
+last_linked: '2025-10-31T08:34:31.722598'
 processed_date: 2025-09-23 17:17
 related_articles:
-- /posts/2025/09/nice-my-ai-startup-school-talk-is-now-up/
-- /posts/2025/09/the-new-skill-in-ai-is-not-prompting-it-s-context/
-- /posts/2025/09/automated-73-of-his-remote-job-using-basic-automat/
+- /posts/2025/06/nice-my-ai-startup-school-talk-is-now-up/
+- /posts/2025/09/context-engineering-for-ai-agents-lessons-from-bui/
+- /posts/2025/06/nice-my-ai-startup-school-talk-is-now-up-chapters/
 series:
 - Articoli Interessanti
 showDate: true
@@ -96,6 +96,6 @@ Fonte originale: [https://x.com/karpathy/status/1937902205765607626?s=43&t=ANuJI
 
 ## Articoli Correlati
 
-- [Nice - my AI startup school talk is now up!](/posts/2025/09/nice-my-ai-startup-school-talk-is-now-up/) - *LLM, AI*
-- [The new skill in AI is not prompting, it's context engineering](/posts/2025/09/the-new-skill-in-ai-is-not-prompting-it-s-context/) - *AI Agent, Natural Language Processing, AI*
-- [Automated 73% of his remote job using basic automation tools, told his manager everything, and got a promotion](/posts/2025/09/automated-73-of-his-remote-job-using-basic-automat/) - *Browser Automation, Go*
+- [Nice - my AI startup school talk is now up!](/posts/2025/06/nice-my-ai-startup-school-talk-is-now-up/) - *LLM, AI*
+- [Context Engineering for AI Agents: Lessons from Building Manus](/posts/2025/09/context-engineering-for-ai-agents-lessons-from-bui/) - *AI Agent, Natural Language Processing, AI*
+- [Nice - my AI startup school talk is now up! Chapters: 0:00 Imo fair to say that software is changing quite fundamentally again](/posts/2025/06/nice-my-ai-startup-school-talk-is-now-up-chapters/) - *LLM, AI*

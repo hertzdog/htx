@@ -9,12 +9,12 @@ feature_image: /images/posts/2025/09/enable-ai-to-control-your-browser-4.webp
 images:
 - /images/posts/2025/09/enable-ai-to-control-your-browser-4.webp
 language: Python
-last_linked: '2025-09-23T19:30:34.028503'
+last_linked: '2025-10-31T08:34:31.720804'
 processed_date: 2025-09-18 15:11
 related_articles:
-- /posts/2025/09/cua-is-docker-for-computer-use-ai-agents/
-- /posts/2025/09/sim/
-- /posts/2025/09/mcp-use/
+- /posts/2025/04/cua-is-docker-for-computer-use-ai-agents/
+- /posts/2025/10/cua-open-source-infrastructure-for-computer-use-ag/
+- /posts/2025/08/sim/
 series:
 - Articoli Interessanti
 showDate: true
@@ -111,6 +111,6 @@ Fonte originale: [https://github.com/browser-use/browser-use](https://github.com
 
 ## Articoli Correlati
 
-- [Cua is Docker for Computer-Use AI Agents](/posts/2025/09/cua-is-docker-for-computer-use-ai-agents/) - *Open Source, AI Agent, AI*
-- [Sim](/posts/2025/09/sim/) - *AI, AI Agent, Open Source*
-- [MCP-Use](/posts/2025/09/mcp-use/) - *AI Agent, Open Source*
+- [Cua is Docker for Computer-Use AI Agents](/posts/2025/04/cua-is-docker-for-computer-use-ai-agents/) - *Open Source, AI Agent, AI*
+- [Cua: Open-source infrastructure for Computer-Use Agents](/posts/2025/10/cua-open-source-infrastructure-for-computer-use-ag/) - *Python, AI, Open Source*
+- [Sim](/posts/2025/08/sim/) - *AI, AI Agent, Open Source*

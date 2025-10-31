@@ -5,6 +5,10 @@ layout: "simple"
 showHero: false
 ---
 
+<div class="w-full mb-8">
+  <img src="/images/azienda/HTX_sede_BIC.jpg" alt="HTX - Sede presso BIC Incubatori FVG" class="w-full h-auto rounded-lg shadow-lg" />
+</div>
+
 <div class="flex justify-center mb-12">
   <div class="max-w-3xl mx-auto px-4">
     <div class="bg-gradient-to-r from-neutral-100 to-neutral-50 dark:from-neutral-800 dark:to-neutral-900 rounded-lg p-8 border-l-4 border-blue-500">
@@ -13,46 +17,19 @@ showHero: false
           "Qualsiasi lavoro tu faccia, se trasformi in arte ciò che stai facendo, con ogni probabilità scoprirai di essere divenuto per gli altri una persona interessante e non un oggetto. Questo perché le tue decisioni, fatte tenendo conto della Qualità, cambiano anche te. Meglio: non solo cambiano anche te e il lavoro, ma cambiano anche gli altri, perché la Qualità è come un'onda. Quel lavoro di Qualità che pensavi nessuno avrebbe notato viene notato eccome, e chi lo vede si sente un pochino meglio: probabilmente trasferirà negli altri questa sua sensazione e in questo modo la Qualità continuerà a diffondersi."
         </blockquote>
         <cite class="block mt-4 text-sm font-medium text-neutral-600 dark:text-neutral-400" id="pirsig-author">
-          — Robert Pirsig <span id="pirsig-language">(Italiano)</span>
+          — Robert Pirsig 
         </cite>
       </div>
     </div>
   </div>
 </div>
 
-<script>
-const pirsigQuotes = [
-  { text: "Qualsiasi lavoro tu faccia, se trasformi in arte ciò che stai facendo, con ogni probabilità scoprirai di essere divenuto per gli altri una persona interessante e non un oggetto. Questo perché le tue decisioni, fatte tenendo conto della Qualità, cambiano anche te. Meglio: non solo cambiano anche te e il lavoro, ma cambiano anche gli altri, perché la Qualità è come un'onda. Quel lavoro di Qualità che pensavi nessuno avrebbe notato viene notato eccome, e chi lo vede si sente un pochino meglio: probabilmente trasferirà negli altri questa sua sensazione e in questo modo la Qualità continuerà a diffondersi.", language: "Italiano" },
-  { text: "No matter what job you do, if you turn it into an art, you're likely to become interesting to others. This is because your decisions, made with Quality in mind, change you too. Better yet, they change not only you and your work, but others as well, because Quality is like a wave. That Quality work you thought no one would notice is indeed noticed, and it makes those who see it feel a bit better: they're likely to pass on this feeling, thus Quality continues to spread.", language: "English" },
-  { text: "Peu importe le travail que vous faites, si vous le transformez en art, vous devenez probablement intéressant pour les autres. Cela est dû au fait que vos décisions, prises avec la Qualité à l'esprit, vous changent également. Mieux encore : elles changent non seulement vous et votre travail, mais aussi les autres, car la Qualité est comme une vague. Ce travail de Qualité que vous pensiez passer inaperçu est en effet remarqué, et il rend ceux qui le voient un peu meilleurs : ils sont susceptibles de transmettre ce sentiment, ainsi la Qualité continue de se propager.", language: "Français" },
-  { text: "Egal welche Arbeit du verrichtest, wenn du sie in eine Kunst verwandelst, wirst du wahrscheinlich für andere interessant. Dies liegt daran, dass deine Entscheidungen, mit Qualität im Sinn, auch dich verändern. Noch besser: Sie verändern nicht nur dich und deine Arbeit, sondern auch andere, denn Qualität ist wie eine Welle. Diese Qualitätsarbeit, von der du dachtest, dass sie niemand bemerken würde, wird tatsächlich bemerkt, und sie macht diejenigen, die sie sehen, ein bisschen besser: Sie werden wahrscheinlich dieses Gefühl weitergeben, so dass die Qualität weiterverbreitet wird.", language: "Deutsch" },
-  { text: "No importa el trabajo que hagas, si lo conviertes en un arte, probablemente te vuelvas interesante para los demás. Esto se debe a que tus decisiones, tomadas con la Calidad en mente, también te cambian a ti. Mejor aún: cambian no solo a ti y tu trabajo, sino también a los demás, porque la Calidad es como una ola. Ese trabajo de Calidad que pensabas que nadie notaría es, de hecho, notado, y hace que aquellos que lo ven se sientan un poco mejor: probablemente transmitan este sentimiento, así la Calidad sigue extendiéndose.", language: "Español" }
-];
-
-let currentQuoteIndex = 0;
-
-function changePirsigQuote() {
-  currentQuoteIndex = (currentQuoteIndex + 1) % pirsigQuotes.length;
-  const quote = pirsigQuotes[currentQuoteIndex];
-  
-  document.getElementById('pirsig-quote').textContent = `"${quote.text}"`;
-  document.getElementById('pirsig-language').textContent = `(${quote.language})`;
-}
-
-// Cambia citazione ogni 20 secondi dopo un ritardo iniziale di 15 secondi
-document.addEventListener('DOMContentLoaded', function() {
-  setTimeout(function() {
-    changePirsigQuote();
-    setInterval(changePirsigQuote, 20000);
-  }, 15000);
-});
-</script>
 
 <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 
-La Qualità è come un'onda e ci ispira in quello che facciamo. Siamo un partner affidabile specializzato in innovazione. 
+La Qualità è come un'onda e ci ispira in quello che facciamo. <strong>Siamo una boutique di intelligenza artificiale.</strong>
 
-Di solito capita che quando iniziamo una collaborazione (interna, con le persone coinvolte in azienda o esterna con altre realtà) è l'inizio di qualcosa di duraturo. 
+Di solito capita che quando iniziamo una collaborazione (con i collaboratori interni o con partner terzi) è l'inizio di qualcosa di duraturo. 
 
 ## Dove siamo
 
@@ -64,7 +41,7 @@ Di solito capita che quando iniziamo una collaborazione (interna, con le persone
     <img src="/images/azienda/barca.jpg" alt="La nascita di HTX" class="w-full h-48 object-cover" />
     <div class="p-4">
       <h4 class="font-semibold mb-2 text-neutral-900 dark:text-neutral-100">Qualità della vita</h4>
-      <p class="text-sm text-neutral-600 dark:text-neutral-400">Trieste, in Friuli Venezia Giulia è una città che offre la possibilità di videre il mare e la montagna tutto l'anno. E' il posto giusto dove far crescere un team che accoglie e valorizza de diversità: Trieste è una città dal profondo carattere internazionale e multiculturale</p>
+      <p class="text-sm text-neutral-600 dark:text-neutral-400">Trieste, in Friuli Venezia Giulia è una città che offre la possibilità di vivere il mare e la montagna tutto l'anno. E' il posto giusto dove far crescere un team che accoglie e valorizza de diversità: Trieste è una città dal profondo carattere internazionale e multiculturale</p>
     </div>
   </div>
 
@@ -90,7 +67,20 @@ Di solito capita che quando iniziamo una collaborazione (interna, con le persone
 
 ---
 
-Vuoi saperne di più su come possiamo aiutare la tua azienda? [Contattaci](mailto:hello@ht-x.com).
+<div style="margin: 3rem 0; padding: 3rem; border-radius: 1rem; text-align: center; box-shadow: 0 10px 25px rgba(0,0,0,0.2); background-color: #7f9d9d;">
+  <h3 style="font-size: 2rem; font-weight: bold; margin-bottom: 1rem; color: white;">
+    Vuoi saperne di più su come possiamo aiutare la tua azienda?
+  </h3>
+  
+  <div style="margin-bottom: 1rem;">
+    <a href="mailto:hello@ht-x.com"
+       style="display: inline-block; padding: 1rem 2rem; color: #2c3e50; background-color: white; font-weight: bold; border-radius: 0.5rem; box-shadow: 0 5px 10px rgba(0,0,0,0.2); text-decoration: none; transition: all 0.3s;"
+       onmouseover="this.style.backgroundColor='#6a8585'; this.style.color='white';"
+       onmouseout="this.style.backgroundColor='white'; this.style.color='#2c3e50';">
+      Contattaci ora
+    </a>
+  </div>
+</div>
 
 ---
 
@@ -168,10 +158,18 @@ Abbiamo avuto l’onore di accogliere presso il nostro stand il <strong>Vice Min
   </div>
 
   <div class="bg-white dark:bg-neutral-800 rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300">
-    <img src="/images/azienda/allabusiness-school-sole24-ore.jpg" alt="Università di Torino" class="w-full h-48 object-cover" />
+    <img src="/images/azienda/allabusiness-school-sole24-ore.jpg" alt=“Sole 24 ore" class="w-full h-48 object-cover" />
     <div class="p-4">
       <h4 class="font-semibold mb-2 text-neutral-900 dark:text-neutral-100">HTX è invitata al Sole 24 ore Business School</h4>
       <p class="text-sm text-neutral-600 dark:text-neutral-400">A giugno 2025 Invitati a parlare di Intelligenza Artificiale e Machine Learning alla prestigiosa scuola del Sole24ore, per il Master in Sanità Pharma e Biomed</p>
+    </div>
+  </div>
+
+  <div class="bg-white dark:bg-neutral-800 rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300">
+    <img src="/images/azienda/startup-marathon.png" alt="Startup Marathon" class="w-full h-48 object-cover" />
+    <div class="p-4">
+      <h4 class="font-semibold mb-2 text-neutral-900 dark:text-neutral-100">HTX tra le 30 startup selezionate per Startup Marathon</h4>
+      <p class="text-sm text-neutral-600 dark:text-neutral-400">A ottobre 2025 il BIC Incubatori FVG - dove siamo presenti da settembre - ha deciso di candidare HTX tra le 30 startup più innovative d'Italia</p>
     </div>
   </div>
   

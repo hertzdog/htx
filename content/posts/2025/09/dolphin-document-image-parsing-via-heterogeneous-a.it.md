@@ -9,12 +9,12 @@ feature_image: /images/posts/2025/09/dolphin-document-image-parsing-via-heteroge
 images:
 - /images/posts/2025/09/dolphin-document-image-parsing-via-heterogeneous-anchor-prompting-featured.webp
 - /images/posts/2025/09/dolphin-document-image-parsing-via-heterogeneous-anchor-prompting-2.webp
-last_linked: '2025-09-23T19:30:33.846410'
+last_linked: '2025-10-31T08:34:31.494634'
 processed_date: 2025-09-04 19:28
 related_articles:
 - /posts/2025/09/dots-ocr-multilingual-document-layout-parsing-in-a/
-- /posts/2025/09/colette/
-- /posts/2025/09/dokieli/
+- /posts/2025/09/paddleocr/
+- /posts/2025/10/paddleocr-vl-boosting-multilingual-document-parsin/
 series:
 - Articoli Interessanti
 showDate: true
@@ -96,5 +96,5 @@ Fonte originale: [https://github.com/bytedance/Dolphin?tab=readme-ov-file](https
 ## Articoli Correlati
 
 - [dots.ocr: Multilingual Document Layout Parsing in a Single Vision-Language Model](/posts/2025/09/dots-ocr-multilingual-document-layout-parsing-in-a/) - *Foundation Model, LLM, Python*
-- [Colette - ci ricorda molto Kotaemon](/posts/2025/09/colette/) - *Html, Open Source*
-- [dokieli](/posts/2025/09/dokieli/) - *Open Source*
+- [PaddleOCR](/posts/2025/09/paddleocr/) - *Open Source, DevOps, Python*
+- [PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](/posts/2025/10/paddleocr-vl-boosting-multilingual-document-parsin/) - *Computer Vision, Foundation Model, LLM*

@@ -7,12 +7,12 @@ description: Guida completa su come utilizzare Gemini, un modello di intelligenz
 draft: false
 feature_image: /images/background.svg
 images: []
-last_linked: '2025-09-23T19:30:34.076015'
+last_linked: '2025-10-31T08:34:31.779466'
 processed_date: 2025-09-06 10:28
 related_articles:
+- /posts/2025/09/google-just-dropped-an-ace-64-page-guide-on-buildi/
+- /posts/2025/05/come-addestrare-un-llm-con-i-tuoi-dati-personali-g/
 - /posts/2025/09/small-models-are-the-future-of-agentic-ai/
-- /posts/2025/09/agent-development-kit-adk/
-- /posts/2025/09/nextchat/
 series:
 - Articoli Interessanti
 showDate: true
@@ -93,6 +93,6 @@ Fonte originale: []()</small>*
 
 ## Articoli Correlati
 
+- [Google just dropped an ace 64-page guide on building AI Agents](/posts/2025/09/google-just-dropped-an-ace-64-page-guide-on-buildi/) - *Go, AI Agent, AI*
+- [Come Addestrare un LLM con i Tuoi Dati Personali: Guida Completa con LLaMA 3.2](/posts/2025/05/come-addestrare-un-llm-con-i-tuoi-dati-personali-g/) - *LLM, Go, AI*
 - [Small models are the future of agentic ai](/posts/2025/09/small-models-are-the-future-of-agentic-ai/) - *AI, AI Agent, Foundation Model*
-- [Agent Development Kit (ADK)](/posts/2025/09/agent-development-kit-adk/) - *AI Agent, AI, Open Source*
-- [NextChat](/posts/2025/09/nextchat/) - *AI, Open Source, Typescript*

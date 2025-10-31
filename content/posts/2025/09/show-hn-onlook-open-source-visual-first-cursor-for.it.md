@@ -11,12 +11,12 @@ images:
 - /images/posts/2025/09/onlook-open-source-visual-first-cursor-for-designers-featured.webp
 - /images/posts/2025/09/onlook-open-source-visual-first-cursor-for-designers-2.webp
 - /images/posts/2025/09/onlook-open-source-visual-first-cursor-for-designers-6.webp
-last_linked: '2025-09-23T19:30:33.967386'
+last_linked: '2025-10-31T08:34:31.630020'
 processed_date: 2025-09-06 10:49
 related_articles:
-- /posts/2025/09/show-hn-whispering-open-source-local-first-dictati/
-- /posts/2025/09/opencode-ai-coding-agent-built-for-the-terminal/
-- /posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/
+- /posts/2025/09/show-hn-clavier-36-a-programming-environment-for-g/
+- /posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/
+- /posts/2025/08/llama-scan-convert-pdfs-to-text-w-local-llms/
 series:
 - Articoli Interessanti
 showDate: true
@@ -110,6 +110,6 @@ Fonte originale: [https://news.ycombinator.com/item?id=44127653](https://news.yc
 
 ## Articoli Correlati
 
-- [Show HN: Whispering – Open-source, local-first dictation you can trust](/posts/2025/09/show-hn-whispering-open-source-local-first-dictati/) - *Rust*
-- [Opencode: AI coding agent, built for the terminal](/posts/2025/09/opencode-ai-coding-agent-built-for-the-terminal/) - *AI Agent, AI*
-- [Show HN: My LLM CLI tool can run tools now, from Python code or plugins](/posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/) - *LLM, Foundation Model, Python*
+- [Show HN: CLAVIER-36 – A programming environment for generative music](/posts/2025/09/show-hn-clavier-36-a-programming-environment-for-g/) - *Tech*
+- [VibeVoice: A Frontier Open-Source Text-to-Speech Model](/posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/) - *Best Practices, Foundation Model, Natural Language Processing*
+- [Llama-Scan: Convert PDFs to Text W Local LLMs](/posts/2025/08/llama-scan-convert-pdfs-to-text-w-local-llms/) - *LLM, Natural Language Processing*

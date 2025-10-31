@@ -9,11 +9,11 @@ feature_image: /images/posts/2025/09/focalboard-open-source-alternativa-trello-n
 images:
 - /images/posts/2025/09/focalboard-open-source-alternativa-trello-notion-asana-featured.webp
 - /images/posts/2025/09/focalboard-open-source-alternativa-trello-notion-asana-6.webp
-last_linked: '2025-09-23T19:30:34.050521'
+last_linked: '2025-10-31T08:34:31.745057'
 processed_date: 2025-09-04 19:17
 related_articles:
-- /posts/2025/09/agenticseek-private-local-manus-alternative/
-- /posts/2025/09/dokieli/
+- /posts/2025/10/airbyte-the-leading-data-integration-platform-for/
+- /posts/2025/05/billionmail-an-open-source-mailserver-newsletter-e/
 - /posts/2025/09/nextchat/
 series:
 - Articoli Interessanti
@@ -94,6 +94,6 @@ Fonte originale: [https://github.com/mattermost-community/focalboard?tab=readme-
 
 ## Articoli Correlati
 
-- [AgenticSeek: Private, Local Manus Alternative](/posts/2025/09/agenticseek-private-local-manus-alternative/) - *AI Agent, AI, Python*
-- [dokieli](/posts/2025/09/dokieli/) - *Open Source*
+- [Airbyte: The Leading Data Integration Platform for ETL/ELT Pipelines](/posts/2025/10/airbyte-the-leading-data-integration-platform-for/) - *Python, DevOps, AI*
+- [BillionMail 📧 An Open-Source MailServer, NewsLetter, Email Marketing Solution for Smarter Campaigns](/posts/2025/05/billionmail-an-open-source-mailserver-newsletter-e/) - *AI, Open Source*
 - [NextChat](/posts/2025/09/nextchat/) - *AI, Open Source, Typescript*

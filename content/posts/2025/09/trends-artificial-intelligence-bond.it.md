@@ -8,12 +8,12 @@ feature_image: /images/posts/2025/09/trends-artificial-intelligence-bond-feature
 images:
 - /images/posts/2025/09/trends-artificial-intelligence-bond-featured.webp
 language: it
-last_linked: '2025-09-23T19:30:33.932373'
+last_linked: '2025-10-31T08:34:31.587128'
 processed_date: 2025-09-06 10:47
 related_articles:
-- /posts/2024/10/large-language-models-are-proficient-in-solving-an/
-- /posts/2025/09/2504-07139-artificial-intelligence-index-report-20/
-- /posts/2025/09/casper-capital-100-ai-tools-you-cant-ignore-in-202/
+- /posts/2025/07/2507-14447-routine-a-structural-planning-framework/
+- /posts/2025/07/introducing-pay-per-crawl-enabling-content-owners/
+- /posts/2025/09/2502-12110-a-mem-agentic-memory-for-llm-agents/
 series:
 - Articoli Interessanti
 showDate: true
@@ -97,6 +97,6 @@ Fonte originale: [https://www.bondcap.com/report/tai/#pid=10](https://www.bondca
 
 ## Articoli Correlati
 
-- [Large language models are proficient in solving and creating emotional intelligence tests | Communications Psychology](/posts/2024/10/large-language-models-are-proficient-in-solving-an/) - *AI, LLM, Foundation Model*
-- [[2504.07139] Artificial Intelligence Index Report 2025](/posts/2025/09/2504-07139-artificial-intelligence-index-report-20/) - *AI*
-- [Casper Capital - 100 AI Tools You Can’t Ignore in 2025...](/posts/2025/09/casper-capital-100-ai-tools-you-cant-ignore-in-202/) - *AI*
+- [[2507.14447] Routine: A Structural Planning Framework for LLM Agent System in Enterprise](/posts/2025/07/2507-14447-routine-a-structural-planning-framework/) - *AI Agent, LLM, Best Practices*
+- [Introducing pay per crawl: Enabling content owners to charge AI crawlers for access](/posts/2025/07/introducing-pay-per-crawl-enabling-content-owners/) - *AI*
+- [[2502.12110] A-MEM: Agentic Memory for LLM Agents](/posts/2025/09/2502-12110-a-mem-agentic-memory-for-llm-agents/) - *AI Agent, LLM*

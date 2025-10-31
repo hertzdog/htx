@@ -61,6 +61,26 @@ Sempre con un controllo totale di quello che deleghiamo alle macchine con la fil
 {{< figure src="images/ricerche.svg" alt="milgiora le decisioni strategiche" class="mx-auto w-48 mb-4" >}}
 
 ---
+
+
+<div style="margin: 3rem 0; padding: 3rem; border-radius: 1rem; text-align: center; box-shadow: 0 10px 25px rgba(0,0,0,0.2); background-color: #7f9d9d;">
+  <h3 style="font-size: 2rem; font-weight: bold; margin-bottom: 1rem; color: white;">
+    Vuoi saperne di più su come possiamo aiutare la tua azienda?
+  </h3>
+  
+  <div style="margin-bottom: 1rem;">
+    <a href="mailto:hello@ht-x.com"
+       style="display: inline-block; padding: 1rem 2rem; color: #2c3e50; background-color: white; font-weight: bold; border-radius: 0.5rem; box-shadow: 0 5px 10px rgba(0,0,0,0.2); text-decoration: none; transition: all 0.3s;"
+       onmouseover="this.style.backgroundColor='#6a8585'; this.style.color='white';"
+       onmouseout="this.style.backgroundColor='white'; this.style.color='#2c3e50';">
+      Contattaci ora
+    </a>
+  </div>
+</div>
+
+---
+
+
 <div class="text-left">
 
 ## ChatGPT? No, soluzioni AI private e sicure
@@ -101,9 +121,9 @@ Anche grazie al progetto [PrivateChatAI]() risultato vincitore del bando PR FESR
 
 # **Come funziona il nostro approccio**
 
-{{< figure src="images/methodology-process-minimal.svg" alt="HTX AI Implementation Process" class="rounded-lg shadow-lg mb-8" >}}
+{{< figure src="images/methodology-process-minimal.svg" alt="HTX AI Implementation Process" class="hidden lg:block rounded-lg shadow-lg mb-8" >}}
 
-<div class="flex justify-center">
+<div class="flex justify-center lg:hidden">
 <div class="w-full max-w-4xl px-4">
 
 {{< timeline >}}

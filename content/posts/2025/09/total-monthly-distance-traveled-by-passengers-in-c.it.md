@@ -10,12 +10,12 @@ images:
 - /images/posts/2025/09/total-monthly-distance-traveled-by-passengers-in-californias-driverless-taxis-featured.webp
 - /images/posts/2025/09/total-monthly-distance-traveled-by-passengers-in-californias-driverless-taxis-5.webp
 language: en
-last_linked: '2025-09-23T19:30:34.016867'
+last_linked: '2025-10-31T08:34:31.703381'
 processed_date: 2025-09-18 15:07
 related_articles:
-- /posts/2025/09/mindsdb-an-ai-data-solution-mindsdb/
-- /posts/2025/09/2504-07139-artificial-intelligence-index-report-20/
-- /posts/2025/09/data-formulator-create-rich-visualizations-with-ai/
+- /posts/2025/07/2507-14447-routine-a-structural-planning-framework/
+- /posts/2025/07/futurehouse-platform/
+- /posts/2025/09/2502-12110-a-mem-agentic-memory-for-llm-agents/
 series:
 - Articoli Interessanti
 showDate: true
@@ -95,6 +95,6 @@ Fonte originale: [https://ourworldindata.org/grapher/passenger-miles-traveled-se
 
 ## Articoli Correlati
 
-- [MindsDB, an AI Data Solution - MindsDB](/posts/2025/09/mindsdb-an-ai-data-solution-mindsdb/) - *AI*
-- [[2504.07139] Artificial Intelligence Index Report 2025](/posts/2025/09/2504-07139-artificial-intelligence-index-report-20/) - *AI*
-- [Data Formulator: Create Rich Visualizations with AI](/posts/2025/09/data-formulator-create-rich-visualizations-with-ai/) - *Open Source, AI*
+- [[2507.14447] Routine: A Structural Planning Framework for LLM Agent System in Enterprise](/posts/2025/07/2507-14447-routine-a-structural-planning-framework/) - *AI Agent, LLM, Best Practices*
+- [FutureHouse Platform](/posts/2025/07/futurehouse-platform/) - *AI, AI Agent*
+- [[2502.12110] A-MEM: Agentic Memory for LLM Agents](/posts/2025/09/2502-12110-a-mem-agentic-memory-for-llm-agents/) - *AI Agent, LLM*

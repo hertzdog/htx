@@ -7,12 +7,12 @@ description: Scopri come i team di Anthropic utilizzano Claude Code per migliora
 draft: false
 feature_image: /images/background.svg
 images: []
-last_linked: '2025-09-23T19:30:33.979050'
+last_linked: '2025-10-31T08:34:31.659768'
 processed_date: 2025-09-06 10:31
 related_articles:
-- /posts/2025/09/field-notes-from-shipping-real-code-with-claude/
-- /posts/2025/09/turning-claude-code-into-my-best-design-partner/
-- /posts/2025/09/how-to-use-claude-code-subagents-to-parallelize-de/
+- /posts/2025/10/claude-code-best-practices-code-w-claude-youtube/
+- /posts/2025/09/small-models-are-the-future-of-agentic-ai/
+- /posts/2025/08/my-ai-had-already-fixed-the-code-before-i-saw-it/
 series:
 - Articoli Interessanti
 showDate: true
@@ -91,6 +91,6 @@ Fonte originale: []()</small>*
 
 ## Articoli Correlati
 
-- [Field Notes From Shipping Real Code With Claude](/posts/2025/09/field-notes-from-shipping-real-code-with-claude/) - *Tech*
-- [Turning Claude Code into my best design partner](/posts/2025/09/turning-claude-code-into-my-best-design-partner/) - *Tech*
-- [How to Use Claude Code Subagents to Parallelize Development](/posts/2025/09/how-to-use-claude-code-subagents-to-parallelize-de/) - *AI Agent, AI*
+- [Claude Code best practices | Code w/ Claude - YouTube](/posts/2025/10/claude-code-best-practices-code-w-claude-youtube/) - *Code Review, AI, Best Practices*
+- [Small models are the future of agentic ai](/posts/2025/09/small-models-are-the-future-of-agentic-ai/) - *AI, AI Agent, Foundation Model*
+- [My AI Had Already Fixed the Code Before I Saw It](/posts/2025/08/my-ai-had-already-fixed-the-code-before-i-saw-it/) - *Code Review, Software Development, AI*

@@ -11,12 +11,12 @@ images:
 - /images/posts/2025/09/ai-hedge-fund-progetto-open-source-4.webp
 - /images/posts/2025/09/ai-hedge-fund-progetto-open-source-5.webp
 - /images/posts/2025/09/ai-hedge-fund-progetto-open-source-6.webp
-last_linked: '2025-09-23T19:30:33.991436'
+last_linked: '2025-10-31T08:34:31.670954'
 processed_date: 2025-09-06 10:53
 related_articles:
 - /posts/2025/09/ragflow/
-- /posts/2025/09/ai-agents-for-beginners-a-course/
-- /posts/2025/09/surfsense/
+- /posts/2025/08/focalboard/
+- /posts/2025/08/ai-agents-for-beginners-a-course/
 series:
 - Articoli Interessanti
 showDate: true
@@ -98,5 +98,5 @@ Fonte originale: [https://github.com/virattt/ai-hedge-fund](https://github.com/v
 ## Articoli Correlati
 
 - [RAGFlow](/posts/2025/09/ragflow/) - *Open Source, Typescript, AI Agent*
-- [AI Agents for Beginners - A Course](/posts/2025/09/ai-agents-for-beginners-a-course/) - *AI Agent, Open Source, AI*
-- [SurfSense](/posts/2025/09/surfsense/) - *Open Source, Python*
+- [Focalboard](/posts/2025/08/focalboard/) - *Open Source*
+- [AI Agents for Beginners - A Course](/posts/2025/08/ai-agents-for-beginners-a-course/) - *AI Agent, Open Source, AI*

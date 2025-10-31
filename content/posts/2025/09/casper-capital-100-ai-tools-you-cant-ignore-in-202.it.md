@@ -11,12 +11,12 @@ draft: false
 feature_image: /images/background.svg
 images: []
 language: en
-last_linked: '2025-09-23T19:30:34.067391'
+last_linked: '2025-10-31T08:34:31.768475'
 processed_date: 2025-09-04 19:12
 related_articles:
-- /posts/2025/09/automated-73-of-his-remote-job-using-basic-automat/
-- /posts/2025/09/the-anthropic-economic-index-anthropic/
-- /posts/2025/09/nice-my-ai-startup-school-talk-is-now-up/
+- /posts/2025/05/requests-for-startups-y-combinator/
+- /posts/2025/09/prompt-packs-openai-academy/
+- /posts/2025/06/automated-73-of-his-remote-job-using-basic-automat/
 series:
 - Articoli Interessanti
 showDate: true
@@ -96,6 +96,6 @@ Fonte originale: [https://www.facebook.com/100089314351644/posts/pfbid0V2cwGRNNc
 
 ## Articoli Correlati
 
-- [Automated 73% of his remote job using basic automation tools, told his manager everything, and got a promotion](/posts/2025/09/automated-73-of-his-remote-job-using-basic-automat/) - *Browser Automation, Go*
-- [The Anthropic Economic Index  Anthropic](/posts/2025/09/the-anthropic-economic-index-anthropic/) - *AI*
-- [Nice - my AI startup school talk is now up!](/posts/2025/09/nice-my-ai-startup-school-talk-is-now-up/) - *LLM, AI*
+- [Requests for Startups | Y Combinator](/posts/2025/05/requests-for-startups-y-combinator/) - *Tech*
+- [Prompt Packs | OpenAI Academy](/posts/2025/09/prompt-packs-openai-academy/) - *AI*
+- [Automated 73% of his remote job using basic automation tools, told his manager everything, and got a promotion](/posts/2025/06/automated-73-of-his-remote-job-using-basic-automat/) - *Browser Automation, Go*

@@ -11,12 +11,12 @@ images:
 - /images/posts/2025/09/swiss-ai-apertus-70b-2509-hugging-face-3.webp
 - /images/posts/2025/09/swiss-ai-apertus-70b-2509-hugging-face-4.webp
 language: unknown
-last_linked: '2025-09-23T19:30:33.938630'
+last_linked: '2025-10-31T08:34:31.593954'
 processed_date: 2025-09-06 10:20
 related_articles:
 - /posts/2025/09/kimi-k2-open-agentic-intelligence/
 - /posts/2025/09/ibm-granite-granite-docling-258m-hugging-face/
-- /posts/2025/09/voxtral-mistral-ai/
+- /posts/2025/10/eu-funded-tildeopen-llm-delivers-european-ai-break/
 series:
 - Articoli Interessanti
 showDate: true
@@ -97,4 +97,4 @@ Fonte originale: [https://huggingface.co/swiss-ai/Apertus-70B-2509](https://hugg
 
 - [Kimi K2: Open Agentic Intelligence](/posts/2025/09/kimi-k2-open-agentic-intelligence/) - *AI Agent, Foundation Model*
 - [ibm-granite/granite-docling-258M · Hugging Face](/posts/2025/09/ibm-granite-granite-docling-258m-hugging-face/) - *AI*
-- [Voxtral | Mistral AI](/posts/2025/09/voxtral-mistral-ai/) - *AI, Foundation Model*
+- [EU-funded TildeOpen LLM delivers European AI breakthrough for multilingual innovation | Shaping Europe’s digital future](/posts/2025/10/eu-funded-tildeopen-llm-delivers-european-ai-break/) - *AI, Foundation Model, LLM*

@@ -8,12 +8,12 @@ feature_image: /images/posts/2025/09/ai-agents-for-beginners-course-featured.web
 images:
 - /images/posts/2025/09/ai-agents-for-beginners-course-featured.webp
 - /images/posts/2025/09/ai-agents-for-beginners-course-2.webp
-last_linked: '2025-09-23T19:30:33.844702'
+last_linked: '2025-10-31T08:34:31.492666'
 processed_date: 2025-09-04 19:01
 related_articles:
-- /posts/2025/09/build-a-large-language-model-from-scratch/
-- /posts/2025/09/parlant/
-- /posts/2025/09/agent-development-kit-adk/
+- /posts/2025/08/parlant/
+- /posts/2025/09/nextchat/
+- /posts/2025/05/agent-development-kit-adk/
 series:
 - Articoli Interessanti
 showDate: true
@@ -95,6 +95,6 @@ Fonte originale: [https://github.com/microsoft/ai-agents-for-beginners](https://
 
 ## Articoli Correlati
 
-- [Build a Large Language Model (From Scratch)](/posts/2025/09/build-a-large-language-model-from-scratch/) - *Foundation Model, LLM, Open Source*
-- [Parlant](/posts/2025/09/parlant/) - *AI Agent, LLM, Open Source*
-- [Agent Development Kit (ADK)](/posts/2025/09/agent-development-kit-adk/) - *AI Agent, AI, Open Source*
+- [Parlant](/posts/2025/08/parlant/) - *AI Agent, LLM, Open Source*
+- [NextChat](/posts/2025/09/nextchat/) - *AI, Open Source, Typescript*
+- [Agent Development Kit (ADK)](/posts/2025/05/agent-development-kit-adk/) - *AI Agent, AI, Open Source*

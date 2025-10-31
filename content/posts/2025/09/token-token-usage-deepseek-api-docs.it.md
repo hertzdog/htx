@@ -14,12 +14,12 @@ images:
 - /images/posts/2025/09/token-token-usage-deepseek-api-docs-2.webp
 - /images/posts/2025/09/token-token-usage-deepseek-api-docs-3.webp
 language: en
-last_linked: '2025-09-23T19:30:33.997635'
+last_linked: '2025-10-31T08:34:31.677674'
 processed_date: 2025-09-22 15:01
 related_articles:
-- /posts/2025/09/how-anthropic-teams-use-claude-code/
-- /posts/2025/09/build-a-large-language-model-from-scratch/
-- /posts/2025/09/introducing-qwen3-max-preview-instruct/
+- /posts/2025/08/build-a-large-language-model-from-scratch/
+- /posts/2025/07/agentic-design-patterns-documenti-google/
+- /posts/2024/10/a-foundation-model-to-predict-and-capture-human-co/
 series:
 - Articoli Interessanti
 showDate: true
@@ -98,6 +98,6 @@ Fonte originale: [https://api-docs.deepseek.com/quick_start/token_usage](https:/
 
 ## Articoli Correlati
 
-- [How Anthropic Teams Use Claude Code](/posts/2025/09/how-anthropic-teams-use-claude-code/) - *AI*
-- [Build a Large Language Model (From Scratch)](/posts/2025/09/build-a-large-language-model-from-scratch/) - *Foundation Model, LLM, Open Source*
-- [Introducing Qwen3-Max-Preview (Instruct)](/posts/2025/09/introducing-qwen3-max-preview-instruct/) - *AI, Foundation Model*
+- [Build a Large Language Model (From Scratch)](/posts/2025/08/build-a-large-language-model-from-scratch/) - *Foundation Model, LLM, Open Source*
+- [Agentic Design Patterns - Documenti Google](/posts/2025/07/agentic-design-patterns-documenti-google/) - *Go, AI Agent*
+- [A foundation model to predict and capture human cognition | Nature](/posts/2024/10/a-foundation-model-to-predict-and-capture-human-co/) - *Go, Foundation Model, Natural Language Processing*

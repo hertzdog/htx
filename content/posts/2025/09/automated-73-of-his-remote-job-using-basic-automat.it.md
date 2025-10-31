@@ -10,12 +10,12 @@ feature_image: /images/posts/2025/09/automazione-lavoro-remoto-promozione-featur
 images:
 - /images/posts/2025/09/automazione-lavoro-remoto-promozione-featured.webp
 language: en
-last_linked: '2025-09-23T19:30:34.056988'
+last_linked: '2025-10-31T08:34:31.756983'
 processed_date: 2025-09-06 10:30
 related_articles:
-- /posts/2025/09/nice-my-ai-startup-school-talk-is-now-up/
-- /posts/2025/09/the-race-for-llm-cognitive-core/
-- /posts/2025/09/casper-capital-100-ai-tools-you-cant-ignore-in-202/
+- /posts/2025/09/huge-ai-market-opportunity-in-2025/
+- /posts/2025/06/nice-my-ai-startup-school-talk-is-now-up/
+- /posts/2025/10/if-you-re-late-to-the-whole-memory-in-ai-agents-to/
 series:
 - Articoli Interessanti
 showDate: true
@@ -97,6 +97,6 @@ Fonte originale: [https://x.com/gregisenberg/status/1934586656973062551?s=43&t=A
 
 ## Articoli Correlati
 
-- [Nice - my AI startup school talk is now up!](/posts/2025/09/nice-my-ai-startup-school-talk-is-now-up/) - *LLM, AI*
-- [The race for LLM cognitive core](/posts/2025/09/the-race-for-llm-cognitive-core/) - *LLM, Foundation Model*
-- [Casper Capital - 100 AI Tools You Can’t Ignore in 2025...](/posts/2025/09/casper-capital-100-ai-tools-you-cant-ignore-in-202/) - *AI*
+- [Huge AI market opportunity in 2025](/posts/2025/09/huge-ai-market-opportunity-in-2025/) - *AI, Foundation Model*
+- [Nice - my AI startup school talk is now up!](/posts/2025/06/nice-my-ai-startup-school-talk-is-now-up/) - *LLM, AI*
+- [If you're late to the whole "memory in AI agents" topic like me, I recommend investing 43 minutes to watch this video](/posts/2025/10/if-you-re-late-to-the-whole-memory-in-ai-agents-to/) - *AI, AI Agent*

@@ -9,12 +9,12 @@ description: Claude Code è un framework per lo sviluppo di applicazioni AI che 
 draft: false
 feature_image: /images/background.svg
 images: []
-last_linked: '2025-09-23T19:30:33.900705'
+last_linked: '2025-10-31T08:34:31.550757'
 processed_date: 2025-09-06 10:31
 related_articles:
-- /posts/2025/09/turning-claude-code-into-my-best-design-partner/
-- /posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/
-- /posts/2025/09/a-research-preview-of-codex/
+- /posts/2025/05/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/
+- /posts/2025/05/vision-now-available-in-llama-cpp/
+- /posts/2025/05/a-research-preview-of-codex/
 series:
 - Articoli Interessanti
 showDate: true
@@ -112,6 +112,6 @@ Fonte originale: [https://news.ycombinator.com/item?id=44288377](https://news.yc
 
 ## Articoli Correlati
 
-- [Turning Claude Code into my best design partner](/posts/2025/09/turning-claude-code-into-my-best-design-partner/) - *Tech*
-- [Show HN: My LLM CLI tool can run tools now, from Python code or plugins](/posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/) - *LLM, Foundation Model, Python*
-- [A Research Preview of Codex](/posts/2025/09/a-research-preview-of-codex/) - *AI, Foundation Model*
+- [Show HN: My LLM CLI tool can run tools now, from Python code or plugins](/posts/2025/05/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/) - *LLM, Foundation Model, Python*
+- [Vision Now Available in Llama.cpp](/posts/2025/05/vision-now-available-in-llama-cpp/) - *Foundation Model, AI, Computer Vision*
+- [A Research Preview of Codex](/posts/2025/05/a-research-preview-of-codex/) - *AI, Foundation Model*

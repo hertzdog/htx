@@ -11,11 +11,11 @@ images:
 - /images/posts/2025/09/jobs-at-kaizen-y-combinator-4.webp
 - /images/posts/2025/09/jobs-at-kaizen-y-combinator-6.webp
 language: en
-last_linked: '2025-09-23T19:30:34.019786'
+last_linked: '2025-10-31T08:34:31.707426'
 processed_date: 2025-09-04 19:30
 related_articles:
-- /posts/2025/09/humanlayer/
-- /posts/2025/09/browser-use-web-ui/
+- /posts/2025/09/enable-ai-to-control-your-browser/
+- /posts/2025/04/cua-is-docker-for-computer-use-ai-agents/
 - /posts/2025/08/prava-teaching-gpt-5-to-use-a-computer/
 series:
 - Articoli Interessanti
@@ -96,6 +96,6 @@ Fonte originale: [https://www.ycombinator.com/companies/kaizen/jobs](https://www
 
 ## Articoli Correlati
 
-- [HumanLayer](/posts/2025/09/humanlayer/) - *Best Practices, AI, LLM*
-- [browser-use/web-ui](/posts/2025/09/browser-use-web-ui/) - *Browser Automation, AI, AI Agent*
+- [Enable AI to control your browser 🤖](/posts/2025/09/enable-ai-to-control-your-browser/) - *AI Agent, Open Source, Python*
+- [Cua is Docker for Computer-Use AI Agents](/posts/2025/04/cua-is-docker-for-computer-use-ai-agents/) - *Open Source, AI Agent, AI*
 - [Prava - Teaching GPT‑5 to use a computer](/posts/2025/08/prava-teaching-gpt-5-to-use-a-computer/) - *Tech*

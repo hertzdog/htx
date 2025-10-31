@@ -7,12 +7,12 @@ draft: false
 feature_image: /images/background.svg
 images: []
 language: en
-last_linked: '2025-09-23T19:30:34.006447'
+last_linked: '2025-10-31T08:34:31.688435'
 processed_date: 2025-09-23 16:47
 related_articles:
 - /posts/2025/09/ai-engineering-hub/
-- /posts/2025/09/qwen-image/
-- /posts/2025/09/introducing-pay-per-crawl-enabling-content-owners/
+- /posts/2025/04/gemma-3-qat-models-bringing-state-of-the-art-ai-to/
+- /posts/2025/08/ai-agents-for-beginners-a-course/
 series:
 - Articoli Interessanti
 showDate: true
@@ -92,5 +92,5 @@ Fonte originale: [https://learnyourway.withgoogle.com/](https://learnyourway.wit
 ## Articoli Correlati
 
 - [AI Engineering Hub](/posts/2025/09/ai-engineering-hub/) - *Open Source, AI, LLM*
-- [Qwen-Image](/posts/2025/09/qwen-image/) - *Computer Vision, Open Source, Foundation Model*
-- [Introducing pay per crawl: Enabling content owners to charge AI crawlers for access](/posts/2025/09/introducing-pay-per-crawl-enabling-content-owners/) - *AI*
+- [Gemma 3 QAT Models: Bringing state-of-the-Art AI to consumer GPUs](/posts/2025/04/gemma-3-qat-models-bringing-state-of-the-art-ai-to/) - *Go, Foundation Model, AI*
+- [AI Agents for Beginners - A Course](/posts/2025/08/ai-agents-for-beginners-a-course/) - *AI Agent, Open Source, AI*

@@ -8,12 +8,12 @@ feature_image: /images/posts/2025/09/lorax-multi-lora-inference-server-4.webp
 images:
 - /images/posts/2025/09/lorax-multi-lora-inference-server-4.webp
 language: Python
-last_linked: '2025-09-23T19:30:34.023711'
+last_linked: '2025-10-31T08:34:31.712827'
 processed_date: 2025-09-06 10:20
 related_articles:
-- /posts/2025/09/memvid/
-- /posts/2025/09/the-llm-red-teaming-framework/
-- /posts/2025/09/surfsense/
+- /posts/2025/05/designing-pareto-optimal-genai-workflows-with-syft/
+- /posts/2025/10/nanochat/
+- /posts/2025/09/memorag-moving-towards-next-gen-rag-via-memory-ins/
 series:
 - Articoli Interessanti
 showDate: true
@@ -96,6 +96,6 @@ Fonte originale: [https://github.com/predibase/lorax?tab=readme-ov-file](https:/
 
 ## Articoli Correlati
 
-- [Memvid](/posts/2025/09/memvid/) - *Natural Language Processing, AI, Open Source*
-- [The LLM Red Teaming Framework](/posts/2025/09/the-llm-red-teaming-framework/) - *Open Source, Python, LLM*
-- [SurfSense](/posts/2025/09/surfsense/) - *Open Source, Python*
+- [Designing Pareto-optimal GenAI workflows with syftr](/posts/2025/05/designing-pareto-optimal-genai-workflows-with-syft/) - *AI Agent, AI*
+- [nanochat](/posts/2025/10/nanochat/) - *Python, Open Source*
+- [MemoRAG: Moving Towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery](/posts/2025/09/memorag-moving-towards-next-gen-rag-via-memory-ins/) - *Open Source, Python*

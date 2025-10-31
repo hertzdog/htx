@@ -11,12 +11,12 @@ images:
 - /images/posts/2025/09/ibm-granite-granite-docling-258m-hugging-face-3.webp
 - /images/posts/2025/09/ibm-granite-granite-docling-258m-hugging-face-4.webp
 language: unknown
-last_linked: '2025-09-23T19:30:33.910517'
+last_linked: '2025-10-31T08:34:31.562145'
 processed_date: 2025-09-22 15:03
 related_articles:
-- /posts/2025/09/swiss-ai-apertus-70b-2509-hugging-face/
-- /posts/2025/09/deepsite-v2-a-hugging-face-space-by-enzostvs/
-- /posts/2025/09/introducing-tongyi-deep-research/
+- /posts/2025/08/dolphin-document-image-parsing-via-heterogeneous-a/
+- /posts/2025/10/eu-funded-tildeopen-llm-delivers-european-ai-break/
+- /posts/2025/10/paddleocr-vl-boosting-multilingual-document-parsin/
 series:
 - Articoli Interessanti
 showDate: true
@@ -95,6 +95,6 @@ Fonte originale: [https://huggingface.co/ibm-granite/granite-docling-258M](https
 
 ## Articoli Correlati
 
-- [swiss-ai/Apertus-70B-2509 · Hugging Face](/posts/2025/09/swiss-ai-apertus-70b-2509-hugging-face/) - *AI*
-- [DeepSite v2 - a Hugging Face Space by enzostvs](/posts/2025/09/deepsite-v2-a-hugging-face-space-by-enzostvs/) - *AI*
-- [Introducing Tongyi Deep Research](/posts/2025/09/introducing-tongyi-deep-research/) - *AI Agent, Python, Open Source*
+- [Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting](/posts/2025/08/dolphin-document-image-parsing-via-heterogeneous-a/) - *Open Source, Image Generation*
+- [EU-funded TildeOpen LLM delivers European AI breakthrough for multilingual innovation | Shaping Europe’s digital future](/posts/2025/10/eu-funded-tildeopen-llm-delivers-european-ai-break/) - *AI, Foundation Model, LLM*
+- [PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](/posts/2025/10/paddleocr-vl-boosting-multilingual-document-parsin/) - *Computer Vision, Foundation Model, LLM*

@@ -8,12 +8,12 @@ feature_image: /images/posts/2025/09/dots-ocr-multilingual-document-layout-parsi
 images:
 - /images/posts/2025/09/dots-ocr-multilingual-document-layout-parsing-3.webp
 language: Python
-last_linked: '2025-09-23T19:30:33.884458'
+last_linked: '2025-10-31T08:34:31.532898'
 processed_date: 2025-09-14 15:36
 related_articles:
-- /posts/2025/09/colette/
-- /posts/2025/09/dolphin-document-image-parsing-via-heterogeneous-a/
-- /posts/2025/09/nanonets-ocr-s-ocr-model-that-transforms-documents/
+- /posts/2025/09/paddleocr/
+- /posts/2025/08/dolphin-document-image-parsing-via-heterogeneous-a/
+- /posts/2025/10/paddleocr-vl-boosting-multilingual-document-parsin/
 series:
 - Articoli Interessanti
 showDate: true
@@ -98,6 +98,6 @@ Fonte originale: [https://github.com/rednote-hilab/dots.ocr](https://github.com/
 
 ## Articoli Correlati
 
-- [Colette - ci ricorda molto Kotaemon](/posts/2025/09/colette/) - *Html, Open Source*
-- [Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting](/posts/2025/09/dolphin-document-image-parsing-via-heterogeneous-a/) - *Open Source, Image Generation*
-- [Nanonets-OCR-s – OCR model that transforms documents into structured markdown](/posts/2025/09/nanonets-ocr-s-ocr-model-that-transforms-documents/) - *LLM, Foundation Model*
+- [PaddleOCR](/posts/2025/09/paddleocr/) - *Open Source, DevOps, Python*
+- [Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting](/posts/2025/08/dolphin-document-image-parsing-via-heterogeneous-a/) - *Open Source, Image Generation*
+- [PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](/posts/2025/10/paddleocr-vl-boosting-multilingual-document-parsin/) - *Computer Vision, Foundation Model, LLM*

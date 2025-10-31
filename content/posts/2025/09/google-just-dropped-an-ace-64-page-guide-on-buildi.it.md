@@ -11,12 +11,12 @@ feature_image: /images/posts/2025/09/google-drop-64-page-guide-building-ai-agent
 images:
 - /images/posts/2025/09/google-drop-64-page-guide-building-ai-agents-featured.webp
 language: en
-last_linked: '2025-09-23T19:30:34.036426'
+last_linked: '2025-10-31T08:34:31.730327'
 processed_date: 2025-09-22 15:49
 related_articles:
-- /posts/2025/09/parlant/
-- /posts/2025/09/a-must-bookmark-for-vibe-coders/
-- /posts/2025/09/research-agent-with-gemini-2-5-pro-and-llamaindex/
+- /posts/2025/06/gemini-for-google-workspace-prompting-guide-101/
+- /posts/2025/05/agent-development-kit-adk/
+- /posts/2025/07/agentic-design-patterns-documenti-google/
 series:
 - Articoli Interessanti
 showDate: true
@@ -98,6 +98,6 @@ Fonte originale: [https://t.co/5cYfNZGsy1](https://t.co/5cYfNZGsy1)</small>*
 
 ## Articoli Correlati
 
-- [Parlant](/posts/2025/09/parlant/) - *AI Agent, LLM, Open Source*
-- [A must-bookmark for vibe-coders](/posts/2025/09/a-must-bookmark-for-vibe-coders/) - *Tech*
-- [Research Agent with Gemini 2.5 Pro and LlamaIndex  |  Gemini API  |  Google AI for Developers](/posts/2025/09/research-agent-with-gemini-2-5-pro-and-llamaindex/) - *AI, Go, AI Agent*
+- [Gemini for Google Workspace Prompting Guide 101](/posts/2025/06/gemini-for-google-workspace-prompting-guide-101/) - *AI, Go, Foundation Model*
+- [Agent Development Kit (ADK)](/posts/2025/05/agent-development-kit-adk/) - *AI Agent, AI, Open Source*
+- [Agentic Design Patterns - Documenti Google](/posts/2025/07/agentic-design-patterns-documenti-google/) - *Go, AI Agent*

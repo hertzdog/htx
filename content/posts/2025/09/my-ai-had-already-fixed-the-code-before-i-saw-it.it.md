@@ -11,12 +11,12 @@ feature_image: /images/posts/2025/09/my-ai-had-already-fixed-the-code-before-i-s
 images:
 - /images/posts/2025/09/my-ai-had-already-fixed-the-code-before-i-saw-it-featured.webp
 language: unknown
-last_linked: '2025-09-23T19:30:33.886075'
+last_linked: '2025-10-31T08:34:31.535397'
 processed_date: 2025-09-04 19:06
 related_articles:
-- /posts/2025/09/field-notes-from-shipping-real-code-with-claude/
-- /posts/2025/09/claude-code-is-my-computer-peter-steinberger/
-- /posts/2025/09/how-to-use-claude-code-subagents-to-parallelize-de/
+- /posts/2025/07/ai-act-c-e-il-codice-di-condotta-per-un-approccio/
+- /posts/2025/10/claude-code-best-practices-code-w-claude-youtube/
+- /posts/2025/08/claude-code-a-highly-agentic-coding-assistant-deep/
 series:
 - Articoli Interessanti
 showDate: true
@@ -98,6 +98,6 @@ Fonte originale: [https://every.to/source-code/my-ai-had-already-fixed-the-code-
 
 ## Articoli Correlati
 
-- [Field Notes From Shipping Real Code With Claude](/posts/2025/09/field-notes-from-shipping-real-code-with-claude/) - *Tech*
-- [Claude Code is My Computer | Peter Steinberger](/posts/2025/09/claude-code-is-my-computer-peter-steinberger/) - *Tech*
-- [How to Use Claude Code Subagents to Parallelize Development](/posts/2025/09/how-to-use-claude-code-subagents-to-parallelize-de/) - *AI Agent, AI*
+- [AI Act, c'è il codice di condotta per un approccio responsabile e facilitato per le Pmi - Cyber Security 360](/posts/2025/07/ai-act-c-e-il-codice-di-condotta-per-un-approccio/) - *Best Practices, AI, Go*
+- [Claude Code best practices | Code w/ Claude - YouTube](/posts/2025/10/claude-code-best-practices-code-w-claude-youtube/) - *Code Review, AI, Best Practices*
+- [Claude Code: A Highly Agentic Coding Assistant - DeepLearning.AI](/posts/2025/08/claude-code-a-highly-agentic-coding-assistant-deep/) - *AI Agent, AI*

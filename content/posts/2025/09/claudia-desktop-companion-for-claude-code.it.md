@@ -9,12 +9,12 @@ draft: false
 feature_image: /images/posts/2025/09/claudia-desktop-companion-for-claude-code-featured.webp
 images:
 - /images/posts/2025/09/claudia-desktop-companion-for-claude-code-featured.webp
-last_linked: '2025-09-23T19:30:33.864971'
+last_linked: '2025-10-31T08:34:31.513007'
 processed_date: 2025-09-04 19:16
 related_articles:
-- /posts/2025/09/snorting-the-agi-with-claude-code/
-- /posts/2025/09/turning-claude-code-into-my-best-design-partner/
-- /posts/2025/09/a-research-preview-of-codex/
+- /posts/2025/05/a-research-preview-of-codex/
+- /posts/2025/09/opcode-the-elegant-desktop-companion-for-claude-co/
+- /posts/2025/08/turning-claude-code-into-my-best-design-partner/
 series:
 - Articoli Interessanti
 showDate: true
@@ -107,6 +107,6 @@ Fonte originale: [https://news.ycombinator.com/item?id=44933255](https://news.yc
 
 ## Articoli Correlati
 
-- [Snorting the AGI with Claude Code](/posts/2025/09/snorting-the-agi-with-claude-code/) - *Code Review, AI, Best Practices*
-- [Turning Claude Code into my best design partner](/posts/2025/09/turning-claude-code-into-my-best-design-partner/) - *Tech*
-- [A Research Preview of Codex](/posts/2025/09/a-research-preview-of-codex/) - *AI, Foundation Model*
+- [A Research Preview of Codex](/posts/2025/05/a-research-preview-of-codex/) - *AI, Foundation Model*
+- [opcode - The Elegant Desktop Companion for Claude Code](/posts/2025/09/opcode-the-elegant-desktop-companion-for-claude-co/) - *AI Agent, AI*
+- [Turning Claude Code into my best design partner](/posts/2025/08/turning-claude-code-into-my-best-design-partner/) - *Tech*

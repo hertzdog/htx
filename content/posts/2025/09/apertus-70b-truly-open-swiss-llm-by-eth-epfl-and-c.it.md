@@ -12,12 +12,12 @@ images:
 - /images/posts/2025/09/apertus-70b-truly-open-swiss-llm-by-eth-epfl-and-cscs-3.webp
 - /images/posts/2025/09/apertus-70b-truly-open-swiss-llm-by-eth-epfl-and-cscs-4.webp
 - /images/posts/2025/09/apertus-70b-truly-open-swiss-llm-by-eth-epfl-and-cscs-5.webp
-last_linked: '2025-09-23T19:30:34.077267'
+last_linked: '2025-10-31T08:34:31.781231'
 processed_date: 2025-09-06 10:19
 related_articles:
 - /posts/2025/09/swiss-ai-apertus-70b-2509-hugging-face/
-- /posts/2025/09/opencode-ai-coding-agent-built-for-the-terminal/
-- /posts/2025/09/show-hn-onlook-open-source-visual-first-cursor-for/
+- /posts/2025/05/show-hn-onlook-open-source-visual-first-cursor-for/
+- /posts/2025/09/show-hn-clavier-36-a-programming-environment-for-g/
 series:
 - Articoli Interessanti
 showDate: true
@@ -112,5 +112,5 @@ Fonte originale: [https://news.ycombinator.com/item?id=45108401](https://news.yc
 ## Articoli Correlati
 
 - [swiss-ai/Apertus-70B-2509 · Hugging Face](/posts/2025/09/swiss-ai-apertus-70b-2509-hugging-face/) - *AI*
-- [Opencode: AI coding agent, built for the terminal](/posts/2025/09/opencode-ai-coding-agent-built-for-the-terminal/) - *AI Agent, AI*
-- [Show HN: Onlook – Open-source, visual-first Cursor for designers](/posts/2025/09/show-hn-onlook-open-source-visual-first-cursor-for/) - *Tech*
+- [Show HN: Onlook – Open-source, visual-first Cursor for designers](/posts/2025/05/show-hn-onlook-open-source-visual-first-cursor-for/) - *Tech*
+- [Show HN: CLAVIER-36 – A programming environment for generative music](/posts/2025/09/show-hn-clavier-36-a-programming-environment-for-g/) - *Tech*

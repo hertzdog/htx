@@ -9,12 +9,12 @@ draft: false
 feature_image: /images/background.svg
 images: []
 language: en
-last_linked: '2025-09-23T19:30:33.881044'
+last_linked: '2025-10-31T08:34:31.528324'
 processed_date: 2025-09-06 12:09
 related_articles:
-- /posts/2025/09/qwen3-coder-agentic-coding-in-the-world/
+- /posts/2025/09/swiss-ai-apertus-70b-2509-hugging-face/
 - /posts/2025/09/a-step-by-step-implementation-of-qwen-3-moe-archit/
-- /posts/2025/09/voxtral-mistral-ai/
+- /posts/2025/07/qwen3-coder-agentic-coding-in-the-world/
 series:
 - Articoli Interessanti
 showDate: true
@@ -94,6 +94,6 @@ Fonte originale: [https://moonshotai.github.io/Kimi-K2/](https://moonshotai.gith
 
 ## Articoli Correlati
 
-- [Qwen3-Coder: Agentic coding in the world](/posts/2025/09/qwen3-coder-agentic-coding-in-the-world/) - *AI Agent, Foundation Model*
+- [swiss-ai/Apertus-70B-2509 · Hugging Face](/posts/2025/09/swiss-ai-apertus-70b-2509-hugging-face/) - *AI*
 - [A Step-by-Step Implementation of Qwen 3 MoE Architecture from Scratch](/posts/2025/09/a-step-by-step-implementation-of-qwen-3-moe-archit/) - *Open Source*
-- [Voxtral | Mistral AI](/posts/2025/09/voxtral-mistral-ai/) - *AI, Foundation Model*
+- [Qwen3-Coder: Agentic coding in the world](/posts/2025/07/qwen3-coder-agentic-coding-in-the-world/) - *AI Agent, Foundation Model*

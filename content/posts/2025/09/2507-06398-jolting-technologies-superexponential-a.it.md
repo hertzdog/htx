@@ -10,11 +10,11 @@ images:
 - /images/posts/2025/09/jolting-technologies-superexponential-acceleration-in-ai-capabilities-featured.webp
 - /images/posts/2025/09/jolting-technologies-superexponential-acceleration-in-ai-capabilities-5.webp
 language: en
-last_linked: '2025-09-23T19:30:33.843191'
+last_linked: '2025-10-31T08:34:31.490824'
 processed_date: 2025-09-06 10:21
 related_articles:
-- /posts/2025/09/2502-00032v1-querying-databases-with-function-call/
-- /posts/2025/09/2505-06120-llms-get-lost-in-multi-turn-conversatio/
+- /posts/2025/08/2507-07935-working-with-ai-measuring-the-occupatio/
+- /posts/2025/05/2502-00032v1-querying-databases-with-function-call/
 - /posts/2025/09/2502-12110-a-mem-agentic-memory-for-llm-agents/
 series:
 - Articoli Interessanti
@@ -95,6 +95,6 @@ Fonte originale: [https://arxiv.org/abs/2507.06398](https://arxiv.org/abs/2507.0
 
 ## Articoli Correlati
 
-- [[2502.00032v1] Querying Databases with Function Calling](/posts/2025/09/2502-00032v1-querying-databases-with-function-call/) - *Tech*
-- [[2505.06120] LLMs Get Lost In Multi-Turn Conversation](/posts/2025/09/2505-06120-llms-get-lost-in-multi-turn-conversatio/) - *LLM*
+- [[2507.07935] Working with AI: Measuring the Occupational Implications of Generative AI](/posts/2025/08/2507-07935-working-with-ai-measuring-the-occupatio/) - *AI*
+- [[2502.00032v1] Querying Databases with Function Calling](/posts/2025/05/2502-00032v1-querying-databases-with-function-call/) - *Tech*
 - [[2502.12110] A-MEM: Agentic Memory for LLM Agents](/posts/2025/09/2502-12110-a-mem-agentic-memory-for-llm-agents/) - *AI Agent, LLM*

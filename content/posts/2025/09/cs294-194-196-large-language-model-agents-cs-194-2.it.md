@@ -9,12 +9,12 @@ images:
 - /images/posts/2025/09/cs294-194-196-large-language-model-agents-featured.webp
 - /images/posts/2025/09/cs294-194-196-large-language-model-agents-2.webp
 language: en
-last_linked: '2025-09-23T19:30:33.860994'
+last_linked: '2025-10-31T08:34:31.509695'
 processed_date: 2025-09-04 19:13
 related_articles:
-- /posts/2024/10/large-language-models-are-proficient-in-solving-an/
-- /posts/2025/09/agentic-design-patterns-documenti-google/
-- /posts/2025/09/judge-rules-training-ai-on-copyrighted-works-is-fa/
+- /posts/2025/08/alexander-kruel-links-for-2025-08-24/
+- /posts/2025/06/judge-rules-training-ai-on-copyrighted-works-is-fa/
+- /posts/2025/10/game-theory-open-yale-courses/
 series:
 - Articoli Interessanti
 showDate: true
@@ -96,6 +96,6 @@ Fonte originale: [https://rdi.berkeley.edu/llm-agents/f24](https://rdi.berkeley.
 
 ## Articoli Correlati
 
-- [Large language models are proficient in solving and creating emotional intelligence tests | Communications Psychology](/posts/2024/10/large-language-models-are-proficient-in-solving-an/) - *AI, LLM, Foundation Model*
-- [Agentic Design Patterns - Documenti Google](/posts/2025/09/agentic-design-patterns-documenti-google/) - *Go, AI Agent*
-- [Judge Rules Training AI on Copyrighted Works Is Fair Use, Agentic Biology Evolves, and more...](/posts/2025/09/judge-rules-training-ai-on-copyrighted-works-is-fa/) - *AI Agent, LLM, AI*
+- [Alexander Kruel - Links for 2025-08-24](/posts/2025/08/alexander-kruel-links-for-2025-08-24/) - *Foundation Model, AI*
+- [Judge Rules Training AI on Copyrighted Works Is Fair Use, Agentic Biology Evolves, and more...](/posts/2025/06/judge-rules-training-ai-on-copyrighted-works-is-fa/) - *AI Agent, LLM, AI*
+- [Game Theory | Open Yale Courses](/posts/2025/10/game-theory-open-yale-courses/) - *Tech*

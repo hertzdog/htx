@@ -14,12 +14,12 @@ images:
 - /images/posts/2025/09/humanlayer-ai-agent-communication-featured.webp
 - /images/posts/2025/09/humanlayer-ai-agent-communication-5.webp
 - /images/posts/2025/09/humanlayer-ai-agent-communication-6.webp
-last_linked: '2025-09-23T19:30:33.925402'
+last_linked: '2025-10-31T08:34:31.579122'
 processed_date: 2025-09-04 18:56
 related_articles:
-- /posts/2025/09/jobs-at-kaizen-y-combinator/
-- /posts/2025/09/the-llm-red-teaming-framework/
-- /posts/2025/09/agent-development-kit-adk/
+- /posts/2025/08/parlant/
+- /posts/2025/08/elysia-agentic-framework-powered-by-decision-trees/
+- /posts/2025/08/jobs-at-kaizen-y-combinator/
 series:
 - Articoli Interessanti
 showDate: true
@@ -103,6 +103,6 @@ Fonte originale: [https://github.com/humanlayer/humanlayer](https://github.com/h
 
 ## Articoli Correlati
 
-- [Jobs at Kaizen | Y Combinator](/posts/2025/09/jobs-at-kaizen-y-combinator/) - *AI*
-- [The LLM Red Teaming Framework](/posts/2025/09/the-llm-red-teaming-framework/) - *Open Source, Python, LLM*
-- [Agent Development Kit (ADK)](/posts/2025/09/agent-development-kit-adk/) - *AI Agent, AI, Open Source*
+- [Parlant](/posts/2025/08/parlant/) - *AI Agent, LLM, Open Source*
+- [Elysia: Agentic Framework Powered by Decision Trees](/posts/2025/08/elysia-agentic-framework-powered-by-decision-trees/) - *Best Practices, Python, AI Agent*
+- [Jobs at Kaizen | Y Combinator](/posts/2025/08/jobs-at-kaizen-y-combinator/) - *AI*

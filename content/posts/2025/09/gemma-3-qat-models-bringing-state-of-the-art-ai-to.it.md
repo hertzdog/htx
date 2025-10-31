@@ -13,11 +13,11 @@ images:
 - /images/posts/2025/09/gemma-3-qat-models-state-of-the-art-ai-consumer-gpus-4.webp
 - /images/posts/2025/09/gemma-3-qat-models-state-of-the-art-ai-consumer-gpus-5.webp
 language: en
-last_linked: '2025-09-23T19:30:33.981106'
+last_linked: '2025-10-31T08:34:31.661883'
 processed_date: 2025-09-22 15:53
 related_articles:
+- /posts/2025/05/ollama-s-new-engine-for-multimodal-models/
 - /posts/2025/09/learn-your-way/
-- /posts/2025/09/ollama-s-new-engine-for-multimodal-models/
 - /posts/2025/09/lorax-multi-lora-inference-server-that-scales-to-1/
 series:
 - Articoli Interessanti
@@ -99,6 +99,6 @@ Fonte originale: [https://developers.googleblog.com/en/gemma-3-quantized-aware-t
 
 ## Articoli Correlati
 
+- [Ollama's new engine for multimodal models](/posts/2025/05/ollama-s-new-engine-for-multimodal-models/) - *Foundation Model*
 - [Learn Your Way](/posts/2025/09/learn-your-way/) - *Tech*
-- [Ollama's new engine for multimodal models](/posts/2025/09/ollama-s-new-engine-for-multimodal-models/) - *Foundation Model*
 - [LoRAX: Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs](/posts/2025/09/lorax-multi-lora-inference-server-that-scales-to-1/) - *Open Source, LLM, Python*

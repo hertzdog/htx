@@ -14,12 +14,12 @@ draft: false
 feature_image: /images/background.svg
 images: []
 language: en
-last_linked: '2025-09-23T19:30:34.070276'
+last_linked: '2025-10-31T08:34:31.772898'
 processed_date: 2025-09-04 19:00
 related_articles:
-- /posts/2025/09/the-anthropic-economic-index-anthropic/
-- /posts/2025/09/dspy/
-- /posts/2025/09/cs294-194-196-large-language-model-agents-cs-194-2/
+- /posts/2025/08/dspy/
+- /posts/2025/08/casper-capital-100-ai-tools-you-cant-ignore-in-202/
+- /posts/2025/06/judge-rules-training-ai-on-copyrighted-works-is-fa/
 series:
 - Articoli Interessanti
 showDate: true
@@ -100,6 +100,6 @@ Fonte originale: [https://www.facebook.com/668725636/posts/10172399747390637/?mi
 
 ## Articoli Correlati
 
-- [The Anthropic Economic Index  Anthropic](/posts/2025/09/the-anthropic-economic-index-anthropic/) - *AI*
-- [DSPy](/posts/2025/09/dspy/) - *Best Practices, Foundation Model, LLM*
-- [CS294/194-196 Large Language Model Agents | CS 194/294-196 Large Language Model Agents](/posts/2025/09/cs294-194-196-large-language-model-agents-cs-194-2/) - *AI Agent, Foundation Model, LLM*
+- [DSPy](/posts/2025/08/dspy/) - *Best Practices, Foundation Model, LLM*
+- [Casper Capital - 100 AI Tools You Can’t Ignore in 2025...](/posts/2025/08/casper-capital-100-ai-tools-you-cant-ignore-in-202/) - *AI*
+- [Judge Rules Training AI on Copyrighted Works Is Fair Use, Agentic Biology Evolves, and more...](/posts/2025/06/judge-rules-training-ai-on-copyrighted-works-is-fa/) - *AI Agent, LLM, AI*

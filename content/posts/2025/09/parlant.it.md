@@ -9,12 +9,12 @@ feature_image: /images/posts/2025/09/parlant-llm-agents-featured.webp
 images:
 - /images/posts/2025/09/parlant-llm-agents-featured.webp
 - /images/posts/2025/09/parlant-llm-agents-2.webp
-last_linked: '2025-09-23T19:30:34.066008'
+last_linked: '2025-10-31T08:34:31.766568'
 processed_date: 2025-09-04 19:12
 related_articles:
-- /posts/2025/09/mcp-use/
-- /posts/2025/09/sim/
-- /posts/2025/09/humanlayer/
+- /posts/2025/10/cua-open-source-infrastructure-for-computer-use-ag/
+- /posts/2025/08/ai-agents-for-beginners-a-course/
+- /posts/2025/04/cua-is-docker-for-computer-use-ai-agents/
 series:
 - Articoli Interessanti
 showDate: true
@@ -98,6 +98,6 @@ Fonte originale: [https://github.com/emcie-co/parlant](https://github.com/emcie-
 
 ## Articoli Correlati
 
-- [MCP-Use](/posts/2025/09/mcp-use/) - *AI Agent, Open Source*
-- [Sim](/posts/2025/09/sim/) - *AI, AI Agent, Open Source*
-- [HumanLayer](/posts/2025/09/humanlayer/) - *Best Practices, AI, LLM*
+- [Cua: Open-source infrastructure for Computer-Use Agents](/posts/2025/10/cua-open-source-infrastructure-for-computer-use-ag/) - *Python, AI, Open Source*
+- [AI Agents for Beginners - A Course](/posts/2025/08/ai-agents-for-beginners-a-course/) - *AI Agent, Open Source, AI*
+- [Cua is Docker for Computer-Use AI Agents](/posts/2025/04/cua-is-docker-for-computer-use-ai-agents/) - *Open Source, AI Agent, AI*

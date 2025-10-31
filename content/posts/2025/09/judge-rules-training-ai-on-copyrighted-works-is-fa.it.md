@@ -12,12 +12,12 @@ images:
 - /images/posts/2025/09/judge-rules-training-ai-on-copyrighted-works-is-fair-use-5.webp
 - /images/posts/2025/09/judge-rules-training-ai-on-copyrighted-works-is-fair-use-6.webp
 language: en
-last_linked: '2025-09-23T19:30:33.870325'
+last_linked: '2025-10-31T08:34:31.517199'
 processed_date: 2025-09-06 10:29
 related_articles:
-- /posts/2025/09/ai-agents-for-beginners-a-course/
+- /posts/2025/08/alexander-kruel-links-for-2025-08-24/
+- /posts/2025/10/deeplearning-ai-start-or-advance-your-career-in-ai/
 - /posts/2024/10/large-language-models-are-proficient-in-solving-an/
-- /posts/2025/09/agentic-design-patterns-documenti-google/
 series:
 - Articoli Interessanti
 showDate: true
@@ -104,6 +104,6 @@ Fonte originale: [https://www.deeplearning.ai/the-batch/issue-307/](https://www.
 
 ## Articoli Correlati
 
-- [AI Agents for Beginners - A Course](/posts/2025/09/ai-agents-for-beginners-a-course/) - *AI Agent, Open Source, AI*
+- [Alexander Kruel - Links for 2025-08-24](/posts/2025/08/alexander-kruel-links-for-2025-08-24/) - *Foundation Model, AI*
+- [DeepLearning.AI: Start or Advance Your Career in AI](/posts/2025/10/deeplearning-ai-start-or-advance-your-career-in-ai/) - *AI*
 - [Large language models are proficient in solving and creating emotional intelligence tests | Communications Psychology](/posts/2024/10/large-language-models-are-proficient-in-solving-an/) - *AI, LLM, Foundation Model*
-- [Agentic Design Patterns - Documenti Google](/posts/2025/09/agentic-design-patterns-documenti-google/) - *Go, AI Agent*

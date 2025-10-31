@@ -11,12 +11,12 @@ draft: false
 feature_image: /images/background.svg
 images: []
 language: Python
-last_linked: '2025-09-23T19:30:33.877775'
+last_linked: '2025-10-31T08:34:31.524387'
 processed_date: 2025-09-14 15:36
 related_articles:
-- /posts/2025/09/dolphin-document-image-parsing-via-heterogeneous-a/
-- /posts/2025/09/surfsense/
-- /posts/2025/09/automatically-annotate-papers-using-llms/
+- /posts/2025/10/dolphin-document-image-parsing-via-heterogeneous-a/
+- /posts/2025/08/dolphin-document-image-parsing-via-heterogeneous-a/
+- /posts/2025/10/paddleocr-vl-boosting-multilingual-document-parsin/
 series:
 - Articoli Interessanti
 showDate: true
@@ -99,6 +99,6 @@ Fonte originale: [https://github.com/PaddlePaddle/PaddleOCR](https://github.com/
 
 ## Articoli Correlati
 
-- [Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting](/posts/2025/09/dolphin-document-image-parsing-via-heterogeneous-a/) - *Open Source, Image Generation*
-- [SurfSense](/posts/2025/09/surfsense/) - *Open Source, Python*
-- [Automatically annotate papers using LLMs](/posts/2025/09/automatically-annotate-papers-using-llms/) - *LLM, Open Source*
+- [Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting](/posts/2025/10/dolphin-document-image-parsing-via-heterogeneous-a/) - *Python, Image Generation, Open Source*
+- [Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting](/posts/2025/08/dolphin-document-image-parsing-via-heterogeneous-a/) - *Open Source, Image Generation*
+- [PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](/posts/2025/10/paddleocr-vl-boosting-multilingual-document-parsin/) - *Computer Vision, Foundation Model, LLM*

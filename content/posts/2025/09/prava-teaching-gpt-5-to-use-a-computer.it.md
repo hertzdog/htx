@@ -14,12 +14,12 @@ images:
 - /images/posts/2025/09/prava-teaching-gpt-5-to-use-a-computer-5.webp
 - /images/posts/2025/09/prava-teaching-gpt-5-to-use-a-computer-6.webp
 language: en
-last_linked: '2025-09-23T19:30:34.031522'
+last_linked: '2025-10-31T08:34:31.724789'
 processed_date: 2025-09-04 19:13
 related_articles:
+- /posts/2025/06/claude-code-is-my-computer-peter-steinberger/
 - /posts/2025/09/enable-ai-to-control-your-browser/
-- /posts/2025/09/browser-use-web-ui/
-- /posts/2025/09/jobs-at-kaizen-y-combinator/
+- /posts/2025/10/scripts-i-wrote-that-i-use-all-the-time/
 series:
 - Articoli Interessanti
 showDate: true
@@ -98,6 +98,6 @@ Fonte originale: [https://prava.co/archon/](https://prava.co/archon/)</small>*
 
 ## Articoli Correlati
 
+- [Claude Code is My Computer | Peter Steinberger](/posts/2025/06/claude-code-is-my-computer-peter-steinberger/) - *Tech*
 - [Enable AI to control your browser 🤖](/posts/2025/09/enable-ai-to-control-your-browser/) - *AI Agent, Open Source, Python*
-- [browser-use/web-ui](/posts/2025/09/browser-use-web-ui/) - *Browser Automation, AI, AI Agent*
-- [Jobs at Kaizen | Y Combinator](/posts/2025/09/jobs-at-kaizen-y-combinator/) - *AI*
+- [Scripts I wrote that I use all the time](/posts/2025/10/scripts-i-wrote-that-i-use-all-the-time/) - *Tech*

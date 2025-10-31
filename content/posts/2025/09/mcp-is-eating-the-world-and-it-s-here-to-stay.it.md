@@ -13,12 +13,12 @@ images:
 - /images/posts/2025/09/mcp-is-eating-the-world-and-its-here-to-stay-3.webp
 - /images/posts/2025/09/mcp-is-eating-the-world-and-its-here-to-stay-4.webp
 language: en
-last_linked: '2025-09-23T19:30:34.058654'
+last_linked: '2025-10-31T08:34:31.758636'
 processed_date: 2025-09-06 10:29
 related_articles:
-- /posts/2025/09/mcp-use/
-- /posts/2025/09/strands-agents/
-- /posts/2025/09/how-dataherald-makes-natural-language-to-sql-easy/
+- /posts/2024/10/a-foundation-model-to-predict-and-capture-human-co/
+- /posts/2025/05/strands-agents/
+- /posts/2025/05/designing-pareto-optimal-genai-workflows-with-syft/
 series:
 - Articoli Interessanti
 showDate: true
@@ -99,6 +99,6 @@ Fonte originale: [https://www.stainless.com/blog/mcp-is-eating-the-world--and-it
 
 ## Articoli Correlati
 
-- [MCP-Use](/posts/2025/09/mcp-use/) - *AI Agent, Open Source*
-- [Strands Agents](/posts/2025/09/strands-agents/) - *AI Agent, AI*
-- [How Dataherald Makes Natural Language to SQL Easy](/posts/2025/09/how-dataherald-makes-natural-language-to-sql-easy/) - *Natural Language Processing, AI*
+- [A foundation model to predict and capture human cognition | Nature](/posts/2024/10/a-foundation-model-to-predict-and-capture-human-co/) - *Go, Foundation Model, Natural Language Processing*
+- [Strands Agents](/posts/2025/05/strands-agents/) - *AI Agent, AI*
+- [Designing Pareto-optimal GenAI workflows with syftr](/posts/2025/05/designing-pareto-optimal-genai-workflows-with-syft/) - *AI Agent, AI*

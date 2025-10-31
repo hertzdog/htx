@@ -12,12 +12,12 @@ images:
 - /images/posts/2025/09/creare-un-font-dalla-propria-scrittura-a-mano-4.webp
 - /images/posts/2025/09/creare-un-font-dalla-propria-scrittura-a-mano-5.webp
 language: en
-last_linked: '2025-09-23T19:30:33.850883'
+last_linked: '2025-10-31T08:34:31.499712'
 processed_date: 2025-09-06 10:20
 related_articles:
+- /posts/2025/05/show-hn-onlook-open-source-visual-first-cursor-for/
 - /posts/2025/09/show-hn-clavier-36-a-programming-environment-for-g/
-- /posts/2025/09/building-effective-ai-agents/
-- /posts/2025/09/show-hn-whispering-open-source-local-first-dictati/
+- /posts/2025/05/show-hn-autothink-boosts-local-llm-performance-wit/
 series:
 - Articoli Interessanti
 showDate: true
@@ -81,6 +81,6 @@ Fonte originale: [https://chameth.com/making-a-font-of-my-handwriting/](https://
 
 ## Articoli Correlati
 
+- [Show HN: Onlook – Open-source, visual-first Cursor for designers](/posts/2025/05/show-hn-onlook-open-source-visual-first-cursor-for/) - *Tech*
 - [Show HN: CLAVIER-36 – A programming environment for generative music](/posts/2025/09/show-hn-clavier-36-a-programming-environment-for-g/) - *Tech*
-- [Building Effective AI Agents](/posts/2025/09/building-effective-ai-agents/) - *AI Agent, AI, Foundation Model*
-- [Show HN: Whispering – Open-source, local-first dictation you can trust](/posts/2025/09/show-hn-whispering-open-source-local-first-dictati/) - *Rust*
+- [Show HN: AutoThink – Boosts local LLM performance with adaptive reasoning](/posts/2025/05/show-hn-autothink-boosts-local-llm-performance-wit/) - *LLM, Foundation Model*

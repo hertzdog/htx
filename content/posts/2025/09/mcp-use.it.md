@@ -8,12 +8,12 @@ feature_image: /images/posts/2025/09/mcp-use-open-source-library-featured.webp
 images:
 - /images/posts/2025/09/mcp-use-open-source-library-featured.webp
 - /images/posts/2025/09/mcp-use-open-source-library-2.webp
-last_linked: '2025-09-23T19:30:34.047370'
+last_linked: '2025-10-31T08:34:31.741711'
 processed_date: 2025-09-04 19:19
 related_articles:
-- /posts/2025/09/sim/
-- /posts/2025/09/enable-ai-to-control-your-browser/
-- /posts/2025/09/browser-use-web-ui/
+- /posts/2025/08/parlant/
+- /posts/2025/10/mcp-analytics-and-authentication-platform/
+- /posts/2025/08/dspy/
 series:
 - Articoli Interessanti
 showDate: true
@@ -102,6 +102,6 @@ Fonte originale: [https://github.com/mcp-use/mcp-use](https://github.com/mcp-use
 
 ## Articoli Correlati
 
-- [Sim](/posts/2025/09/sim/) - *AI, AI Agent, Open Source*
-- [Enable AI to control your browser 🤖](/posts/2025/09/enable-ai-to-control-your-browser/) - *AI Agent, Open Source, Python*
-- [browser-use/web-ui](/posts/2025/09/browser-use-web-ui/) - *Browser Automation, AI, AI Agent*
+- [Parlant](/posts/2025/08/parlant/) - *AI Agent, LLM, Open Source*
+- [MCP Analytics and Authentication Platform](/posts/2025/10/mcp-analytics-and-authentication-platform/) - *Open Source, Typescript*
+- [DSPy](/posts/2025/08/dspy/) - *Best Practices, Foundation Model, LLM*

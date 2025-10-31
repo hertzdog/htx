@@ -8,12 +8,12 @@ feature_image: /images/posts/2025/09/browser-use-webui-interfaccia-utente-web-pe
 images:
 - /images/posts/2025/09/browser-use-webui-interfaccia-utente-web-per-ai-featured.webp
 - /images/posts/2025/09/browser-use-webui-interfaccia-utente-web-per-ai-2.webp
-last_linked: '2025-09-23T19:30:33.963903'
+last_linked: '2025-10-31T08:34:31.626303'
 processed_date: 2025-09-04 19:23
 related_articles:
-- /posts/2025/09/data-formulator-create-rich-visualizations-with-ai/
 - /posts/2025/09/deep-chat/
-- /posts/2025/09/deepsite-v2-a-hugging-face-space-by-enzostvs/
+- /posts/2025/08/data-formulator-create-rich-visualizations-with-ai/
+- /posts/2025/04/cua-is-docker-for-computer-use-ai-agents/
 series:
 - Articoli Interessanti
 showDate: true
@@ -105,6 +105,6 @@ Fonte originale: [https://github.com/browser-use/web-ui](https://github.com/brow
 
 ## Articoli Correlati
 
-- [Data Formulator: Create Rich Visualizations with AI](/posts/2025/09/data-formulator-create-rich-visualizations-with-ai/) - *Open Source, AI*
 - [Deep Chat](/posts/2025/09/deep-chat/) - *Typescript, Open Source, AI*
-- [DeepSite v2 - a Hugging Face Space by enzostvs](/posts/2025/09/deepsite-v2-a-hugging-face-space-by-enzostvs/) - *AI*
+- [Data Formulator: Create Rich Visualizations with AI](/posts/2025/08/data-formulator-create-rich-visualizations-with-ai/) - *Open Source, AI*
+- [Cua is Docker for Computer-Use AI Agents](/posts/2025/04/cua-is-docker-for-computer-use-ai-agents/) - *Open Source, AI Agent, AI*

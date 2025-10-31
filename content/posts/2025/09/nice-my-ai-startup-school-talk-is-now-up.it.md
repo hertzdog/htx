@@ -12,12 +12,12 @@ feature_image: /images/posts/2025/09/nice-my-ai-startup-school-talk-is-now-up-fe
 images:
 - /images/posts/2025/09/nice-my-ai-startup-school-talk-is-now-up-featured.webp
 language: en
-last_linked: '2025-09-23T19:30:33.983507'
+last_linked: '2025-10-31T08:34:31.663529'
 processed_date: 2025-09-06 10:30
 related_articles:
-- /posts/2025/09/the-race-for-llm-cognitive-core/
-- /posts/2025/09/huge-ai-market-opportunity-in-2025/
-- /posts/2025/09/1-for-context-engineering-over-prompt-engineering/
+- /posts/2025/08/the-race-for-llm-cognitive-core/
+- /posts/2025/06/automated-73-of-his-remote-job-using-basic-automat/
+- /posts/2025/08/1-for-context-engineering-over-prompt-engineering/
 series:
 - Articoli Interessanti
 showDate: true
@@ -97,6 +97,6 @@ Fonte originale: [https://x.com/karpathy/status/1935518272667217925?s=43&t=ANuJI
 
 ## Articoli Correlati
 
-- [The race for LLM cognitive core](/posts/2025/09/the-race-for-llm-cognitive-core/) - *LLM, Foundation Model*
-- [Huge AI market opportunity in 2025](/posts/2025/09/huge-ai-market-opportunity-in-2025/) - *AI, Foundation Model*
-- [+1 for "context engineering" over "prompt engineering"](/posts/2025/09/1-for-context-engineering-over-prompt-engineering/) - *LLM, Natural Language Processing*
+- [The race for LLM cognitive core](/posts/2025/08/the-race-for-llm-cognitive-core/) - *LLM, Foundation Model*
+- [Automated 73% of his remote job using basic automation tools, told his manager everything, and got a promotion](/posts/2025/06/automated-73-of-his-remote-job-using-basic-automat/) - *Browser Automation, Go*
+- [+1 for "context engineering" over "prompt engineering"](/posts/2025/08/1-for-context-engineering-over-prompt-engineering/) - *LLM, Natural Language Processing*

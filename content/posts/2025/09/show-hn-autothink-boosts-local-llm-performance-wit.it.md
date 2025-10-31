@@ -8,12 +8,12 @@ description: AutoThink ottimizza i modelli linguistici locali allocando risorse 
 draft: false
 feature_image: /images/background.svg
 images: []
-last_linked: '2025-09-23T19:30:33.917622'
+last_linked: '2025-10-31T08:34:31.570157'
 processed_date: 2025-09-06 10:50
 related_articles:
-- /posts/2025/09/deploying-deepseek-on-96-h100-gpus/
-- /posts/2025/09/show-hn-whispering-open-source-local-first-dictati/
-- /posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/
+- /posts/2025/08/deploying-deepseek-on-96-h100-gpus/
+- /posts/2025/05/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/
+- /posts/2025/08/llama-scan-convert-pdfs-to-text-w-local-llms/
 series:
 - Articoli Interessanti
 showDate: true
@@ -109,6 +109,6 @@ Fonte originale: [https://news.ycombinator.com/item?id=44112326](https://news.yc
 
 ## Articoli Correlati
 
-- [Deploying DeepSeek on 96 H100 GPUs](/posts/2025/09/deploying-deepseek-on-96-h100-gpus/) - *Tech*
-- [Show HN: Whispering – Open-source, local-first dictation you can trust](/posts/2025/09/show-hn-whispering-open-source-local-first-dictati/) - *Rust*
-- [Show HN: My LLM CLI tool can run tools now, from Python code or plugins](/posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/) - *LLM, Foundation Model, Python*
+- [Deploying DeepSeek on 96 H100 GPUs](/posts/2025/08/deploying-deepseek-on-96-h100-gpus/) - *Tech*
+- [Show HN: My LLM CLI tool can run tools now, from Python code or plugins](/posts/2025/05/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/) - *LLM, Foundation Model, Python*
+- [Llama-Scan: Convert PDFs to Text W Local LLMs](/posts/2025/08/llama-scan-convert-pdfs-to-text-w-local-llms/) - *LLM, Natural Language Processing*

@@ -10,12 +10,12 @@ feature_image: /images/posts/2025/09/guida-ycombinator-vibe-coding-featured.webp
 images:
 - /images/posts/2025/09/guida-ycombinator-vibe-coding-featured.webp
 language: en
-last_linked: '2025-09-23T19:30:33.875754'
+last_linked: '2025-10-31T08:34:31.522673'
 processed_date: 2025-09-22 15:26
 related_articles:
-- /posts/2025/09/codexs-robot-dev-team-grok-s-fixation-on-south-afr/
-- /posts/2025/09/requests-for-startups-y-combinator/
-- /posts/2025/09/my-ai-skeptic-friends-are-all-nuts-the-fly-blog/
+- /posts/2025/05/codexs-robot-dev-team-grok-s-fixation-on-south-afr/
+- /posts/2025/08/my-ai-had-already-fixed-the-code-before-i-saw-it/
+- /posts/2025/06/my-ai-skeptic-friends-are-all-nuts-the-fly-blog/
 series:
 - Articoli Interessanti
 showDate: true
@@ -94,6 +94,6 @@ Fonte originale: [https://t.co/6SLLD2mm6r](https://t.co/6SLLD2mm6r)</small>*
 
 ## Articoli Correlati
 
-- [Codex’s Robot Dev Team, Grok's Fixation on South Africa, Saudi Arabia’s AI Power Play, and more...](/posts/2025/09/codexs-robot-dev-team-grok-s-fixation-on-south-afr/) - *AI*
-- [Requests for Startups | Y Combinator](/posts/2025/09/requests-for-startups-y-combinator/) - *Tech*
-- [My AI Skeptic Friends Are All Nuts · The Fly Blog](/posts/2025/09/my-ai-skeptic-friends-are-all-nuts-the-fly-blog/) - *LLM, AI*
+- [Codex’s Robot Dev Team, Grok's Fixation on South Africa, Saudi Arabia’s AI Power Play, and more...](/posts/2025/05/codexs-robot-dev-team-grok-s-fixation-on-south-afr/) - *AI*
+- [My AI Had Already Fixed the Code Before I Saw It](/posts/2025/08/my-ai-had-already-fixed-the-code-before-i-saw-it/) - *Code Review, Software Development, AI*
+- [My AI Skeptic Friends Are All Nuts · The Fly Blog](/posts/2025/06/my-ai-skeptic-friends-are-all-nuts-the-fly-blog/) - *LLM, AI*

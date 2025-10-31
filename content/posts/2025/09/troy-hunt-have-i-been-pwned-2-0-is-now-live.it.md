@@ -14,12 +14,12 @@ images:
 - /images/posts/2025/09/troy-hunt-have-i-been-pwned-2-0-is-now-live-5.webp
 - /images/posts/2025/09/troy-hunt-have-i-been-pwned-2-0-is-now-live-6.webp
 language: en
-last_linked: '2025-09-23T19:30:33.949893'
+last_linked: '2025-10-31T08:34:31.608202'
 processed_date: 2025-09-06 10:53
 related_articles:
-- /posts/2025/09/introducing-pay-per-crawl-enabling-content-owners/
-- /posts/2025/09/introduction-intelowl-project-documentation/
-- /posts/2025/09/nocodb-cloud/
+- /posts/2025/07/ai-act-c-e-il-codice-di-condotta-per-un-approccio/
+- /posts/2025/10/claude-code-best-practices-code-w-claude-youtube/
+- /posts/2025/06/claude-code-is-my-computer-peter-steinberger/
 series:
 - Articoli Interessanti
 showDate: true
@@ -98,6 +98,6 @@ Fonte originale: [https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/](h
 
 ## Articoli Correlati
 
-- [Introducing pay per crawl: Enabling content owners to charge AI crawlers for access](/posts/2025/09/introducing-pay-per-crawl-enabling-content-owners/) - *AI*
-- [Introduction - IntelOwl Project Documentation](/posts/2025/09/introduction-intelowl-project-documentation/) - *Tech*
-- [NocoDB Cloud](/posts/2025/09/nocodb-cloud/) - *Tech*
+- [AI Act, c'è il codice di condotta per un approccio responsabile e facilitato per le Pmi - Cyber Security 360](/posts/2025/07/ai-act-c-e-il-codice-di-condotta-per-un-approccio/) - *Best Practices, AI, Go*
+- [Claude Code best practices | Code w/ Claude - YouTube](/posts/2025/10/claude-code-best-practices-code-w-claude-youtube/) - *Code Review, AI, Best Practices*
+- [Claude Code is My Computer | Peter Steinberger](/posts/2025/06/claude-code-is-my-computer-peter-steinberger/) - *Tech*

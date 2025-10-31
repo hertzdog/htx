@@ -12,12 +12,12 @@ feature_image: /images/posts/2025/09/introducing-qwen3-max-preview-instruct-feat
 images:
 - /images/posts/2025/09/introducing-qwen3-max-preview-instruct-featured.webp
 language: en
-last_linked: '2025-09-23T19:30:33.871764'
+last_linked: '2025-10-31T08:34:31.518999'
 processed_date: 2025-09-06 12:10
 related_articles:
-- /posts/2025/09/kimi-k2-open-agentic-intelligence/
+- /posts/2025/05/token-token-usage-deepseek-api-docs/
+- /posts/2025/09/a-step-by-step-implementation-of-qwen-3-moe-archit/
 - /posts/2024/10/a-foundation-model-to-predict-and-capture-human-co/
-- /posts/2025/09/qwen3-coder-agentic-coding-in-the-world/
 series:
 - Articoli Interessanti
 showDate: true
@@ -98,6 +98,6 @@ Fonte originale: [https://x.com/Alibaba_Qwen/status/1963991502440562976](https:/
 
 ## Articoli Correlati
 
-- [Kimi K2: Open Agentic Intelligence](/posts/2025/09/kimi-k2-open-agentic-intelligence/) - *AI Agent, Foundation Model*
+- [Token & Token Usage | DeepSeek API Docs](/posts/2025/05/token-token-usage-deepseek-api-docs/) - *Natural Language Processing, Foundation Model*
+- [A Step-by-Step Implementation of Qwen 3 MoE Architecture from Scratch](/posts/2025/09/a-step-by-step-implementation-of-qwen-3-moe-archit/) - *Open Source*
 - [A foundation model to predict and capture human cognition | Nature](/posts/2024/10/a-foundation-model-to-predict-and-capture-human-co/) - *Go, Foundation Model, Natural Language Processing*
-- [Qwen3-Coder: Agentic coding in the world](/posts/2025/09/qwen3-coder-agentic-coding-in-the-world/) - *AI Agent, Foundation Model*

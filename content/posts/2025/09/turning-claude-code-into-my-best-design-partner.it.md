@@ -8,12 +8,12 @@ description: Scopri come trasformare Claude Code nel tuo miglior partner di desi
 draft: false
 feature_image: /images/background.svg
 images: []
-last_linked: '2025-09-23T19:30:33.903882'
+last_linked: '2025-10-31T08:34:31.555076'
 processed_date: 2025-09-04 19:01
 related_articles:
-- /posts/2025/09/a-research-preview-of-codex/
-- /posts/2025/09/claudia-desktop-companion-for-claude-code/
-- /posts/2025/09/opencode-ai-coding-agent-built-for-the-terminal/
+- /posts/2025/08/claudia-desktop-companion-for-claude-code/
+- /posts/2025/07/opencode-ai-coding-agent-built-for-the-terminal/
+- /posts/2025/06/snorting-the-agi-with-claude-code/
 series:
 - Articoli Interessanti
 showDate: true
@@ -107,6 +107,6 @@ Fonte originale: [https://news.ycombinator.com/item?id=45002315](https://news.yc
 
 ## Articoli Correlati
 
-- [A Research Preview of Codex](/posts/2025/09/a-research-preview-of-codex/) - *AI, Foundation Model*
-- [Claudia – Desktop companion for Claude code](/posts/2025/09/claudia-desktop-companion-for-claude-code/) - *Foundation Model, AI*
-- [Opencode: AI coding agent, built for the terminal](/posts/2025/09/opencode-ai-coding-agent-built-for-the-terminal/) - *AI Agent, AI*
+- [Claudia – Desktop companion for Claude code](/posts/2025/08/claudia-desktop-companion-for-claude-code/) - *Foundation Model, AI*
+- [Opencode: AI coding agent, built for the terminal](/posts/2025/07/opencode-ai-coding-agent-built-for-the-terminal/) - *AI Agent, AI*
+- [Snorting the AGI with Claude Code](/posts/2025/06/snorting-the-agi-with-claude-code/) - *Code Review, AI, Best Practices*

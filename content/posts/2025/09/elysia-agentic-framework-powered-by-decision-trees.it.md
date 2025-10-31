@@ -8,12 +8,12 @@ draft: false
 feature_image: /images/posts/2025/09/elysia-agentic-framework-powered-by-decision-trees-featured.webp
 images:
 - /images/posts/2025/09/elysia-agentic-framework-powered-by-decision-trees-featured.webp
-last_linked: '2025-09-23T19:30:34.027183'
+last_linked: '2025-10-31T08:34:31.719272'
 processed_date: 2025-09-04 19:27
 related_articles:
-- /posts/2025/09/paperetl/
+- /posts/2025/08/paperetl/
+- /posts/2025/10/roma-recursive-open-meta-agents/
 - /posts/2025/09/the-llm-red-teaming-framework/
-- /posts/2025/09/automatically-annotate-papers-using-llms/
 series:
 - Articoli Interessanti
 showDate: true
@@ -96,6 +96,6 @@ Fonte originale: [https://github.com/weaviate/elysia](https://github.com/weaviat
 
 ## Articoli Correlati
 
-- [paperetl](/posts/2025/09/paperetl/) - *Open Source*
+- [paperetl](/posts/2025/08/paperetl/) - *Open Source*
+- [ROMA: Recursive Open Meta-Agents](/posts/2025/10/roma-recursive-open-meta-agents/) - *Python, AI Agent, Open Source*
 - [The LLM Red Teaming Framework](/posts/2025/09/the-llm-red-teaming-framework/) - *Open Source, Python, LLM*
-- [Automatically annotate papers using LLMs](/posts/2025/09/automatically-annotate-papers-using-llms/) - *LLM, Open Source*

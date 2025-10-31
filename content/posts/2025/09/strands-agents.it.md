@@ -7,12 +7,12 @@ draft: false
 feature_image: /images/background.svg
 images: []
 language: en
-last_linked: '2025-09-23T19:30:34.048879'
+last_linked: '2025-10-31T08:34:31.743251'
 processed_date: 2025-09-06 10:50
 related_articles:
-- /posts/2025/09/dspy/
-- /posts/2025/09/mcp-is-eating-the-world-and-it-s-here-to-stay/
-- /posts/2025/09/building-effective-ai-agents/
+- /posts/2025/06/mcp-is-eating-the-world-and-it-s-here-to-stay/
+- /posts/2025/06/building-effective-ai-agents/
+- /posts/2025/05/designing-pareto-optimal-genai-workflows-with-syft/
 series:
 - Articoli Interessanti
 showDate: true
@@ -93,6 +93,6 @@ Fonte originale: [https://strandsagents.com/latest/](https://strandsagents.com/l
 
 ## Articoli Correlati
 
-- [DSPy](/posts/2025/09/dspy/) - *Best Practices, Foundation Model, LLM*
-- [MCP is eating the world—and it's here to stay](/posts/2025/09/mcp-is-eating-the-world-and-it-s-here-to-stay/) - *Natural Language Processing, AI, Foundation Model*
-- [Building Effective AI Agents](/posts/2025/09/building-effective-ai-agents/) - *AI Agent, AI, Foundation Model*
+- [MCP is eating the world—and it's here to stay](/posts/2025/06/mcp-is-eating-the-world-and-it-s-here-to-stay/) - *Natural Language Processing, AI, Foundation Model*
+- [Building Effective AI Agents](/posts/2025/06/building-effective-ai-agents/) - *AI Agent, AI, Foundation Model*
+- [Designing Pareto-optimal GenAI workflows with syftr](/posts/2025/05/designing-pareto-optimal-genai-workflows-with-syft/) - *AI Agent, AI*

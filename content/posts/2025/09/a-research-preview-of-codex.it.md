@@ -8,12 +8,12 @@ description: Scopri Codex, il modello AI di OpenAI che traduce testo naturale in
 draft: false
 feature_image: /images/background.svg
 images: []
-last_linked: '2025-09-23T19:30:33.958893'
+last_linked: '2025-10-31T08:34:31.619012'
 processed_date: 2025-09-06 12:10
 related_articles:
-- /posts/2025/09/turning-claude-code-into-my-best-design-partner/
-- /posts/2025/09/opencode-ai-coding-agent-built-for-the-terminal/
-- /posts/2025/09/snorting-the-agi-with-claude-code/
+- /posts/2025/08/claudia-desktop-companion-for-claude-code/
+- /posts/2025/06/snorting-the-agi-with-claude-code/
+- /posts/2025/06/symbolicai-a-neuro-symbolic-perspective-on-llms/
 series:
 - Articoli Interessanti
 showDate: true
@@ -108,6 +108,6 @@ Fonte originale: [https://news.ycombinator.com/item?id=44006345](https://news.yc
 
 ## Articoli Correlati
 
-- [Turning Claude Code into my best design partner](/posts/2025/09/turning-claude-code-into-my-best-design-partner/) - *Tech*
-- [Opencode: AI coding agent, built for the terminal](/posts/2025/09/opencode-ai-coding-agent-built-for-the-terminal/) - *AI Agent, AI*
-- [Snorting the AGI with Claude Code](/posts/2025/09/snorting-the-agi-with-claude-code/) - *Code Review, AI, Best Practices*
+- [Claudia – Desktop companion for Claude code](/posts/2025/08/claudia-desktop-companion-for-claude-code/) - *Foundation Model, AI*
+- [Snorting the AGI with Claude Code](/posts/2025/06/snorting-the-agi-with-claude-code/) - *Code Review, AI, Best Practices*
+- [SymbolicAI: A neuro-symbolic perspective on LLMs](/posts/2025/06/symbolicai-a-neuro-symbolic-perspective-on-llms/) - *Foundation Model, Python, Best Practices*

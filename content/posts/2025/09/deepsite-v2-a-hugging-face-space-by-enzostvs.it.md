@@ -10,12 +10,12 @@ feature_image: /images/posts/2025/09/deepsite-v2-hugging-face-space-enzostvs-fea
 images:
 - /images/posts/2025/09/deepsite-v2-hugging-face-space-enzostvs-featured.webp
 language: unknown
-last_linked: '2025-09-23T19:30:33.892172'
+last_linked: '2025-10-31T08:34:31.542163'
 processed_date: 2025-09-14 15:35
 related_articles:
+- /posts/2025/08/browser-use-web-ui/
 - /posts/2025/09/enable-ai-to-control-your-browser/
-- /posts/2025/09/deep-chat/
-- /posts/2025/09/sim/
+- /posts/2025/08/tiledesk-design-studio/
 series:
 - Articoli Interessanti
 showDate: true
@@ -95,6 +95,6 @@ Fonte originale: [https://huggingface.co/spaces/enzostvs/deepsite](https://huggi
 
 ## Articoli Correlati
 
+- [browser-use/web-ui](/posts/2025/08/browser-use-web-ui/) - *Browser Automation, AI, AI Agent*
 - [Enable AI to control your browser 🤖](/posts/2025/09/enable-ai-to-control-your-browser/) - *AI Agent, Open Source, Python*
-- [Deep Chat](/posts/2025/09/deep-chat/) - *Typescript, Open Source, AI*
-- [Sim](/posts/2025/09/sim/) - *AI, AI Agent, Open Source*
+- [Tiledesk Design Studio](/posts/2025/08/tiledesk-design-studio/) - *Open Source, Browser Automation, AI*

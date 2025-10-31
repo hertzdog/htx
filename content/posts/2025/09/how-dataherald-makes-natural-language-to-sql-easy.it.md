@@ -17,12 +17,12 @@ images:
 - /images/posts/2025/09/come-dataherald-rende-facile-natural-language-to-sql-5.webp
 - /images/posts/2025/09/come-dataherald-rende-facile-natural-language-to-sql-6.webp
 language: en
-last_linked: '2025-09-23T19:30:33.882365'
+last_linked: '2025-10-31T08:34:31.530453'
 processed_date: 2025-09-06 10:29
 related_articles:
-- /posts/2025/09/mcp-is-eating-the-world-and-it-s-here-to-stay/
-- /posts/2025/09/ai-hedge-fund/
-- /posts/2025/09/ragflow/
+- /posts/2024/10/a-foundation-model-to-predict-and-capture-human-co/
+- /posts/2025/05/designing-pareto-optimal-genai-workflows-with-syft/
+- /posts/2025/07/voxtral-mistral-ai/
 series:
 - Articoli Interessanti
 showDate: true
@@ -103,6 +103,6 @@ Fonte originale: [https://blog.langchain.com/dataherald/](https://blog.langchain
 
 ## Articoli Correlati
 
-- [MCP is eating the world—and it's here to stay](/posts/2025/09/mcp-is-eating-the-world-and-it-s-here-to-stay/) - *Natural Language Processing, AI, Foundation Model*
-- [AI Hedge Fund](/posts/2025/09/ai-hedge-fund/) - *AI, Open Source*
-- [RAGFlow](/posts/2025/09/ragflow/) - *Open Source, Typescript, AI Agent*
+- [A foundation model to predict and capture human cognition | Nature](/posts/2024/10/a-foundation-model-to-predict-and-capture-human-co/) - *Go, Foundation Model, Natural Language Processing*
+- [Designing Pareto-optimal GenAI workflows with syftr](/posts/2025/05/designing-pareto-optimal-genai-workflows-with-syft/) - *AI Agent, AI*
+- [Voxtral | Mistral AI](/posts/2025/07/voxtral-mistral-ai/) - *AI, Foundation Model*

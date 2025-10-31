@@ -10,11 +10,11 @@ images:
 - /images/posts/2025/09/a-step-by-step-implementation-of-qwen-3-moe-architecture-from-scratch-2.webp
 - /images/posts/2025/09/a-step-by-step-implementation-of-qwen-3-moe-architecture-from-scratch-3.webp
 language: Jupyter Notebook
-last_linked: '2025-09-23T19:30:34.074758'
+last_linked: '2025-10-31T08:34:31.777801'
 processed_date: 2025-09-23 16:51
 related_articles:
-- /posts/2025/09/build-a-large-language-model-from-scratch/
 - /posts/2025/09/kimi-k2-open-agentic-intelligence/
+- /posts/2025/09/introducing-qwen3-max-preview-instruct/
 - /posts/2025/09/ai-engineering-hub/
 series:
 - Articoli Interessanti
@@ -104,6 +104,6 @@ Fonte originale: [https://github.com/FareedKhan-dev/qwen3-MoE-from-scratch](http
 
 ## Articoli Correlati
 
-- [Build a Large Language Model (From Scratch)](/posts/2025/09/build-a-large-language-model-from-scratch/) - *Foundation Model, LLM, Open Source*
 - [Kimi K2: Open Agentic Intelligence](/posts/2025/09/kimi-k2-open-agentic-intelligence/) - *AI Agent, Foundation Model*
+- [Introducing Qwen3-Max-Preview (Instruct)](/posts/2025/09/introducing-qwen3-max-preview-instruct/) - *AI, Foundation Model*
 - [AI Engineering Hub](/posts/2025/09/ai-engineering-hub/) - *Open Source, AI, LLM*
