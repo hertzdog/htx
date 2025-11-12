@@ -4,25 +4,19 @@
 
   <url>
     <loc>https://ht-x.com/posts/2025/</loc>
-    <lastmod>2025-10-31T07:05:40+00:00</lastmod>
+    <lastmod>2025-11-12T17:56:59+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ht-x.com/posts/</loc>
-    <lastmod>2025-10-31T07:05:40+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ht-x.com/posts/2025/10/openskills/</loc>
-    <lastmod>2025-10-31T07:05:40+00:00</lastmod>
+    <lastmod>2025-11-12T17:56:59+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ht-x.com/</loc>
-    <lastmod>2025-10-31T07:05:40+00:00</lastmod>
+    <lastmod>2025-11-12T17:56:59+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -35,6 +29,72 @@
       hreflang="it"
       href="https://ht-x.com/"
     />
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/11/sim-open-source-platform-to-build-and-deploy-ai-ag/</loc>
+    <lastmod>2025-11-12T17:56:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/11/context-retrieval-for-ai-agents-across-apps-databa/</loc>
+    <lastmod>2025-11-12T15:52:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/11/said-we-should-delete-tokenizers/</loc>
+    <lastmod>2025-11-08T07:50:55+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/11/you-should-write-an-agent-the-fly-blog/</loc>
+    <lastmod>2025-11-07T17:54:37+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/11/hello-kimi-k2-thinking-the-open-source-thinking-ag/</loc>
+    <lastmod>2025-11-06T21:43:16+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/11/link-to-the-strix-github-repo-don-t-forget-to-star/</loc>
+    <lastmod>2025-11-05T20:09:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/11/source-thanks-and-bharat-for-showing-the-world-you/</loc>
+    <lastmod>2025-11-05T19:58:24+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/11/this-claude-code-prompt-literally-turns-claude-cod/</loc>
+    <lastmod>2025-11-05T19:54:18+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/11/wren-ai-official-blog/</loc>
+    <lastmod>2025-11-05T18:42:19+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/11/syllabi-open-source-agentic-ai-with-tools-rag-and/</loc>
+    <lastmod>2025-11-03T01:59:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/10/openskills/</loc>
+    <lastmod>2025-10-31T07:05:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ht-x.com/posts/2025/10/minimax-m2/</loc>
