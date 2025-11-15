@@ -4,19 +4,25 @@
 
   <url>
     <loc>https://ht-x.com/posts/2025/</loc>
-    <lastmod>2025-11-12T17:56:59+00:00</lastmod>
+    <lastmod>2025-11-15T09:43:20+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ht-x.com/posts/</loc>
-    <lastmod>2025-11-12T17:56:59+00:00</lastmod>
+    <lastmod>2025-11-15T09:43:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/11/github-rbalestr-lab-lejepa/</loc>
+    <lastmod>2025-11-15T09:43:20+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ht-x.com/</loc>
-    <lastmod>2025-11-12T17:56:59+00:00</lastmod>
+    <lastmod>2025-11-15T09:43:20+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -29,6 +35,18 @@
       hreflang="it"
       href="https://ht-x.com/"
     />
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/11/use-cases-claude/</loc>
+    <lastmod>2025-11-15T03:48:27+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/11/improving-frontend-design-through-skills-claude/</loc>
+    <lastmod>2025-11-15T03:33:17+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ht-x.com/posts/2025/11/sim-open-source-platform-to-build-and-deploy-ai-ag/</loc>
@@ -85,6 +103,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://ht-x.com/posts/2025/11/tongyi-deepresearch-a-new-era-of-open-source-ai-re/</loc>
+    <lastmod>2025-11-03T07:43:50+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://ht-x.com/posts/2025/11/syllabi-open-source-agentic-ai-with-tools-rag-and/</loc>
     <lastmod>2025-11-03T01:59:07+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -111,6 +135,12 @@
   <url>
     <loc>https://ht-x.com/posts/2025/10/eurollm-io/</loc>
     <lastmod>2025-10-29T13:47:51+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ht-x.com/posts/2025/11/introducing-mistral-ai-studio-mistral-ai/</loc>
+    <lastmod>2025-10-26T06:27:31+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
