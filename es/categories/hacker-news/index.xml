@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hacker News on HUMAN TECHNOLOGY eXCELLENCE</title>
+    <link>https://ht-x.com/es/categories/hacker-news/</link>
+    <description>Recent content in Hacker News on HUMAN TECHNOLOGY eXCELLENCE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €60.000 i.v. | htx@pec.it</copyright>
+    <lastBuildDate>Mon, 03 Nov 2025 01:59:07 +0000</lastBuildDate><atom:link href="https://ht-x.com/es/categories/hacker-news/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Syllabi – IA agentica de código abierto con herramientas, RAG y despliegue multicanal</title>
+      <link>https://ht-x.com/es/posts/2025/11/syllabi-open-source-agentic-ai-with-tools-rag-and/</link>
+      <pubDate>Mon, 03 Nov 2025 01:59:07 +0000</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2025/11/syllabi-open-source-agentic-ai-with-tools-rag-and/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mi truco para obtener una clasificación consistente de los LLMs</title>
+      <link>https://ht-x.com/es/posts/2025/10/my-trick-for-getting-consistent-classification-fro/</link>
+      <pubDate>Mon, 13 Oct 2025 18:01:07 +0000</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2025/10/my-trick-for-getting-consistent-classification-fro/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Muestra HN: CLAVIER-36 – Un entorno de programación para música generativa</title>
+      <link>https://ht-x.com/es/posts/2025/09/show-hn-clavier-36-a-programming-environment-for-g/</link>
+      <pubDate>Sat, 13 Sep 2025 14:22:59 +0000</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2025/09/show-hn-clavier-36-a-programming-environment-for-g/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>VibeVoice: Un Modelo de Texto a Voz de Código Abierto de Vanguardia</title>
+      <link>https://ht-x.com/es/posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/</link>
+      <pubDate>Wed, 03 Sep 2025 10:44:01 +0000</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Apertus 70B: Verdaderamente Abierto - LLM Suizo por ETH, EPFL y CSCS</title>
+      <link>https://ht-x.com/es/posts/2025/09/apertus-70b-truly-open-swiss-llm-by-eth-epfl-and-c/</link>
+      <pubDate>Tue, 02 Sep 2025 20:14:51 +0000</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2025/09/apertus-70b-truly-open-swiss-llm-by-eth-epfl-and-c/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Despliegue de DeepSeek en 96 GPUs H100</title>
+      <link>https://ht-x.com/es/posts/2025/09/deploying-deepseek-on-96-h100-gpus/</link>
+      <pubDate>Fri, 29 Aug 2025 14:07:28 +0000</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2025/09/deploying-deepseek-on-96-h100-gpus/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Transformando a Claude Code en mi mejor socio de diseño</title>
+      <link>https://ht-x.com/es/posts/2025/09/turning-claude-code-into-my-best-design-partner/</link>
+      <pubDate>Sun, 24 Aug 2025 08:06:03 +0000</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2025/09/turning-claude-code-into-my-best-design-partner/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cómo construir un agente de codificación</title>
+      <link>https://ht-x.com/es/posts/2025/09/how-to-build-a-coding-agent/</link>
+      <pubDate>Sun, 24 Aug 2025 03:21:14 +0000</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2025/09/how-to-build-a-coding-agent/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Muestra HN: Whispering – Dictado de código abierto, primero local, en el que puedes confiar</title>
+      <link>https://ht-x.com/es/posts/2025/09/show-hn-whispering-open-source-local-first-dictati/</link>
+      <pubDate>Mon, 18 Aug 2025 16:52:29 +0000</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2025/09/show-hn-whispering-open-source-local-first-dictati/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Llama-Scan: Convierte PDFs a Texto con LLMs Locales</title>
+      <link>https://ht-x.com/es/posts/2025/09/llama-scan-convert-pdfs-to-text-w-local-llms/</link>
+      <pubDate>Sun, 17 Aug 2025 21:40:47 +0000</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2025/09/llama-scan-convert-pdfs-to-text-w-local-llms/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Claudia – Compañera de escritorio para el código de Claude</title>
+      <link>https://ht-x.com/es/posts/2025/09/claudia-desktop-companion-for-claude-code/</link>
+      <pubDate>Sun, 17 Aug 2025 17:26:56 +0000</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2025/09/claudia-desktop-companion-for-claude-code/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Muestra HN: Fallinorg - Aplicación de Mac offline que organiza archivos por significado</title>
+      <link>https://ht-x.com/es/posts/2025/09/show-hn-fallinorg-offline-mac-app-that-organizes-f/</link>
+      <pubDate>Sun, 17 Aug 2025 15:40:04 +0000</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2025/09/show-hn-fallinorg-offline-mac-app-that-organizes-f/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Litestar merece una mirada</title>
+      <link>https://ht-x.com/es/posts/2025/09/litestar-is-worth-a-look/</link>
+      <pubDate>Wed, 06 Aug 2025 19:43:01 +0000</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2025/09/litestar-is-worth-a-look/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Lanzamiento de HN: Lucidic (YC W25) – Depurar, probar y evaluar agentes de IA en producción</title>
+      <link>https://ht-x.com/es/posts/2025/09/launch-hn-lucidic-yc-w25-debug-test-and-evaluate-a/</link>
+      <pubDate>Wed, 30 Jul 2025 15:54:02 +0000</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2025/09/launch-hn-lucidic-yc-w25-debug-test-and-evaluate-a/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Codificación agentica en el mundo</title>
+      <link>https://ht-x.com/es/posts/2025/09/qwen3-coder-agentic-coding-in-the-world/</link>
+      <pubDate>Tue, 22 Jul 2025 21:12:30 +0000</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2025/09/qwen3-coder-agentic-coding-in-the-world/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Backlog.md – Gestor de tareas nativo de Markdown y visualizador Kanban para cualquier repositorio Git</title>
+      <link>https://ht-x.com/es/posts/2025/09/backlog-md-markdown-native-task-manager-and-kanban/</link>
+      <pubDate>Sun, 06 Jul 2025 19:55:30 +0000</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2025/09/backlog-md-markdown-native-task-manager-and-kanban/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Opencode: Agente de codificación de IA, construido para la terminal</title>
+      <link>https://ht-x.com/es/posts/2025/09/opencode-ai-coding-agent-built-for-the-terminal/</link>
+      <pubDate>Sun, 06 Jul 2025 17:26:47 +0000</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2025/09/opencode-ai-coding-agent-built-for-the-terminal/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>La nueva habilidad en IA no es el uso de indicaciones, es la ingeniería de contexto.</title>
+      <link>https://ht-x.com/es/posts/2025/09/the-new-skill-in-ai-is-not-prompting-it-s-context/</link>
+      <pubDate>Mon, 30 Jun 2025 20:53:55 +0000</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2025/09/the-new-skill-in-ai-is-not-prompting-it-s-context/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SymbolicAI: Una perspectiva neuro-simbólica sobre los LLMs</title>
+      <link>https://ht-x.com/es/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/</link>
+      <pubDate>Fri, 27 Jun 2025 18:49:57 +0000</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Construcción de Agentes de IA Efectivos</title>
+      <link>https://ht-x.com/es/posts/2025/09/building-effective-ai-agents/</link>
+      <pubDate>Tue, 17 Jun 2025 17:50:05 +0000</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2025/09/building-effective-ai-agents/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Esnifando la IA con el código de Claude</title>
+      <link>https://ht-x.com/es/posts/2025/09/snorting-the-agi-with-claude-code/</link>
+      <pubDate>Mon, 16 Jun 2025 11:01:32 +0000</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2025/09/snorting-the-agi-with-claude-code/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Nanonets-OCR-s – Modelo de OCR que transforma documentos en markdown estructurado</title>
+      <link>https://ht-x.com/es/posts/2025/09/nanonets-ocr-s-ocr-model-that-transforms-documents/</link>
+      <pubDate>Mon, 16 Jun 2025 06:14:56 +0000</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2025/09/nanonets-ocr-s-ocr-model-that-transforms-documents/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pregunta HN: ¿Cuál es el mejor LLM para hardware de consumo?</title>
+      <link>https://ht-x.com/es/posts/2025/09/ask-hn-what-is-the-best-llm-for-consumer-grade-har/</link>
+      <pubDate>Fri, 30 May 2025 11:02:19 +0000</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2025/09/ask-hn-what-is-the-best-llm-for-consumer-grade-har/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Muestra HN: Onlook – Cursor de código abierto, visual primero para diseñadores</title>
+      <link>https://ht-x.com/es/posts/2025/09/show-hn-onlook-open-source-visual-first-cursor-for/</link>
+      <pubDate>Thu, 29 May 2025 16:31:15 +0000</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2025/09/show-hn-onlook-open-source-visual-first-cursor-for/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Muestra HN: AutoThink – Mejora el rendimiento de LLM local con razonamiento adaptativo</title>
+      <link>https://ht-x.com/es/posts/2025/09/show-hn-autothink-boosts-local-llm-performance-wit/</link>
+      <pubDate>Wed, 28 May 2025 02:39:11 +0000</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2025/09/show-hn-autothink-boosts-local-llm-performance-wit/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Muestra HN: Mi herramienta CLI de LLM puede ejecutar herramientas ahora, desde código de Python o plugins.</title>
+      <link>https://ht-x.com/es/posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/</link>
+      <pubDate>Tue, 27 May 2025 20:53:03 +0000</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Una Vista Previa de Investigación de Codex</title>
+      <link>https://ht-x.com/es/posts/2025/09/a-research-preview-of-codex/</link>
+      <pubDate>Fri, 16 May 2025 15:02:02 +0000</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2025/09/a-research-preview-of-codex/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Visión Ahora Disponible en Llama.cpp</title>
+      <link>https://ht-x.com/es/posts/2025/09/vision-now-available-in-llama-cpp/</link>
+      <pubDate>Sat, 10 May 2025 03:39:46 +0000</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2025/09/vision-now-available-in-llama-cpp/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

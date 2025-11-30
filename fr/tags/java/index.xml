@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on HUMAN TECHNOLOGY eXCELLENCE</title>
+    <link>https://ht-x.com/fr/tags/java/</link>
+    <description>Recent content in Java on HUMAN TECHNOLOGY eXCELLENCE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €60.000 i.v. | htx@pec.it</copyright>
+    <lastBuildDate>Sat, 22 Nov 2025 02:56:15 +0100</lastBuildDate><atom:link href="https://ht-x.com/fr/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Comment segmenter des vidéos avec Segment Anything 3 (SAM3)</title>
+      <link>https://ht-x.com/fr/posts/2025/11/how-to-segment-videos-with-segment-anything-3-sam3/</link>
+      <pubDate>Sat, 22 Nov 2025 02:56:15 +0100</pubDate>
+      
+      <guid>https://ht-x.com/fr/posts/2025/11/how-to-segment-videos-with-segment-anything-3-sam3/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
