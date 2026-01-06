@@ -7,7 +7,61 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Thu, 27 Nov 2025 11:59:00 +0100</lastBuildDate><atom:link href="https://ht-x.com/en/categories/articoli/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Dec 2025 08:11:53 +0100</lastBuildDate><atom:link href="https://ht-x.com/en/categories/articoli/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>LLMRouter - LLMRouter</title>
+      <link>https://ht-x.com/en/posts/2026/01/llmrouter-llmrouter/</link>
+      <pubDate>Wed, 31 Dec 2025 08:11:53 +0100</pubDate>
+      
+      <guid>https://ht-x.com/en/posts/2026/01/llmrouter-llmrouter/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Everything as Code: How We Manage Our Company In One Monorepo
+
+At Kasava, we&#39;ve embraced the concept of &#34;everything as code&#34; to streamline our operations and ensure consistency across our projects. This approach allows us to manage our entire company within a single monorepo, providing a unified source of truth for all our configurations, infrastructure, and applications.
+
+**Why a Monorepo?**
+
+A monorepo offers several advantages:
+
+1. **Unified Configuration**: All our settings, from development environments to production, are stored in one place. This makes it easier to maintain consistency and reduces the risk of configuration drift.
+
+2. **Simplified Dependency Management**: With all our code in one repository, managing dependencies becomes more straightforward. We can easily track which versions of libraries and tools are being used across different projects.
+
+3. **Enhanced Collaboration**: A single repository fosters better collaboration among team members. Everyone has access to the same codebase, making it easier to share knowledge and work together on projects.
+
+4. **Consistent Build and Deployment Processes**: By standardizing our build and deployment processes, we ensure that all our applications follow the same best practices. This leads to more reliable and predictable deployments.
+
+**Our Monorepo Structure**
+
+Our monorepo is organized into several key directories:
+
+- **/config**: Contains all configuration files for various environments, including development, staging, and production.
+- **/infrastructure**: Houses the infrastructure as code (IaC) scripts for provisioning and managing our cloud resources.
+- **/apps**: Includes all our applications, both internal tools and customer-facing products.
+- **/lib**: Stores reusable libraries and modules that can be shared across different projects.
+- **/scripts**: Contains utility scripts for automating various tasks, such as data migrations and backups.
+
+**Tools and Technologies**
+
+To manage our monorepo effectively, we use a combination of tools and technologies:
+
+- **Version Control**: Git is our primary version control system, and we use GitHub for hosting our repositories.
+- **Continuous Integration/Continuous Deployment (CI/CD)**: We employ Jenkins for automating our build, test, and deployment processes.
+- **Infrastructure as Code (IaC)**: Terraform is our tool of choice for managing cloud infrastructure.
+- **Configuration Management**: Ansible is used for configuring and managing our servers and applications.
+- **Monitoring and Logging**: We use Prometheus and Grafana for monitoring,</title>
+      <link>https://ht-x.com/en/posts/2026/01/everything-as-code-how-we-manage-our-company-in-on/</link>
+      <pubDate>Tue, 30 Dec 2025 22:31:13 +0100</pubDate>
+      
+      <guid>https://ht-x.com/en/posts/2026/01/everything-as-code-how-we-manage-our-company-in-on/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Effective harnesses for long-running agents  Anthropic</title>

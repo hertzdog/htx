@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Thu, 27 Nov 2025 11:59:00 +0100</lastBuildDate><atom:link href="https://ht-x.com/de/tags/ai-agent/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Jan 2026 09:22:22 +0000</lastBuildDate><atom:link href="https://ht-x.com/de/tags/ai-agent/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GitHub - NevaMind-AI/memU: Speicherinfrastruktur für LLMs und KI-Agenten</title>
+      <link>https://ht-x.com/de/posts/2026/01/github-nevamind-ai-memu-memory-infrastructure-for/</link>
+      <pubDate>Tue, 06 Jan 2026 09:22:22 +0000</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/01/github-nevamind-ai-memu-memory-infrastructure-for/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - VibiumDev/vibium: Browserautomatisierung für KI-Agenten und Menschen</title>
+      <link>https://ht-x.com/de/posts/2026/01/github-vibiumdev-vibium-browser-automation-for-ai/</link>
+      <pubDate>Tue, 06 Jan 2026 09:12:49 +0000</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/01/github-vibiumdev-vibium-browser-automation-for-ai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Grundlagen des Aufbaus autonomer LLM-Agenten Dieser Aufsatz basiert auf einem Seminar-Technischen Bericht aus dem Kurs Trends in Autonomous Agents: Advances in Architecture and Practice, der an der TUM angeboten wird.</title>
+      <link>https://ht-x.com/de/posts/2026/01/fundamentals-of-building-autonomous-llm-agents-thi/</link>
+      <pubDate>Thu, 11 Dec 2025 03:32:44 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/01/fundamentals-of-building-autonomous-llm-agents-thi/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Effektive Halfter für langlaufende Agenten Anthropic</title>
