@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Thu, 11 Dec 2025 03:32:44 +0100</lastBuildDate><atom:link href="https://ht-x.com/es/categories/corso/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Jan 2026 06:05:01 +0100</lastBuildDate><atom:link href="https://ht-x.com/es/categories/corso/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Reimaginando la Memoria de LLM: Utilizar el Contexto como Datos de Entrenamiento Desbloquea Modelos que Aprenden en Tiempo de Prueba</title>
+      <link>https://ht-x.com/es/posts/2026/01/reimagining-llm-memory-using-context-as-training-d/</link>
+      <pubDate>Wed, 14 Jan 2026 06:05:01 +0100</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2026/01/reimagining-llm-memory-using-context-as-training-d/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Fundamentos de la Construcción de Agentes Autónomos LLM Este documento se basa en un informe técnico de seminario del curso Tendencias en Agentes Autónomos: Avances en Arquitectura y Práctica ofrecido en la TUM.</title>

@@ -7,7 +7,118 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Wed, 31 Dec 2025 08:11:53 +0100</lastBuildDate><atom:link href="https://ht-x.com/en/categories/articoli/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Jan 2026 04:44:55 +0100</lastBuildDate><atom:link href="https://ht-x.com/en/categories/articoli/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>You Should Write an Agent · The Fly Blog</title>
+      <link>https://ht-x.com/en/posts/2026/01/you-should-write-an-agent-the-fly-blog/</link>
+      <pubDate>Fri, 09 Jan 2026 04:44:55 +0100</pubDate>
+      
+      <guid>https://ht-x.com/en/posts/2026/01/you-should-write-an-agent-the-fly-blog/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Getting Started - SWE-agent Documentation</title>
+      <link>https://ht-x.com/en/posts/2026/01/getting-started-swe-agent-documentation/</link>
+      <pubDate>Fri, 09 Jan 2026 04:40:10 +0100</pubDate>
+      
+      <guid>https://ht-x.com/en/posts/2026/01/getting-started-swe-agent-documentation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>How to Build an Agent - Amp
+
+**Introduction**
+
+Building an agent, especially one that leverages the power of Amp, involves several key steps. Amp, which stands for Advanced Multi-Purpose Protocol, is a versatile framework designed to enhance the capabilities of agents in various domains. This guide will walk you through the process of creating an agent using Amp, from conceptualization to deployment.
+
+**1. Define the Purpose and Scope**
+
+Before diving into the technical details, it&#39;s crucial to define the purpose and scope of your agent. Ask yourself the following questions:
+
+- What specific tasks will the agent perform?
+- In what environments will the agent operate?
+- What are the key performance metrics for success?
+
+**2. Choose the Right Tools and Technologies**
+
+Selecting the appropriate tools and technologies is essential for building a robust agent. For an Amp-based agent, you might need:
+
+- **Programming Languages**: Python, Java, or C&#43;&#43; are commonly used.
+- **Development Frameworks**: TensorFlow, PyTorch, or custom frameworks compatible with Amp.
+- **Data Sources**: APIs, databases, or real-time data streams.
+- **Communication Protocols**: HTTP, WebSockets, or other protocols supported by Amp.
+
+**3. Design the Agent Architecture**
+
+The architecture of your agent will determine its efficiency and scalability. Consider the following components:
+
+- **Input Layer**: Handles data ingestion from various sources.
+- **Processing Layer**: Processes the data using algorithms and models.
+- **Output Layer**: Delivers the results to the end-users or other systems.
+- **Feedback Loop**: Allows the agent to learn and improve over time.
+
+**4. Develop the Core Functionality**
+
+With the architecture in place, start developing the core functionality of your agent. This includes:
+
+- **Data Ingestion**: Implementing mechanisms to collect and preprocess data.
+- **Algorithm Development**: Creating or integrating algorithms that will drive the agent&#39;s decision-making.
+- **Model Training**: Training machine learning models if applicable.
+- **Integration**: Ensuring seamless integration with other systems and protocols.
+
+**5. Implement Amp Protocols**
+
+Integrate Amp protocols into your agent to leverage its advanced capabilities. This might involve:
+
+- **Protocol Implementation**: Writing code to adhere to Amp standards.
+- **Communication**: Ensuring the agent can communicate effectively with other Amp-compatible systems.
+- **Security**: Implementing security measures to protect data and communications.
+
+**6. Testing and Validation**
+
+Thoroughly test</title>
+      <link>https://ht-x.com/en/posts/2026/01/how-to-build-an-agent-amp/</link>
+      <pubDate>Fri, 09 Jan 2026 04:27:19 +0100</pubDate>
+      
+      <guid>https://ht-x.com/en/posts/2026/01/how-to-build-an-agent-amp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SAM Audio</title>
+      <link>https://ht-x.com/en/posts/2026/01/sam-audio/</link>
+      <pubDate>Thu, 08 Jan 2026 07:44:55 +0100</pubDate>
+      
+      <guid>https://ht-x.com/en/posts/2026/01/sam-audio/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>We got Claude to fine-tune an open-source LLM.</title>
+      <link>https://ht-x.com/en/posts/2026/01/we-got-claude-to-fine-tune-an-open-source-llm/</link>
+      <pubDate>Thu, 08 Jan 2026 07:16:27 +0100</pubDate>
+      
+      <guid>https://ht-x.com/en/posts/2026/01/we-got-claude-to-fine-tune-an-open-source-llm/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Use Claude Code with Chrome (beta) - Claude Code Documentation</title>
+      <link>https://ht-x.com/en/posts/2026/01/use-claude-code-with-chrome-beta-claude-code-docs/</link>
+      <pubDate>Wed, 07 Jan 2026 06:24:23 +0100</pubDate>
+      
+      <guid>https://ht-x.com/en/posts/2026/01/use-claude-code-with-chrome-beta-claude-code-docs/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>LLMRouter - LLMRouter</title>
@@ -59,6 +170,38 @@ To manage our monorepo effectively, we use a combination of tools and technologi
       <pubDate>Tue, 30 Dec 2025 22:31:13 +0100</pubDate>
       
       <guid>https://ht-x.com/en/posts/2026/01/everything-as-code-how-we-manage-our-company-in-on/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Introduction to the MCP Toolbox for Databases
+
+The MCP Toolbox for Databases is a comprehensive suite of tools designed to facilitate the management, optimization, and maintenance of databases. This toolbox is tailored to support a wide range of database management systems (DBMS), ensuring compatibility and efficiency across various platforms. Whether you are a database administrator, developer, or analyst, the MCP Toolbox provides a robust set of features to streamline your workflow and enhance productivity.
+
+Key Features:
+
+1. **Database Management**: Easily create, modify, and delete databases and tables. The toolbox offers intuitive interfaces and powerful scripting capabilities to manage database schemas and objects efficiently.
+
+2. **Performance Optimization**: Identify and resolve performance bottlenecks with advanced diagnostic tools. The MCP Toolbox includes performance monitoring and tuning features to ensure your databases run smoothly and efficiently.
+
+3. **Backup and Recovery**: Implement reliable backup and recovery solutions to safeguard your data. The toolbox provides automated backup schedules and comprehensive recovery options to protect against data loss.
+
+4. **Security Management**: Enhance database security with robust access control and encryption features. The MCP Toolbox helps you manage user permissions, audit logs, and secure data transmission.
+
+5. **Data Integration**: Seamlessly integrate data from multiple sources and formats. The toolbox supports various data integration techniques, including ETL (Extract, Transform, Load) processes, to consolidate and analyze data effectively.
+
+6. **Reporting and Analytics**: Generate insightful reports and perform in-depth data analysis. The MCP Toolbox offers advanced reporting tools and analytics capabilities to derive actionable insights from your data.
+
+7. **Cross-Platform Compatibility**: Ensure compatibility with multiple DBMS platforms, including popular systems like Oracle, SQL Server, MySQL, and PostgreSQL. The toolbox is designed to work seamlessly across different environments.
+
+8. **User-Friendly Interface**: Benefit from an intuitive and user-friendly interface that simplifies complex database tasks. The MCP Toolbox is designed with ease of use in mind, making it accessible to both novice and experienced users.
+
+The MCP Toolbox for Databases is an essential tool for anyone involved in database management. Its comprehensive features and cross-platform compatibility make it a valuable asset for optimizing database performance, ensuring data security, and enhancing overall productivity.</title>
+      <link>https://ht-x.com/en/posts/2026/01/introduction-mcp-toolbox-for-databases/</link>
+      <pubDate>Tue, 02 Dec 2025 23:47:04 +0100</pubDate>
+      
+      <guid>https://ht-x.com/en/posts/2026/01/introduction-mcp-toolbox-for-databases/</guid>
       <description></description>
       
     </item>

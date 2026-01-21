@@ -7,7 +7,167 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Tue, 06 Jan 2026 09:35:37 +0000</lastBuildDate><atom:link href="https://ht-x.com/de/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Jan 2026 10:59:11 +0000</lastBuildDate><atom:link href="https://ht-x.com/de/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GitHub - different-ai/openwork: Eine Open-Source-Alternative zu Claude Cowork, angetrieben von OpenCode</title>
+      <link>https://ht-x.com/de/posts/2026/01/github-different-ai-openwork-an-open-source-altern/</link>
+      <pubDate>Mon, 19 Jan 2026 10:59:11 +0000</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/01/github-different-ai-openwork-an-open-source-altern/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - google/langextract: Eine Python-Bibliothek zur Extraktion strukturierter Informationen aus unstrukturiertem Text unter Verwendung von LLMs mit Präzision</title>
+      <link>https://ht-x.com/de/posts/2026/01/github-google-langextract-a-python-library-for-ext/</link>
+      <pubDate>Mon, 19 Jan 2026 10:47:44 +0000</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/01/github-google-langextract-a-python-library-for-ext/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - memodb-io/Acontext: Datenplattform für Kontext-Engineering. Kontext-Datenplattform, die speichert, beobachtet und lernt. Machen Sie mit!</title>
+      <link>https://ht-x.com/de/posts/2026/01/github-memodb-io-acontext-data-platform-for-contex/</link>
+      <pubDate>Mon, 19 Jan 2026 10:01:20 +0000</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/01/github-memodb-io-acontext-data-platform-for-contex/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - rberg27/doom-coding: Ein Leitfaden, wie man sein Smartphone verwendet, um überall und jederzeit zu programmieren.</title>
+      <link>https://ht-x.com/de/posts/2026/01/github-rberg27-doom-coding-a-guide-for-how-to-use/</link>
+      <pubDate>Mon, 19 Jan 2026 07:51:51 +0000</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/01/github-rberg27-doom-coding-a-guide-for-how-to-use/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - bolt-foundry/gambit: Agentenrahmenwerk zum Erstellen, Ausführen und Überprüfen von LLM-Workflows</title>
+      <link>https://ht-x.com/de/posts/2026/01/github-bolt-foundry-gambit-agent-harness-framework/</link>
+      <pubDate>Mon, 19 Jan 2026 06:31:23 +0000</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/01/github-bolt-foundry-gambit-agent-harness-framework/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - eigent-ai/eigent: Eigent: Der Open-Source-Coworking-Desktop, um Ihre außergewöhnliche Produktivität zu entfesseln.</title>
+      <link>https://ht-x.com/de/posts/2026/01/github-eigent-ai-eigent-eigent-the-open-source-cow/</link>
+      <pubDate>Thu, 15 Jan 2026 07:50:36 +0000</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/01/github-eigent-ai-eigent-eigent-the-open-source-cow/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ask HN: Wie kann man Modellen am besten kontinuierlichen Kontext bieten?</title>
+      <link>https://ht-x.com/de/posts/2026/01/ask-hn-what-is-the-best-way-to-provide-continuous/</link>
+      <pubDate>Thu, 15 Jan 2026 01:20:22 +0000</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/01/ask-hn-what-is-the-best-way-to-provide-continuous/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rekursive Sprachmodelle</title>
+      <link>https://ht-x.com/de/posts/2026/01/recursive-language-models/</link>
+      <pubDate>Wed, 14 Jan 2026 06:49:31 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/01/recursive-language-models/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>LLM-Gedächtnis neu denken: Die Nutzung von Kontext als Trainingsdaten entsperrt Modelle, die im Testzeitpunkt lernen</title>
+      <link>https://ht-x.com/de/posts/2026/01/reimagining-llm-memory-using-context-as-training-d/</link>
+      <pubDate>Wed, 14 Jan 2026 06:05:01 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/01/reimagining-llm-memory-using-context-as-training-d/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Show HN: Agent-of-Empires: OpenCode und Claude Code-Sitzungsmanager</title>
+      <link>https://ht-x.com/de/posts/2026/01/show-hn-agent-of-empires-opencode-and-claude-code/</link>
+      <pubDate>Mon, 12 Jan 2026 14:23:07 +0000</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/01/show-hn-agent-of-empires-opencode-and-claude-code/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Du solltest einen Agenten schreiben · Der Fliegen-Blog</title>
+      <link>https://ht-x.com/de/posts/2026/01/you-should-write-an-agent-the-fly-blog/</link>
+      <pubDate>Fri, 09 Jan 2026 04:44:55 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/01/you-should-write-an-agent-the-fly-blog/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Loslegen - SWE-Agent-Dokumentation</title>
+      <link>https://ht-x.com/de/posts/2026/01/getting-started-swe-agent-documentation/</link>
+      <pubDate>Fri, 09 Jan 2026 04:40:10 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/01/getting-started-swe-agent-documentation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Wie man einen Agenten - Amp baut</title>
+      <link>https://ht-x.com/de/posts/2026/01/how-to-build-an-agent-amp/</link>
+      <pubDate>Fri, 09 Jan 2026 04:27:19 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/01/how-to-build-an-agent-amp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SAM Audio</title>
+      <link>https://ht-x.com/de/posts/2026/01/sam-audio/</link>
+      <pubDate>Thu, 08 Jan 2026 07:44:55 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/01/sam-audio/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Wir haben Claude dazu gebracht, ein Open-Source-LLM zu feinabzustimmen.</title>
+      <link>https://ht-x.com/de/posts/2026/01/we-got-claude-to-fine-tune-an-open-source-llm/</link>
+      <pubDate>Thu, 08 Jan 2026 07:16:27 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/01/we-got-claude-to-fine-tune-an-open-source-llm/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Claude Code mit Chrome (Beta) - Claude Code-Dokumentation</title>
+      <link>https://ht-x.com/de/posts/2026/01/use-claude-code-with-chrome-beta-claude-code-docs/</link>
+      <pubDate>Wed, 07 Jan 2026 06:24:23 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/01/use-claude-code-with-chrome-beta-claude-code-docs/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>GitHub - microsoft/VibeVoice: Open-Source Frontier Voice KI</title>
@@ -105,6 +265,16 @@
       <pubDate>Thu, 11 Dec 2025 03:32:44 +0100</pubDate>
       
       <guid>https://ht-x.com/de/posts/2026/01/fundamentals-of-building-autonomous-llm-agents-thi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Einführung | MCP-Toolbox für Datenbanken</title>
+      <link>https://ht-x.com/de/posts/2026/01/introduction-mcp-toolbox-for-databases/</link>
+      <pubDate>Tue, 02 Dec 2025 23:47:04 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/01/introduction-mcp-toolbox-for-databases/</guid>
       <description></description>
       
     </item>

@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Tue, 06 Jan 2026 09:35:37 +0000</lastBuildDate><atom:link href="https://ht-x.com/en/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Jan 2026 10:47:44 +0000</lastBuildDate><atom:link href="https://ht-x.com/en/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GitHub - google/langextract: A Python library for extracting structured information from unstructured text using large language models (LLMs) with precision.</title>
+      <link>https://ht-x.com/en/posts/2026/01/github-google-langextract-a-python-library-for-ext/</link>
+      <pubDate>Mon, 19 Jan 2026 10:47:44 +0000</pubDate>
+      
+      <guid>https://ht-x.com/en/posts/2026/01/github-google-langextract-a-python-library-for-ext/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>GitHub - microsoft/VibeVoice: Open-Source Voice AI</title>

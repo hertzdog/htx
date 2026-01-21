@@ -7,7 +7,97 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Tue, 06 Jan 2026 09:22:22 +0000</lastBuildDate><atom:link href="https://ht-x.com/tags/ai-agent/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Jan 2026 06:31:23 +0000</lastBuildDate><atom:link href="https://ht-x.com/tags/ai-agent/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GitHub - bolt-foundry/gambit: Agent harness framework for building, running, and verifying LLM workflows</title>
+      <link>https://ht-x.com/posts/2026/01/github-bolt-foundry-gambit-agent-harness-framework/</link>
+      <pubDate>Mon, 19 Jan 2026 06:31:23 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/01/github-bolt-foundry-gambit-agent-harness-framework/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - mistralai/mistral-vibe: Minimal CLI coding agent by Mistral</title>
+      <link>https://ht-x.com/posts/2026/01/github-mistralai-mistral-vibe-minimal-cli-coding-a/</link>
+      <pubDate>Thu, 15 Jan 2026 07:52:37 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/01/github-mistralai-mistral-vibe-minimal-cli-coding-a/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - NVlabs/ToolOrchestra: ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.</title>
+      <link>https://ht-x.com/posts/2026/01/github-nvlabs-toolorchestra-toolorchestra-is-an-en/</link>
+      <pubDate>Thu, 15 Jan 2026 06:19:19 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/01/github-nvlabs-toolorchestra-toolorchestra-is-an-en/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Show HN: Agent-of-empires: OpenCode and Claude Code session manager</title>
+      <link>https://ht-x.com/posts/2026/01/show-hn-agent-of-empires-opencode-and-claude-code/</link>
+      <pubDate>Mon, 12 Jan 2026 14:23:07 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/01/show-hn-agent-of-empires-opencode-and-claude-code/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>OpenCode | The open source AI coding agent</title>
+      <link>https://ht-x.com/posts/2026/01/opencode-the-open-source-ai-coding-agent/</link>
+      <pubDate>Fri, 09 Jan 2026 04:55:05 +0100</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/01/opencode-the-open-source-ai-coding-agent/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>You Should Write An Agent · The Fly Blog</title>
+      <link>https://ht-x.com/posts/2026/01/you-should-write-an-agent-the-fly-blog/</link>
+      <pubDate>Fri, 09 Jan 2026 04:44:55 +0100</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/01/you-should-write-an-agent-the-fly-blog/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Getting Started - SWE-agent documentation</title>
+      <link>https://ht-x.com/posts/2026/01/getting-started-swe-agent-documentation/</link>
+      <pubDate>Fri, 09 Jan 2026 04:40:10 +0100</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/01/getting-started-swe-agent-documentation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>How to Build an Agent - Amp</title>
+      <link>https://ht-x.com/posts/2026/01/how-to-build-an-agent-amp/</link>
+      <pubDate>Fri, 09 Jan 2026 04:27:19 +0100</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/01/how-to-build-an-agent-amp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>How to code Claude Code in 200 lines of code</title>
+      <link>https://ht-x.com/posts/2026/01/how-to-code-claude-code-in-200-lines-of-code/</link>
+      <pubDate>Thu, 08 Jan 2026 19:54:26 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/01/how-to-code-claude-code-in-200-lines-of-code/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>GitHub - NevaMind-AI/memU: Memory infrastructure for LLMs and AI agents</title>
@@ -585,6 +675,16 @@
       <pubDate>Thu, 24 Apr 2025 04:47:08 +0200</pubDate>
       
       <guid>https://ht-x.com/posts/2025/09/cua-is-docker-for-computer-use-ai-agents/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>MALADE: Multi-Agent Architecture for Pharmacovigilance - langroid</title>
+      <link>https://ht-x.com/posts/2026/01/malade-multi-agent-architecture-for-pharmacovigila/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/01/malade-multi-agent-architecture-for-pharmacovigila/</guid>
       <description></description>
       
     </item>

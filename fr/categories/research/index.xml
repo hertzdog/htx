@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on HUMAN TECHNOLOGY eXCELLENCE</title>
+    <link>https://ht-x.com/fr/categories/research/</link>
+    <description>Recent content in Research on HUMAN TECHNOLOGY eXCELLENCE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
+    <lastBuildDate>Wed, 14 Jan 2026 06:49:31 +0100</lastBuildDate><atom:link href="https://ht-x.com/fr/categories/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Modèles de Langue Récursifs</title>
+      <link>https://ht-x.com/fr/posts/2026/01/recursive-language-models/</link>
+      <pubDate>Wed, 14 Jan 2026 06:49:31 +0100</pubDate>
+      
+      <guid>https://ht-x.com/fr/posts/2026/01/recursive-language-models/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

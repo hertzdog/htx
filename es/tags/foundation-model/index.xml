@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Sat, 22 Nov 2025 03:33:18 +0100</lastBuildDate><atom:link href="https://ht-x.com/es/tags/foundation-model/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jan 2026 01:20:22 +0000</lastBuildDate><atom:link href="https://ht-x.com/es/tags/foundation-model/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pregunta en HN: ¿Cuál es la mejor manera de proporcionar contexto continuo a los modelos?</title>
+      <link>https://ht-x.com/es/posts/2026/01/ask-hn-what-is-the-best-way-to-provide-continuous/</link>
+      <pubDate>Thu, 15 Jan 2026 01:20:22 +0000</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2026/01/ask-hn-what-is-the-best-way-to-provide-continuous/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Modelos de Lenguaje Recursivos</title>
+      <link>https://ht-x.com/es/posts/2026/01/recursive-language-models/</link>
+      <pubDate>Wed, 14 Jan 2026 06:49:31 +0100</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2026/01/recursive-language-models/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Reimaginando la Memoria de LLM: Utilizar el Contexto como Datos de Entrenamiento Desbloquea Modelos que Aprenden en Tiempo de Prueba</title>
+      <link>https://ht-x.com/es/posts/2026/01/reimagining-llm-memory-using-context-as-training-d/</link>
+      <pubDate>Wed, 14 Jan 2026 06:05:01 +0100</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2026/01/reimagining-llm-memory-using-context-as-training-d/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Presentamos Olmo 3, nuestra próxima familia de modelos de lenguaje completamente abiertos y líderes.</title>

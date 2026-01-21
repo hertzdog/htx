@@ -7,7 +7,57 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Tue, 06 Jan 2026 09:22:22 +0000</lastBuildDate><atom:link href="https://ht-x.com/fr/tags/ai-agent/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Jan 2026 06:31:23 +0000</lastBuildDate><atom:link href="https://ht-x.com/fr/tags/ai-agent/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GitHub - bolt-foundry/gambit : Cadre d&#39;agent pour construire, exécuter et vérifier des flux de travail LLM</title>
+      <link>https://ht-x.com/fr/posts/2026/01/github-bolt-foundry-gambit-agent-harness-framework/</link>
+      <pubDate>Mon, 19 Jan 2026 06:31:23 +0000</pubDate>
+      
+      <guid>https://ht-x.com/fr/posts/2026/01/github-bolt-foundry-gambit-agent-harness-framework/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Présentation HN : Agent-of-empires : Gestionnaire de sessions de code OpenCode et Claude</title>
+      <link>https://ht-x.com/fr/posts/2026/01/show-hn-agent-of-empires-opencode-and-claude-code/</link>
+      <pubDate>Mon, 12 Jan 2026 14:23:07 +0000</pubDate>
+      
+      <guid>https://ht-x.com/fr/posts/2026/01/show-hn-agent-of-empires-opencode-and-claude-code/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vous devriez écrire un agent · Le blogue de la mouche</title>
+      <link>https://ht-x.com/fr/posts/2026/01/you-should-write-an-agent-the-fly-blog/</link>
+      <pubDate>Fri, 09 Jan 2026 04:44:55 +0100</pubDate>
+      
+      <guid>https://ht-x.com/fr/posts/2026/01/you-should-write-an-agent-the-fly-blog/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Se lancer - Documentation de l&#39;agent SWE</title>
+      <link>https://ht-x.com/fr/posts/2026/01/getting-started-swe-agent-documentation/</link>
+      <pubDate>Fri, 09 Jan 2026 04:40:10 +0100</pubDate>
+      
+      <guid>https://ht-x.com/fr/posts/2026/01/getting-started-swe-agent-documentation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Comment construire un agent - Amp</title>
+      <link>https://ht-x.com/fr/posts/2026/01/how-to-build-an-agent-amp/</link>
+      <pubDate>Fri, 09 Jan 2026 04:27:19 +0100</pubDate>
+      
+      <guid>https://ht-x.com/fr/posts/2026/01/how-to-build-an-agent-amp/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>GitHub - NevaMind-AI/memU : Infrastructure de mémoire pour les LLM et les agents IA</title>

@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Sat, 15 Nov 2025 03:33:17 +0100</lastBuildDate><atom:link href="https://ht-x.com/tags/best-practices/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Jan 2026 06:31:23 +0000</lastBuildDate><atom:link href="https://ht-x.com/tags/best-practices/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GitHub - bolt-foundry/gambit: Agent harness framework for building, running, and verifying LLM workflows</title>
+      <link>https://ht-x.com/posts/2026/01/github-bolt-foundry-gambit-agent-harness-framework/</link>
+      <pubDate>Mon, 19 Jan 2026 06:31:23 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/01/github-bolt-foundry-gambit-agent-harness-framework/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - NVlabs/ToolOrchestra: ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.</title>
+      <link>https://ht-x.com/posts/2026/01/github-nvlabs-toolorchestra-toolorchestra-is-an-en/</link>
+      <pubDate>Thu, 15 Jan 2026 06:19:19 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/01/github-nvlabs-toolorchestra-toolorchestra-is-an-en/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Improving frontend design through Skills | Claude</title>
@@ -165,6 +185,16 @@
       <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>https://ht-x.com/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>MALADE: Multi-Agent Architecture for Pharmacovigilance - langroid</title>
+      <link>https://ht-x.com/posts/2026/01/malade-multi-agent-architecture-for-pharmacovigila/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/01/malade-multi-agent-architecture-for-pharmacovigila/</guid>
       <description></description>
       
     </item>

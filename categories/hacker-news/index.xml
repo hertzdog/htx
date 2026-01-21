@@ -7,7 +7,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Mon, 03 Nov 2025 01:59:07 +0000</lastBuildDate><atom:link href="https://ht-x.com/categories/hacker-news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jan 2026 01:20:22 +0000</lastBuildDate><atom:link href="https://ht-x.com/categories/hacker-news/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ask HN: What is the best way to provide continuous context to models?</title>
+      <link>https://ht-x.com/posts/2026/01/ask-hn-what-is-the-best-way-to-provide-continuous/</link>
+      <pubDate>Thu, 15 Jan 2026 01:20:22 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/01/ask-hn-what-is-the-best-way-to-provide-continuous/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cowork: Claude Code for the rest of your work</title>
+      <link>https://ht-x.com/posts/2026/01/cowork-claude-code-for-the-rest-of-your-work/</link>
+      <pubDate>Mon, 12 Jan 2026 19:27:19 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/01/cowork-claude-code-for-the-rest-of-your-work/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Show HN: Agent-of-empires: OpenCode and Claude Code session manager</title>
+      <link>https://ht-x.com/posts/2026/01/show-hn-agent-of-empires-opencode-and-claude-code/</link>
+      <pubDate>Mon, 12 Jan 2026 14:23:07 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/01/show-hn-agent-of-empires-opencode-and-claude-code/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>How to code Claude Code in 200 lines of code</title>
+      <link>https://ht-x.com/posts/2026/01/how-to-code-claude-code-in-200-lines-of-code/</link>
+      <pubDate>Thu, 08 Jan 2026 19:54:26 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/01/how-to-code-claude-code-in-200-lines-of-code/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Syllabi – Open-source agentic AI with tools, RAG, and multi-channel deploy</title>
@@ -15,6 +55,16 @@
       <pubDate>Mon, 03 Nov 2025 01:59:07 +0000</pubDate>
       
       <guid>https://ht-x.com/posts/2025/11/syllabi-open-source-agentic-ai-with-tools-rag-and/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Recursive Language Models (RLMs)</title>
+      <link>https://ht-x.com/posts/2026/01/recursive-language-models-rlms/</link>
+      <pubDate>Wed, 15 Oct 2025 17:43:27 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/01/recursive-language-models-rlms/</guid>
       <description></description>
       
     </item>

@@ -7,12 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Tue, 06 Jan 2026 09:35:37 +0000</lastBuildDate><atom:link href="https://ht-x.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Jan 2026 10:59:11 +0000</lastBuildDate><atom:link href="https://ht-x.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>GitHub</title>
       <link>https://ht-x.com/categories/github/</link>
-      <pubDate>Tue, 06 Jan 2026 09:35:37 +0000</pubDate>
+      <pubDate>Mon, 19 Jan 2026 10:59:11 +0000</pubDate>
       
       <guid>https://ht-x.com/categories/github/</guid>
       <description></description>
@@ -20,19 +20,9 @@
     </item>
     
     <item>
-      <title>Articoli</title>
-      <link>https://ht-x.com/categories/articoli/</link>
-      <pubDate>Wed, 31 Dec 2025 08:11:53 +0100</pubDate>
-      
-      <guid>https://ht-x.com/categories/articoli/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Framework</title>
       <link>https://ht-x.com/categories/framework/</link>
-      <pubDate>Wed, 31 Dec 2025 08:11:53 +0100</pubDate>
+      <pubDate>Mon, 19 Jan 2026 10:47:44 +0000</pubDate>
       
       <guid>https://ht-x.com/categories/framework/</guid>
       <description></description>
@@ -42,7 +32,7 @@
     <item>
       <title>Tool</title>
       <link>https://ht-x.com/categories/tool/</link>
-      <pubDate>Tue, 16 Dec 2025 04:57:26 +0100</pubDate>
+      <pubDate>Thu, 15 Jan 2026 06:19:19 +0000</pubDate>
       
       <guid>https://ht-x.com/categories/tool/</guid>
       <description></description>
@@ -50,9 +40,49 @@
     </item>
     
     <item>
+      <title>API</title>
+      <link>https://ht-x.com/categories/api/</link>
+      <pubDate>Thu, 15 Jan 2026 01:20:22 +0000</pubDate>
+      
+      <guid>https://ht-x.com/categories/api/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hacker News</title>
+      <link>https://ht-x.com/categories/hacker-news/</link>
+      <pubDate>Thu, 15 Jan 2026 01:20:22 +0000</pubDate>
+      
+      <guid>https://ht-x.com/categories/hacker-news/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://ht-x.com/categories/research/</link>
+      <pubDate>Wed, 14 Jan 2026 06:49:31 +0100</pubDate>
+      
+      <guid>https://ht-x.com/categories/research/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Articoli</title>
+      <link>https://ht-x.com/categories/articoli/</link>
+      <pubDate>Wed, 14 Jan 2026 06:37:42 +0100</pubDate>
+      
+      <guid>https://ht-x.com/categories/articoli/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Corso</title>
       <link>https://ht-x.com/categories/corso/</link>
-      <pubDate>Thu, 11 Dec 2025 03:32:44 +0100</pubDate>
+      <pubDate>Wed, 14 Jan 2026 06:05:01 +0100</pubDate>
       
       <guid>https://ht-x.com/categories/corso/</guid>
       <description></description>
@@ -65,26 +95,6 @@
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       
       <guid>https://ht-x.com/categories/progetti-finanziati/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Hacker News</title>
-      <link>https://ht-x.com/categories/hacker-news/</link>
-      <pubDate>Mon, 03 Nov 2025 01:59:07 +0000</pubDate>
-      
-      <guid>https://ht-x.com/categories/hacker-news/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>API</title>
-      <link>https://ht-x.com/categories/api/</link>
-      <pubDate>Fri, 31 Oct 2025 06:08:13 +0100</pubDate>
-      
-      <guid>https://ht-x.com/categories/api/</guid>
       <description></description>
       
     </item>
