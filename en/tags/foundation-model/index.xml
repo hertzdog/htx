@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Thu, 15 Jan 2026 01:20:22 +0000</lastBuildDate><atom:link href="https://ht-x.com/en/tags/foundation-model/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Jan 2026 18:36:11 +0100</lastBuildDate><atom:link href="https://ht-x.com/en/tags/foundation-model/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Conditional Memory via Scalable Lookup: A New Dimension of Sparsity for Large Language Models</title>
+      <link>https://ht-x.com/en/posts/2026/01/conditional-memory-via-scalable-lookup-a-new-axis/</link>
+      <pubDate>Sun, 25 Jan 2026 18:36:11 +0100</pubDate>
+      
+      <guid>https://ht-x.com/en/posts/2026/01/conditional-memory-via-scalable-lookup-a-new-axis/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>NVIDIA PersonaPlex: Natural Conversational AI With Any Role and Voice - NVIDIA ADLR</title>
+      <link>https://ht-x.com/en/posts/2026/01/nvidia-personaplex-natural-conversational-ai-with/</link>
+      <pubDate>Sat, 24 Jan 2026 05:03:07 +0100</pubDate>
+      
+      <guid>https://ht-x.com/en/posts/2026/01/nvidia-personaplex-natural-conversational-ai-with/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Ask HN: What is the best way to provide continuous context to models?</title>
@@ -75,6 +95,16 @@
       <pubDate>Tue, 18 Nov 2025 03:33:45 +0100</pubDate>
       
       <guid>https://ht-x.com/en/posts/2025/11/supercharge-your-ocr-pipelines-with-open-models/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Gemini 3: Introducing the latest Gemini AI model from Google</title>
+      <link>https://ht-x.com/en/posts/2026/01/gemini-3-introducing-the-latest-gemini-ai-model-fr/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://ht-x.com/en/posts/2026/01/gemini-3-introducing-the-latest-gemini-ai-model-fr/</guid>
       <description></description>
       
     </item>

@@ -7,14 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Mon, 19 Jan 2026 10:59:11 +0000</lastBuildDate><atom:link href="https://ht-x.com/es/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Jan 2026 11:44:46 +0000</lastBuildDate><atom:link href="https://ht-x.com/es/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>GitHub</title>
       <link>https://ht-x.com/es/categories/github/</link>
-      <pubDate>Mon, 19 Jan 2026 10:59:11 +0000</pubDate>
+      <pubDate>Tue, 27 Jan 2026 11:44:46 +0000</pubDate>
       
       <guid>https://ht-x.com/es/categories/github/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Articoli</title>
+      <link>https://ht-x.com/es/categories/articoli/</link>
+      <pubDate>Tue, 27 Jan 2026 08:00:58 +0100</pubDate>
+      
+      <guid>https://ht-x.com/es/categories/articoli/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://ht-x.com/es/categories/research/</link>
+      <pubDate>Sun, 25 Jan 2026 18:36:11 +0100</pubDate>
+      
+      <guid>https://ht-x.com/es/categories/research/</guid>
       <description></description>
       
     </item>
@@ -50,31 +70,11 @@
     </item>
     
     <item>
-      <title>Research</title>
-      <link>https://ht-x.com/es/categories/research/</link>
-      <pubDate>Wed, 14 Jan 2026 06:49:31 +0100</pubDate>
-      
-      <guid>https://ht-x.com/es/categories/research/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Corso</title>
       <link>https://ht-x.com/es/categories/corso/</link>
       <pubDate>Wed, 14 Jan 2026 06:05:01 +0100</pubDate>
       
       <guid>https://ht-x.com/es/categories/corso/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Articoli</title>
-      <link>https://ht-x.com/es/categories/articoli/</link>
-      <pubDate>Fri, 09 Jan 2026 04:44:55 +0100</pubDate>
-      
-      <guid>https://ht-x.com/es/categories/articoli/</guid>
       <description></description>
       
     </item>
