@@ -7,7 +7,57 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Tue, 27 Jan 2026 11:44:46 +0000</lastBuildDate><atom:link href="https://ht-x.com/es/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Feb 2026 11:08:04 +0100</lastBuildDate><atom:link href="https://ht-x.com/es/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Keycloak</title>
+      <link>https://ht-x.com/es/posts/2026/02/keycloak/</link>
+      <pubDate>Sat, 14 Feb 2026 11:08:04 +0100</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2026/02/keycloak/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - zai-org/GLM-OCR: GLM-OCR: Preciso × Rápido × Completo</title>
+      <link>https://ht-x.com/es/posts/2026/02/github-zai-org-glm-ocr-glm-ocr-accurate-x-fast-x-c/</link>
+      <pubDate>Thu, 12 Feb 2026 07:46:12 +0100</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2026/02/github-zai-org-glm-ocr-glm-ocr-accurate-x-fast-x-c/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - EricLBuehler/mistral.rs: Inferencia rápida y flexible de LLM</title>
+      <link>https://ht-x.com/es/posts/2026/02/github-ericlbuehler-mistral-rs-fast-flexible-llm-i/</link>
+      <pubDate>Tue, 10 Feb 2026 07:38:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2026/02/github-ericlbuehler-mistral-rs-fast-flexible-llm-i/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - alexziskind1/llama-throughput-lab: Lanzador interactivo y arnés de referencia para el rendimiento del servidor llama.cpp, con pruebas, barridos y herramientas de carga en ronda.</title>
+      <link>https://ht-x.com/es/posts/2026/02/github-alexziskind1-llama-throughput-lab-interacti/</link>
+      <pubDate>Mon, 02 Feb 2026 08:25:08 +0100</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2026/02/github-alexziskind1-llama-throughput-lab-interacti/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - qwibitai/nanoclaw: Una alternativa ligera a Clawdbot / OpenClaw que se ejecuta en contenedores de Apple para seguridad. Conectar</title>
+      <link>https://ht-x.com/es/posts/2026/02/github-qwibitai-nanoclaw-a-lightweight-alternative/</link>
+      <pubDate>Mon, 02 Feb 2026 03:13:37 +0100</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2026/02/github-qwibitai-nanoclaw-a-lightweight-alternative/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>GitHub - moltbot/moltbot: Tu propio asistente de IA personal. Cualquier SO. Cualquier plataforma. A la manera del langosta. 🦞</title>
@@ -35,6 +85,16 @@
       <pubDate>Tue, 27 Jan 2026 11:39:09 +0000</pubDate>
       
       <guid>https://ht-x.com/es/posts/2026/01/github-mikekelly-claude-sneakpeek-get-a-parallel-b/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - virattt/fondo-de-cobertura-ia: Un equipo de fondo de cobertura de IA</title>
+      <link>https://ht-x.com/es/posts/2026/01/github-virattt-ai-hedge-fund-an-ai-hedge-fund-team/</link>
+      <pubDate>Tue, 27 Jan 2026 11:27:36 +0000</pubDate>
+      
+      <guid>https://ht-x.com/es/posts/2026/01/github-virattt-ai-hedge-fund-an-ai-hedge-fund-team/</guid>
       <description></description>
       
     </item>

@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Thu, 15 Jan 2026 06:19:19 +0000</lastBuildDate><atom:link href="https://ht-x.com/categories/tool/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Feb 2026 08:25:08 +0100</lastBuildDate><atom:link href="https://ht-x.com/categories/tool/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GitHub - alexziskind1/llama-throughput-lab: Interactive launcher and benchmarking harness for llama.cpp server throughput, with tests, sweeps, and round-robin load tools.</title>
+      <link>https://ht-x.com/posts/2026/02/github-alexziskind1-llama-throughput-lab-interacti/</link>
+      <pubDate>Mon, 02 Feb 2026 08:25:08 +0100</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/02/github-alexziskind1-llama-throughput-lab-interacti/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>GitHub - NVlabs/ToolOrchestra: ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.</title>

@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Tue, 27 Jan 2026 11:40:19 +0000</lastBuildDate><atom:link href="https://ht-x.com/de/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Feb 2026 07:46:12 +0100</lastBuildDate><atom:link href="https://ht-x.com/de/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GitHub - zai-org/GLM-OCR: GLM-OCR: Genau × Schnell × Umfassend</title>
+      <link>https://ht-x.com/de/posts/2026/02/github-zai-org-glm-ocr-glm-ocr-accurate-x-fast-x-c/</link>
+      <pubDate>Thu, 12 Feb 2026 07:46:12 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/02/github-zai-org-glm-ocr-glm-ocr-accurate-x-fast-x-c/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - alexziskind1/llama-throughput-lab: Interaktiver Launcher und Benchmarking-Harness für die Durchsatzleistung des llama.cpp-Servers, mit Tests, Sweeps und Round-Robin-Load-Tools.</title>
+      <link>https://ht-x.com/de/posts/2026/02/github-alexziskind1-llama-throughput-lab-interacti/</link>
+      <pubDate>Mon, 02 Feb 2026 08:25:08 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/02/github-alexziskind1-llama-throughput-lab-interacti/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>GitHub - aiming-lab/SimpleMem: SimpleMem: Effiziente Langzeitgedächtnis für LLM-Agenten</title>
@@ -15,6 +35,16 @@
       <pubDate>Tue, 27 Jan 2026 11:40:19 +0000</pubDate>
       
       <guid>https://ht-x.com/de/posts/2026/01/github-aiming-lab-simplemem-simplemem-efficient-li/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - virattt/ai-hedge-fund: Ein AI-Hedgefonds-Team</title>
+      <link>https://ht-x.com/de/posts/2026/01/github-virattt-ai-hedge-fund-an-ai-hedge-fund-team/</link>
+      <pubDate>Tue, 27 Jan 2026 11:27:36 +0000</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/01/github-virattt-ai-hedge-fund-an-ai-hedge-fund-team/</guid>
       <description></description>
       
     </item>

@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Sun, 25 Jan 2026 18:36:11 +0100</lastBuildDate><atom:link href="https://ht-x.com/tags/foundation-model/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Feb 2026 07:17:14 +0100</lastBuildDate><atom:link href="https://ht-x.com/tags/foundation-model/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GitHub - antirez/voxtral.c: Pure C inference of Mistral Voxtral Realtime 4B speech to text model</title>
+      <link>https://ht-x.com/posts/2026/02/github-antirez-voxtral-c-pure-c-inference-of-mistr/</link>
+      <pubDate>Sun, 08 Feb 2026 07:17:14 +0100</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/02/github-antirez-voxtral-c-pure-c-inference-of-mistr/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models</title>
@@ -595,6 +605,36 @@
       <pubDate>Mon, 21 Apr 2025 07:38:58 +0200</pubDate>
       
       <guid>https://ht-x.com/posts/2025/09/gemma-3-qat-models-bringing-state-of-the-art-ai-to/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - HandsOnLLM/Hands-On-Large-Language-Models: Official code repo for the O&#39;Reilly Book - &#39;Hands-On Large Language Models&#39;</title>
+      <link>https://ht-x.com/posts/2025/04/github-handsonllm-hands-on-large-language-models-o/</link>
+      <pubDate>Sat, 19 Apr 2025 04:58:28 +0200</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/04/github-handsonllm-hands-on-large-language-models-o/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pagina LLM Post-Training: A Deep Dive into Reasoning Large Language Models</title>
+      <link>https://ht-x.com/posts/2026/01/pagina-llm-post-training-a-deep-dive-into-reasonin/</link>
+      <pubDate>Tue, 25 Mar 2025 01:31:31 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/01/pagina-llm-post-training-a-deep-dive-into-reasonin/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pagina SmolDocling: An ultra-compact vision-language model for end-to-end multi-modal document conversion</title>
+      <link>https://ht-x.com/posts/2026/01/pagina-smoldocling-an-ultra-compact-vision-languag/</link>
+      <pubDate>Mon, 17 Mar 2025 01:07:14 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/01/pagina-smoldocling-an-ultra-compact-vision-languag/</guid>
       <description></description>
       
     </item>

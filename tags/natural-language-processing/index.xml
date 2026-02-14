@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Mon, 19 Jan 2026 10:47:44 +0000</lastBuildDate><atom:link href="https://ht-x.com/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Feb 2026 07:17:14 +0100</lastBuildDate><atom:link href="https://ht-x.com/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GitHub - antirez/voxtral.c: Pure C inference of Mistral Voxtral Realtime 4B speech to text model</title>
+      <link>https://ht-x.com/posts/2026/02/github-antirez-voxtral-c-pure-c-inference-of-mistr/</link>
+      <pubDate>Sun, 08 Feb 2026 07:17:14 +0100</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/02/github-antirez-voxtral-c-pure-c-inference-of-mistr/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>GitHub - google/langextract: A Python library for extracting structured information from unstructured text using LLMs with precis</title>

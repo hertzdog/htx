@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Tue, 27 Jan 2026 11:44:46 +0000</lastBuildDate><atom:link href="https://ht-x.com/de/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Feb 2026 03:13:37 +0100</lastBuildDate><atom:link href="https://ht-x.com/de/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GitHub - qwibitai/nanoclaw: Eine leichte Alternative zu Clawdbot / OpenClaw, die in Apple-Containern für Sicherheit läuft. Verbinden</title>
+      <link>https://ht-x.com/de/posts/2026/02/github-qwibitai-nanoclaw-a-lightweight-alternative/</link>
+      <pubDate>Mon, 02 Feb 2026 03:13:37 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/02/github-qwibitai-nanoclaw-a-lightweight-alternative/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>GitHub - moltbot/moltbot: Dein eigener persönlicher KI-Assistent. Jedes Betriebssystem. Jede Plattform. Auf die Hummer-Art. 🦞</title>
@@ -115,6 +125,16 @@
       <pubDate>Thu, 04 Sep 2025 18:45:09 +0000</pubDate>
       
       <guid>https://ht-x.com/de/posts/2025/09/nextchat/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - humanlayer/12-factor-agents: Welche Prinzipien können wir verwenden, um LLM-gestützte Software zu erstellen, die tatsächlich gut genug ist, um eingesetzt zu werden?</title>
+      <link>https://ht-x.com/de/posts/2025/04/github-humanlayer-12-factor-agents-what-are-the-pr/</link>
+      <pubDate>Thu, 17 Apr 2025 03:16:29 +0200</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2025/04/github-humanlayer-12-factor-agents-what-are-the-pr/</guid>
       <description></description>
       
     </item>

@@ -7,14 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Tue, 27 Jan 2026 11:44:46 +0000</lastBuildDate><atom:link href="https://ht-x.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Feb 2026 11:08:04 +0100</lastBuildDate><atom:link href="https://ht-x.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>GitHub</title>
-      <link>https://ht-x.com/categories/github/</link>
-      <pubDate>Tue, 27 Jan 2026 11:44:46 +0000</pubDate>
+      <title>API</title>
+      <link>https://ht-x.com/categories/api/</link>
+      <pubDate>Sat, 14 Feb 2026 11:08:04 +0100</pubDate>
       
-      <guid>https://ht-x.com/categories/github/</guid>
+      <guid>https://ht-x.com/categories/api/</guid>
       <description></description>
       
     </item>
@@ -22,9 +22,29 @@
     <item>
       <title>Articoli</title>
       <link>https://ht-x.com/categories/articoli/</link>
-      <pubDate>Tue, 27 Jan 2026 08:00:58 +0100</pubDate>
+      <pubDate>Sat, 14 Feb 2026 11:08:04 +0100</pubDate>
       
       <guid>https://ht-x.com/categories/articoli/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>https://ht-x.com/categories/github/</link>
+      <pubDate>Thu, 12 Feb 2026 07:46:12 +0100</pubDate>
+      
+      <guid>https://ht-x.com/categories/github/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tool</title>
+      <link>https://ht-x.com/categories/tool/</link>
+      <pubDate>Mon, 02 Feb 2026 08:25:08 +0100</pubDate>
+      
+      <guid>https://ht-x.com/categories/tool/</guid>
       <description></description>
       
     </item>
@@ -45,26 +65,6 @@
       <pubDate>Mon, 19 Jan 2026 10:47:44 +0000</pubDate>
       
       <guid>https://ht-x.com/categories/framework/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tool</title>
-      <link>https://ht-x.com/categories/tool/</link>
-      <pubDate>Thu, 15 Jan 2026 06:19:19 +0000</pubDate>
-      
-      <guid>https://ht-x.com/categories/tool/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>API</title>
-      <link>https://ht-x.com/categories/api/</link>
-      <pubDate>Thu, 15 Jan 2026 01:20:22 +0000</pubDate>
-      
-      <guid>https://ht-x.com/categories/api/</guid>
       <description></description>
       
     </item>

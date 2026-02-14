@@ -4,7 +4,7 @@
 
   <url>
     <loc>https://ht-x.com/es/posts/</loc>
-    <lastmod>2026-01-27T11:44:46+00:00</lastmod>
+    <lastmod>2026-02-14T11:08:04+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -35,7 +35,7 @@
   </url>
   <url>
     <loc>https://ht-x.com/es/</loc>
-    <lastmod>2026-01-27T11:44:46+00:00</lastmod>
+    <lastmod>2026-02-14T11:08:04+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -62,6 +62,161 @@
       rel="alternate"
       hreflang="es"
       href="https://ht-x.com/es/"
+    />
+  </url>
+  <url>
+    <loc>https://ht-x.com/es/posts/2026/02/keycloak/</loc>
+    <lastmod>2026-02-14T11:08:04+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/en/posts/2026/02/keycloak/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/posts/2026/02/keycloak/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/posts/2026/02/keycloak/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/posts/2026/02/keycloak/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/posts/2026/02/keycloak/"
+    />
+  </url>
+  <url>
+    <loc>https://ht-x.com/es/posts/2026/02/github-zai-org-glm-ocr-glm-ocr-accurate-x-fast-x-c/</loc>
+    <lastmod>2026-02-12T07:46:12+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/en/posts/2026/02/github-zai-org-glm-ocr-glm-ocr-accurate-x-fast-x-c/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/posts/2026/02/github-zai-org-glm-ocr-glm-ocr-accurate-x-fast-x-c/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/posts/2026/02/github-zai-org-glm-ocr-glm-ocr-accurate-x-fast-x-c/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/posts/2026/02/github-zai-org-glm-ocr-glm-ocr-accurate-x-fast-x-c/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/posts/2026/02/github-zai-org-glm-ocr-glm-ocr-accurate-x-fast-x-c/"
+    />
+  </url>
+  <url>
+    <loc>https://ht-x.com/es/posts/2026/02/github-ericlbuehler-mistral-rs-fast-flexible-llm-i/</loc>
+    <lastmod>2026-02-10T07:38:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/en/posts/2026/02/github-ericlbuehler-mistral-rs-fast-flexible-llm-i/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/posts/2026/02/github-ericlbuehler-mistral-rs-fast-flexible-llm-i/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/posts/2026/02/github-ericlbuehler-mistral-rs-fast-flexible-llm-i/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/posts/2026/02/github-ericlbuehler-mistral-rs-fast-flexible-llm-i/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/posts/2026/02/github-ericlbuehler-mistral-rs-fast-flexible-llm-i/"
+    />
+  </url>
+  <url>
+    <loc>https://ht-x.com/es/posts/2026/02/github-alexziskind1-llama-throughput-lab-interacti/</loc>
+    <lastmod>2026-02-02T08:25:08+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/en/posts/2026/02/github-alexziskind1-llama-throughput-lab-interacti/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/posts/2026/02/github-alexziskind1-llama-throughput-lab-interacti/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/posts/2026/02/github-alexziskind1-llama-throughput-lab-interacti/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/posts/2026/02/github-alexziskind1-llama-throughput-lab-interacti/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/posts/2026/02/github-alexziskind1-llama-throughput-lab-interacti/"
+    />
+  </url>
+  <url>
+    <loc>https://ht-x.com/es/posts/2026/02/github-qwibitai-nanoclaw-a-lightweight-alternative/</loc>
+    <lastmod>2026-02-02T03:13:37+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/en/posts/2026/02/github-qwibitai-nanoclaw-a-lightweight-alternative/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/posts/2026/02/github-qwibitai-nanoclaw-a-lightweight-alternative/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/posts/2026/02/github-qwibitai-nanoclaw-a-lightweight-alternative/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/posts/2026/02/github-qwibitai-nanoclaw-a-lightweight-alternative/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/posts/2026/02/github-qwibitai-nanoclaw-a-lightweight-alternative/"
     />
   </url>
   <url>
@@ -155,6 +310,37 @@
       rel="alternate"
       hreflang="es"
       href="https://ht-x.com/es/posts/2026/01/github-mikekelly-claude-sneakpeek-get-a-parallel-b/"
+    />
+  </url>
+  <url>
+    <loc>https://ht-x.com/es/posts/2026/01/github-virattt-ai-hedge-fund-an-ai-hedge-fund-team/</loc>
+    <lastmod>2026-01-27T11:27:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/en/posts/2026/01/github-virattt-ai-hedge-fund-an-ai-hedge-fund-team/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/posts/2026/01/github-virattt-ai-hedge-fund-an-ai-hedge-fund-team/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/posts/2026/01/github-virattt-ai-hedge-fund-an-ai-hedge-fund-team/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/posts/2026/01/github-virattt-ai-hedge-fund-an-ai-hedge-fund-team/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/posts/2026/01/github-virattt-ai-hedge-fund-an-ai-hedge-fund-team/"
     />
   </url>
   <url>
@@ -8060,6 +8246,68 @@
       rel="alternate"
       hreflang="es"
       href="https://ht-x.com/es/posts/2025/09/gemma-3-qat-models-bringing-state-of-the-art-ai-to/"
+    />
+  </url>
+  <url>
+    <loc>https://ht-x.com/es/posts/2025/04/github-handsonllm-hands-on-large-language-models-o/</loc>
+    <lastmod>2025-04-19T04:58:28+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/posts/2025/04/github-handsonllm-hands-on-large-language-models-o/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/en/posts/2025/04/github-handsonllm-hands-on-large-language-models-o/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/posts/2025/04/github-handsonllm-hands-on-large-language-models-o/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/posts/2025/04/github-handsonllm-hands-on-large-language-models-o/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/posts/2025/04/github-handsonllm-hands-on-large-language-models-o/"
+    />
+  </url>
+  <url>
+    <loc>https://ht-x.com/es/posts/2025/04/github-humanlayer-12-factor-agents-what-are-the-pr/</loc>
+    <lastmod>2025-04-17T03:16:29+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/en/posts/2025/04/github-humanlayer-12-factor-agents-what-are-the-pr/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/posts/2025/04/github-humanlayer-12-factor-agents-what-are-the-pr/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/posts/2025/04/github-humanlayer-12-factor-agents-what-are-the-pr/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/posts/2025/04/github-humanlayer-12-factor-agents-what-are-the-pr/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/posts/2025/04/github-humanlayer-12-factor-agents-what-are-the-pr/"
     />
   </url>
   <url>

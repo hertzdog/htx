@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Tue, 27 Jan 2026 11:40:19 +0000</lastBuildDate><atom:link href="https://ht-x.com/de/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Feb 2026 07:38:00 +0100</lastBuildDate><atom:link href="https://ht-x.com/de/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GitHub - EricLBuehler/mistral.rs: Schnelle, flexible LLM-Inferenz</title>
+      <link>https://ht-x.com/de/posts/2026/02/github-ericlbuehler-mistral-rs-fast-flexible-llm-i/</link>
+      <pubDate>Tue, 10 Feb 2026 07:38:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/02/github-ericlbuehler-mistral-rs-fast-flexible-llm-i/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>GitHub - aiming-lab/SimpleMem: SimpleMem: Effiziente Langzeitgedächtnis für LLM-Agenten</title>
@@ -547,6 +557,26 @@ Langextraktion</title>
       <pubDate>Fri, 16 May 2025 07:37:01 +0200</pubDate>
       
       <guid>https://ht-x.com/de/posts/2025/09/2505-06120-llms-get-lost-in-multi-turn-conversatio/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - HandsOnLLM/Hands-On-Large-Language-Models: Offizielles Code-Repository für das O&#39;Reilly-Buch - &#39;Hands-On Large Language Models&#39;</title>
+      <link>https://ht-x.com/de/posts/2025/04/github-handsonllm-hands-on-large-language-models-o/</link>
+      <pubDate>Sat, 19 Apr 2025 04:58:28 +0200</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2025/04/github-handsonllm-hands-on-large-language-models-o/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - humanlayer/12-factor-agents: Welche Prinzipien können wir verwenden, um LLM-gestützte Software zu erstellen, die tatsächlich gut genug ist, um eingesetzt zu werden?</title>
+      <link>https://ht-x.com/de/posts/2025/04/github-humanlayer-12-factor-agents-what-are-the-pr/</link>
+      <pubDate>Thu, 17 Apr 2025 03:16:29 +0200</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2025/04/github-humanlayer-12-factor-agents-what-are-the-pr/</guid>
       <description></description>
       
     </item>

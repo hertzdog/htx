@@ -7,7 +7,67 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Tue, 27 Jan 2026 11:44:46 +0000</lastBuildDate><atom:link href="https://ht-x.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Feb 2026 11:08:04 +0100</lastBuildDate><atom:link href="https://ht-x.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Keycloak</title>
+      <link>https://ht-x.com/posts/2026/02/keycloak/</link>
+      <pubDate>Sat, 14 Feb 2026 11:08:04 +0100</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/02/keycloak/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - zai-org/GLM-OCR: GLM-OCR: Accurate × Fast × Comprehensive</title>
+      <link>https://ht-x.com/posts/2026/02/github-zai-org-glm-ocr-glm-ocr-accurate-x-fast-x-c/</link>
+      <pubDate>Thu, 12 Feb 2026 07:46:12 +0100</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/02/github-zai-org-glm-ocr-glm-ocr-accurate-x-fast-x-c/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - EricLBuehler/mistral.rs: Fast, flexible LLM inference</title>
+      <link>https://ht-x.com/posts/2026/02/github-ericlbuehler-mistral-rs-fast-flexible-llm-i/</link>
+      <pubDate>Tue, 10 Feb 2026 07:38:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/02/github-ericlbuehler-mistral-rs-fast-flexible-llm-i/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - antirez/voxtral.c: Pure C inference of Mistral Voxtral Realtime 4B speech to text model</title>
+      <link>https://ht-x.com/posts/2026/02/github-antirez-voxtral-c-pure-c-inference-of-mistr/</link>
+      <pubDate>Sun, 08 Feb 2026 07:17:14 +0100</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/02/github-antirez-voxtral-c-pure-c-inference-of-mistr/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - alexziskind1/llama-throughput-lab: Interactive launcher and benchmarking harness for llama.cpp server throughput, with tests, sweeps, and round-robin load tools.</title>
+      <link>https://ht-x.com/posts/2026/02/github-alexziskind1-llama-throughput-lab-interacti/</link>
+      <pubDate>Mon, 02 Feb 2026 08:25:08 +0100</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/02/github-alexziskind1-llama-throughput-lab-interacti/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - qwibitai/nanoclaw: A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connect</title>
+      <link>https://ht-x.com/posts/2026/02/github-qwibitai-nanoclaw-a-lightweight-alternative/</link>
+      <pubDate>Mon, 02 Feb 2026 03:13:37 +0100</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/02/github-qwibitai-nanoclaw-a-lightweight-alternative/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>GitHub - moltbot/moltbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞</title>
@@ -35,6 +95,16 @@
       <pubDate>Tue, 27 Jan 2026 11:39:09 +0000</pubDate>
       
       <guid>https://ht-x.com/posts/2026/01/github-mikekelly-claude-sneakpeek-get-a-parallel-b/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - virattt/ai-hedge-fund: An AI Hedge Fund Team</title>
+      <link>https://ht-x.com/posts/2026/01/github-virattt-ai-hedge-fund-an-ai-hedge-fund-team/</link>
+      <pubDate>Tue, 27 Jan 2026 11:27:36 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/01/github-virattt-ai-hedge-fund-an-ai-hedge-fund-team/</guid>
       <description></description>
       
     </item>
@@ -2705,6 +2775,56 @@
       <pubDate>Mon, 21 Apr 2025 07:38:58 +0200</pubDate>
       
       <guid>https://ht-x.com/posts/2025/09/gemma-3-qat-models-bringing-state-of-the-art-ai-to/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - HandsOnLLM/Hands-On-Large-Language-Models: Official code repo for the O&#39;Reilly Book - &#39;Hands-On Large Language Models&#39;</title>
+      <link>https://ht-x.com/posts/2025/04/github-handsonllm-hands-on-large-language-models-o/</link>
+      <pubDate>Sat, 19 Apr 2025 04:58:28 +0200</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/04/github-handsonllm-hands-on-large-language-models-o/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Deep Tech Revolution - Area Science Park</title>
+      <link>https://ht-x.com/posts/2026/01/deep-tech-revolution-area-science-park/</link>
+      <pubDate>Thu, 17 Apr 2025 05:35:33 +0200</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/01/deep-tech-revolution-area-science-park/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - humanlayer/12-factor-agents: What are the principles we can use to build LLM-powered software that is actually good enough to put</title>
+      <link>https://ht-x.com/posts/2025/04/github-humanlayer-12-factor-agents-what-are-the-pr/</link>
+      <pubDate>Thu, 17 Apr 2025 03:16:29 +0200</pubDate>
+      
+      <guid>https://ht-x.com/posts/2025/04/github-humanlayer-12-factor-agents-what-are-the-pr/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pagina LLM Post-Training: A Deep Dive into Reasoning Large Language Models</title>
+      <link>https://ht-x.com/posts/2026/01/pagina-llm-post-training-a-deep-dive-into-reasonin/</link>
+      <pubDate>Tue, 25 Mar 2025 01:31:31 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/01/pagina-llm-post-training-a-deep-dive-into-reasonin/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pagina SmolDocling: An ultra-compact vision-language model for end-to-end multi-modal document conversion</title>
+      <link>https://ht-x.com/posts/2026/01/pagina-smoldocling-an-ultra-compact-vision-languag/</link>
+      <pubDate>Mon, 17 Mar 2025 01:07:14 +0000</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/01/pagina-smoldocling-an-ultra-compact-vision-languag/</guid>
       <description></description>
       
     </item>
