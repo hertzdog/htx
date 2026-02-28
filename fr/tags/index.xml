@@ -7,7 +7,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Sat, 14 Feb 2026 11:08:04 +0100</lastBuildDate><atom:link href="https://ht-x.com/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Feb 2026 10:00:00 +0100</lastBuildDate><atom:link href="https://ht-x.com/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AI</title>
+      <link>https://ht-x.com/fr/tags/ai/</link>
+      <pubDate>Sat, 28 Feb 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/fr/tags/ai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Best Practices</title>
+      <link>https://ht-x.com/fr/tags/best-practices/</link>
+      <pubDate>Sat, 28 Feb 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/fr/tags/best-practices/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GDPR</title>
+      <link>https://ht-x.com/fr/tags/gdpr/</link>
+      <pubDate>Sat, 28 Feb 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/fr/tags/gdpr/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>https://ht-x.com/fr/tags/privacy/</link>
+      <pubDate>Sat, 28 Feb 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/fr/tags/privacy/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Tech</title>
@@ -15,16 +55,6 @@
       <pubDate>Sat, 14 Feb 2026 11:08:04 +0100</pubDate>
       
       <guid>https://ht-x.com/fr/tags/tech/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>AI</title>
-      <link>https://ht-x.com/fr/tags/ai/</link>
-      <pubDate>Thu, 12 Feb 2026 07:46:12 +0100</pubDate>
-      
-      <guid>https://ht-x.com/fr/tags/ai/</guid>
       <description></description>
       
     </item>
@@ -120,16 +150,6 @@
     </item>
     
     <item>
-      <title>Best Practices</title>
-      <link>https://ht-x.com/fr/tags/best-practices/</link>
-      <pubDate>Mon, 19 Jan 2026 06:31:23 +0000</pubDate>
-      
-      <guid>https://ht-x.com/fr/tags/best-practices/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Browser Automation</title>
       <link>https://ht-x.com/fr/tags/browser-automation/</link>
       <pubDate>Wed, 07 Jan 2026 06:24:23 +0100</pubDate>
@@ -180,31 +200,11 @@
     </item>
     
     <item>
-      <title>GDPR</title>
-      <link>https://ht-x.com/fr/tags/gdpr/</link>
-      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://ht-x.com/fr/tags/gdpr/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>NLP</title>
       <link>https://ht-x.com/fr/tags/nlp/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       
       <guid>https://ht-x.com/fr/tags/nlp/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Privacy</title>
-      <link>https://ht-x.com/fr/tags/privacy/</link>
-      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://ht-x.com/fr/tags/privacy/</guid>
       <description></description>
       
     </item>

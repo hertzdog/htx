@@ -4,7 +4,7 @@
 
   <url>
     <loc>https://ht-x.com/de/posts/</loc>
-    <lastmod>2026-02-14T11:08:04+01:00</lastmod>
+    <lastmod>2026-02-28T10:00:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -31,6 +31,68 @@
       rel="alternate"
       hreflang="de"
       href="https://ht-x.com/de/posts/"
+    />
+  </url>
+  <url>
+    <loc>https://ht-x.com/de/</loc>
+    <lastmod>2026-02-28T10:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/en/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/"
+    />
+  </url>
+  <url>
+    <loc>https://ht-x.com/de/posts/2026/02/warum-ihr-unternehmen-private-ki-braucht/</loc>
+    <lastmod>2026-02-28T10:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/posts/2026/02/perche-la-tua-azienda-ha-bisogno-di-ai-privata/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/en/posts/2026/02/why-your-business-needs-private-ai/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/posts/2026/02/pourquoi-votre-entreprise-a-besoin-d-ia-privee/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/posts/2026/02/por-que-tu-empresa-necesita-ia-privada/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/posts/2026/02/warum-ihr-unternehmen-private-ki-braucht/"
     />
   </url>
   <url>
@@ -62,37 +124,6 @@
       rel="alternate"
       hreflang="de"
       href="https://ht-x.com/de/posts/2026/02/keycloak/"
-    />
-  </url>
-  <url>
-    <loc>https://ht-x.com/de/</loc>
-    <lastmod>2026-02-14T11:08:04+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://ht-x.com/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ht-x.com/en/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://ht-x.com/fr/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://ht-x.com/es/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://ht-x.com/de/"
     />
   </url>
   <url>
