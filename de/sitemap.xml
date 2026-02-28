@@ -1305,37 +1305,6 @@
     />
   </url>
   <url>
-    <loc>https://ht-x.com/de/progetti-finanziati/asa-ps-classification/</loc>
-    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ht-x.com/en/progetti-finanziati/asa-ps-classification/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://ht-x.com/progetti-finanziati/asa-ps-classification/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://ht-x.com/fr/progetti-finanziati/asa-ps-classification/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://ht-x.com/es/progetti-finanziati/asa-ps-classification/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://ht-x.com/de/progetti-finanziati/asa-ps-classification/"
-    />
-  </url>
-  <url>
     <loc>https://ht-x.com/de/progetti-finanziati/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -1364,6 +1333,37 @@
       rel="alternate"
       hreflang="de"
       href="https://ht-x.com/de/progetti-finanziati/"
+    />
+  </url>
+  <url>
+    <loc>https://ht-x.com/de/progetti-finanziati/asa-ps-classification/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/en/progetti-finanziati/asa-ps-classification/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/progetti-finanziati/asa-ps-classification/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/progetti-finanziati/asa-ps-classification/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/progetti-finanziati/asa-ps-classification/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/progetti-finanziati/asa-ps-classification/"
     />
   </url>
   <url>

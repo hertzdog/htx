@@ -34,37 +34,6 @@
     />
   </url>
   <url>
-    <loc>https://ht-x.com/fr/posts/2026/02/keycloak/</loc>
-    <lastmod>2026-02-14T11:08:04+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ht-x.com/en/posts/2026/02/keycloak/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://ht-x.com/posts/2026/02/keycloak/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://ht-x.com/de/posts/2026/02/keycloak/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://ht-x.com/es/posts/2026/02/keycloak/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://ht-x.com/fr/posts/2026/02/keycloak/"
-    />
-  </url>
-  <url>
     <loc>https://ht-x.com/fr/</loc>
     <lastmod>2026-02-14T11:08:04+01:00</lastmod>
     <changefreq>daily</changefreq>
@@ -93,6 +62,37 @@
       rel="alternate"
       hreflang="fr"
       href="https://ht-x.com/fr/"
+    />
+  </url>
+  <url>
+    <loc>https://ht-x.com/fr/posts/2026/02/keycloak/</loc>
+    <lastmod>2026-02-14T11:08:04+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/en/posts/2026/02/keycloak/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/posts/2026/02/keycloak/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/posts/2026/02/keycloak/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/posts/2026/02/keycloak/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/posts/2026/02/keycloak/"
     />
   </url>
   <url>
