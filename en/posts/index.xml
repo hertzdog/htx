@@ -2,269 +2,299 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on HUMAN TECHNOLOGY eXCELLENCE</title>
-    <link>https://ht-x.com/en/posts/</link>
+    <link>http://localhost:1313/en/posts/</link>
     <description>Recent content in Blog on HUMAN TECHNOLOGY eXCELLENCE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Sat, 28 Feb 2026 10:00:00 +0100</lastBuildDate><atom:link href="https://ht-x.com/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Mar 2026 22:10:21 +0100</lastBuildDate><atom:link href="http://localhost:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MicroGPT is a compact, open-source language model designed for efficient text generation and understanding. It is built to be lightweight and can run on a variety of devices, including personal computers and even some mobile devices. MicroGPT is intended for tasks such as text completion, summarization, translation, and more, making it a versatile tool for developers and researchers working with natural language processing.</title>
+      <link>http://localhost:1313/en/posts/2026/03/microgpt/</link>
+      <pubDate>Sun, 01 Mar 2026 22:10:21 +0100</pubDate>
+      
+      <guid>http://localhost:1313/en/posts/2026/03/microgpt/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GLM-5</title>
+      <link>http://localhost:1313/en/posts/2026/03/glm-5/</link>
+      <pubDate>Sun, 01 Mar 2026 22:06:18 +0100</pubDate>
+      
+      <guid>http://localhost:1313/en/posts/2026/03/glm-5/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Why your business needs private AI (not ChatGPT)</title>
-      <link>https://ht-x.com/en/posts/2026/02/why-your-business-needs-private-ai/</link>
+      <link>http://localhost:1313/en/posts/2026/02/why-your-business-needs-private-ai/</link>
       <pubDate>Sat, 28 Feb 2026 10:00:00 +0100</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/02/why-your-business-needs-private-ai/</guid>
+      <guid>http://localhost:1313/en/posts/2026/02/why-your-business-needs-private-ai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Step 3.5 Flash: Fast enough to think. Reliable enough to act.</title>
+      <link>http://localhost:1313/en/posts/2026/03/step-3-5-flash-fast-enough-to-think-reliable-enoug/</link>
+      <pubDate>Thu, 19 Feb 2026 07:44:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/en/posts/2026/03/step-3-5-flash-fast-enough-to-think-reliable-enoug/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Keycloak</title>
-      <link>https://ht-x.com/en/posts/2026/02/keycloak/</link>
+      <link>http://localhost:1313/en/posts/2026/02/keycloak/</link>
       <pubDate>Sat, 14 Feb 2026 11:08:04 +0100</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/02/keycloak/</guid>
+      <guid>http://localhost:1313/en/posts/2026/02/keycloak/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - zai-org/GLM-OCR: GLM-OCR: Accurate × Fast × Comprehensive</title>
-      <link>https://ht-x.com/en/posts/2026/02/github-zai-org-glm-ocr-glm-ocr-accurate-x-fast-x-c/</link>
+      <link>http://localhost:1313/en/posts/2026/02/github-zai-org-glm-ocr-glm-ocr-accurate-x-fast-x-c/</link>
       <pubDate>Thu, 12 Feb 2026 07:46:12 +0100</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/02/github-zai-org-glm-ocr-glm-ocr-accurate-x-fast-x-c/</guid>
+      <guid>http://localhost:1313/en/posts/2026/02/github-zai-org-glm-ocr-glm-ocr-accurate-x-fast-x-c/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - EricLBuehler/mistral.rs: Fast, flexible LLM inference</title>
-      <link>https://ht-x.com/en/posts/2026/02/github-ericlbuehler-mistral-rs-fast-flexible-llm-i/</link>
+      <link>http://localhost:1313/en/posts/2026/02/github-ericlbuehler-mistral-rs-fast-flexible-llm-i/</link>
       <pubDate>Tue, 10 Feb 2026 07:38:00 +0100</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/02/github-ericlbuehler-mistral-rs-fast-flexible-llm-i/</guid>
+      <guid>http://localhost:1313/en/posts/2026/02/github-ericlbuehler-mistral-rs-fast-flexible-llm-i/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - alexziskind1/llama-throughput-lab: Interactive launcher and benchmarking framework for llama.cpp server throughput, featuring tests, sweeps, and round-robin load tools.</title>
-      <link>https://ht-x.com/en/posts/2026/02/github-alexziskind1-llama-throughput-lab-interacti/</link>
+      <link>http://localhost:1313/en/posts/2026/02/github-alexziskind1-llama-throughput-lab-interacti/</link>
       <pubDate>Mon, 02 Feb 2026 08:25:08 +0100</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/02/github-alexziskind1-llama-throughput-lab-interacti/</guid>
+      <guid>http://localhost:1313/en/posts/2026/02/github-alexziskind1-llama-throughput-lab-interacti/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - qwibitai/nanoclaw: A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connect</title>
-      <link>https://ht-x.com/en/posts/2026/02/github-qwibitai-nanoclaw-a-lightweight-alternative/</link>
+      <link>http://localhost:1313/en/posts/2026/02/github-qwibitai-nanoclaw-a-lightweight-alternative/</link>
       <pubDate>Mon, 02 Feb 2026 03:13:37 +0100</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/02/github-qwibitai-nanoclaw-a-lightweight-alternative/</guid>
+      <guid>http://localhost:1313/en/posts/2026/02/github-qwibitai-nanoclaw-a-lightweight-alternative/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - moltbot/moltbot: Your own personal AI assistant. Any operating system. Any platform. The lobster way. 🦞</title>
-      <link>https://ht-x.com/en/posts/2026/01/github-moltbot-moltbot-your-own-personal-ai-assist/</link>
+      <link>http://localhost:1313/en/posts/2026/01/github-moltbot-moltbot-your-own-personal-ai-assist/</link>
       <pubDate>Tue, 27 Jan 2026 11:44:46 +0000</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/github-moltbot-moltbot-your-own-personal-ai-assist/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/github-moltbot-moltbot-your-own-personal-ai-assist/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - aiming-lab/SimpleMem: SimpleMem: Efficient Lifelong Memory for LLM Agents</title>
-      <link>https://ht-x.com/en/posts/2026/01/github-aiming-lab-simplemem-simplemem-efficient-li/</link>
+      <link>http://localhost:1313/en/posts/2026/01/github-aiming-lab-simplemem-simplemem-efficient-li/</link>
       <pubDate>Tue, 27 Jan 2026 11:40:19 +0000</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/github-aiming-lab-simplemem-simplemem-efficient-li/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/github-aiming-lab-simplemem-simplemem-efficient-li/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - mikekelly/claude-sneakpeek: Obtain a parallel build of Claude code that unlocks feature-flagged capabilities such as swarm mode.</title>
-      <link>https://ht-x.com/en/posts/2026/01/github-mikekelly-claude-sneakpeek-get-a-parallel-b/</link>
+      <link>http://localhost:1313/en/posts/2026/01/github-mikekelly-claude-sneakpeek-get-a-parallel-b/</link>
       <pubDate>Tue, 27 Jan 2026 11:39:09 +0000</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/github-mikekelly-claude-sneakpeek-get-a-parallel-b/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/github-mikekelly-claude-sneakpeek-get-a-parallel-b/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - virattt/ai-hedge-fund: An AI Hedge Fund Team</title>
-      <link>https://ht-x.com/en/posts/2026/01/github-virattt-ai-hedge-fund-an-ai-hedge-fund-team/</link>
+      <link>http://localhost:1313/en/posts/2026/01/github-virattt-ai-hedge-fund-an-ai-hedge-fund-team/</link>
       <pubDate>Tue, 27 Jan 2026 11:27:36 +0000</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/github-virattt-ai-hedge-fund-an-ai-hedge-fund-team/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/github-virattt-ai-hedge-fund-an-ai-hedge-fund-team/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>moonshotai/Kimi-K2.5 · Hugging Face</title>
-      <link>https://ht-x.com/en/posts/2026/01/moonshotai-kimi-k2-5-hugging-face/</link>
+      <link>http://localhost:1313/en/posts/2026/01/moonshotai-kimi-k2-5-hugging-face/</link>
       <pubDate>Tue, 27 Jan 2026 08:00:58 +0100</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/moonshotai-kimi-k2-5-hugging-face/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/moonshotai-kimi-k2-5-hugging-face/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Welcome - Poké Documentation</title>
-      <link>https://ht-x.com/en/posts/2026/01/welcome-poke-documentation/</link>
+      <link>http://localhost:1313/en/posts/2026/01/welcome-poke-documentation/</link>
       <pubDate>Tue, 27 Jan 2026 04:43:53 +0100</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/welcome-poke-documentation/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/welcome-poke-documentation/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Conditional Memory via Scalable Lookup: A New Dimension of Sparsity for Large Language Models</title>
-      <link>https://ht-x.com/en/posts/2026/01/conditional-memory-via-scalable-lookup-a-new-axis/</link>
+      <link>http://localhost:1313/en/posts/2026/01/conditional-memory-via-scalable-lookup-a-new-axis/</link>
       <pubDate>Sun, 25 Jan 2026 18:36:11 +0100</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/conditional-memory-via-scalable-lookup-a-new-axis/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/conditional-memory-via-scalable-lookup-a-new-axis/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>NVIDIA PersonaPlex: Natural Conversational AI With Any Role and Voice - NVIDIA ADLR</title>
-      <link>https://ht-x.com/en/posts/2026/01/nvidia-personaplex-natural-conversational-ai-with/</link>
+      <link>http://localhost:1313/en/posts/2026/01/nvidia-personaplex-natural-conversational-ai-with/</link>
       <pubDate>Sat, 24 Jan 2026 05:03:07 +0100</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/nvidia-personaplex-natural-conversational-ai-with/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/nvidia-personaplex-natural-conversational-ai-with/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - different-ai/openwork: An open-source alternative to Claude Cowork, powered by OpenCode.</title>
-      <link>https://ht-x.com/en/posts/2026/01/github-different-ai-openwork-an-open-source-altern/</link>
+      <link>http://localhost:1313/en/posts/2026/01/github-different-ai-openwork-an-open-source-altern/</link>
       <pubDate>Mon, 19 Jan 2026 10:59:11 +0000</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/github-different-ai-openwork-an-open-source-altern/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/github-different-ai-openwork-an-open-source-altern/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - google/langextract: A Python library for extracting structured information from unstructured text using large language models (LLMs) with precision.</title>
-      <link>https://ht-x.com/en/posts/2026/01/github-google-langextract-a-python-library-for-ext/</link>
+      <link>http://localhost:1313/en/posts/2026/01/github-google-langextract-a-python-library-for-ext/</link>
       <pubDate>Mon, 19 Jan 2026 10:47:44 +0000</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/github-google-langextract-a-python-library-for-ext/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/github-google-langextract-a-python-library-for-ext/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - memodb-io/Acontext: Data platform for context engineering. A context data platform that stores, observes, and learns. Join</title>
-      <link>https://ht-x.com/en/posts/2026/01/github-memodb-io-acontext-data-platform-for-contex/</link>
+      <link>http://localhost:1313/en/posts/2026/01/github-memodb-io-acontext-data-platform-for-contex/</link>
       <pubDate>Mon, 19 Jan 2026 10:01:20 +0000</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/github-memodb-io-acontext-data-platform-for-contex/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/github-memodb-io-acontext-data-platform-for-contex/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - rberg27/doom-coding: A guide on how to use your smartphone to code anywhere at any time.</title>
-      <link>https://ht-x.com/en/posts/2026/01/github-rberg27-doom-coding-a-guide-for-how-to-use/</link>
+      <link>http://localhost:1313/en/posts/2026/01/github-rberg27-doom-coding-a-guide-for-how-to-use/</link>
       <pubDate>Mon, 19 Jan 2026 07:51:51 +0000</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/github-rberg27-doom-coding-a-guide-for-how-to-use/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/github-rberg27-doom-coding-a-guide-for-how-to-use/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - bolt-foundry/gambit: Agent framework for building, running, and verifying LLM workflows</title>
-      <link>https://ht-x.com/en/posts/2026/01/github-bolt-foundry-gambit-agent-harness-framework/</link>
+      <link>http://localhost:1313/en/posts/2026/01/github-bolt-foundry-gambit-agent-harness-framework/</link>
       <pubDate>Mon, 19 Jan 2026 06:31:23 +0000</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/github-bolt-foundry-gambit-agent-harness-framework/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/github-bolt-foundry-gambit-agent-harness-framework/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - eigent-ai/eigent: Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.</title>
-      <link>https://ht-x.com/en/posts/2026/01/github-eigent-ai-eigent-eigent-the-open-source-cow/</link>
+      <link>http://localhost:1313/en/posts/2026/01/github-eigent-ai-eigent-eigent-the-open-source-cow/</link>
       <pubDate>Thu, 15 Jan 2026 07:50:36 +0000</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/github-eigent-ai-eigent-eigent-the-open-source-cow/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/github-eigent-ai-eigent-eigent-the-open-source-cow/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ask HN: What is the best way to provide continuous context to models?</title>
-      <link>https://ht-x.com/en/posts/2026/01/ask-hn-what-is-the-best-way-to-provide-continuous/</link>
+      <link>http://localhost:1313/en/posts/2026/01/ask-hn-what-is-the-best-way-to-provide-continuous/</link>
       <pubDate>Thu, 15 Jan 2026 01:20:22 +0000</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/ask-hn-what-is-the-best-way-to-provide-continuous/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/ask-hn-what-is-the-best-way-to-provide-continuous/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Recursive Language Models</title>
-      <link>https://ht-x.com/en/posts/2026/01/recursive-language-models/</link>
+      <link>http://localhost:1313/en/posts/2026/01/recursive-language-models/</link>
       <pubDate>Wed, 14 Jan 2026 06:49:31 +0100</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/recursive-language-models/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/recursive-language-models/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Reimagining LLM Memory: Using Context as Training Data Unlocks Models That Learn at Test-Time</title>
-      <link>https://ht-x.com/en/posts/2026/01/reimagining-llm-memory-using-context-as-training-d/</link>
+      <link>http://localhost:1313/en/posts/2026/01/reimagining-llm-memory-using-context-as-training-d/</link>
       <pubDate>Wed, 14 Jan 2026 06:05:01 +0100</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/reimagining-llm-memory-using-context-as-training-d/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/reimagining-llm-memory-using-context-as-training-d/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Show HN: Agent-of-Empires: OpenCode and Claude Code Session Manager</title>
-      <link>https://ht-x.com/en/posts/2026/01/show-hn-agent-of-empires-opencode-and-claude-code/</link>
+      <link>http://localhost:1313/en/posts/2026/01/show-hn-agent-of-empires-opencode-and-claude-code/</link>
       <pubDate>Mon, 12 Jan 2026 14:23:07 +0000</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/show-hn-agent-of-empires-opencode-and-claude-code/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/show-hn-agent-of-empires-opencode-and-claude-code/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>You Should Write an Agent · The Fly Blog</title>
-      <link>https://ht-x.com/en/posts/2026/01/you-should-write-an-agent-the-fly-blog/</link>
+      <link>http://localhost:1313/en/posts/2026/01/you-should-write-an-agent-the-fly-blog/</link>
       <pubDate>Fri, 09 Jan 2026 04:44:55 +0100</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/you-should-write-an-agent-the-fly-blog/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/you-should-write-an-agent-the-fly-blog/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Getting Started - SWE-agent Documentation</title>
-      <link>https://ht-x.com/en/posts/2026/01/getting-started-swe-agent-documentation/</link>
+      <link>http://localhost:1313/en/posts/2026/01/getting-started-swe-agent-documentation/</link>
       <pubDate>Fri, 09 Jan 2026 04:40:10 +0100</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/getting-started-swe-agent-documentation/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/getting-started-swe-agent-documentation/</guid>
       <description></description>
       
     </item>
@@ -322,110 +352,110 @@ Integrate Amp protocols into your agent to leverage its advanced capabilities. T
 **6. Testing and Validation**
 
 Thoroughly test</title>
-      <link>https://ht-x.com/en/posts/2026/01/how-to-build-an-agent-amp/</link>
+      <link>http://localhost:1313/en/posts/2026/01/how-to-build-an-agent-amp/</link>
       <pubDate>Fri, 09 Jan 2026 04:27:19 +0100</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/how-to-build-an-agent-amp/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/how-to-build-an-agent-amp/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>SAM Audio</title>
-      <link>https://ht-x.com/en/posts/2026/01/sam-audio/</link>
+      <link>http://localhost:1313/en/posts/2026/01/sam-audio/</link>
       <pubDate>Thu, 08 Jan 2026 07:44:55 +0100</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/sam-audio/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/sam-audio/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>We got Claude to fine-tune an open-source LLM.</title>
-      <link>https://ht-x.com/en/posts/2026/01/we-got-claude-to-fine-tune-an-open-source-llm/</link>
+      <link>http://localhost:1313/en/posts/2026/01/we-got-claude-to-fine-tune-an-open-source-llm/</link>
       <pubDate>Thu, 08 Jan 2026 07:16:27 +0100</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/we-got-claude-to-fine-tune-an-open-source-llm/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/we-got-claude-to-fine-tune-an-open-source-llm/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Use Claude Code with Chrome (beta) - Claude Code Documentation</title>
-      <link>https://ht-x.com/en/posts/2026/01/use-claude-code-with-chrome-beta-claude-code-docs/</link>
+      <link>http://localhost:1313/en/posts/2026/01/use-claude-code-with-chrome-beta-claude-code-docs/</link>
       <pubDate>Wed, 07 Jan 2026 06:24:23 +0100</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/use-claude-code-with-chrome-beta-claude-code-docs/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/use-claude-code-with-chrome-beta-claude-code-docs/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - microsoft/VibeVoice: Open-Source Voice AI</title>
-      <link>https://ht-x.com/en/posts/2026/01/github-microsoft-vibevoice-open-source-frontier-vo/</link>
+      <link>http://localhost:1313/en/posts/2026/01/github-microsoft-vibevoice-open-source-frontier-vo/</link>
       <pubDate>Tue, 06 Jan 2026 09:35:37 +0000</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/github-microsoft-vibevoice-open-source-frontier-vo/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/github-microsoft-vibevoice-open-source-frontier-vo/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - GVCLab/PersonaLive: PersonaLive! : Expressive Portrait Image Animation for Live Streaming</title>
-      <link>https://ht-x.com/en/posts/2026/01/github-gvclab-personalive-personalive-expressive-p/</link>
+      <link>http://localhost:1313/en/posts/2026/01/github-gvclab-personalive-personalive-expressive-p/</link>
       <pubDate>Tue, 06 Jan 2026 09:30:19 +0000</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/github-gvclab-personalive-personalive-expressive-p/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/github-gvclab-personalive-personalive-expressive-p/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - NevaMind-AI/memU: Memory infrastructure for large language models and AI agents</title>
-      <link>https://ht-x.com/en/posts/2026/01/github-nevamind-ai-memu-memory-infrastructure-for/</link>
+      <link>http://localhost:1313/en/posts/2026/01/github-nevamind-ai-memu-memory-infrastructure-for/</link>
       <pubDate>Tue, 06 Jan 2026 09:22:22 +0000</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/github-nevamind-ai-memu-memory-infrastructure-for/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/github-nevamind-ai-memu-memory-infrastructure-for/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - VibiumDev/vibium: Browser automation for AI agents and humans</title>
-      <link>https://ht-x.com/en/posts/2026/01/github-vibiumdev-vibium-browser-automation-for-ai/</link>
+      <link>http://localhost:1313/en/posts/2026/01/github-vibiumdev-vibium-browser-automation-for-ai/</link>
       <pubDate>Tue, 06 Jan 2026 09:12:49 +0000</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/github-vibiumdev-vibium-browser-automation-for-ai/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/github-vibiumdev-vibium-browser-automation-for-ai/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - yichuan-w/LEANN: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.</title>
-      <link>https://ht-x.com/en/posts/2026/01/github-yichuan-w-leann-rag-on-everything-with-lean/</link>
+      <link>http://localhost:1313/en/posts/2026/01/github-yichuan-w-leann-rag-on-everything-with-lean/</link>
       <pubDate>Tue, 06 Jan 2026 09:02:38 +0000</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/github-yichuan-w-leann-rag-on-everything-with-lean/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/github-yichuan-w-leann-rag-on-everything-with-lean/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - DGoettlich/history-llms: Information hub for our project training the largest possible historical language models.</title>
-      <link>https://ht-x.com/en/posts/2026/01/github-dgoettlich-history-llms-information-hub-for/</link>
+      <link>http://localhost:1313/en/posts/2026/01/github-dgoettlich-history-llms-information-hub-for/</link>
       <pubDate>Tue, 06 Jan 2026 06:44:37 +0000</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/github-dgoettlich-history-llms-information-hub-for/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/github-dgoettlich-history-llms-information-hub-for/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>LLMRouter - LLMRouter</title>
-      <link>https://ht-x.com/en/posts/2026/01/llmrouter-llmrouter/</link>
+      <link>http://localhost:1313/en/posts/2026/01/llmrouter-llmrouter/</link>
       <pubDate>Wed, 31 Dec 2025 08:11:53 +0100</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/llmrouter-llmrouter/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/llmrouter-llmrouter/</guid>
       <description></description>
       
     </item>
@@ -466,20 +496,20 @@ To manage our monorepo effectively, we use a combination of tools and technologi
 - **Infrastructure as Code (IaC)**: Terraform is our tool of choice for managing cloud infrastructure.
 - **Configuration Management**: Ansible is used for configuring and managing our servers and applications.
 - **Monitoring and Logging**: We use Prometheus and Grafana for monitoring,</title>
-      <link>https://ht-x.com/en/posts/2026/01/everything-as-code-how-we-manage-our-company-in-on/</link>
+      <link>http://localhost:1313/en/posts/2026/01/everything-as-code-how-we-manage-our-company-in-on/</link>
       <pubDate>Tue, 30 Dec 2025 22:31:13 +0100</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/everything-as-code-how-we-manage-our-company-in-on/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/everything-as-code-how-we-manage-our-company-in-on/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - Search code, repositories, users, issues, pull requests...: 🔥 A tool to analyze your website&#39;s AI-readiness, powered by Firecrawl</title>
-      <link>https://ht-x.com/en/posts/2026/01/github-search-code-repositories-users-issues-pull/</link>
+      <link>http://localhost:1313/en/posts/2026/01/github-search-code-repositories-users-issues-pull/</link>
       <pubDate>Tue, 16 Dec 2025 04:57:26 +0100</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/github-search-code-repositories-users-issues-pull/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/github-search-code-repositories-users-issues-pull/</guid>
       <description></description>
       
     </item>
@@ -488,10 +518,10 @@ To manage our monorepo effectively, we use a combination of tools and technologi
       <title>Fundamentals of Building Autonomous LLM Agents
 
 This paper is based on a seminar technical report from the course Trends in Autonomous Agents: Advances in Architecture and Practice offered at the Technical University of Munich (TUM).</title>
-      <link>https://ht-x.com/en/posts/2026/01/fundamentals-of-building-autonomous-llm-agents-thi/</link>
+      <link>http://localhost:1313/en/posts/2026/01/fundamentals-of-building-autonomous-llm-agents-thi/</link>
       <pubDate>Thu, 11 Dec 2025 03:32:44 +0100</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/fundamentals-of-building-autonomous-llm-agents-thi/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/fundamentals-of-building-autonomous-llm-agents-thi/</guid>
       <description></description>
       
     </item>
@@ -520,30 +550,30 @@ Key Features:
 8. **User-Friendly Interface**: Benefit from an intuitive and user-friendly interface that simplifies complex database tasks. The MCP Toolbox is designed with ease of use in mind, making it accessible to both novice and experienced users.
 
 The MCP Toolbox for Databases is an essential tool for anyone involved in database management. Its comprehensive features and cross-platform compatibility make it a valuable asset for optimizing database performance, ensuring data security, and enhancing overall productivity.</title>
-      <link>https://ht-x.com/en/posts/2026/01/introduction-mcp-toolbox-for-databases/</link>
+      <link>http://localhost:1313/en/posts/2026/01/introduction-mcp-toolbox-for-databases/</link>
       <pubDate>Tue, 02 Dec 2025 23:47:04 +0100</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/introduction-mcp-toolbox-for-databases/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/introduction-mcp-toolbox-for-databases/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Google Antigravity is not a recognized term or product associated with Google. It seems like a fictional or humorous concept. If you&#39;re referring to something specific, could you please provide more context?</title>
-      <link>https://ht-x.com/en/posts/2026/01/google-antigravity/</link>
+      <link>http://localhost:1313/en/posts/2026/01/google-antigravity/</link>
       <pubDate>Wed, 19 Nov 2025 08:03:59 +0100</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/google-antigravity/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/google-antigravity/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Gemini 3: Introducing the latest Gemini AI model from Google</title>
-      <link>https://ht-x.com/en/posts/2026/01/gemini-3-introducing-the-latest-gemini-ai-model-fr/</link>
+      <link>http://localhost:1313/en/posts/2026/01/gemini-3-introducing-the-latest-gemini-ai-model-fr/</link>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://ht-x.com/en/posts/2026/01/gemini-3-introducing-the-latest-gemini-ai-model-fr/</guid>
+      <guid>http://localhost:1313/en/posts/2026/01/gemini-3-introducing-the-latest-gemini-ai-model-fr/</guid>
       <description></description>
       
     </item>
