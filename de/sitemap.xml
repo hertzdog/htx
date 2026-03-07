@@ -34,37 +34,6 @@
     />
   </url>
   <url>
-    <loc>https://ht-x.com/de/posts/2026/03/microgpt/</loc>
-    <lastmod>2026-03-01T22:10:21+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://ht-x.com/posts/2026/03/microgpt/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ht-x.com/en/posts/2026/03/microgpt/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://ht-x.com/fr/posts/2026/03/microgpt/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://ht-x.com/es/posts/2026/03/microgpt/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://ht-x.com/de/posts/2026/03/microgpt/"
-    />
-  </url>
-  <url>
     <loc>https://ht-x.com/de/</loc>
     <lastmod>2026-03-01T22:10:21+01:00</lastmod>
     <changefreq>daily</changefreq>
@@ -93,6 +62,37 @@
       rel="alternate"
       hreflang="de"
       href="https://ht-x.com/de/"
+    />
+  </url>
+  <url>
+    <loc>https://ht-x.com/de/posts/2026/03/microgpt/</loc>
+    <lastmod>2026-03-01T22:10:21+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/posts/2026/03/microgpt/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/en/posts/2026/03/microgpt/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/posts/2026/03/microgpt/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/posts/2026/03/microgpt/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/posts/2026/03/microgpt/"
     />
   </url>
   <url>
@@ -8559,33 +8559,93 @@
     />
   </url>
   <url>
-    <loc>https://ht-x.com/de/arisql/</loc>
+    <loc>https://ht-x.com/de/koi/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://ht-x.com/en/arisql/"
+      href="https://ht-x.com/en/koi/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://ht-x.com/arisql/"
+      href="https://ht-x.com/koi/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://ht-x.com/fr/arisql/"
+      href="https://ht-x.com/fr/koi/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://ht-x.com/es/arisql/"
+      href="https://ht-x.com/es/koi/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://ht-x.com/de/arisql/"
+      href="https://ht-x.com/de/koi/"
+    />
+  </url>
+  <url>
+    <loc>https://ht-x.com/de/manta/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/manta/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/en/manta/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/manta/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/manta/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/manta/"
+    />
+  </url>
+  <url>
+    <loc>https://ht-x.com/de/orca/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/orca/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/en/orca/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/orca/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/orca/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/orca/"
     />
   </url>
   <url>

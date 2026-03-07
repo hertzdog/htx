@@ -34,37 +34,6 @@
     />
   </url>
   <url>
-    <loc>https://ht-x.com/en/posts/2026/03/microgpt/</loc>
-    <lastmod>2026-03-01T22:10:21+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://ht-x.com/posts/2026/03/microgpt/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://ht-x.com/fr/posts/2026/03/microgpt/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://ht-x.com/de/posts/2026/03/microgpt/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://ht-x.com/es/posts/2026/03/microgpt/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ht-x.com/en/posts/2026/03/microgpt/"
-    />
-  </url>
-  <url>
     <loc>https://ht-x.com/en/</loc>
     <lastmod>2026-03-01T22:10:21+01:00</lastmod>
     <changefreq>daily</changefreq>
@@ -93,6 +62,37 @@
       rel="alternate"
       hreflang="en"
       href="https://ht-x.com/en/"
+    />
+  </url>
+  <url>
+    <loc>https://ht-x.com/en/posts/2026/03/microgpt/</loc>
+    <lastmod>2026-03-01T22:10:21+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/posts/2026/03/microgpt/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/posts/2026/03/microgpt/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/posts/2026/03/microgpt/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/posts/2026/03/microgpt/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/en/posts/2026/03/microgpt/"
     />
   </url>
   <url>
@@ -8559,36 +8559,6 @@
     />
   </url>
   <url>
-    <loc>https://ht-x.com/en/arisql/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://ht-x.com/arisql/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://ht-x.com/fr/arisql/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://ht-x.com/de/arisql/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://ht-x.com/es/arisql/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ht-x.com/en/arisql/"
-    />
-  </url>
-  <url>
     <loc>https://ht-x.com/en/chi-siamo/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -8616,6 +8586,96 @@
       rel="alternate"
       hreflang="en"
       href="https://ht-x.com/en/chi-siamo/"
+    />
+  </url>
+  <url>
+    <loc>https://ht-x.com/en/koi/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/koi/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/koi/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/koi/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/koi/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/en/koi/"
+    />
+  </url>
+  <url>
+    <loc>https://ht-x.com/en/manta/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/manta/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/manta/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/manta/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/manta/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/en/manta/"
+    />
+  </url>
+  <url>
+    <loc>https://ht-x.com/en/orca/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/orca/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/orca/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/orca/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/orca/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/en/orca/"
     />
   </url>
 </urlset>

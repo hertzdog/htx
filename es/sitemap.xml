@@ -8559,33 +8559,93 @@
     />
   </url>
   <url>
-    <loc>https://ht-x.com/es/arisql/</loc>
+    <loc>https://ht-x.com/es/koi/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://ht-x.com/en/arisql/"
+      href="https://ht-x.com/en/koi/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://ht-x.com/arisql/"
+      href="https://ht-x.com/koi/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://ht-x.com/fr/arisql/"
+      href="https://ht-x.com/fr/koi/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://ht-x.com/de/arisql/"
+      href="https://ht-x.com/de/koi/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://ht-x.com/es/arisql/"
+      href="https://ht-x.com/es/koi/"
+    />
+  </url>
+  <url>
+    <loc>https://ht-x.com/es/manta/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/manta/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/en/manta/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/manta/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/manta/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/manta/"
+    />
+  </url>
+  <url>
+    <loc>https://ht-x.com/es/orca/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/orca/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/en/orca/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/orca/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/orca/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/orca/"
     />
   </url>
   <url>
