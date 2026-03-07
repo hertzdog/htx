@@ -4,7 +4,7 @@
   dir="ltr"
   class="scroll-smooth"
   data-default-appearance="light"
-  data-auto-appearance="false"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  data-auto-appearance="false"><head>
   <meta charset="utf-8">
   
     <meta http-equiv="content-language" content="fr">
@@ -22,7 +22,7 @@
   <meta name="keywords" content="LLM,AI,Best Practices,Foundation Model,">
   
   
-  <link rel="canonical" href="http://localhost:1313/fr/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through/">
+  <link rel="canonical" href="https://ht-x.com/fr/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through/">
   
   
   
@@ -96,7 +96,7 @@
   
 
   
-  <meta property="og:url" content="http://localhost:1313/fr/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through/">
+  <meta property="og:url" content="https://ht-x.com/fr/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through/">
   <meta property="og:site_name" content="HUMAN TECHNOLOGY eXCELLENCE">
   <meta property="og:title" content="DeepSeek-R1 incite la raisonnement dans les modèles de langage par apprentissage par renforcement | Nature">
   <meta property="og:description" content="Le raisonnement général représente un défi de longue date et formidable en intelligence artificielle (IA). Les récentes avancées, illustrées par les grands modèles de langage (LLMs)1,2 et l&#39;invitation à la réflexion en chaîne (CoT)3, ont obtenu un succès considérable sur les tâches de raisonnement fondamentales. Cependant, ce succès repose fortement sur des démonstrations annotées par des humains et les capacités des modèles sont encore insuffisantes pour des problèmes plus complexes. Ici, nous montrons que les capacités de raisonnement des LLMs peuvent être encouragées par le biais de l&#39;apprentissage par renforcement (RL) pur, éliminant ainsi le besoin de trajectoires de raisonnement étiquetées par des humains. Le cadre RL proposé facilite le développement émergent de motifs de raisonnement avancés, tels que l&#39;auto-réflexion, la vérification et l&#39;adaptation dynamique des stratégies. Par conséquent, le modèle formé atteint une performance supérieure sur des tâches vérifiables telles que les mathématiques, les compétitions de codage et les domaines STEM, surpassant ses homologues formés par apprentissage supervisé conventionnel sur des démonstrations humaines. De plus, les motifs de raisonnement émergents exhibés par ces grands modèles peuvent être utilisés de manière systématique pour guider et améliorer les capacités de raisonnement des modèles plus petits. Un nouveau modèle d&#39;intelligence artificielle, DeepSeek-R1, est introduit, démontrant que les capacités de raisonnement des grands modèles de langage peuvent être encouragées par le biais de l&#39;apprentissage par renforcement pur, supprimant le besoin de démonstrations annotées par des humains.">
@@ -109,20 +109,20 @@
     <meta property="article:tag" content="AI">
     <meta property="article:tag" content="Best Practices">
     <meta property="article:tag" content="Foundation Model">
-    <meta property="og:image" content="http://localhost:1313/images/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through-reinforcement-learning-featured.webp">
-    <meta property="og:image" content="http://localhost:1313/images/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through-reinforcement-learning-4.webp">
-    <meta property="og:image" content="http://localhost:1313/images/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through-reinforcement-learning-5.webp">
-      <meta property="og:see_also" content="http://localhost:1313/fr/posts/2026/03/microgpt/">
-      <meta property="og:see_also" content="http://localhost:1313/fr/posts/2026/03/glm-5/">
-      <meta property="og:see_also" content="http://localhost:1313/fr/posts/2026/02/pourquoi-votre-entreprise-a-besoin-d-ia-privee/">
-      <meta property="og:see_also" content="http://localhost:1313/fr/posts/2026/03/step-3-5-flash-fast-enough-to-think-reliable-enoug/">
-      <meta property="og:see_also" content="http://localhost:1313/fr/posts/2026/02/keycloak/">
-      <meta property="og:see_also" content="http://localhost:1313/fr/posts/2026/02/github-zai-org-glm-ocr-glm-ocr-accurate-x-fast-x-c/">
-      <meta property="og:see_also" content="http://localhost:1313/fr/posts/2026/02/github-ericlbuehler-mistral-rs-fast-flexible-llm-i/">
+    <meta property="og:image" content="https://ht-x.com/images/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through-reinforcement-learning-featured.webp">
+    <meta property="og:image" content="https://ht-x.com/images/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through-reinforcement-learning-4.webp">
+    <meta property="og:image" content="https://ht-x.com/images/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through-reinforcement-learning-5.webp">
+      <meta property="og:see_also" content="https://ht-x.com/fr/posts/2026/03/microgpt/">
+      <meta property="og:see_also" content="https://ht-x.com/fr/posts/2026/03/glm-5/">
+      <meta property="og:see_also" content="https://ht-x.com/fr/posts/2026/02/pourquoi-votre-entreprise-a-besoin-d-ia-privee/">
+      <meta property="og:see_also" content="https://ht-x.com/fr/posts/2026/03/step-3-5-flash-fast-enough-to-think-reliable-enoug/">
+      <meta property="og:see_also" content="https://ht-x.com/fr/posts/2026/02/keycloak/">
+      <meta property="og:see_also" content="https://ht-x.com/fr/posts/2026/02/github-zai-org-glm-ocr-glm-ocr-accurate-x-fast-x-c/">
+      <meta property="og:see_also" content="https://ht-x.com/fr/posts/2026/02/github-ericlbuehler-mistral-rs-fast-flexible-llm-i/">
 
   
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="http://localhost:1313/images/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through-reinforcement-learning-featured.webp">
+  <meta name="twitter:image" content="https://ht-x.com/images/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through-reinforcement-learning-featured.webp">
   <meta name="twitter:title" content="DeepSeek-R1 incite la raisonnement dans les modèles de langage par apprentissage par renforcement | Nature">
   <meta name="twitter:description" content="Le raisonnement général représente un défi de longue date et formidable en intelligence artificielle (IA). Les récentes avancées, illustrées par les grands modèles de langage (LLMs)1,2 et l&#39;invitation à la réflexion en chaîne (CoT)3, ont obtenu un succès considérable sur les tâches de raisonnement fondamentales. Cependant, ce succès repose fortement sur des démonstrations annotées par des humains et les capacités des modèles sont encore insuffisantes pour des problèmes plus complexes. Ici, nous montrons que les capacités de raisonnement des LLMs peuvent être encouragées par le biais de l&#39;apprentissage par renforcement (RL) pur, éliminant ainsi le besoin de trajectoires de raisonnement étiquetées par des humains. Le cadre RL proposé facilite le développement émergent de motifs de raisonnement avancés, tels que l&#39;auto-réflexion, la vérification et l&#39;adaptation dynamique des stratégies. Par conséquent, le modèle formé atteint une performance supérieure sur des tâches vérifiables telles que les mathématiques, les compétitions de codage et les domaines STEM, surpassant ses homologues formés par apprentissage supervisé conventionnel sur des démonstrations humaines. De plus, les motifs de raisonnement émergents exhibés par ces grands modèles peuvent être utilisés de manière systématique pour guider et améliorer les capacités de raisonnement des modèles plus petits. Un nouveau modèle d&#39;intelligence artificielle, DeepSeek-R1, est introduit, démontrant que les capacités de raisonnement des grands modèles de langage peuvent être encouragées par le biais de l&#39;apprentissage par renforcement pur, supprimant le besoin de démonstrations annotées par des humains.">
 
@@ -136,7 +136,7 @@
     "description": "Le raisonnement général représente un défi de longue date et formidable en intelligence artificielle (IA). Les récentes avancées, illustrées par les grands modèles de langage (LLMs)1,2 et l\u0027invitation à la réflexion en chaîne (CoT)3, ont obtenu un succès considérable sur les tâches de raisonnement fondamentales. Cependant, ce succès repose fortement sur des démonstrations annotées par des humains et les capacités des modèles sont encore insuffisantes pour des problèmes plus complexes. Ici, nous montrons que les capacités de raisonnement des LLMs peuvent être encouragées par le biais de l\u0027apprentissage par renforcement (RL) pur, éliminant ainsi le besoin de trajectoires de raisonnement étiquetées par des humains. Le cadre RL proposé facilite le développement émergent de motifs de raisonnement avancés, tels que l\u0027auto-réflexion, la vérification et l\u0027adaptation dynamique des stratégies. Par conséquent, le modèle formé atteint une performance supérieure sur des tâches vérifiables telles que les mathématiques, les compétitions de codage et les domaines STEM, surpassant ses homologues formés par apprentissage supervisé conventionnel sur des démonstrations humaines. De plus, les motifs de raisonnement émergents exhibés par ces grands modèles peuvent être utilisés de manière systématique pour guider et améliorer les capacités de raisonnement des modèles plus petits. Un nouveau modèle d\u0027intelligence artificielle, DeepSeek-R1, est introduit, démontrant que les capacités de raisonnement des grands modèles de langage peuvent être encouragées par le biais de l\u0027apprentissage par renforcement pur, supprimant le besoin de démonstrations annotées par des humains.",
     
     "inLanguage": "fr",
-    "url" : "http:\/\/localhost:1313\/fr\/posts\/2025\/09\/deepseek-r1-incentivizes-reasoning-in-llms-through\/",
+    "url" : "https:\/\/ht-x.com\/fr\/posts\/2025\/09\/deepseek-r1-incentivizes-reasoning-in-llms-through\/",
     "author" : {
       "@type": "Person",
       "name": ""
@@ -6622,7 +6622,7 @@ Traduction: Voxtral | Mistral IA
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh] z-500"
-  data-url="http://localhost:1313/fr/">
+  data-url="https://ht-x.com/fr/">
   <div
     id="search-modal"
     class="flex flex-col w-full max-w-3xl min-h-0 mx-auto border rounded-md shadow-lg top-20 border-neutral-200 bg-neutral dark:border-neutral-700 dark:bg-neutral-800">

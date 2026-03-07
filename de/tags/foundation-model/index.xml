@@ -2,599 +2,599 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Foundation Model on HUMAN TECHNOLOGY eXCELLENCE</title>
-    <link>http://localhost:1313/de/tags/foundation-model/</link>
+    <link>https://ht-x.com/de/tags/foundation-model/</link>
     <description>Recent content in Foundation Model on HUMAN TECHNOLOGY eXCELLENCE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Sun, 25 Jan 2026 18:36:11 +0100</lastBuildDate><atom:link href="http://localhost:1313/de/tags/foundation-model/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Jan 2026 18:36:11 +0100</lastBuildDate><atom:link href="https://ht-x.com/de/tags/foundation-model/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bedingtes Gedächtnis durch skalierbare Suche: Eine neue Achse der Sparsität für große Sprachmodelle</title>
-      <link>http://localhost:1313/de/posts/2026/01/conditional-memory-via-scalable-lookup-a-new-axis/</link>
+      <link>https://ht-x.com/de/posts/2026/01/conditional-memory-via-scalable-lookup-a-new-axis/</link>
       <pubDate>Sun, 25 Jan 2026 18:36:11 +0100</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2026/01/conditional-memory-via-scalable-lookup-a-new-axis/</guid>
+      <guid>https://ht-x.com/de/posts/2026/01/conditional-memory-via-scalable-lookup-a-new-axis/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>NVIDIA PersonaPlex: Natürliche Gesprächs-KI mit jeder Rolle und Stimme - NVIDIA ADLR</title>
-      <link>http://localhost:1313/de/posts/2026/01/nvidia-personaplex-natural-conversational-ai-with/</link>
+      <link>https://ht-x.com/de/posts/2026/01/nvidia-personaplex-natural-conversational-ai-with/</link>
       <pubDate>Sat, 24 Jan 2026 05:03:07 +0100</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2026/01/nvidia-personaplex-natural-conversational-ai-with/</guid>
+      <guid>https://ht-x.com/de/posts/2026/01/nvidia-personaplex-natural-conversational-ai-with/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ask HN: Wie kann man Modellen am besten kontinuierlichen Kontext bieten?</title>
-      <link>http://localhost:1313/de/posts/2026/01/ask-hn-what-is-the-best-way-to-provide-continuous/</link>
+      <link>https://ht-x.com/de/posts/2026/01/ask-hn-what-is-the-best-way-to-provide-continuous/</link>
       <pubDate>Thu, 15 Jan 2026 01:20:22 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2026/01/ask-hn-what-is-the-best-way-to-provide-continuous/</guid>
+      <guid>https://ht-x.com/de/posts/2026/01/ask-hn-what-is-the-best-way-to-provide-continuous/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Rekursive Sprachmodelle</title>
-      <link>http://localhost:1313/de/posts/2026/01/recursive-language-models/</link>
+      <link>https://ht-x.com/de/posts/2026/01/recursive-language-models/</link>
       <pubDate>Wed, 14 Jan 2026 06:49:31 +0100</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2026/01/recursive-language-models/</guid>
+      <guid>https://ht-x.com/de/posts/2026/01/recursive-language-models/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>LLM-Gedächtnis neu denken: Die Nutzung von Kontext als Trainingsdaten entsperrt Modelle, die im Testzeitpunkt lernen</title>
-      <link>http://localhost:1313/de/posts/2026/01/reimagining-llm-memory-using-context-as-training-d/</link>
+      <link>https://ht-x.com/de/posts/2026/01/reimagining-llm-memory-using-context-as-training-d/</link>
       <pubDate>Wed, 14 Jan 2026 06:05:01 +0100</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2026/01/reimagining-llm-memory-using-context-as-training-d/</guid>
+      <guid>https://ht-x.com/de/posts/2026/01/reimagining-llm-memory-using-context-as-training-d/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Wir stellen Olmo 3 vor, unsere nächste Familie vollständig offener, führender Sprachmodelle.</title>
-      <link>http://localhost:1313/de/posts/2025/11/we-present-olmo-3-our-next-family-of-fully-open-le/</link>
+      <link>https://ht-x.com/de/posts/2025/11/we-present-olmo-3-our-next-family-of-fully-open-le/</link>
       <pubDate>Sat, 22 Nov 2025 03:33:18 +0100</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/11/we-present-olmo-3-our-next-family-of-fully-open-le/</guid>
+      <guid>https://ht-x.com/de/posts/2025/11/we-present-olmo-3-our-next-family-of-fully-open-le/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>A2UI wird zu A2UI.</title>
-      <link>http://localhost:1313/de/posts/2025/11/a2ui/</link>
+      <link>https://ht-x.com/de/posts/2025/11/a2ui/</link>
       <pubDate>Sat, 22 Nov 2025 03:16:02 +0100</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/11/a2ui/</guid>
+      <guid>https://ht-x.com/de/posts/2025/11/a2ui/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Nano Banana Pro: Gemini 3 Pro Bildmodell von Google DeepMind</title>
-      <link>http://localhost:1313/de/posts/2025/11/nano-banana-pro-gemini-3-pro-image-model-from-goog/</link>
+      <link>https://ht-x.com/de/posts/2025/11/nano-banana-pro-gemini-3-pro-image-model-from-goog/</link>
       <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/11/nano-banana-pro-gemini-3-pro-image-model-from-goog/</guid>
+      <guid>https://ht-x.com/de/posts/2025/11/nano-banana-pro-gemini-3-pro-image-model-from-goog/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Superchargen Sie Ihre OCR-Pipelines mit Open Models</title>
-      <link>http://localhost:1313/de/posts/2025/11/supercharge-your-ocr-pipelines-with-open-models/</link>
+      <link>https://ht-x.com/de/posts/2025/11/supercharge-your-ocr-pipelines-with-open-models/</link>
       <pubDate>Tue, 18 Nov 2025 03:33:45 +0100</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/11/supercharge-your-ocr-pipelines-with-open-models/</guid>
+      <guid>https://ht-x.com/de/posts/2025/11/supercharge-your-ocr-pipelines-with-open-models/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Gemini 3: Vorstellung des neuesten Gemini-KI-Modells von Google</title>
-      <link>http://localhost:1313/de/posts/2026/01/gemini-3-introducing-the-latest-gemini-ai-model-fr/</link>
+      <link>https://ht-x.com/de/posts/2026/01/gemini-3-introducing-the-latest-gemini-ai-model-fr/</link>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2026/01/gemini-3-introducing-the-latest-gemini-ai-model-fr/</guid>
+      <guid>https://ht-x.com/de/posts/2026/01/gemini-3-introducing-the-latest-gemini-ai-model-fr/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>sagten, wir sollten die Tokenizer löschen</title>
-      <link>http://localhost:1313/de/posts/2025/11/said-we-should-delete-tokenizers/</link>
+      <link>https://ht-x.com/de/posts/2025/11/said-we-should-delete-tokenizers/</link>
       <pubDate>Sat, 08 Nov 2025 07:50:55 +0100</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/11/said-we-should-delete-tokenizers/</guid>
+      <guid>https://ht-x.com/de/posts/2025/11/said-we-should-delete-tokenizers/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🚀 Hallo, Kimi K2 Denken! Das Open-Source-Denkagentenmodell ist da!</title>
-      <link>http://localhost:1313/de/posts/2025/11/hello-kimi-k2-thinking-the-open-source-thinking-ag/</link>
+      <link>https://ht-x.com/de/posts/2025/11/hello-kimi-k2-thinking-the-open-source-thinking-ag/</link>
       <pubDate>Thu, 06 Nov 2025 21:43:16 +0100</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/11/hello-kimi-k2-thinking-the-open-source-thinking-ag/</guid>
+      <guid>https://ht-x.com/de/posts/2025/11/hello-kimi-k2-thinking-the-open-source-thinking-ag/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Vielen Dank an Bharat, dass ihr der Welt gezeigt habt, dass ihr es tatsächlich könnt...</title>
-      <link>http://localhost:1313/de/posts/2025/11/source-thanks-and-bharat-for-showing-the-world-you/</link>
+      <link>https://ht-x.com/de/posts/2025/11/source-thanks-and-bharat-for-showing-the-world-you/</link>
       <pubDate>Wed, 05 Nov 2025 19:58:24 +0100</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/11/source-thanks-and-bharat-for-showing-the-world-you/</guid>
+      <guid>https://ht-x.com/de/posts/2025/11/source-thanks-and-bharat-for-showing-the-world-you/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tongyi DeepResearch: Ein neues Zeitalter der Open-Source-AI-Forscher | Tongyi DeepResearch</title>
-      <link>http://localhost:1313/de/posts/2025/11/tongyi-deepresearch-a-new-era-of-open-source-ai-re/</link>
+      <link>https://ht-x.com/de/posts/2025/11/tongyi-deepresearch-a-new-era-of-open-source-ai-re/</link>
       <pubDate>Mon, 03 Nov 2025 07:43:50 +0100</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/11/tongyi-deepresearch-a-new-era-of-open-source-ai-re/</guid>
+      <guid>https://ht-x.com/de/posts/2025/11/tongyi-deepresearch-a-new-era-of-open-source-ai-re/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>MiniMax-M2</title>
-      <link>http://localhost:1313/de/posts/2025/10/minimax-m2/</link>
+      <link>https://ht-x.com/de/posts/2025/10/minimax-m2/</link>
       <pubDate>Fri, 31 Oct 2025 06:42:38 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/10/minimax-m2/</guid>
+      <guid>https://ht-x.com/de/posts/2025/10/minimax-m2/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Mir gefällt der neue DeepSeek-OCR-Paper ganz gut.</title>
-      <link>http://localhost:1313/de/posts/2025/10/i-quite-like-the-new-deepseek-ocr-paper/</link>
+      <link>https://ht-x.com/de/posts/2025/10/i-quite-like-the-new-deepseek-ocr-paper/</link>
       <pubDate>Thu, 23 Oct 2025 06:34:30 +0200</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/10/i-quite-like-the-new-deepseek-ocr-paper/</guid>
+      <guid>https://ht-x.com/de/posts/2025/10/i-quite-like-the-new-deepseek-ocr-paper/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>olmOCR 2: Belohnungen für Unit-Tests für Dokumenten-OCR | Ai2</title>
-      <link>http://localhost:1313/de/posts/2025/10/olmocr-2-unit-test-rewards-for-document-ocr-ai2/</link>
+      <link>https://ht-x.com/de/posts/2025/10/olmocr-2-unit-test-rewards-for-document-ocr-ai2/</link>
       <pubDate>Wed, 22 Oct 2025 22:14:31 +0200</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/10/olmocr-2-unit-test-rewards-for-document-ocr-ai2/</guid>
+      <guid>https://ht-x.com/de/posts/2025/10/olmocr-2-unit-test-rewards-for-document-ocr-ai2/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Wie man konsistente Klassifizierung von inkonsistenten LLMs erhält?</title>
-      <link>http://localhost:1313/de/posts/2025/10/how-to-get-consistent-classification-from-inconsis/</link>
+      <link>https://ht-x.com/de/posts/2025/10/how-to-get-consistent-classification-from-inconsis/</link>
       <pubDate>Tue, 21 Oct 2025 07:33:04 +0200</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/10/how-to-get-consistent-classification-from-inconsis/</guid>
+      <guid>https://ht-x.com/de/posts/2025/10/how-to-get-consistent-classification-from-inconsis/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Stanfords KURSE SIND KOSTENLOS [2024 &amp; 2025] ❯ CS230 - Deep Learning...</title>
-      <link>http://localhost:1313/de/posts/2025/10/stanford-s-all-free-courses-2024-2025-cs230-deep-l/</link>
+      <link>https://ht-x.com/de/posts/2025/10/stanford-s-all-free-courses-2024-2025-cs230-deep-l/</link>
       <pubDate>Sun, 19 Oct 2025 02:59:45 +0200</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/10/stanford-s-all-free-courses-2024-2025-cs230-deep-l/</guid>
+      <guid>https://ht-x.com/de/posts/2025/10/stanford-s-all-free-courses-2024-2025-cs230-deep-l/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>PaddleOCR-VL: Verbesserung der mehrsprachigen Dokumentenverarbeitung durch ein 0,9 Milliarden Parameter umfassendes, ultra-kompaktes Vision-Sprache-Modell</title>
-      <link>http://localhost:1313/de/posts/2025/10/paddleocr-vl-boosting-multilingual-document-parsin/</link>
+      <link>https://ht-x.com/de/posts/2025/10/paddleocr-vl-boosting-multilingual-document-parsin/</link>
       <pubDate>Sat, 18 Oct 2025 03:53:02 +0200</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/10/paddleocr-vl-boosting-multilingual-document-parsin/</guid>
+      <guid>https://ht-x.com/de/posts/2025/10/paddleocr-vl-boosting-multilingual-document-parsin/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>NeuTTS Air</title>
-      <link>http://localhost:1313/de/posts/2025/10/neutts-air/</link>
+      <link>https://ht-x.com/de/posts/2025/10/neutts-air/</link>
       <pubDate>Tue, 14 Oct 2025 06:32:59 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/10/neutts-air/</guid>
+      <guid>https://ht-x.com/de/posts/2025/10/neutts-air/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Mein Trick für konsistente Klassifizierung von LLMs</title>
-      <link>http://localhost:1313/de/posts/2025/10/my-trick-for-getting-consistent-classification-fro/</link>
+      <link>https://ht-x.com/de/posts/2025/10/my-trick-for-getting-consistent-classification-fro/</link>
       <pubDate>Mon, 13 Oct 2025 18:01:07 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/10/my-trick-for-getting-consistent-classification-fro/</guid>
+      <guid>https://ht-x.com/de/posts/2025/10/my-trick-for-getting-consistent-classification-fro/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>EU-gefördertes TildeOpen LLM liefert europäischen Durchbruch bei KI für mehrsprachige Innovation | Gestaltung der digitalen Zukunft Europas</title>
-      <link>http://localhost:1313/de/posts/2025/10/eu-funded-tildeopen-llm-delivers-european-ai-break/</link>
+      <link>https://ht-x.com/de/posts/2025/10/eu-funded-tildeopen-llm-delivers-european-ai-break/</link>
       <pubDate>Fri, 03 Oct 2025 07:47:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/10/eu-funded-tildeopen-llm-delivers-european-ai-break/</guid>
+      <guid>https://ht-x.com/de/posts/2025/10/eu-funded-tildeopen-llm-delivers-european-ai-break/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Qwen-Bild</title>
-      <link>http://localhost:1313/de/posts/2025/09/qwen-image/</link>
+      <link>https://ht-x.com/de/posts/2025/09/qwen-image/</link>
       <pubDate>Tue, 23 Sep 2025 16:14:19 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/qwen-image/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/qwen-image/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Riesige Marktchance für KI im Jahr 2025</title>
-      <link>http://localhost:1313/de/posts/2025/09/huge-ai-market-opportunity-in-2025/</link>
+      <link>https://ht-x.com/de/posts/2025/09/huge-ai-market-opportunity-in-2025/</link>
       <pubDate>Thu, 18 Sep 2025 04:52:37 +0200</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/huge-ai-market-opportunity-in-2025/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/huge-ai-market-opportunity-in-2025/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>dots.ocr: Mehrsprachige Dokumentenlayout-Analyse in einem einzigen Vision-Sprache-Modell</title>
-      <link>http://localhost:1313/de/posts/2025/09/dots-ocr-multilingual-document-layout-parsing-in-a/</link>
+      <link>https://ht-x.com/de/posts/2025/09/dots-ocr-multilingual-document-layout-parsing-in-a/</link>
       <pubDate>Sun, 14 Sep 2025 15:17:44 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/dots-ocr-multilingual-document-layout-parsing-in-a/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/dots-ocr-multilingual-document-layout-parsing-in-a/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Kleine Modelle sind die Zukunft der agentischen KI</title>
-      <link>http://localhost:1313/de/posts/2025/09/small-models-are-the-future-of-agentic-ai/</link>
+      <link>https://ht-x.com/de/posts/2025/09/small-models-are-the-future-of-agentic-ai/</link>
       <pubDate>Thu, 11 Sep 2025 10:24:30 +0200</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/small-models-are-the-future-of-agentic-ai/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/small-models-are-the-future-of-agentic-ai/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Kimi K2: Offene Agentische Intelligenz</title>
-      <link>http://localhost:1313/de/posts/2025/09/kimi-k2-open-agentic-intelligence/</link>
+      <link>https://ht-x.com/de/posts/2025/09/kimi-k2-open-agentic-intelligence/</link>
       <pubDate>Sat, 06 Sep 2025 14:08:39 +0200</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/kimi-k2-open-agentic-intelligence/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/kimi-k2-open-agentic-intelligence/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Vorstellung von Qwen3-Max-Vorschau (Instruct)</title>
-      <link>http://localhost:1313/de/posts/2025/09/introducing-qwen3-max-preview-instruct/</link>
+      <link>https://ht-x.com/de/posts/2025/09/introducing-qwen3-max-preview-instruct/</link>
       <pubDate>Sat, 06 Sep 2025 14:05:23 +0200</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/introducing-qwen3-max-preview-instruct/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/introducing-qwen3-max-preview-instruct/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>VibeVoice: Ein Open-Source Text-to-Speech Modell an der Frontier</title>
-      <link>http://localhost:1313/de/posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/</link>
+      <link>https://ht-x.com/de/posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/</link>
       <pubDate>Wed, 03 Sep 2025 10:44:01 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Apertus 70B: Wirklich offen - Schweizer LLM von ETH, EPFL und CSCS</title>
-      <link>http://localhost:1313/de/posts/2025/09/apertus-70b-truly-open-swiss-llm-by-eth-epfl-and-c/</link>
+      <link>https://ht-x.com/de/posts/2025/09/apertus-70b-truly-open-swiss-llm-by-eth-epfl-and-c/</link>
       <pubDate>Tue, 02 Sep 2025 20:14:51 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/apertus-70b-truly-open-swiss-llm-by-eth-epfl-and-c/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/apertus-70b-truly-open-swiss-llm-by-eth-epfl-and-c/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Alexander Kruel - Links für den 24. August 2025</title>
-      <link>http://localhost:1313/de/posts/2025/09/alexander-kruel-links-for-2025-08-24/</link>
+      <link>https://ht-x.com/de/posts/2025/09/alexander-kruel-links-for-2025-08-24/</link>
       <pubDate>Mon, 25 Aug 2025 04:34:27 +0200</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/alexander-kruel-links-for-2025-08-24/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/alexander-kruel-links-for-2025-08-24/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>DSPy</title>
-      <link>http://localhost:1313/de/posts/2025/09/dspy/</link>
+      <link>https://ht-x.com/de/posts/2025/09/dspy/</link>
       <pubDate>Mon, 25 Aug 2025 04:11:52 +0200</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/dspy/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/dspy/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ein Großes Sprachmodell (Von Grund Auf) Bauen</title>
-      <link>http://localhost:1313/de/posts/2025/09/build-a-large-language-model-from-scratch/</link>
+      <link>https://ht-x.com/de/posts/2025/09/build-a-large-language-model-from-scratch/</link>
       <pubDate>Thu, 21 Aug 2025 08:47:45 +0200</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/build-a-large-language-model-from-scratch/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/build-a-large-language-model-from-scratch/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>CS294/194-196 Agenten für große Sprachmodelle | CS 194/294-196 Agenten für große Sprachmodelle</title>
-      <link>http://localhost:1313/de/posts/2025/09/cs294-194-196-large-language-model-agents-cs-194-2/</link>
+      <link>https://ht-x.com/de/posts/2025/09/cs294-194-196-large-language-model-agents-cs-194-2/</link>
       <pubDate>Tue, 19 Aug 2025 04:35:05 +0200</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/cs294-194-196-large-language-model-agents-cs-194-2/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/cs294-194-196-large-language-model-agents-cs-194-2/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Claudia – Desktop-Begleiter für Claude-Code</title>
-      <link>http://localhost:1313/de/posts/2025/09/claudia-desktop-companion-for-claude-code/</link>
+      <link>https://ht-x.com/de/posts/2025/09/claudia-desktop-companion-for-claude-code/</link>
       <pubDate>Sun, 17 Aug 2025 17:26:56 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/claudia-desktop-companion-for-claude-code/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/claudia-desktop-companion-for-claude-code/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Das Rennen um den kognitiven Kern von LLM</title>
-      <link>http://localhost:1313/de/posts/2025/09/the-race-for-llm-cognitive-core/</link>
+      <link>https://ht-x.com/de/posts/2025/09/the-race-for-llm-cognitive-core/</link>
       <pubDate>Tue, 12 Aug 2025 03:57:40 +0200</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/the-race-for-llm-cognitive-core/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/the-race-for-llm-cognitive-core/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Qwen3-Coder: Agentisches Programmieren in der Welt</title>
-      <link>http://localhost:1313/de/posts/2025/09/qwen3-coder-agentic-coding-in-the-world/</link>
+      <link>https://ht-x.com/de/posts/2025/09/qwen3-coder-agentic-coding-in-the-world/</link>
       <pubDate>Tue, 22 Jul 2025 21:12:30 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/qwen3-coder-agentic-coding-in-the-world/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/qwen3-coder-agentic-coding-in-the-world/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Voxtral | Mistral KI</title>
-      <link>http://localhost:1313/de/posts/2025/09/voxtral-mistral-ai/</link>
+      <link>https://ht-x.com/de/posts/2025/09/voxtral-mistral-ai/</link>
       <pubDate>Wed, 16 Jul 2025 12:04:15 +0200</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/voxtral-mistral-ai/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/voxtral-mistral-ai/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>SymbolicAI: Eine neuro-symbolische Perspektive auf LLMs</title>
-      <link>http://localhost:1313/de/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/</link>
+      <link>https://ht-x.com/de/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/</link>
       <pubDate>Fri, 27 Jun 2025 18:49:57 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Gemini für Google Workspace Anleitungsführer 101</title>
-      <link>http://localhost:1313/de/posts/2025/09/gemini-for-google-workspace-prompting-guide-101/</link>
+      <link>https://ht-x.com/de/posts/2025/09/gemini-for-google-workspace-prompting-guide-101/</link>
       <pubDate>Fri, 27 Jun 2025 08:24:59 +0200</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/gemini-for-google-workspace-prompting-guide-101/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/gemini-for-google-workspace-prompting-guide-101/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>MCP frisst die Welt—and it is here to stay</title>
-      <link>http://localhost:1313/de/posts/2025/09/mcp-is-eating-the-world-and-it-s-here-to-stay/</link>
+      <link>https://ht-x.com/de/posts/2025/09/mcp-is-eating-the-world-and-it-s-here-to-stay/</link>
       <pubDate>Wed, 25 Jun 2025 14:39:14 +0200</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/mcp-is-eating-the-world-and-it-s-here-to-stay/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/mcp-is-eating-the-world-and-it-s-here-to-stay/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Effektive KI-Agenten entwickeln</title>
-      <link>http://localhost:1313/de/posts/2025/09/building-effective-ai-agents/</link>
+      <link>https://ht-x.com/de/posts/2025/09/building-effective-ai-agents/</link>
       <pubDate>Tue, 17 Jun 2025 17:50:05 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/building-effective-ai-agents/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/building-effective-ai-agents/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>AGI mit Claude-Code schnupfen</title>
-      <link>http://localhost:1313/de/posts/2025/09/snorting-the-agi-with-claude-code/</link>
+      <link>https://ht-x.com/de/posts/2025/09/snorting-the-agi-with-claude-code/</link>
       <pubDate>Mon, 16 Jun 2025 11:01:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/snorting-the-agi-with-claude-code/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/snorting-the-agi-with-claude-code/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Nanonets-OCR-s – OCR-Modell, das Dokumente in strukturiertes Markdown umwandelt</title>
-      <link>http://localhost:1313/de/posts/2025/09/nanonets-ocr-s-ocr-model-that-transforms-documents/</link>
+      <link>https://ht-x.com/de/posts/2025/09/nanonets-ocr-s-ocr-model-that-transforms-documents/</link>
       <pubDate>Mon, 16 Jun 2025 06:14:56 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/nanonets-ocr-s-ocr-model-that-transforms-documents/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/nanonets-ocr-s-ocr-model-that-transforms-documents/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>[2505.24863] AlphaOne: Denkmodelle, die beim Testen langsam und schnell denken</title>
-      <link>http://localhost:1313/de/posts/2025/09/2505-24863-alphaone-reasoning-models-thinking-slow/</link>
+      <link>https://ht-x.com/de/posts/2025/09/2505-24863-alphaone-reasoning-models-thinking-slow/</link>
       <pubDate>Tue, 03 Jun 2025 03:43:39 +0200</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/2505-24863-alphaone-reasoning-models-thinking-slow/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/2505-24863-alphaone-reasoning-models-thinking-slow/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>[2505.24864] ProRL: Verlängertes Verstärkungslernen erweitert die Denkgrenzen großer Sprachmodelle</title>
-      <link>http://localhost:1313/de/posts/2025/09/2505-24864-prorl-prolonged-reinforcement-learning/</link>
+      <link>https://ht-x.com/de/posts/2025/09/2505-24864-prorl-prolonged-reinforcement-learning/</link>
       <pubDate>Tue, 03 Jun 2025 03:29:10 +0200</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/2505-24864-prorl-prolonged-reinforcement-learning/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/2505-24864-prorl-prolonged-reinforcement-learning/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ask HN: Welches ist das beste LLM für Consumer-Hardware?</title>
-      <link>http://localhost:1313/de/posts/2025/09/ask-hn-what-is-the-best-llm-for-consumer-grade-har/</link>
+      <link>https://ht-x.com/de/posts/2025/09/ask-hn-what-is-the-best-llm-for-consumer-grade-har/</link>
       <pubDate>Fri, 30 May 2025 11:02:19 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/ask-hn-what-is-the-best-llm-for-consumer-grade-har/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/ask-hn-what-is-the-best-llm-for-consumer-grade-har/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Show HN: AutoThink – Verbessert die Leistung lokaler LLMs durch adaptive Vernunft</title>
-      <link>http://localhost:1313/de/posts/2025/09/show-hn-autothink-boosts-local-llm-performance-wit/</link>
+      <link>https://ht-x.com/de/posts/2025/09/show-hn-autothink-boosts-local-llm-performance-wit/</link>
       <pubDate>Wed, 28 May 2025 02:39:11 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/show-hn-autothink-boosts-local-llm-performance-wit/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/show-hn-autothink-boosts-local-llm-performance-wit/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Zeige HN: Mein LLM-CLI-Tool kann jetzt Tools ausführen, entweder aus Python-Code oder Plugins.</title>
-      <link>http://localhost:1313/de/posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/</link>
+      <link>https://ht-x.com/de/posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/</link>
       <pubDate>Tue, 27 May 2025 20:53:03 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Eine Forschungsvorschau von Codex</title>
-      <link>http://localhost:1313/de/posts/2025/09/a-research-preview-of-codex/</link>
+      <link>https://ht-x.com/de/posts/2025/09/a-research-preview-of-codex/</link>
       <pubDate>Fri, 16 May 2025 15:02:02 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/a-research-preview-of-codex/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/a-research-preview-of-codex/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ollamas neuer Motor für multimodale Modelle</title>
-      <link>http://localhost:1313/de/posts/2025/09/ollama-s-new-engine-for-multimodal-models/</link>
+      <link>https://ht-x.com/de/posts/2025/09/ollama-s-new-engine-for-multimodal-models/</link>
       <pubDate>Fri, 16 May 2025 07:26:03 +0200</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/ollama-s-new-engine-for-multimodal-models/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/ollama-s-new-engine-for-multimodal-models/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Vision Jetzt in Llama.cpp Verfügbar</title>
-      <link>http://localhost:1313/de/posts/2025/09/vision-now-available-in-llama-cpp/</link>
+      <link>https://ht-x.com/de/posts/2025/09/vision-now-available-in-llama-cpp/</link>
       <pubDate>Sat, 10 May 2025 03:39:46 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/vision-now-available-in-llama-cpp/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/vision-now-available-in-llama-cpp/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Token &amp; Tokenverwendung | DeepSeek API-Dokumentation</title>
-      <link>http://localhost:1313/de/posts/2025/09/token-token-usage-deepseek-api-docs/</link>
+      <link>https://ht-x.com/de/posts/2025/09/token-token-usage-deepseek-api-docs/</link>
       <pubDate>Thu, 01 May 2025 08:56:17 +0200</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/token-token-usage-deepseek-api-docs/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/token-token-usage-deepseek-api-docs/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Gemma 3 QAT-Modelle: State-of-the-Art-KI für Consumer-GPUs bringen</title>
-      <link>http://localhost:1313/de/posts/2025/09/gemma-3-qat-models-bringing-state-of-the-art-ai-to/</link>
+      <link>https://ht-x.com/de/posts/2025/09/gemma-3-qat-models-bringing-state-of-the-art-ai-to/</link>
       <pubDate>Mon, 21 Apr 2025 07:38:58 +0200</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/gemma-3-qat-models-bringing-state-of-the-art-ai-to/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/gemma-3-qat-models-bringing-state-of-the-art-ai-to/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - HandsOnLLM/Hands-On-Large-Language-Models: Offizielles Code-Repository für das O&#39;Reilly-Buch - &#39;Hands-On Large Language Models&#39;</title>
-      <link>http://localhost:1313/de/posts/2025/04/github-handsonllm-hands-on-large-language-models-o/</link>
+      <link>https://ht-x.com/de/posts/2025/04/github-handsonllm-hands-on-large-language-models-o/</link>
       <pubDate>Sat, 19 Apr 2025 04:58:28 +0200</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/04/github-handsonllm-hands-on-large-language-models-o/</guid>
+      <guid>https://ht-x.com/de/posts/2025/04/github-handsonllm-hands-on-large-language-models-o/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>DeepSeek-R1 fördert durch Verstärkungslernen das Denken in Sprachmodellen | Nature</title>
-      <link>http://localhost:1313/de/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through/</link>
+      <link>https://ht-x.com/de/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through/</link>
       <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ein Grundmodell zur Vorhersage und Erfassung der menschlichen Kognition | Nature</title>
-      <link>http://localhost:1313/de/posts/2025/09/a-foundation-model-to-predict-and-capture-human-co/</link>
+      <link>https://ht-x.com/de/posts/2025/09/a-foundation-model-to-predict-and-capture-human-co/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/a-foundation-model-to-predict-and-capture-human-co/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/a-foundation-model-to-predict-and-capture-human-co/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Große Sprachmodelle sind in der Lage, emotionale Intelligenztests zu lösen und zu erstellen | Kommunikationspsychologie</title>
-      <link>http://localhost:1313/de/posts/2025/09/large-language-models-are-proficient-in-solving-an/</link>
+      <link>https://ht-x.com/de/posts/2025/09/large-language-models-are-proficient-in-solving-an/</link>
       <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2025/09/large-language-models-are-proficient-in-solving-an/</guid>
+      <guid>https://ht-x.com/de/posts/2025/09/large-language-models-are-proficient-in-solving-an/</guid>
       <description></description>
       
     </item>
