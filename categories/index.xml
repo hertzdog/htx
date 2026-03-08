@@ -7,14 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Sun, 01 Mar 2026 22:10:21 +0100</lastBuildDate><atom:link href="https://ht-x.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Mar 2026 14:00:00 +0100</lastBuildDate><atom:link href="https://ht-x.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Articoli</title>
       <link>https://ht-x.com/categories/articoli/</link>
-      <pubDate>Sun, 01 Mar 2026 22:10:21 +0100</pubDate>
+      <pubDate>Sun, 08 Mar 2026 14:00:00 +0100</pubDate>
       
       <guid>https://ht-x.com/categories/articoli/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Original</title>
+      <link>https://ht-x.com/categories/original/</link>
+      <pubDate>Sun, 08 Mar 2026 14:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/categories/original/</guid>
       <description></description>
       
     </item>

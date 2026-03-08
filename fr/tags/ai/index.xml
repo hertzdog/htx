@@ -7,7 +7,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Sat, 28 Feb 2026 10:00:00 +0100</lastBuildDate><atom:link href="https://ht-x.com/fr/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Mar 2026 14:00:00 +0100</lastBuildDate><atom:link href="https://ht-x.com/fr/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Comment choisir une infrastructure IA privee pour votre entreprise</title>
+      <link>https://ht-x.com/fr/posts/2026/03/come-scegliere-infrastruttura-ai-privata/</link>
+      <pubDate>Sun, 08 Mar 2026 14:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/fr/posts/2026/03/come-scegliere-infrastruttura-ai-privata/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>IA en anesthésie : comment KOI réduit les erreurs de classification ASA-PS de 89 %</title>
+      <link>https://ht-x.com/fr/posts/2026/03/ai-anestesia-koi-errori-classificazione-asa/</link>
+      <pubDate>Sun, 08 Mar 2026 13:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/fr/posts/2026/03/ai-anestesia-koi-errori-classificazione-asa/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Natural Language to SQL : interroger les bases de donnees d&#39;entreprise sans ecrire de code</title>
+      <link>https://ht-x.com/fr/posts/2026/03/natural-language-to-sql-database-senza-codice/</link>
+      <pubDate>Sun, 08 Mar 2026 12:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/fr/posts/2026/03/natural-language-to-sql-database-senza-codice/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ORCA vs ChatGPT : pourquoi votre chatbot d&#39;entreprise doit etre prive</title>
+      <link>https://ht-x.com/fr/posts/2026/03/orca-vs-chatgpt-chatbot-aziendale-privato/</link>
+      <pubDate>Sun, 08 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/fr/posts/2026/03/orca-vs-chatgpt-chatbot-aziendale-privato/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Pourquoi votre entreprise a besoin d&#39;IA privee (et pas de ChatGPT)</title>
@@ -291,10 +331,10 @@ moonshotai/Kimi-K2.5 · Hugging Face</title>
     
     <item>
       <title>KOI: Classification ASA PS</title>
-      <link>https://ht-x.com/fr/progetti-finanziati/asa-ps-classification/</link>
+      <link>https://ht-x.com/fr/grants/asa-ps-classification/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://ht-x.com/fr/progetti-finanziati/asa-ps-classification/</guid>
+      <guid>https://ht-x.com/fr/grants/asa-ps-classification/</guid>
       <description></description>
       
     </item>
@@ -1307,10 +1347,10 @@ Traduction: Voxtral | Mistral IA</title>
     
     <item>
       <title>ChatPrivéIA</title>
-      <link>https://ht-x.com/fr/progetti-finanziati/private-chatbot-ai/</link>
+      <link>https://ht-x.com/fr/grants/private-chatbot-ai/</link>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://ht-x.com/fr/progetti-finanziati/private-chatbot-ai/</guid>
+      <guid>https://ht-x.com/fr/grants/private-chatbot-ai/</guid>
       <description></description>
       
     </item>

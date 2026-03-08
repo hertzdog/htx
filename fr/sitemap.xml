@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
-  <url>
+<url>
     <loc>https://ht-x.com/fr/posts/</loc>
-    <lastmod>2026-03-01T22:10:21+01:00</lastmod>
+    <lastmod>2026-03-08T14:00:00+01:00</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <priority>0.6</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -32,12 +31,41 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/"
     />
-  </url>
-  <url>
+  </url><url>
+    <loc>https://ht-x.com/fr/posts/2026/03/come-scegliere-infrastruttura-ai-privata/</loc>
+    <lastmod>2026-03-08T14:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/posts/2026/03/come-scegliere-infrastruttura-ai-privata/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/en/posts/2026/03/come-scegliere-infrastruttura-ai-privata/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/posts/2026/03/come-scegliere-infrastruttura-ai-privata/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/posts/2026/03/come-scegliere-infrastruttura-ai-privata/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/posts/2026/03/come-scegliere-infrastruttura-ai-privata/"
+    />
+  </url><url>
     <loc>https://ht-x.com/fr/</loc>
-    <lastmod>2026-03-01T22:10:21+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2026-03-08T14:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
@@ -63,12 +91,131 @@
       hreflang="fr"
       href="https://ht-x.com/fr/"
     />
-  </url>
-  <url>
+  </url><url>
+    <loc>https://ht-x.com/fr/posts/2026/03/ai-anestesia-koi-errori-classificazione-asa/</loc>
+    <lastmod>2026-03-08T13:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/posts/2026/03/ai-anestesia-koi-errori-classificazione-asa/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/en/posts/2026/03/ai-anestesia-koi-errori-classificazione-asa/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/posts/2026/03/ai-anestesia-koi-errori-classificazione-asa/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/posts/2026/03/ai-anestesia-koi-errori-classificazione-asa/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/posts/2026/03/ai-anestesia-koi-errori-classificazione-asa/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/fr/posts/2026/03/natural-language-to-sql-database-senza-codice/</loc>
+    <lastmod>2026-03-08T12:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/posts/2026/03/natural-language-to-sql-database-senza-codice/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/en/posts/2026/03/natural-language-to-sql-database-senza-codice/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/posts/2026/03/natural-language-to-sql-database-senza-codice/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/posts/2026/03/natural-language-to-sql-database-senza-codice/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/posts/2026/03/natural-language-to-sql-database-senza-codice/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/fr/posts/2026/03/ai-act-2026-guida-pratica-pmi/</loc>
+    <lastmod>2026-03-08T11:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/en/posts/2026/03/ai-act-2026-guida-pratica-pmi/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/posts/2026/03/ai-act-2026-guida-pratica-pmi/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/posts/2026/03/ai-act-2026-guida-pratica-pmi/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/posts/2026/03/ai-act-2026-guida-pratica-pmi/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/posts/2026/03/ai-act-2026-guida-pratica-pmi/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/fr/posts/2026/03/orca-vs-chatgpt-chatbot-aziendale-privato/</loc>
+    <lastmod>2026-03-08T10:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/posts/2026/03/orca-vs-chatgpt-chatbot-aziendale-privato/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/en/posts/2026/03/orca-vs-chatgpt-chatbot-aziendale-privato/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/posts/2026/03/orca-vs-chatgpt-chatbot-aziendale-privato/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/posts/2026/03/orca-vs-chatgpt-chatbot-aziendale-privato/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/posts/2026/03/orca-vs-chatgpt-chatbot-aziendale-privato/"
+    />
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/03/microgpt/</loc>
     <lastmod>2026-03-01T22:10:21+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
@@ -94,12 +241,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/03/microgpt/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/03/glm-5/</loc>
     <lastmod>2026-03-01T22:06:18+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -125,12 +271,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/03/glm-5/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/02/pourquoi-votre-entreprise-a-besoin-d-ia-privee/</loc>
     <lastmod>2026-02-28T10:00:00+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
@@ -156,12 +301,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/02/pourquoi-votre-entreprise-a-besoin-d-ia-privee/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/03/step-3-5-flash-fast-enough-to-think-reliable-enoug/</loc>
     <lastmod>2026-02-19T07:44:00+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
@@ -187,12 +331,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/03/step-3-5-flash-fast-enough-to-think-reliable-enoug/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/02/keycloak/</loc>
     <lastmod>2026-02-14T11:08:04+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -218,12 +361,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/02/keycloak/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/02/github-zai-org-glm-ocr-glm-ocr-accurate-x-fast-x-c/</loc>
     <lastmod>2026-02-12T07:46:12+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -249,12 +391,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/02/github-zai-org-glm-ocr-glm-ocr-accurate-x-fast-x-c/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/02/github-ericlbuehler-mistral-rs-fast-flexible-llm-i/</loc>
     <lastmod>2026-02-10T07:38:00+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -280,12 +421,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/02/github-ericlbuehler-mistral-rs-fast-flexible-llm-i/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/02/github-alexziskind1-llama-throughput-lab-interacti/</loc>
     <lastmod>2026-02-02T08:25:08+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -311,12 +451,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/02/github-alexziskind1-llama-throughput-lab-interacti/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/02/github-qwibitai-nanoclaw-a-lightweight-alternative/</loc>
     <lastmod>2026-02-02T03:13:37+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -342,12 +481,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/02/github-qwibitai-nanoclaw-a-lightweight-alternative/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/github-moltbot-moltbot-your-own-personal-ai-assist/</loc>
     <lastmod>2026-01-27T11:44:46+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -373,12 +511,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/github-moltbot-moltbot-your-own-personal-ai-assist/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/github-aiming-lab-simplemem-simplemem-efficient-li/</loc>
     <lastmod>2026-01-27T11:40:19+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -404,12 +541,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/github-aiming-lab-simplemem-simplemem-efficient-li/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/github-mikekelly-claude-sneakpeek-get-a-parallel-b/</loc>
     <lastmod>2026-01-27T11:39:09+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
@@ -435,12 +571,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/github-mikekelly-claude-sneakpeek-get-a-parallel-b/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/github-virattt-ai-hedge-fund-an-ai-hedge-fund-team/</loc>
     <lastmod>2026-01-27T11:27:36+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -466,12 +601,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/github-virattt-ai-hedge-fund-an-ai-hedge-fund-team/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/moonshotai-kimi-k2-5-hugging-face/</loc>
     <lastmod>2026-01-27T08:00:58+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -497,12 +631,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/moonshotai-kimi-k2-5-hugging-face/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/welcome-poke-documentation/</loc>
     <lastmod>2026-01-27T04:43:53+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
@@ -528,12 +661,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/welcome-poke-documentation/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/conditional-memory-via-scalable-lookup-a-new-axis/</loc>
     <lastmod>2026-01-25T18:36:11+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
@@ -559,12 +691,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/conditional-memory-via-scalable-lookup-a-new-axis/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/nvidia-personaplex-natural-conversational-ai-with/</loc>
     <lastmod>2026-01-24T05:03:07+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -590,12 +721,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/nvidia-personaplex-natural-conversational-ai-with/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/github-different-ai-openwork-an-open-source-altern/</loc>
     <lastmod>2026-01-19T10:59:11+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
@@ -621,12 +751,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/github-different-ai-openwork-an-open-source-altern/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/github-google-langextract-a-python-library-for-ext/</loc>
     <lastmod>2026-01-19T10:47:44+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -652,12 +781,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/github-google-langextract-a-python-library-for-ext/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/github-memodb-io-acontext-data-platform-for-contex/</loc>
     <lastmod>2026-01-19T10:01:20+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -683,12 +811,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/github-memodb-io-acontext-data-platform-for-contex/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/github-rberg27-doom-coding-a-guide-for-how-to-use/</loc>
     <lastmod>2026-01-19T07:51:51+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
@@ -714,12 +841,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/github-rberg27-doom-coding-a-guide-for-how-to-use/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/github-bolt-foundry-gambit-agent-harness-framework/</loc>
     <lastmod>2026-01-19T06:31:23+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -745,12 +871,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/github-bolt-foundry-gambit-agent-harness-framework/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/github-eigent-ai-eigent-eigent-the-open-source-cow/</loc>
     <lastmod>2026-01-15T07:50:36+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -776,12 +901,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/github-eigent-ai-eigent-eigent-the-open-source-cow/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/ask-hn-what-is-the-best-way-to-provide-continuous/</loc>
     <lastmod>2026-01-15T01:20:22+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -807,12 +931,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/ask-hn-what-is-the-best-way-to-provide-continuous/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/recursive-language-models/</loc>
     <lastmod>2026-01-14T06:49:31+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -838,12 +961,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/recursive-language-models/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/reimagining-llm-memory-using-context-as-training-d/</loc>
     <lastmod>2026-01-14T06:05:01+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -869,12 +991,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/reimagining-llm-memory-using-context-as-training-d/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/show-hn-agent-of-empires-opencode-and-claude-code/</loc>
     <lastmod>2026-01-12T14:23:07+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -900,12 +1021,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/show-hn-agent-of-empires-opencode-and-claude-code/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/you-should-write-an-agent-the-fly-blog/</loc>
     <lastmod>2026-01-09T04:44:55+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
@@ -931,12 +1051,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/you-should-write-an-agent-the-fly-blog/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/getting-started-swe-agent-documentation/</loc>
     <lastmod>2026-01-09T04:40:10+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -962,12 +1081,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/getting-started-swe-agent-documentation/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/how-to-build-an-agent-amp/</loc>
     <lastmod>2026-01-09T04:27:19+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
@@ -993,12 +1111,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/how-to-build-an-agent-amp/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/sam-audio/</loc>
     <lastmod>2026-01-08T07:44:55+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -1024,12 +1141,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/sam-audio/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/we-got-claude-to-fine-tune-an-open-source-llm/</loc>
     <lastmod>2026-01-08T07:16:27+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
@@ -1055,12 +1171,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/we-got-claude-to-fine-tune-an-open-source-llm/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/use-claude-code-with-chrome-beta-claude-code-docs/</loc>
     <lastmod>2026-01-07T06:24:23+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
@@ -1086,12 +1201,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/use-claude-code-with-chrome-beta-claude-code-docs/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/github-microsoft-vibevoice-open-source-frontier-vo/</loc>
     <lastmod>2026-01-06T09:35:37+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
@@ -1117,12 +1231,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/github-microsoft-vibevoice-open-source-frontier-vo/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/github-gvclab-personalive-personalive-expressive-p/</loc>
     <lastmod>2026-01-06T09:30:19+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -1148,12 +1261,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/github-gvclab-personalive-personalive-expressive-p/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/github-nevamind-ai-memu-memory-infrastructure-for/</loc>
     <lastmod>2026-01-06T09:22:22+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -1179,12 +1291,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/github-nevamind-ai-memu-memory-infrastructure-for/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/github-vibiumdev-vibium-browser-automation-for-ai/</loc>
     <lastmod>2026-01-06T09:12:49+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -1210,12 +1321,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/github-vibiumdev-vibium-browser-automation-for-ai/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/github-yichuan-w-leann-rag-on-everything-with-lean/</loc>
     <lastmod>2026-01-06T09:02:38+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -1241,12 +1351,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/github-yichuan-w-leann-rag-on-everything-with-lean/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/github-dgoettlich-history-llms-information-hub-for/</loc>
     <lastmod>2026-01-06T06:44:37+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -1272,12 +1381,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/github-dgoettlich-history-llms-information-hub-for/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/llmrouter-llmrouter/</loc>
     <lastmod>2025-12-31T08:11:53+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -1303,12 +1411,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/llmrouter-llmrouter/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/everything-as-code-how-we-manage-our-company-in-on/</loc>
     <lastmod>2025-12-30T22:31:13+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -1334,12 +1441,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/everything-as-code-how-we-manage-our-company-in-on/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/github-search-code-repositories-users-issues-pull/</loc>
     <lastmod>2025-12-16T04:57:26+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -1365,12 +1471,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/github-search-code-repositories-users-issues-pull/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/fundamentals-of-building-autonomous-llm-agents-thi/</loc>
     <lastmod>2025-12-11T03:32:44+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -1396,12 +1501,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/fundamentals-of-building-autonomous-llm-agents-thi/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/introduction-mcp-toolbox-for-databases/</loc>
     <lastmod>2025-12-02T23:47:04+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -1427,74 +1531,71 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/introduction-mcp-toolbox-for-databases/"
     />
-  </url>
-  <url>
-    <loc>https://ht-x.com/fr/progetti-finanziati/asa-ps-classification/</loc>
+  </url><url>
+    <loc>https://ht-x.com/fr/grants/asa-ps-classification/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://ht-x.com/en/progetti-finanziati/asa-ps-classification/"
+      href="https://ht-x.com/en/grants/asa-ps-classification/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://ht-x.com/progetti-finanziati/asa-ps-classification/"
+      href="https://ht-x.com/grants/asa-ps-classification/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://ht-x.com/de/progetti-finanziati/asa-ps-classification/"
+      href="https://ht-x.com/de/grants/asa-ps-classification/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://ht-x.com/es/progetti-finanziati/asa-ps-classification/"
+      href="https://ht-x.com/es/grants/asa-ps-classification/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://ht-x.com/fr/progetti-finanziati/asa-ps-classification/"
+      href="https://ht-x.com/fr/grants/asa-ps-classification/"
     />
-  </url>
-  <url>
-    <loc>https://ht-x.com/fr/progetti-finanziati/</loc>
+  </url><url>
+    <loc>https://ht-x.com/fr/grants/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://ht-x.com/en/progetti-finanziati/"
+      href="https://ht-x.com/en/grants/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://ht-x.com/progetti-finanziati/"
+      href="https://ht-x.com/grants/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://ht-x.com/de/progetti-finanziati/"
+      href="https://ht-x.com/de/grants/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://ht-x.com/es/progetti-finanziati/"
+      href="https://ht-x.com/es/grants/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://ht-x.com/fr/progetti-finanziati/"
+      href="https://ht-x.com/fr/grants/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/</loc>
     <lastmod>2025-11-28T18:00:35+00:00</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <priority>0.6</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -1520,12 +1621,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/github-tencent-hunyuan-hunyuanocr/</loc>
     <lastmod>2025-11-28T18:00:35+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -1551,12 +1651,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/github-tencent-hunyuan-hunyuanocr/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/effective-harnesses-for-long-running-agents-anthro/</loc>
     <lastmod>2025-11-27T11:59:00+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -1582,12 +1681,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/effective-harnesses-for-long-running-agents-anthro/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/github-pixeltable-pixeltable-pixeltable-data-infra/</loc>
     <lastmod>2025-11-24T15:32:16+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -1613,12 +1711,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/github-pixeltable-pixeltable-pixeltable-data-infra/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/ai-explained-stanford-research-paper-pdf-google-dr/</loc>
     <lastmod>2025-11-23T00:17:52+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -1644,12 +1741,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/ai-explained-stanford-research-paper-pdf-google-dr/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/we-present-olmo-3-our-next-family-of-fully-open-le/</loc>
     <lastmod>2025-11-22T03:33:18+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -1675,12 +1771,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/we-present-olmo-3-our-next-family-of-fully-open-le/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/a2ui/</loc>
     <lastmod>2025-11-22T03:16:02+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -1706,12 +1801,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/a2ui/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/nano-banana-pro-is-making-millions-of-interior-des/</loc>
     <lastmod>2025-11-22T03:03:10+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -1737,12 +1831,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/nano-banana-pro-is-making-millions-of-interior-des/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/how-to-segment-videos-with-segment-anything-3-sam3/</loc>
     <lastmod>2025-11-22T02:56:15+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -1768,12 +1861,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/how-to-segment-videos-with-segment-anything-3-sam3/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/introducing-magicpath-an-infinite-canvas-to-create/</loc>
     <lastmod>2025-11-22T02:45:36+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -1799,12 +1891,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/introducing-magicpath-an-infinite-canvas-to-create/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/nano-banana-pro-is-wild/</loc>
     <lastmod>2025-11-22T02:44:08+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -1830,12 +1921,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/nano-banana-pro-is-wild/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/next-up-slide-decks-turn-your-sources-into-a-detai/</loc>
     <lastmod>2025-11-22T02:38:20+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -1861,12 +1951,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/next-up-slide-decks-turn-your-sources-into-a-detai/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/presentations-benedict-evans/</loc>
     <lastmod>2025-11-22T02:33:43+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -1892,12 +1981,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/presentations-benedict-evans/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/nano-banana-pro-gemini-3-pro-image-model-from-goog/</loc>
     <lastmod>2025-11-20T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -1923,12 +2011,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/nano-banana-pro-gemini-3-pro-image-model-from-goog/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/google-antigravity/</loc>
     <lastmod>2025-11-19T08:03:59+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
@@ -1954,12 +2041,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/google-antigravity/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/github-gibsonai-memori-open-source-memory-engine-f/</loc>
     <lastmod>2025-11-18T14:05:11+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -1985,12 +2071,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/github-gibsonai-memori-open-source-memory-engine-f/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/github-projects-community-githubprojects-on-x/</loc>
     <lastmod>2025-11-18T07:30:31+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2016,12 +2101,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/github-projects-community-githubprojects-on-x/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/im-starting-to-get-into-a-habit-of-reading-everyth/</loc>
     <lastmod>2025-11-18T04:04:47+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2047,12 +2131,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/im-starting-to-get-into-a-habit-of-reading-everyth/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/love-this-framing-this-is-exactly-what-were-buildi/</loc>
     <lastmod>2025-11-18T03:54:05+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2078,12 +2161,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/love-this-framing-this-is-exactly-what-were-buildi/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/supercharge-your-ocr-pipelines-with-open-models/</loc>
     <lastmod>2025-11-18T03:33:45+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2109,12 +2191,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/supercharge-your-ocr-pipelines-with-open-models/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/2511-09030-solving-a-million-step-llm-task-with-ze/</loc>
     <lastmod>2025-11-18T03:07:18+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2140,12 +2221,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/2511-09030-solving-a-million-step-llm-task-with-ze/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2026/01/gemini-3-introducing-the-latest-gemini-ai-model-fr/</loc>
     <lastmod>2025-11-18T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2171,12 +2251,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2026/01/gemini-3-introducing-the-latest-gemini-ai-model-fr/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/2511-10395-agentevolver-towards-efficient-self-evo/</loc>
     <lastmod>2025-11-16T04:44:58+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2202,12 +2281,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/2511-10395-agentevolver-towards-efficient-self-evo/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/github-rbalestr-lab-lejepa/</loc>
     <lastmod>2025-11-15T09:43:20+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2233,12 +2311,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/github-rbalestr-lab-lejepa/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/use-cases-claude/</loc>
     <lastmod>2025-11-15T03:48:27+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2264,12 +2341,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/use-cases-claude/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/improving-frontend-design-through-skills-claude/</loc>
     <lastmod>2025-11-15T03:33:17+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2295,12 +2371,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/improving-frontend-design-through-skills-claude/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/sim-open-source-platform-to-build-and-deploy-ai-ag/</loc>
     <lastmod>2025-11-12T17:56:59+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2326,12 +2401,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/sim-open-source-platform-to-build-and-deploy-ai-ag/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/context-retrieval-for-ai-agents-across-apps-databa/</loc>
     <lastmod>2025-11-12T15:52:24+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2357,12 +2431,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/context-retrieval-for-ai-agents-across-apps-databa/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/said-we-should-delete-tokenizers/</loc>
     <lastmod>2025-11-08T07:50:55+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2388,12 +2461,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/said-we-should-delete-tokenizers/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/you-should-write-an-agent-the-fly-blog/</loc>
     <lastmod>2025-11-07T17:54:37+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2419,12 +2491,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/you-should-write-an-agent-the-fly-blog/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/hello-kimi-k2-thinking-the-open-source-thinking-ag/</loc>
     <lastmod>2025-11-06T21:43:16+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2450,12 +2521,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/hello-kimi-k2-thinking-the-open-source-thinking-ag/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/link-to-the-strix-github-repo-don-t-forget-to-star/</loc>
     <lastmod>2025-11-05T20:09:00+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2481,12 +2551,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/link-to-the-strix-github-repo-don-t-forget-to-star/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/source-thanks-and-bharat-for-showing-the-world-you/</loc>
     <lastmod>2025-11-05T19:58:24+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2512,12 +2581,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/source-thanks-and-bharat-for-showing-the-world-you/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/this-claude-code-prompt-literally-turns-claude-cod/</loc>
     <lastmod>2025-11-05T19:54:18+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2543,12 +2611,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/this-claude-code-prompt-literally-turns-claude-cod/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/wren-ai-official-blog/</loc>
     <lastmod>2025-11-05T18:42:19+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2574,12 +2641,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/wren-ai-official-blog/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/tongyi-deepresearch-a-new-era-of-open-source-ai-re/</loc>
     <lastmod>2025-11-03T07:43:50+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2605,12 +2671,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/tongyi-deepresearch-a-new-era-of-open-source-ai-re/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/syllabi-open-source-agentic-ai-with-tools-rag-and/</loc>
     <lastmod>2025-11-03T01:59:07+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2636,12 +2701,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/syllabi-open-source-agentic-ai-with-tools-rag-and/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/openskills/</loc>
     <lastmod>2025-10-31T07:05:40+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2667,12 +2731,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/openskills/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/minimax-m2/</loc>
     <lastmod>2025-10-31T06:42:38+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2698,12 +2761,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/minimax-m2/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/ai-act-single-information-platform-ai-act-service/</loc>
     <lastmod>2025-10-31T06:08:13+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2729,12 +2791,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/ai-act-single-information-platform-ai-act-service/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/eurollm-io/</loc>
     <lastmod>2025-10-29T13:47:51+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2760,12 +2821,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/eurollm-io/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/11/introducing-mistral-ai-studio-mistral-ai/</loc>
     <lastmod>2025-10-26T06:27:31+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2791,12 +2851,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/11/introducing-mistral-ai-studio-mistral-ai/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/opensnowcat-enterprise-grade-behavioral-data-platf/</loc>
     <lastmod>2025-10-24T02:11:12+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2822,12 +2881,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/opensnowcat-enterprise-grade-behavioral-data-platf/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/dr-milan-milanovic-milan-milanovic-on-x/</loc>
     <lastmod>2025-10-24T02:02:31+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2853,12 +2911,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/dr-milan-milanovic-milan-milanovic-on-x/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/game-theory-open-yale-courses/</loc>
     <lastmod>2025-10-24T01:58:37+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2884,12 +2941,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/game-theory-open-yale-courses/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/deepseek-ocr/</loc>
     <lastmod>2025-10-23T13:57:12+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2915,12 +2971,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/deepseek-ocr/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/airbyte-the-leading-data-integration-platform-for/</loc>
     <lastmod>2025-10-23T13:54:13+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2946,12 +3001,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/airbyte-the-leading-data-integration-platform-for/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/enterprise-deep-research/</loc>
     <lastmod>2025-10-23T13:53:13+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -2977,12 +3031,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/enterprise-deep-research/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/i-quite-like-the-new-deepseek-ocr-paper/</loc>
     <lastmod>2025-10-23T06:34:30+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -3008,12 +3061,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/i-quite-like-the-new-deepseek-ocr-paper/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/olmocr-2-unit-test-rewards-for-document-ocr-ai2/</loc>
     <lastmod>2025-10-22T22:14:31+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -3039,12 +3091,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/olmocr-2-unit-test-rewards-for-document-ocr-ai2/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/we-used-deepseek-ocr-to-extract-every-dataset-from/</loc>
     <lastmod>2025-10-22T07:59:29+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -3070,12 +3121,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/we-used-deepseek-ocr-to-extract-every-dataset-from/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/scripts-i-wrote-that-i-use-all-the-time/</loc>
     <lastmod>2025-10-22T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -3101,12 +3151,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/scripts-i-wrote-that-i-use-all-the-time/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/deepseek-ocr-more-than-ocr-youtube/</loc>
     <lastmod>2025-10-21T19:55:35+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -3132,12 +3181,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/deepseek-ocr-more-than-ocr-youtube/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/how-to-get-consistent-classification-from-inconsis/</loc>
     <lastmod>2025-10-21T07:33:04+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
@@ -3163,12 +3211,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/how-to-get-consistent-classification-from-inconsis/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/production-rag-what-i-learned-from-processing-5m-d/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -3194,12 +3241,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/production-rag-what-i-learned-from-processing-5m-d/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/stanford-s-all-free-courses-2024-2025-cs230-deep-l/</loc>
     <lastmod>2025-10-19T02:59:45+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -3225,12 +3271,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/stanford-s-all-free-courses-2024-2025-cs230-deep-l/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/syllabus/</loc>
     <lastmod>2025-10-19T02:39:22+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -3256,12 +3301,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/syllabus/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/make-any-app-searchable-for-ai-agents/</loc>
     <lastmod>2025-10-18T09:23:13+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -3287,12 +3331,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/make-any-app-searchable-for-ai-agents/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/paddleocr-vl-boosting-multilingual-document-parsin/</loc>
     <lastmod>2025-10-18T03:53:02+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -3318,12 +3361,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/paddleocr-vl-boosting-multilingual-document-parsin/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/dolphin-document-image-parsing-via-heterogeneous-a/</loc>
     <lastmod>2025-10-17T18:51:12+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -3349,12 +3391,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/dolphin-document-image-parsing-via-heterogeneous-a/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/nanochat/</loc>
     <lastmod>2025-10-14T06:36:15+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -3380,12 +3421,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/nanochat/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/roma-recursive-open-meta-agents/</loc>
     <lastmod>2025-10-14T06:35:25+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -3411,12 +3451,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/roma-recursive-open-meta-agents/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/neutts-air/</loc>
     <lastmod>2025-10-14T06:32:59+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -3442,12 +3481,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/neutts-air/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/cua-open-source-infrastructure-for-computer-use-ag/</loc>
     <lastmod>2025-10-14T06:17:05+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -3473,12 +3511,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/cua-open-source-infrastructure-for-computer-use-ag/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/mcp-analytics-and-authentication-platform/</loc>
     <lastmod>2025-10-14T05:39:36+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -3504,12 +3541,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/mcp-analytics-and-authentication-platform/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/my-trick-for-getting-consistent-classification-fro/</loc>
     <lastmod>2025-10-13T18:01:07+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -3535,12 +3571,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/my-trick-for-getting-consistent-classification-fro/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/if-you-re-late-to-the-whole-memory-in-ai-agents-to/</loc>
     <lastmod>2025-10-12T05:41:41+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -3566,12 +3601,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/if-you-re-late-to-the-whole-memory-in-ai-agents-to/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/deeplearning-ai-start-or-advance-your-career-in-ai/</loc>
     <lastmod>2025-10-09T04:30:21+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -3597,12 +3631,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/deeplearning-ai-start-or-advance-your-career-in-ai/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/claude-code-best-practices-code-w-claude-youtube/</loc>
     <lastmod>2025-10-09T03:43:11+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -3628,12 +3661,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/claude-code-best-practices-code-w-claude-youtube/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/eu-funded-tildeopen-llm-delivers-european-ai-break/</loc>
     <lastmod>2025-10-03T07:47:00+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -3659,12 +3691,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/eu-funded-tildeopen-llm-delivers-european-ai-break/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/the-rag-obituary-killed-by-agents-buried-by-contex/</loc>
     <lastmod>2025-10-02T08:11:11+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -3690,12 +3721,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/the-rag-obituary-killed-by-agents-buried-by-contex/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/anthropic-releases-claude-sonnet-4-5-in-latest-bid/</loc>
     <lastmod>2025-10-01T13:42:01+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -3721,12 +3751,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/anthropic-releases-claude-sonnet-4-5-in-latest-bid/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/rag-anything-all-in-one-rag-framework/</loc>
     <lastmod>2025-09-29T13:02:53+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -3752,12 +3781,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/rag-anything-all-in-one-rag-framework/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/raglight/</loc>
     <lastmod>2025-09-29T12:45:31+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -3783,12 +3811,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/raglight/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/turns-codebase-into-easy-tutorial-with-ai/</loc>
     <lastmod>2025-09-29T04:32:54+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -3814,12 +3841,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/turns-codebase-into-easy-tutorial-with-ai/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/failing-to-understand-the-exponential-again/</loc>
     <lastmod>2025-09-29T02:49:32+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -3845,12 +3871,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/failing-to-understand-the-exponential-again/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/prompt-packs-openai-academy/</loc>
     <lastmod>2025-09-29T02:27:47+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -3876,12 +3901,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/prompt-packs-openai-academy/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/ai-researcher-autonomous-scientific-innovation/</loc>
     <lastmod>2025-09-24T07:31:07+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -3907,12 +3931,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/ai-researcher-autonomous-scientific-innovation/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/context-engineering-for-ai-agents-lessons-from-bui/</loc>
     <lastmod>2025-09-24T03:36:01+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -3938,12 +3961,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/context-engineering-for-ai-agents-lessons-from-bui/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/agenticseek-private-local-manus-alternative/</loc>
     <lastmod>2025-09-23T16:44:11+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -3969,12 +3991,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/agenticseek-private-local-manus-alternative/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/learn-your-way/</loc>
     <lastmod>2025-09-23T18:36:37+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4000,12 +4021,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/learn-your-way/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/qwen/</loc>
     <lastmod>2025-09-23T18:34:18+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4031,12 +4051,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/qwen/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/qwen-image/</loc>
     <lastmod>2025-09-23T16:14:19+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4062,12 +4081,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/qwen-image/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/introducing-tongyi-deep-research/</loc>
     <lastmod>2025-09-22T15:17:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4093,12 +4111,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/introducing-tongyi-deep-research/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/copyparty/</loc>
     <lastmod>2025-09-22T15:04:19+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4124,12 +4141,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/copyparty/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/ai-engineering-hub/</loc>
     <lastmod>2025-09-22T14:57:38+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4155,12 +4171,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/ai-engineering-hub/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/deep-chat/</loc>
     <lastmod>2025-09-22T12:04:31+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4186,12 +4201,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/deep-chat/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/ibm-granite-granite-docling-258m-hugging-face/</loc>
     <lastmod>2025-09-22T08:55:39+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4217,12 +4231,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/ibm-granite-granite-docling-258m-hugging-face/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/google-just-dropped-an-ace-64-page-guide-on-buildi/</loc>
     <lastmod>2025-09-22T08:53:27+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4248,12 +4261,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/google-just-dropped-an-ace-64-page-guide-on-buildi/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/opcode-the-elegant-desktop-companion-for-claude-co/</loc>
     <lastmod>2025-09-21T12:18:32+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4279,12 +4291,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/opcode-the-elegant-desktop-companion-for-claude-co/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/nocodb-cloud/</loc>
     <lastmod>2025-09-20T09:08:30+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4310,12 +4321,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/nocodb-cloud/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/a-step-by-step-implementation-of-qwen-3-moe-archit/</loc>
     <lastmod>2025-09-20T06:33:27+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4341,12 +4351,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/a-step-by-step-implementation-of-qwen-3-moe-archit/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/memorag-moving-towards-next-gen-rag-via-memory-ins/</loc>
     <lastmod>2025-09-18T14:48:56+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4372,12 +4381,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/memorag-moving-towards-next-gen-rag-via-memory-ins/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/enable-ai-to-control-your-browser/</loc>
     <lastmod>2025-09-18T14:40:36+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4403,12 +4411,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/enable-ai-to-control-your-browser/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/total-monthly-distance-traveled-by-passengers-in-c/</loc>
     <lastmod>2025-09-18T07:22:30+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4434,12 +4441,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/total-monthly-distance-traveled-by-passengers-in-c/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/a-must-bookmark-for-vibe-coders/</loc>
     <lastmod>2025-09-18T05:51:20+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4465,12 +4471,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/a-must-bookmark-for-vibe-coders/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/huge-ai-market-opportunity-in-2025/</loc>
     <lastmod>2025-09-18T04:52:37+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4496,12 +4501,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/huge-ai-market-opportunity-in-2025/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/the-anthropic-economic-index-anthropic/</loc>
     <lastmod>2025-09-18T04:39:36+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4527,12 +4531,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/the-anthropic-economic-index-anthropic/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/dots-ocr-multilingual-document-layout-parsing-in-a/</loc>
     <lastmod>2025-09-14T15:17:44+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4558,12 +4561,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/dots-ocr-multilingual-document-layout-parsing-in-a/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/paddleocr/</loc>
     <lastmod>2025-09-14T15:15:24+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4589,12 +4591,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/paddleocr/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/deepsite-v2-a-hugging-face-space-by-enzostvs/</loc>
     <lastmod>2025-09-14T08:54:06+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4620,12 +4621,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/deepsite-v2-a-hugging-face-space-by-enzostvs/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/how-to-use-claude-code-subagents-to-parallelize-de/</loc>
     <lastmod>2025-09-14T05:37:08+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4651,12 +4651,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/how-to-use-claude-code-subagents-to-parallelize-de/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/show-hn-clavier-36-a-programming-environment-for-g/</loc>
     <lastmod>2025-09-13T14:22:59+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4682,12 +4681,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/show-hn-clavier-36-a-programming-environment-for-g/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/small-models-are-the-future-of-agentic-ai/</loc>
     <lastmod>2025-09-11T10:24:30+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4713,12 +4711,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/small-models-are-the-future-of-agentic-ai/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/kimi-k2-open-agentic-intelligence/</loc>
     <lastmod>2025-09-06T14:08:39+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4744,12 +4741,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/kimi-k2-open-agentic-intelligence/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/introducing-qwen3-max-preview-instruct/</loc>
     <lastmod>2025-09-06T14:05:23+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4775,12 +4771,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/introducing-qwen3-max-preview-instruct/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/scientific-paper-agent-with-langgraph/</loc>
     <lastmod>2025-09-06T10:10:32+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4806,12 +4801,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/scientific-paper-agent-with-langgraph/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/anthropic-s-interactive-prompt-engineering-tutoria/</loc>
     <lastmod>2025-09-06T10:01:34+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4837,12 +4831,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/anthropic-s-interactive-prompt-engineering-tutoria/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/ragflow/</loc>
     <lastmod>2025-09-06T09:59:50+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4868,12 +4861,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/ragflow/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/swiss-ai-apertus-70b-2509-hugging-face/</loc>
     <lastmod>2025-09-06T09:00:43+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4899,12 +4891,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/swiss-ai-apertus-70b-2509-hugging-face/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/making-a-font-of-my-handwriting-chameth-com/</loc>
     <lastmod>2025-09-06T08:41:06+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4930,12 +4921,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/making-a-font-of-my-handwriting-chameth-com/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/surfsense/</loc>
     <lastmod>2025-09-06T04:06:07+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4961,12 +4951,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/surfsense/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/lorax-multi-lora-inference-server-that-scales-to-1/</loc>
     <lastmod>2025-09-05T07:09:18+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -4992,12 +4981,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/lorax-multi-lora-inference-server-that-scales-to-1/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/nextchat/</loc>
     <lastmod>2025-09-04T18:45:09+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5023,12 +5011,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/nextchat/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/the-llm-red-teaming-framework/</loc>
     <lastmod>2025-09-04T14:51:19+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5054,12 +5041,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/the-llm-red-teaming-framework/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/colette/</loc>
     <lastmod>2025-09-04T14:12:51+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5085,12 +5071,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/colette/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/memvid/</loc>
     <lastmod>2025-09-04T12:45:37+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5116,12 +5101,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/memvid/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/</loc>
     <lastmod>2025-09-03T10:44:01+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5147,12 +5131,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/2502-12110-a-mem-agentic-memory-for-llm-agents/</loc>
     <lastmod>2025-09-03T07:50:32+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5178,12 +5161,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/2502-12110-a-mem-agentic-memory-for-llm-agents/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/2504-19413-mem0-building-production-ready-ai-agent/</loc>
     <lastmod>2025-09-03T07:49:59+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5209,12 +5191,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/2504-19413-mem0-building-production-ready-ai-agent/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/apertus-70b-truly-open-swiss-llm-by-eth-epfl-and-c/</loc>
     <lastmod>2025-09-02T20:14:51+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5240,12 +5221,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/apertus-70b-truly-open-swiss-llm-by-eth-epfl-and-c/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/humanlayer/</loc>
     <lastmod>2025-08-30T05:39:37+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5271,12 +5251,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/humanlayer/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/pageindex-document-index-for-reasoning-based-rag/</loc>
     <lastmod>2025-08-30T05:27:42+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5302,12 +5281,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/pageindex-document-index-for-reasoning-based-rag/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/deploying-deepseek-on-96-h100-gpus/</loc>
     <lastmod>2025-08-29T14:07:28+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5333,12 +5311,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/deploying-deepseek-on-96-h100-gpus/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/claude-code-a-highly-agentic-coding-assistant-deep/</loc>
     <lastmod>2025-08-29T07:35:13+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5364,12 +5341,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/claude-code-a-highly-agentic-coding-assistant-deep/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/dyg-rag-dynamic-graph-retrieval-augmented-generati/</loc>
     <lastmod>2025-08-28T17:08:06+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5395,12 +5371,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/dyg-rag-dynamic-graph-retrieval-augmented-generati/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/2508-15126-aixiv-a-next-generation-open-access-eco/</loc>
     <lastmod>2025-08-26T08:53:14+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5426,12 +5401,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/2508-15126-aixiv-a-next-generation-open-access-eco/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/alexander-kruel-links-for-2025-08-24/</loc>
     <lastmod>2025-08-25T04:34:27+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5457,12 +5431,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/alexander-kruel-links-for-2025-08-24/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/dspy/</loc>
     <lastmod>2025-08-25T04:11:52+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5488,12 +5461,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/dspy/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/ai-agents-for-beginners-a-course/</loc>
     <lastmod>2025-08-25T03:54:28+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5519,12 +5491,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/ai-agents-for-beginners-a-course/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/turning-claude-code-into-my-best-design-partner/</loc>
     <lastmod>2025-08-24T08:06:03+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5550,12 +5521,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/turning-claude-code-into-my-best-design-partner/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/how-to-build-a-coding-agent/</loc>
     <lastmod>2025-08-24T03:21:14+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5581,12 +5551,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/how-to-build-a-coding-agent/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/tiledesk-design-studio/</loc>
     <lastmod>2025-08-23T23:06:18+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5612,12 +5581,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/tiledesk-design-studio/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/build-a-large-language-model-from-scratch/</loc>
     <lastmod>2025-08-21T08:47:45+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5643,12 +5611,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/build-a-large-language-model-from-scratch/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/data-formulator-create-rich-visualizations-with-ai/</loc>
     <lastmod>2025-08-20T22:04:18+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5674,12 +5641,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/data-formulator-create-rich-visualizations-with-ai/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/browser-use-web-ui/</loc>
     <lastmod>2025-08-20T07:57:09+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5705,12 +5671,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/browser-use-web-ui/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/casper-capital-100-ai-tools-you-cant-ignore-in-202/</loc>
     <lastmod>2025-08-19T09:29:16+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5736,12 +5701,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/casper-capital-100-ai-tools-you-cant-ignore-in-202/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/parlant/</loc>
     <lastmod>2025-08-19T05:11:09+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5767,12 +5731,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/parlant/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/cs294-194-196-large-language-model-agents-cs-194-2/</loc>
     <lastmod>2025-08-19T04:35:05+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5798,12 +5761,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/cs294-194-196-large-language-model-agents-cs-194-2/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/show-hn-whispering-open-source-local-first-dictati/</loc>
     <lastmod>2025-08-18T16:52:29+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5829,12 +5791,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/show-hn-whispering-open-source-local-first-dictati/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/fallinorg-v1-0-0-beta/</loc>
     <lastmod>2025-08-18T05:14:37+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5860,12 +5821,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/fallinorg-v1-0-0-beta/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/dokieli/</loc>
     <lastmod>2025-08-18T04:40:17+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5891,12 +5851,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/dokieli/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/paperetl/</loc>
     <lastmod>2025-08-18T04:32:19+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5922,12 +5881,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/paperetl/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/automatically-annotate-papers-using-llms/</loc>
     <lastmod>2025-08-18T04:29:38+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5953,12 +5911,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/automatically-annotate-papers-using-llms/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/my-ai-had-already-fixed-the-code-before-i-saw-it/</loc>
     <lastmod>2025-08-18T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -5984,12 +5941,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/my-ai-had-already-fixed-the-code-before-i-saw-it/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/llama-scan-convert-pdfs-to-text-w-local-llms/</loc>
     <lastmod>2025-08-17T21:40:47+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6015,12 +5971,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/llama-scan-convert-pdfs-to-text-w-local-llms/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/claudia-desktop-companion-for-claude-code/</loc>
     <lastmod>2025-08-17T17:26:56+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6046,12 +6001,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/claudia-desktop-companion-for-claude-code/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/show-hn-fallinorg-offline-mac-app-that-organizes-f/</loc>
     <lastmod>2025-08-17T15:40:04+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6077,12 +6031,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/show-hn-fallinorg-offline-mac-app-that-organizes-f/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/focalboard/</loc>
     <lastmod>2025-08-17T04:07:27+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6108,12 +6061,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/focalboard/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/elysia-agentic-framework-powered-by-decision-trees/</loc>
     <lastmod>2025-08-17T03:51:27+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6139,12 +6091,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/elysia-agentic-framework-powered-by-decision-trees/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/langextract/</loc>
     <lastmod>2025-08-17T03:48:51+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6170,12 +6121,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/langextract/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/mcp-use/</loc>
     <lastmod>2025-08-17T03:32:10+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6201,12 +6151,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/mcp-use/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/1-for-context-engineering-over-prompt-engineering/</loc>
     <lastmod>2025-08-12T03:59:32+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6232,12 +6181,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/1-for-context-engineering-over-prompt-engineering/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/the-race-for-llm-cognitive-core/</loc>
     <lastmod>2025-08-12T03:57:40+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6263,12 +6211,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/the-race-for-llm-cognitive-core/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/2507-07935-working-with-ai-measuring-the-occupatio/</loc>
     <lastmod>2025-08-12T03:28:41+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6294,12 +6241,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/2507-07935-working-with-ai-measuring-the-occupatio/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/dolphin-document-image-parsing-via-heterogeneous-a/</loc>
     <lastmod>2025-08-12T03:11:43+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6325,12 +6271,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/dolphin-document-image-parsing-via-heterogeneous-a/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/prava-teaching-gpt-5-to-use-a-computer/</loc>
     <lastmod>2025-08-12T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6356,12 +6301,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/prava-teaching-gpt-5-to-use-a-computer/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/instavm-secure-code-execution-platform/</loc>
     <lastmod>2025-08-08T23:10:02+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6387,12 +6331,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/instavm-secure-code-execution-platform/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/sim/</loc>
     <lastmod>2025-08-07T03:37:06+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6418,12 +6361,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/sim/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/litestar-is-worth-a-look/</loc>
     <lastmod>2025-08-06T19:43:01+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6449,12 +6391,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/litestar-is-worth-a-look/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/jobs-at-kaizen-y-combinator/</loc>
     <lastmod>2025-08-01T07:31:35+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6480,12 +6421,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/jobs-at-kaizen-y-combinator/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/launch-hn-lucidic-yc-w25-debug-test-and-evaluate-a/</loc>
     <lastmod>2025-07-30T15:54:02+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6511,12 +6451,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/launch-hn-lucidic-yc-w25-debug-test-and-evaluate-a/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/introducing-pay-per-crawl-enabling-content-owners/</loc>
     <lastmod>2025-07-29T03:01:31+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6542,12 +6481,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/introducing-pay-per-crawl-enabling-content-owners/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/agentic-design-patterns-documenti-google/</loc>
     <lastmod>2025-07-24T13:32:11+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6573,12 +6511,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/agentic-design-patterns-documenti-google/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/2507-14447-routine-a-structural-planning-framework/</loc>
     <lastmod>2025-07-24T07:41:30+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6604,12 +6541,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/2507-14447-routine-a-structural-planning-framework/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/qwen3-coder-agentic-coding-in-the-world/</loc>
     <lastmod>2025-07-22T21:12:30+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6635,12 +6571,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/qwen3-coder-agentic-coding-in-the-world/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/futurehouse-platform/</loc>
     <lastmod>2025-07-16T21:02:51+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6666,12 +6601,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/futurehouse-platform/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/voxtral-mistral-ai/</loc>
     <lastmod>2025-07-16T12:04:15+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6697,12 +6631,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/voxtral-mistral-ai/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/research-agent-with-gemini-2-5-pro-and-llamaindex/</loc>
     <lastmod>2025-07-16T03:21:12+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6728,12 +6661,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/research-agent-with-gemini-2-5-pro-and-llamaindex/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/ai-act-c-e-il-codice-di-condotta-per-un-approccio/</loc>
     <lastmod>2025-07-16T02:36:35+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6759,12 +6691,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/ai-act-c-e-il-codice-di-condotta-per-un-approccio/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/2507-06398-jolting-technologies-superexponential-a/</loc>
     <lastmod>2025-07-14T04:16:23+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6790,12 +6721,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/2507-06398-jolting-technologies-superexponential-a/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/mindsdb-an-ai-data-solution-mindsdb/</loc>
     <lastmod>2025-07-14T04:03:02+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6821,12 +6751,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/mindsdb-an-ai-data-solution-mindsdb/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/backlog-md-markdown-native-task-manager-and-kanban/</loc>
     <lastmod>2025-07-06T19:55:30+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6852,12 +6781,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/backlog-md-markdown-native-task-manager-and-kanban/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/opencode-ai-coding-agent-built-for-the-terminal/</loc>
     <lastmod>2025-07-06T17:26:47+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6883,12 +6811,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/opencode-ai-coding-agent-built-for-the-terminal/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/the-new-skill-in-ai-is-not-prompting-it-s-context/</loc>
     <lastmod>2025-06-30T20:53:55+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6914,12 +6841,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/the-new-skill-in-ai-is-not-prompting-it-s-context/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/</loc>
     <lastmod>2025-06-27T18:49:57+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6945,12 +6871,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/gemini-for-google-workspace-prompting-guide-101/</loc>
     <lastmod>2025-06-27T08:24:59+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -6976,12 +6901,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/gemini-for-google-workspace-prompting-guide-101/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/judge-rules-training-ai-on-copyrighted-works-is-fa/</loc>
     <lastmod>2025-06-26T19:43:40+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -7007,12 +6931,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/judge-rules-training-ai-on-copyrighted-works-is-fa/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/mcp-is-eating-the-world-and-it-s-here-to-stay/</loc>
     <lastmod>2025-06-25T14:39:14+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -7038,12 +6961,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/mcp-is-eating-the-world-and-it-s-here-to-stay/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/how-dataherald-makes-natural-language-to-sql-easy/</loc>
     <lastmod>2025-06-20T19:47:22+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
@@ -7069,12 +6991,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/how-dataherald-makes-natural-language-to-sql-easy/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/field-notes-from-shipping-real-code-with-claude/</loc>
     <lastmod>2025-06-20T06:11:13+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -7100,12 +7021,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/field-notes-from-shipping-real-code-with-claude/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/nice-my-ai-startup-school-talk-is-now-up/</loc>
     <lastmod>2025-06-19T06:23:07+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -7131,12 +7051,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/nice-my-ai-startup-school-talk-is-now-up/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/nice-my-ai-startup-school-talk-is-now-up-chapters/</loc>
     <lastmod>2025-06-19T06:23:07+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -7162,12 +7081,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/nice-my-ai-startup-school-talk-is-now-up-chapters/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/automated-73-of-his-remote-job-using-basic-automat/</loc>
     <lastmod>2025-06-17T23:19:37+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -7193,12 +7111,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/automated-73-of-his-remote-job-using-basic-automat/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/building-effective-ai-agents/</loc>
     <lastmod>2025-06-17T17:50:05+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -7224,12 +7141,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/building-effective-ai-agents/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/how-anthropic-teams-use-claude-code/</loc>
     <lastmod>2025-06-17T08:17:01+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -7255,12 +7171,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/how-anthropic-teams-use-claude-code/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/snorting-the-agi-with-claude-code/</loc>
     <lastmod>2025-06-16T11:01:32+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -7286,12 +7201,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/snorting-the-agi-with-claude-code/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/nanonets-ocr-s-ocr-model-that-transforms-documents/</loc>
     <lastmod>2025-06-16T06:14:56+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -7317,12 +7231,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/nanonets-ocr-s-ocr-model-that-transforms-documents/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/the-illusion-of-thinking/</loc>
     <lastmod>2025-06-07T10:28:23+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -7348,12 +7261,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/the-illusion-of-thinking/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/trends-artificial-intelligence-bond/</loc>
     <lastmod>2025-06-06T19:14:07+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -7379,12 +7291,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/trends-artificial-intelligence-bond/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/claude-code-is-my-computer-peter-steinberger/</loc>
     <lastmod>2025-06-04T05:07:52+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -7410,12 +7321,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/claude-code-is-my-computer-peter-steinberger/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/2505-24863-alphaone-reasoning-models-thinking-slow/</loc>
     <lastmod>2025-06-03T03:43:39+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -7441,12 +7351,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/2505-24863-alphaone-reasoning-models-thinking-slow/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/2505-24864-prorl-prolonged-reinforcement-learning/</loc>
     <lastmod>2025-06-03T03:29:10+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -7472,12 +7381,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/2505-24864-prorl-prolonged-reinforcement-learning/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/my-ai-skeptic-friends-are-all-nuts-the-fly-blog/</loc>
     <lastmod>2025-06-03T03:05:44+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -7503,43 +7411,41 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/my-ai-skeptic-friends-are-all-nuts-the-fly-blog/"
     />
-  </url>
-  <url>
-    <loc>https://ht-x.com/fr/progetti-finanziati/htx/</loc>
+  </url><url>
+    <loc>https://ht-x.com/fr/grants/htx/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://ht-x.com/progetti-finanziati/htx/"
+      href="https://ht-x.com/grants/htx/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://ht-x.com/en/progetti-finanziati/htx/"
+      href="https://ht-x.com/en/grants/htx/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://ht-x.com/de/progetti-finanziati/htx/"
+      href="https://ht-x.com/de/grants/htx/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://ht-x.com/es/progetti-finanziati/htx/"
+      href="https://ht-x.com/es/grants/htx/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://ht-x.com/fr/progetti-finanziati/htx/"
+      href="https://ht-x.com/fr/grants/htx/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/designing-pareto-optimal-genai-workflows-with-syft/</loc>
     <lastmod>2025-05-31T22:26:11+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -7565,12 +7471,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/designing-pareto-optimal-genai-workflows-with-syft/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/billionmail-an-open-source-mailserver-newsletter-e/</loc>
     <lastmod>2025-05-31T22:20:37+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -7596,43 +7501,41 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/billionmail-an-open-source-mailserver-newsletter-e/"
     />
-  </url>
-  <url>
-    <loc>https://ht-x.com/fr/progetti-finanziati/private-chatbot-ai/</loc>
+  </url><url>
+    <loc>https://ht-x.com/fr/grants/private-chatbot-ai/</loc>
     <lastmod>2025-05-31T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://ht-x.com/en/progetti-finanziati/private-chatbot-ai/"
+      href="https://ht-x.com/en/grants/private-chatbot-ai/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://ht-x.com/progetti-finanziati/private-chatbot-ai/"
+      href="https://ht-x.com/grants/private-chatbot-ai/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://ht-x.com/de/progetti-finanziati/private-chatbot-ai/"
+      href="https://ht-x.com/de/grants/private-chatbot-ai/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://ht-x.com/es/progetti-finanziati/private-chatbot-ai/"
+      href="https://ht-x.com/es/grants/private-chatbot-ai/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://ht-x.com/fr/progetti-finanziati/private-chatbot-ai/"
+      href="https://ht-x.com/fr/grants/private-chatbot-ai/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/ask-hn-what-is-the-best-llm-for-consumer-grade-har/</loc>
     <lastmod>2025-05-30T11:02:19+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -7658,12 +7561,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/ask-hn-what-is-the-best-llm-for-consumer-grade-har/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/2411-06037-sufficient-context-a-new-lens-on-retrie/</loc>
     <lastmod>2025-05-29T22:42:18+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -7689,12 +7591,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/2411-06037-sufficient-context-a-new-lens-on-retrie/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/show-hn-onlook-open-source-visual-first-cursor-for/</loc>
     <lastmod>2025-05-29T16:31:15+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -7720,12 +7621,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/show-hn-onlook-open-source-visual-first-cursor-for/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/agent-development-kit-adk/</loc>
     <lastmod>2025-05-29T06:22:22+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -7751,12 +7651,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/agent-development-kit-adk/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/strands-agents/</loc>
     <lastmod>2025-05-29T06:20:31+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -7782,12 +7681,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/strands-agents/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/show-hn-autothink-boosts-local-llm-performance-wit/</loc>
     <lastmod>2025-05-28T02:39:11+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -7813,12 +7711,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/show-hn-autothink-boosts-local-llm-performance-wit/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/introduction-intelowl-project-documentation/</loc>
     <lastmod>2025-05-28T02:02:07+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -7844,12 +7741,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/introduction-intelowl-project-documentation/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/</loc>
     <lastmod>2025-05-27T20:53:03+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -7875,12 +7771,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/2505-03335v2-absolute-zero-reinforced-self-play-re/</loc>
     <lastmod>2025-05-26T22:34:40+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -7906,12 +7801,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/2505-03335v2-absolute-zero-reinforced-self-play-re/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/codexs-robot-dev-team-grok-s-fixation-on-south-afr/</loc>
     <lastmod>2025-05-26T03:18:01+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -7937,12 +7831,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/codexs-robot-dev-team-grok-s-fixation-on-south-afr/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/2502-00032v1-querying-databases-with-function-call/</loc>
     <lastmod>2025-05-21T08:20:09+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -7968,12 +7861,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/2502-00032v1-querying-databases-with-function-call/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/come-addestrare-un-llm-con-i-tuoi-dati-personali-g/</loc>
     <lastmod>2025-05-21T07:37:40+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -7999,12 +7891,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/come-addestrare-un-llm-con-i-tuoi-dati-personali-g/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/ai-hedge-fund/</loc>
     <lastmod>2025-05-20T02:02:44+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -8030,12 +7921,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/ai-hedge-fund/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/troy-hunt-have-i-been-pwned-2-0-is-now-live/</loc>
     <lastmod>2025-05-20T01:23:23+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -8061,12 +7951,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/troy-hunt-have-i-been-pwned-2-0-is-now-live/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/a-research-preview-of-codex/</loc>
     <lastmod>2025-05-16T15:02:02+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -8092,12 +7981,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/a-research-preview-of-codex/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/2505-06120-llms-get-lost-in-multi-turn-conversatio/</loc>
     <lastmod>2025-05-16T07:37:01+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -8123,12 +8011,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/2505-06120-llms-get-lost-in-multi-turn-conversatio/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/ollama-s-new-engine-for-multimodal-models/</loc>
     <lastmod>2025-05-16T07:26:03+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -8154,12 +8041,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/ollama-s-new-engine-for-multimodal-models/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/vision-now-available-in-llama-cpp/</loc>
     <lastmod>2025-05-10T03:39:46+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -8185,12 +8071,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/vision-now-available-in-llama-cpp/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/2505-03335-absolute-zero-reinforced-self-play-reas/</loc>
     <lastmod>2025-05-09T07:19:57+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -8216,12 +8101,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/2505-03335-absolute-zero-reinforced-self-play-reas/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/requests-for-startups-y-combinator/</loc>
     <lastmod>2025-05-07T22:08:25+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -8247,12 +8131,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/requests-for-startups-y-combinator/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/token-token-usage-deepseek-api-docs/</loc>
     <lastmod>2025-05-01T08:56:17+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -8278,12 +8161,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/token-token-usage-deepseek-api-docs/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/cua-is-docker-for-computer-use-ai-agents/</loc>
     <lastmod>2025-04-24T04:47:08+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -8309,12 +8191,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/cua-is-docker-for-computer-use-ai-agents/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/2504-07139-artificial-intelligence-index-report-20/</loc>
     <lastmod>2025-04-24T04:05:33+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -8340,12 +8221,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/2504-07139-artificial-intelligence-index-report-20/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/gemma-3-qat-models-bringing-state-of-the-art-ai-to/</loc>
     <lastmod>2025-04-21T07:38:58+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -8371,12 +8251,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/gemma-3-qat-models-bringing-state-of-the-art-ai-to/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/04/github-handsonllm-hands-on-large-language-models-o/</loc>
     <lastmod>2025-04-19T04:58:28+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
@@ -8402,12 +8281,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/04/github-handsonllm-hands-on-large-language-models-o/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/04/github-humanlayer-12-factor-agents-what-are-the-pr/</loc>
     <lastmod>2025-04-17T03:16:29+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -8433,12 +8311,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/04/github-humanlayer-12-factor-agents-what-are-the-pr/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through/</loc>
     <lastmod>2025-02-14T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -8464,12 +8341,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/a-foundation-model-to-predict-and-capture-human-co/</loc>
     <lastmod>2024-10-26T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -8495,12 +8371,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/a-foundation-model-to-predict-and-capture-human-co/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/09/large-language-models-are-proficient-in-solving-an/</loc>
     <lastmod>2024-10-03T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -8526,12 +8401,11 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/09/large-language-models-are-proficient-in-solving-an/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/posts/2025/10/everything-about-transformers/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
@@ -8557,41 +8431,39 @@
       hreflang="fr"
       href="https://ht-x.com/fr/posts/2025/10/everything-about-transformers/"
     />
-  </url>
-  <url>
-    <loc>https://ht-x.com/fr/chi-siamo/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+  </url><url>
+    <loc>https://ht-x.com/fr/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://ht-x.com/en/chi-siamo/"
+      href="https://ht-x.com/en/about/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://ht-x.com/chi-siamo/"
+      href="https://ht-x.com/about/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://ht-x.com/de/chi-siamo/"
+      href="https://ht-x.com/de/about/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://ht-x.com/es/chi-siamo/"
+      href="https://ht-x.com/es/about/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://ht-x.com/fr/chi-siamo/"
+      href="https://ht-x.com/fr/about/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/koi/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -8617,11 +8489,10 @@
       hreflang="fr"
       href="https://ht-x.com/fr/koi/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/manta/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"
@@ -8647,11 +8518,10 @@
       hreflang="fr"
       href="https://ht-x.com/fr/manta/"
     />
-  </url>
-  <url>
+  </url><url>
     <loc>https://ht-x.com/fr/orca/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
     <xhtml:link
       rel="alternate"
       hreflang="it"

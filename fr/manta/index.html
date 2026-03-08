@@ -109,7 +109,8 @@
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="MANTA — Base de données en langage naturel | Text-to-SQL IA | HTX">
   <meta name="twitter:description" content="MANTA : interrogez n&#39;importe quelle base de données en langage naturel. Requêtes SQL précises et sécurisées, on-premise ou cloud EU.">
-
+<meta name="twitter:image" content="https://ht-x.com/img/homepage_banner.png">
+    <meta property="og:image" content="https://ht-x.com/img/homepage_banner.png">
   
 
 
@@ -132,6 +133,55 @@
   
 
   
+  
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "\"Qu'est-ce que MANTA et comment fonctionne-t-il ?\"",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "\"MANTA permet d'interroger n'importe quelle base de donnees en langage naturel. Demandez 'Quels medicaments ont les temps de preparation les plus longs ?' et MANTA genere la requete SQL et retourne la reponse en secondes.\""
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "\"MANTA supporte-t-il ma base de donnees ?\"",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "\"Oui. PostgreSQL, MySQL, SQL Server, Oracle, MongoDB et d'autres — une seule interface, zero competence SQL requise.\""
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "\"Puis-je installer MANTA sur mes serveurs ?\"",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "\"Oui. MANTA fonctionne sur PRISMA : deploiement on-premise ou cloud EU. Vos donnees restent dans votre perimetre.\""
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "\"MANTA est-il protege contre les injections SQL ?\"",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "\"Oui. Protection integree avec validation automatique et assainissement des requetes generees par l'IA.\""
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "\"Ou MANTA a-t-il ete deploye ?\"",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "\"Integre au robot ChemoMaker pour la preparation de medicaments, avec Biovalley Investments et Trieste Valley.\""
+        }
+      }
+    ]
+  }
+  </script>
   
 
 
@@ -179,6 +229,13 @@
   
 
   
+  
+    <link rel="alternate" hreflang="fr" href="https://ht-x.com/fr/manta/" />
+  <link rel="alternate" hreflang="it" href="https://ht-x.com/manta/" />
+  <link rel="alternate" hreflang="en" href="https://ht-x.com/en/manta/" />
+  <link rel="alternate" hreflang="de" href="https://ht-x.com/de/manta/" />
+  <link rel="alternate" hreflang="es" href="https://ht-x.com/es/manta/" />
+  <link rel="alternate" hreflang="x-default" href="https://ht-x.com/manta/" />
   
 
   
@@ -365,7 +422,7 @@
               
   <li class="mt-1">
   <a
-    href="/fr/chi-siamo/"
+    href="/fr/about/"
     
     class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
     
@@ -381,7 +438,7 @@
               
   <li class="mt-1">
   <a
-    href="/fr/progetti-finanziati/"
+    href="/fr/grants/"
     
     class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
     
@@ -493,7 +550,7 @@
       <span class="htx-pill">Conforme RGPD</span>
     </div>
     <h1>L'agent SQL<br>de vos données<span class="thin">.</span></h1>
-    <p class="htx-pp-tagline">Connectez vos bases de données. Posez des questions en français. Obtenez des requêtes SQL précises, validées et sécurisées — sans écrire une seule ligne de code.</p>
+    <p class="htx-pp-tagline">Connectez vos bases de donnees. Posez des questions en francais. Requetes SQL precises, validees et securisees — conforme RGPD et AI Act, sans ecrire une seule ligne de code.</p>
     <div class="htx-hero-buttons">
       <a href="mailto:hello@ht-x.com" class="btn-w">Demander une démo
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
@@ -546,8 +603,8 @@
   <div class="htx-pp-two-col">
     <div>
       <h2>Agent de nouvelle génération.<br>Précision sans compromis.</h2>
-      <p>Grâce à des modèles personnalisés, un fine-tuning ciblé et une évaluation intégrée, <strong>MANTA garantit les meilleures performances text-to-SQL</strong> — même sur des schémas complexes avec des dizaines de tables.</p>
-      <p>Chaque requête générée est validée et assainie avant exécution. Aucun risque d'injection SQL, aucun accès non autorisé.</p>
+      <p>Grace a des modeles personnalises, un fine-tuning cible et une evaluation integree, <strong>MANTA atteint des performances text-to-SQL comparables ou superieures a ChatGPT-5 et Gemini 2.5 Pro</strong> — meme sur des schemas complexes avec des dizaines de tables. La difference : vos donnees ne quittent jamais votre infrastructure.</p>
+      <p>Chaque requete generee est validee et assainie avant execution. Aucun risque d'injection SQL, aucun acces non autorise.</p>
     </div>
     <div>
       <img src="/images/arisql/Esempio_query2.png" alt="Exemple de requête MANTA" class="htx-pp-img" />
@@ -636,10 +693,57 @@
 <!-- 8. ORIGINE -->
 <div class="htx-pp-note">
   <h3>Du projet de recherche au produit</h3>
-  <p>MANTA est le <strong>premier produit commercial</strong> issu du projet de recherche <a href="/progetti-finanziati/private-chatbot-ai/">PrivateChatAI</a>, financé par la Région Frioul-Vénétie Julienne. Le projet a jeté les bases de solutions IA privées et sécurisées, pleinement conformes au RGPD et à l'AI Act européen.</p>
+  <p>MANTA est le <strong>premier produit commercial</strong> issu du projet de recherche <a href="/grants/private-chatbot-ai/">PrivateChatAI</a>, financé par la Région Frioul-Vénétie Julienne. Le projet a jeté les bases de solutions IA privées et sécurisées, pleinement conformes au RGPD et à l'AI Act européen.</p>
 </div>
 <div class="htx-pp-attr">
   MANTA repose sur des composants open source du projet Dataherald v 1.0.3, distribué sous licence Apache License 2.0. Modifications et développements supplémentaires © 2025 HUMAN TECHNOLOGY eXCELLENCE - HTX S.R.L.
+</div>
+<!-- 9. FAQ -->
+<div class="htx-pp-section">
+  <div class="htx-label">Questions frequentes</div>
+  <h2>FAQ sur MANTA</h2>
+  
+  
+  <div class="htx-faq">
+    
+    <details class="htx-faq-item">
+      <summary class="htx-faq-q">Qu&#39;est-ce que MANTA et comment fonctionne-t-il ?</summary>
+      <div class="htx-faq-a">
+        <p>MANTA permet d&#39;interroger n&#39;importe quelle base de donnees en langage naturel. Demandez &#39;Quels medicaments ont les temps de preparation les plus longs ?&#39; et MANTA genere la requete SQL et retourne la reponse en secondes.</p>
+      </div>
+    </details>
+    
+    <details class="htx-faq-item">
+      <summary class="htx-faq-q">MANTA supporte-t-il ma base de donnees ?</summary>
+      <div class="htx-faq-a">
+        <p>Oui. PostgreSQL, MySQL, SQL Server, Oracle, MongoDB et d&#39;autres — une seule interface, zero competence SQL requise.</p>
+      </div>
+    </details>
+    
+    <details class="htx-faq-item">
+      <summary class="htx-faq-q">Puis-je installer MANTA sur mes serveurs ?</summary>
+      <div class="htx-faq-a">
+        <p>Oui. MANTA fonctionne sur PRISMA : deploiement on-premise ou cloud EU. Vos donnees restent dans votre perimetre.</p>
+      </div>
+    </details>
+    
+    <details class="htx-faq-item">
+      <summary class="htx-faq-q">MANTA est-il protege contre les injections SQL ?</summary>
+      <div class="htx-faq-a">
+        <p>Oui. Protection integree avec validation automatique et assainissement des requetes generees par l&#39;IA.</p>
+      </div>
+    </details>
+    
+    <details class="htx-faq-item">
+      <summary class="htx-faq-q">Ou MANTA a-t-il ete deploye ?</summary>
+      <div class="htx-faq-a">
+        <p>Integre au robot ChemoMaker pour la preparation de medicaments, avec Biovalley Investments et Trieste Valley.</p>
+      </div>
+    </details>
+    
+  </div>
+  
+
 </div>
 </div>
 
