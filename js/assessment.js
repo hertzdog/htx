@@ -218,6 +218,15 @@
   function collectFormData() {
     var d = {};
 
+    // Detect language from URL path
+    var pathParts = window.location.pathname.split('/');
+    var lang = 'en';
+    var validLangs = ['it', 'en', 'fr', 'de', 'es'];
+    if (pathParts.length > 1 && validLangs.indexOf(pathParts[1]) !== -1) {
+      lang = pathParts[1];
+    }
+    d.lang = lang;
+
     // Text/email inputs
     d.q1_1_azienda = val('q1_1_azienda');
     d.q1_2_ruolo = val('q1_2_ruolo');
