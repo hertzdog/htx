@@ -8527,6 +8527,35 @@
       href="https://ht-x.com/posts/2025/10/everything-about-transformers/"
     />
   </url><url>
+    <loc>https://ht-x.com/assessment/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/en/assessment/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/assessment/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/assessment/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/assessment/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/assessment/"
+    />
+  </url><url>
     <loc>https://ht-x.com/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>

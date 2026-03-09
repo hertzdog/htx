@@ -8461,6 +8461,35 @@
       href="https://ht-x.com/en/about/"
     />
   </url><url>
+    <loc>https://ht-x.com/en/assessment/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/assessment/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/assessment/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/assessment/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/assessment/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/en/assessment/"
+    />
+  </url><url>
     <loc>https://ht-x.com/en/koi/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
