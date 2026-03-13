@@ -5,7 +5,7 @@
     <link>https://ht-x.com/tags/ai-agent/</link>
     <description>Recent content in AI Agent on HUMAN TECHNOLOGY eXCELLENCE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it</language>
+    <language>en</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
     <lastBuildDate>Mon, 02 Feb 2026 03:13:37 +0100</lastBuildDate><atom:link href="https://ht-x.com/tags/ai-agent/index.xml" rel="self" type="application/rss+xml" />
     
@@ -30,7 +30,7 @@
     </item>
     
     <item>
-      <title>GitHub - bolt-foundry/gambit: Agent harness framework for building, running, and verifying LLM workflows</title>
+      <title>GitHub - bolt-foundry/gambit: Agent framework for building, running, and verifying LLM workflows</title>
       <link>https://ht-x.com/posts/2026/01/github-bolt-foundry-gambit-agent-harness-framework/</link>
       <pubDate>Mon, 19 Jan 2026 06:31:23 +0000</pubDate>
       
@@ -40,27 +40,7 @@
     </item>
     
     <item>
-      <title>GitHub - mistralai/mistral-vibe: Minimal CLI coding agent by Mistral</title>
-      <link>https://ht-x.com/posts/2026/01/github-mistralai-mistral-vibe-minimal-cli-coding-a/</link>
-      <pubDate>Thu, 15 Jan 2026 07:52:37 +0000</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/github-mistralai-mistral-vibe-minimal-cli-coding-a/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>GitHub - NVlabs/ToolOrchestra: ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.</title>
-      <link>https://ht-x.com/posts/2026/01/github-nvlabs-toolorchestra-toolorchestra-is-an-en/</link>
-      <pubDate>Thu, 15 Jan 2026 06:19:19 +0000</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/github-nvlabs-toolorchestra-toolorchestra-is-an-en/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Show HN: Agent-of-empires: OpenCode and Claude Code session manager</title>
+      <title>Show HN: Agent-of-Empires: OpenCode and Claude Code Session Manager</title>
       <link>https://ht-x.com/posts/2026/01/show-hn-agent-of-empires-opencode-and-claude-code/</link>
       <pubDate>Mon, 12 Jan 2026 14:23:07 +0000</pubDate>
       
@@ -70,17 +50,7 @@
     </item>
     
     <item>
-      <title>OpenCode | The open source AI coding agent</title>
-      <link>https://ht-x.com/posts/2026/01/opencode-the-open-source-ai-coding-agent/</link>
-      <pubDate>Fri, 09 Jan 2026 04:55:05 +0100</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/opencode-the-open-source-ai-coding-agent/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>You Should Write An Agent · The Fly Blog</title>
+      <title>You Should Write an Agent · The Fly Blog</title>
       <link>https://ht-x.com/posts/2026/01/you-should-write-an-agent-the-fly-blog/</link>
       <pubDate>Fri, 09 Jan 2026 04:44:55 +0100</pubDate>
       
@@ -90,7 +60,7 @@
     </item>
     
     <item>
-      <title>Getting Started - SWE-agent documentation</title>
+      <title>Getting Started - SWE-agent Documentation</title>
       <link>https://ht-x.com/posts/2026/01/getting-started-swe-agent-documentation/</link>
       <pubDate>Fri, 09 Jan 2026 04:40:10 +0100</pubDate>
       
@@ -100,7 +70,58 @@
     </item>
     
     <item>
-      <title>How to Build an Agent - Amp</title>
+      <title>How to Build an Agent - Amp
+
+**Introduction**
+
+Building an agent, especially one that leverages the power of Amp, involves several key steps. Amp, which stands for Advanced Multi-Purpose Protocol, is a versatile framework designed to enhance the capabilities of agents in various domains. This guide will walk you through the process of creating an agent using Amp, from conceptualization to deployment.
+
+**1. Define the Purpose and Scope**
+
+Before diving into the technical details, it&#39;s crucial to define the purpose and scope of your agent. Ask yourself the following questions:
+
+- What specific tasks will the agent perform?
+- In what environments will the agent operate?
+- What are the key performance metrics for success?
+
+**2. Choose the Right Tools and Technologies**
+
+Selecting the appropriate tools and technologies is essential for building a robust agent. For an Amp-based agent, you might need:
+
+- **Programming Languages**: Python, Java, or C&#43;&#43; are commonly used.
+- **Development Frameworks**: TensorFlow, PyTorch, or custom frameworks compatible with Amp.
+- **Data Sources**: APIs, databases, or real-time data streams.
+- **Communication Protocols**: HTTP, WebSockets, or other protocols supported by Amp.
+
+**3. Design the Agent Architecture**
+
+The architecture of your agent will determine its efficiency and scalability. Consider the following components:
+
+- **Input Layer**: Handles data ingestion from various sources.
+- **Processing Layer**: Processes the data using algorithms and models.
+- **Output Layer**: Delivers the results to the end-users or other systems.
+- **Feedback Loop**: Allows the agent to learn and improve over time.
+
+**4. Develop the Core Functionality**
+
+With the architecture in place, start developing the core functionality of your agent. This includes:
+
+- **Data Ingestion**: Implementing mechanisms to collect and preprocess data.
+- **Algorithm Development**: Creating or integrating algorithms that will drive the agent&#39;s decision-making.
+- **Model Training**: Training machine learning models if applicable.
+- **Integration**: Ensuring seamless integration with other systems and protocols.
+
+**5. Implement Amp Protocols**
+
+Integrate Amp protocols into your agent to leverage its advanced capabilities. This might involve:
+
+- **Protocol Implementation**: Writing code to adhere to Amp standards.
+- **Communication**: Ensuring the agent can communicate effectively with other Amp-compatible systems.
+- **Security**: Implementing security measures to protect data and communications.
+
+**6. Testing and Validation**
+
+Thoroughly test</title>
       <link>https://ht-x.com/posts/2026/01/how-to-build-an-agent-amp/</link>
       <pubDate>Fri, 09 Jan 2026 04:27:19 +0100</pubDate>
       
@@ -110,17 +131,7 @@
     </item>
     
     <item>
-      <title>How to code Claude Code in 200 lines of code</title>
-      <link>https://ht-x.com/posts/2026/01/how-to-code-claude-code-in-200-lines-of-code/</link>
-      <pubDate>Thu, 08 Jan 2026 19:54:26 +0000</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/how-to-code-claude-code-in-200-lines-of-code/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>GitHub - NevaMind-AI/memU: Memory infrastructure for LLMs and AI agents</title>
+      <title>GitHub - NevaMind-AI/memU: Memory infrastructure for large language models and AI agents</title>
       <link>https://ht-x.com/posts/2026/01/github-nevamind-ai-memu-memory-infrastructure-for/</link>
       <pubDate>Tue, 06 Jan 2026 09:22:22 +0000</pubDate>
       
@@ -140,7 +151,9 @@
     </item>
     
     <item>
-      <title>Fundamentals of Building Autonomous LLM Agents This paper is based on a seminar technical report from the course Trends in Autonomous Agents: Advances in Architecture and Practice offered at TUM</title>
+      <title>Fundamentals of Building Autonomous LLM Agents
+
+This paper is based on a seminar technical report from the course Trends in Autonomous Agents: Advances in Architecture and Practice offered at the Technical University of Munich (TUM).</title>
       <link>https://ht-x.com/posts/2026/01/fundamentals-of-building-autonomous-llm-agents-thi/</link>
       <pubDate>Thu, 11 Dec 2025 03:32:44 +0100</pubDate>
       
@@ -700,21 +713,11 @@
     </item>
     
     <item>
-      <title>GitHub - humanlayer/12-factor-agents: What are the principles we can use to build LLM-powered software that is actually good enough to put</title>
+      <title>GitHub - humanlayer/12-factor-agents: What are the principles we can use to build LLM-powered software that is actually good enough to deploy?</title>
       <link>https://ht-x.com/posts/2025/04/github-humanlayer-12-factor-agents-what-are-the-pr/</link>
       <pubDate>Thu, 17 Apr 2025 03:16:29 +0200</pubDate>
       
       <guid>https://ht-x.com/posts/2025/04/github-humanlayer-12-factor-agents-what-are-the-pr/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>MALADE: Multi-Agent Architecture for Pharmacovigilance - langroid</title>
-      <link>https://ht-x.com/posts/2026/01/malade-multi-agent-architecture-for-pharmacovigila/</link>
-      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/malade-multi-agent-architecture-for-pharmacovigila/</guid>
       <description></description>
       
     </item>

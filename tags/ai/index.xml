@@ -5,12 +5,12 @@
     <link>https://ht-x.com/tags/ai/</link>
     <description>Recent content in AI on HUMAN TECHNOLOGY eXCELLENCE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it</language>
+    <language>en</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
     <lastBuildDate>Sun, 08 Mar 2026 14:00:00 +0100</lastBuildDate><atom:link href="https://ht-x.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Come scegliere un&#39;infrastruttura AI privata per la tua azienda</title>
+      <title>How to choose a private AI infrastructure for your business</title>
       <link>https://ht-x.com/posts/2026/03/come-scegliere-infrastruttura-ai-privata/</link>
       <pubDate>Sun, 08 Mar 2026 14:00:00 +0100</pubDate>
       
@@ -20,7 +20,7 @@
     </item>
     
     <item>
-      <title>AI in anestesia: come KOI riduce gli errori di classificazione ASA-PS dell&#39;89%</title>
+      <title>AI in anesthesia: how KOI reduces ASA-PS classification errors by 89%</title>
       <link>https://ht-x.com/posts/2026/03/ai-anestesia-koi-errori-classificazione-asa/</link>
       <pubDate>Sun, 08 Mar 2026 13:00:00 +0100</pubDate>
       
@@ -30,7 +30,7 @@
     </item>
     
     <item>
-      <title>Natural Language to SQL: interrogare i database aziendali senza scrivere codice</title>
+      <title>Natural Language to SQL: query your enterprise databases without writing code</title>
       <link>https://ht-x.com/posts/2026/03/natural-language-to-sql-database-senza-codice/</link>
       <pubDate>Sun, 08 Mar 2026 12:00:00 +0100</pubDate>
       
@@ -40,7 +40,7 @@
     </item>
     
     <item>
-      <title>ORCA vs ChatGPT: perché il tuo chatbot aziendale deve essere privato</title>
+      <title>ORCA vs ChatGPT: why your enterprise chatbot must be private</title>
       <link>https://ht-x.com/posts/2026/03/orca-vs-chatgpt-chatbot-aziendale-privato/</link>
       <pubDate>Sun, 08 Mar 2026 10:00:00 +0100</pubDate>
       
@@ -50,11 +50,11 @@
     </item>
     
     <item>
-      <title>Perché la tua azienda ha bisogno di AI privata (e non di ChatGPT)</title>
-      <link>https://ht-x.com/posts/2026/02/perche-la-tua-azienda-ha-bisogno-di-ai-privata/</link>
+      <title>Why your business needs private AI (not ChatGPT)</title>
+      <link>https://ht-x.com/posts/2026/02/why-your-business-needs-private-ai/</link>
       <pubDate>Sat, 28 Feb 2026 10:00:00 +0100</pubDate>
       
-      <guid>https://ht-x.com/posts/2026/02/perche-la-tua-azienda-ha-bisogno-di-ai-privata/</guid>
+      <guid>https://ht-x.com/posts/2026/02/why-your-business-needs-private-ai/</guid>
       <description></description>
       
     </item>
@@ -80,7 +80,7 @@
     </item>
     
     <item>
-      <title>GitHub - moltbot/moltbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞</title>
+      <title>GitHub - moltbot/moltbot: Your own personal AI assistant. Any operating system. Any platform. The lobster way. 🦞</title>
       <link>https://ht-x.com/posts/2026/01/github-moltbot-moltbot-your-own-personal-ai-assist/</link>
       <pubDate>Tue, 27 Jan 2026 11:44:46 +0000</pubDate>
       
@@ -130,41 +130,11 @@
     </item>
     
     <item>
-      <title>GitHub - different-ai/openwork: An open-source alternative to Claude Cowork, powered by OpenCode</title>
+      <title>GitHub - different-ai/openwork: An open-source alternative to Claude Cowork, powered by OpenCode.</title>
       <link>https://ht-x.com/posts/2026/01/github-different-ai-openwork-an-open-source-altern/</link>
       <pubDate>Mon, 19 Jan 2026 10:59:11 +0000</pubDate>
       
       <guid>https://ht-x.com/posts/2026/01/github-different-ai-openwork-an-open-source-altern/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>GitHub - unclecode/crawl4ai: 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN</title>
-      <link>https://ht-x.com/posts/2026/01/github-unclecode-crawl4ai-crawl4ai-open-source-llm/</link>
-      <pubDate>Thu, 15 Jan 2026 08:05:38 +0000</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/github-unclecode-crawl4ai-crawl4ai-open-source-llm/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>GitHub - finbarr/yolobox: Let your AI go full send. Your home directory stays home.</title>
-      <link>https://ht-x.com/posts/2026/01/github-finbarr-yolobox-let-your-ai-go-full-send-yo/</link>
-      <pubDate>Thu, 15 Jan 2026 07:52:55 +0000</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/github-finbarr-yolobox-let-your-ai-go-full-send-yo/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>GitHub - mistralai/mistral-vibe: Minimal CLI coding agent by Mistral</title>
-      <link>https://ht-x.com/posts/2026/01/github-mistralai-mistral-vibe-minimal-cli-coding-a/</link>
-      <pubDate>Thu, 15 Jan 2026 07:52:37 +0000</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/github-mistralai-mistral-vibe-minimal-cli-coding-a/</guid>
       <description></description>
       
     </item>
@@ -175,16 +145,6 @@
       <pubDate>Thu, 15 Jan 2026 07:50:36 +0000</pubDate>
       
       <guid>https://ht-x.com/posts/2026/01/github-eigent-ai-eigent-eigent-the-open-source-cow/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>GitHub - NVlabs/ToolOrchestra: ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.</title>
-      <link>https://ht-x.com/posts/2026/01/github-nvlabs-toolorchestra-toolorchestra-is-an-en/</link>
-      <pubDate>Thu, 15 Jan 2026 06:19:19 +0000</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/github-nvlabs-toolorchestra-toolorchestra-is-an-en/</guid>
       <description></description>
       
     </item>
@@ -210,16 +170,6 @@
     </item>
     
     <item>
-      <title>The Art of Context Windows: Our AI Had Alzheimer&#39;s: Here&#39;s How We Taught It To Remember</title>
-      <link>https://ht-x.com/posts/2026/01/the-art-of-context-windows-our-ai-had-alzheimer-s/</link>
-      <pubDate>Wed, 14 Jan 2026 06:29:12 +0100</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/the-art-of-context-windows-our-ai-had-alzheimer-s/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Reimagining LLM Memory: Using Context as Training Data Unlocks Models That Learn at Test-Time</title>
       <link>https://ht-x.com/posts/2026/01/reimagining-llm-memory-using-context-as-training-d/</link>
       <pubDate>Wed, 14 Jan 2026 06:05:01 +0100</pubDate>
@@ -230,17 +180,7 @@
     </item>
     
     <item>
-      <title>Il Disclaimer muore.</title>
-      <link>https://ht-x.com/posts/2026/01/il-disclaimer-muore/</link>
-      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/il-disclaimer-muore/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Show HN: Agent-of-empires: OpenCode and Claude Code session manager</title>
+      <title>Show HN: Agent-of-Empires: OpenCode and Claude Code Session Manager</title>
       <link>https://ht-x.com/posts/2026/01/show-hn-agent-of-empires-opencode-and-claude-code/</link>
       <pubDate>Mon, 12 Jan 2026 14:23:07 +0000</pubDate>
       
@@ -250,27 +190,7 @@
     </item>
     
     <item>
-      <title>OpenCode | The open source AI coding agent</title>
-      <link>https://ht-x.com/posts/2026/01/opencode-the-open-source-ai-coding-agent/</link>
-      <pubDate>Fri, 09 Jan 2026 04:55:05 +0100</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/opencode-the-open-source-ai-coding-agent/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>How to code Claude Code in 200 lines of code</title>
-      <link>https://ht-x.com/posts/2026/01/how-to-code-claude-code-in-200-lines-of-code/</link>
-      <pubDate>Thu, 08 Jan 2026 19:54:26 +0000</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/how-to-code-claude-code-in-200-lines-of-code/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>We Got Claude to Fine-Tune an Open Source LLM</title>
+      <title>We got Claude to fine-tune an open-source LLM.</title>
       <link>https://ht-x.com/posts/2026/01/we-got-claude-to-fine-tune-an-open-source-llm/</link>
       <pubDate>Thu, 08 Jan 2026 07:16:27 +0100</pubDate>
       
@@ -280,7 +200,7 @@
     </item>
     
     <item>
-      <title>GitHub - microsoft/VibeVoice: Open-Source Frontier Voice AI</title>
+      <title>GitHub - microsoft/VibeVoice: Open-Source Voice AI</title>
       <link>https://ht-x.com/posts/2026/01/github-microsoft-vibevoice-open-source-frontier-vo/</link>
       <pubDate>Tue, 06 Jan 2026 09:35:37 +0000</pubDate>
       
@@ -300,7 +220,7 @@
     </item>
     
     <item>
-      <title>GitHub - NevaMind-AI/memU: Memory infrastructure for LLMs and AI agents</title>
+      <title>GitHub - NevaMind-AI/memU: Memory infrastructure for large language models and AI agents</title>
       <link>https://ht-x.com/posts/2026/01/github-nevamind-ai-memu-memory-infrastructure-for/</link>
       <pubDate>Tue, 06 Jan 2026 09:22:22 +0000</pubDate>
       
@@ -320,7 +240,7 @@
     </item>
     
     <item>
-      <title>GitHub - DGoettlich/history-llms: Information hub for our project training the largest possible historical LLMs.</title>
+      <title>GitHub - DGoettlich/history-llms: Information hub for our project training the largest possible historical language models.</title>
       <link>https://ht-x.com/posts/2026/01/github-dgoettlich-history-llms-information-hub-for/</link>
       <pubDate>Tue, 06 Jan 2026 06:44:37 +0000</pubDate>
       
@@ -615,16 +535,6 @@
       <pubDate>Sat, 18 Oct 2025 09:23:13 +0000</pubDate>
       
       <guid>https://ht-x.com/posts/2025/10/make-any-app-searchable-for-ai-agents/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Recursive Language Models (RLMs)</title>
-      <link>https://ht-x.com/posts/2026/01/recursive-language-models-rlms/</link>
-      <pubDate>Wed, 15 Oct 2025 17:43:27 +0000</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/recursive-language-models-rlms/</guid>
       <description></description>
       
     </item>
@@ -1260,7 +1170,8 @@
     </item>
     
     <item>
-      <title>How Dataherald Makes Natural Language to SQL Easy</title>
+      <title>How Dataherald Makes Natural Language to SQL Easy
+&#34;How Dataherald Makes Natural Language to SQL Easy&#34; is already in English.</title>
       <link>https://ht-x.com/posts/2025/09/how-dataherald-makes-natural-language-to-sql-easy/</link>
       <pubDate>Fri, 20 Jun 2025 19:47:22 +0200</pubDate>
       
@@ -1370,7 +1281,7 @@
     </item>
     
     <item>
-      <title>PrivateChatAI</title>
+      <title>Private Chat AI</title>
       <link>https://ht-x.com/grants/private-chatbot-ai/</link>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
       
@@ -1475,16 +1386,6 @@
       <pubDate>Mon, 21 Apr 2025 07:38:58 +0200</pubDate>
       
       <guid>https://ht-x.com/posts/2025/09/gemma-3-qat-models-bringing-state-of-the-art-ai-to/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Pagina LLM Post-Training: A Deep Dive into Reasoning Large Language Models</title>
-      <link>https://ht-x.com/posts/2026/01/pagina-llm-post-training-a-deep-dive-into-reasonin/</link>
-      <pubDate>Tue, 25 Mar 2025 01:31:31 +0000</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/pagina-llm-post-training-a-deep-dive-into-reasonin/</guid>
       <description></description>
       
     </item>

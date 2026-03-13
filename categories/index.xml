@@ -5,7 +5,7 @@
     <link>https://ht-x.com/categories/</link>
     <description>Recent content in Categories on HUMAN TECHNOLOGY eXCELLENCE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it</language>
+    <language>en</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
     <lastBuildDate>Sun, 08 Mar 2026 14:00:00 +0100</lastBuildDate><atom:link href="https://ht-x.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -100,9 +100,19 @@
     </item>
     
     <item>
+      <title>Funded Projects</title>
+      <link>https://ht-x.com/categories/funded-projects/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://ht-x.com/categories/funded-projects/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Progetti Finanziati</title>
       <link>https://ht-x.com/categories/progetti-finanziati/</link>
-      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
       <guid>https://ht-x.com/categories/progetti-finanziati/</guid>
       <description></description>

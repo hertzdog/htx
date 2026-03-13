@@ -5,12 +5,12 @@
     <link>https://ht-x.com/categories/framework/</link>
     <description>Recent content in Framework on HUMAN TECHNOLOGY eXCELLENCE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it</language>
+    <language>en</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
     <lastBuildDate>Mon, 19 Jan 2026 10:47:44 +0000</lastBuildDate><atom:link href="https://ht-x.com/categories/framework/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>GitHub - google/langextract: A Python library for extracting structured information from unstructured text using LLMs with precis</title>
+      <title>GitHub - google/langextract: A Python library for extracting structured information from unstructured text using large language models (LLMs) with precision.</title>
       <link>https://ht-x.com/posts/2026/01/github-google-langextract-a-python-library-for-ext/</link>
       <pubDate>Mon, 19 Jan 2026 10:47:44 +0000</pubDate>
       
@@ -20,7 +20,7 @@
     </item>
     
     <item>
-      <title>GitHub - bolt-foundry/gambit: Agent harness framework for building, running, and verifying LLM workflows</title>
+      <title>GitHub - bolt-foundry/gambit: Agent framework for building, running, and verifying LLM workflows</title>
       <link>https://ht-x.com/posts/2026/01/github-bolt-foundry-gambit-agent-harness-framework/</link>
       <pubDate>Mon, 19 Jan 2026 06:31:23 +0000</pubDate>
       
@@ -165,16 +165,6 @@
       <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>https://ht-x.com/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>MALADE: Multi-Agent Architecture for Pharmacovigilance - langroid</title>
-      <link>https://ht-x.com/posts/2026/01/malade-multi-agent-architecture-for-pharmacovigila/</link>
-      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/malade-multi-agent-architecture-for-pharmacovigila/</guid>
       <description></description>
       
     </item>

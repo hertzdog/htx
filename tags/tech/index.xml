@@ -5,12 +5,12 @@
     <link>https://ht-x.com/tags/tech/</link>
     <description>Recent content in Tech on HUMAN TECHNOLOGY eXCELLENCE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it</language>
+    <language>en</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
     <lastBuildDate>Sun, 01 Mar 2026 22:10:21 +0100</lastBuildDate><atom:link href="https://ht-x.com/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>microgpt</title>
+      <title>MicroGPT is a compact, open-source language model designed for efficient text generation and understanding. It is built to be lightweight and can run on a variety of devices, including personal computers and even some mobile devices. MicroGPT is intended for tasks such as text completion, summarization, translation, and more, making it a versatile tool for developers and researchers working with natural language processing.</title>
       <link>https://ht-x.com/posts/2026/03/microgpt/</link>
       <pubDate>Sun, 01 Mar 2026 22:10:21 +0100</pubDate>
       
@@ -30,7 +30,7 @@
     </item>
     
     <item>
-      <title>Step 3.5 Flash: Fast Enough to Think. Reliable Enough to Act.</title>
+      <title>Step 3.5 Flash: Fast enough to think. Reliable enough to act.</title>
       <link>https://ht-x.com/posts/2026/03/step-3-5-flash-fast-enough-to-think-reliable-enoug/</link>
       <pubDate>Thu, 19 Feb 2026 07:44:00 +0100</pubDate>
       
@@ -50,7 +50,7 @@
     </item>
     
     <item>
-      <title>Welcome - Poke Documentation</title>
+      <title>Welcome - Poké Documentation</title>
       <link>https://ht-x.com/posts/2026/01/welcome-poke-documentation/</link>
       <pubDate>Tue, 27 Jan 2026 04:43:53 +0100</pubDate>
       
@@ -60,27 +60,29 @@
     </item>
     
     <item>
-      <title>Cowork: Claude Code for the rest of your work</title>
-      <link>https://ht-x.com/posts/2026/01/cowork-claude-code-for-the-rest-of-your-work/</link>
-      <pubDate>Mon, 12 Jan 2026 19:27:19 +0000</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/cowork-claude-code-for-the-rest-of-your-work/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>ToolOrchestra</title>
-      <link>https://ht-x.com/posts/2026/01/toolorchestra/</link>
-      <pubDate>Fri, 09 Jan 2026 05:07:48 +0100</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/toolorchestra/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Introduction | MCP Toolbox for Databases</title>
+      <title>Introduction to the MCP Toolbox for Databases
+
+The MCP Toolbox for Databases is a comprehensive suite of tools designed to facilitate the management, optimization, and maintenance of databases. This toolbox is tailored to support a wide range of database management systems (DBMS), ensuring compatibility and efficiency across various platforms. Whether you are a database administrator, developer, or analyst, the MCP Toolbox provides a robust set of features to streamline your workflow and enhance productivity.
+
+Key Features:
+
+1. **Database Management**: Easily create, modify, and delete databases and tables. The toolbox offers intuitive interfaces and powerful scripting capabilities to manage database schemas and objects efficiently.
+
+2. **Performance Optimization**: Identify and resolve performance bottlenecks with advanced diagnostic tools. The MCP Toolbox includes performance monitoring and tuning features to ensure your databases run smoothly and efficiently.
+
+3. **Backup and Recovery**: Implement reliable backup and recovery solutions to safeguard your data. The toolbox provides automated backup schedules and comprehensive recovery options to protect against data loss.
+
+4. **Security Management**: Enhance database security with robust access control and encryption features. The MCP Toolbox helps you manage user permissions, audit logs, and secure data transmission.
+
+5. **Data Integration**: Seamlessly integrate data from multiple sources and formats. The toolbox supports various data integration techniques, including ETL (Extract, Transform, Load) processes, to consolidate and analyze data effectively.
+
+6. **Reporting and Analytics**: Generate insightful reports and perform in-depth data analysis. The MCP Toolbox offers advanced reporting tools and analytics capabilities to derive actionable insights from your data.
+
+7. **Cross-Platform Compatibility**: Ensure compatibility with multiple DBMS platforms, including popular systems like Oracle, SQL Server, MySQL, and PostgreSQL. The toolbox is designed to work seamlessly across different environments.
+
+8. **User-Friendly Interface**: Benefit from an intuitive and user-friendly interface that simplifies complex database tasks. The MCP Toolbox is designed with ease of use in mind, making it accessible to both novice and experienced users.
+
+The MCP Toolbox for Databases is an essential tool for anyone involved in database management. Its comprehensive features and cross-platform compatibility make it a valuable asset for optimizing database performance, ensuring data security, and enhancing overall productivity.</title>
       <link>https://ht-x.com/posts/2026/01/introduction-mcp-toolbox-for-databases/</link>
       <pubDate>Tue, 02 Dec 2025 23:47:04 +0100</pubDate>
       

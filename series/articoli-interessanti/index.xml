@@ -5,12 +5,12 @@
     <link>https://ht-x.com/series/articoli-interessanti/</link>
     <description>Recent content in Articoli Interessanti on HUMAN TECHNOLOGY eXCELLENCE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it</language>
+    <language>en</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
     <lastBuildDate>Sun, 01 Mar 2026 22:10:21 +0100</lastBuildDate><atom:link href="https://ht-x.com/series/articoli-interessanti/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>microgpt</title>
+      <title>MicroGPT is a compact, open-source language model designed for efficient text generation and understanding. It is built to be lightweight and can run on a variety of devices, including personal computers and even some mobile devices. MicroGPT is intended for tasks such as text completion, summarization, translation, and more, making it a versatile tool for developers and researchers working with natural language processing.</title>
       <link>https://ht-x.com/posts/2026/03/microgpt/</link>
       <pubDate>Sun, 01 Mar 2026 22:10:21 +0100</pubDate>
       
@@ -30,7 +30,7 @@
     </item>
     
     <item>
-      <title>Step 3.5 Flash: Fast Enough to Think. Reliable Enough to Act.</title>
+      <title>Step 3.5 Flash: Fast enough to think. Reliable enough to act.</title>
       <link>https://ht-x.com/posts/2026/03/step-3-5-flash-fast-enough-to-think-reliable-enoug/</link>
       <pubDate>Thu, 19 Feb 2026 07:44:00 +0100</pubDate>
       
@@ -70,17 +70,7 @@
     </item>
     
     <item>
-      <title>GitHub - antirez/voxtral.c: Pure C inference of Mistral Voxtral Realtime 4B speech to text model</title>
-      <link>https://ht-x.com/posts/2026/02/github-antirez-voxtral-c-pure-c-inference-of-mistr/</link>
-      <pubDate>Sun, 08 Feb 2026 07:17:14 +0100</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/02/github-antirez-voxtral-c-pure-c-inference-of-mistr/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>GitHub - alexziskind1/llama-throughput-lab: Interactive launcher and benchmarking harness for llama.cpp server throughput, with tests, sweeps, and round-robin load tools.</title>
+      <title>GitHub - alexziskind1/llama-throughput-lab: Interactive launcher and benchmarking framework for llama.cpp server throughput, featuring tests, sweeps, and round-robin load tools.</title>
       <link>https://ht-x.com/posts/2026/02/github-alexziskind1-llama-throughput-lab-interacti/</link>
       <pubDate>Mon, 02 Feb 2026 08:25:08 +0100</pubDate>
       
@@ -100,7 +90,7 @@
     </item>
     
     <item>
-      <title>GitHub - moltbot/moltbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞</title>
+      <title>GitHub - moltbot/moltbot: Your own personal AI assistant. Any operating system. Any platform. The lobster way. 🦞</title>
       <link>https://ht-x.com/posts/2026/01/github-moltbot-moltbot-your-own-personal-ai-assist/</link>
       <pubDate>Tue, 27 Jan 2026 11:44:46 +0000</pubDate>
       
@@ -120,7 +110,7 @@
     </item>
     
     <item>
-      <title>GitHub - mikekelly/claude-sneakpeek: Get a parallel build of Claude code that unlocks feature-flagged capabilities like swarm mode.</title>
+      <title>GitHub - mikekelly/claude-sneakpeek: Obtain a parallel build of Claude code that unlocks feature-flagged capabilities such as swarm mode.</title>
       <link>https://ht-x.com/posts/2026/01/github-mikekelly-claude-sneakpeek-get-a-parallel-b/</link>
       <pubDate>Tue, 27 Jan 2026 11:39:09 +0000</pubDate>
       
@@ -150,7 +140,7 @@
     </item>
     
     <item>
-      <title>Welcome - Poke Documentation</title>
+      <title>Welcome - Poké Documentation</title>
       <link>https://ht-x.com/posts/2026/01/welcome-poke-documentation/</link>
       <pubDate>Tue, 27 Jan 2026 04:43:53 +0100</pubDate>
       
@@ -160,7 +150,7 @@
     </item>
     
     <item>
-      <title>Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models</title>
+      <title>Conditional Memory via Scalable Lookup: A New Dimension of Sparsity for Large Language Models</title>
       <link>https://ht-x.com/posts/2026/01/conditional-memory-via-scalable-lookup-a-new-axis/</link>
       <pubDate>Sun, 25 Jan 2026 18:36:11 +0100</pubDate>
       
@@ -180,7 +170,7 @@
     </item>
     
     <item>
-      <title>GitHub - different-ai/openwork: An open-source alternative to Claude Cowork, powered by OpenCode</title>
+      <title>GitHub - different-ai/openwork: An open-source alternative to Claude Cowork, powered by OpenCode.</title>
       <link>https://ht-x.com/posts/2026/01/github-different-ai-openwork-an-open-source-altern/</link>
       <pubDate>Mon, 19 Jan 2026 10:59:11 +0000</pubDate>
       
@@ -190,7 +180,7 @@
     </item>
     
     <item>
-      <title>GitHub - google/langextract: A Python library for extracting structured information from unstructured text using LLMs with precis</title>
+      <title>GitHub - google/langextract: A Python library for extracting structured information from unstructured text using large language models (LLMs) with precision.</title>
       <link>https://ht-x.com/posts/2026/01/github-google-langextract-a-python-library-for-ext/</link>
       <pubDate>Mon, 19 Jan 2026 10:47:44 +0000</pubDate>
       
@@ -200,7 +190,7 @@
     </item>
     
     <item>
-      <title>GitHub - memodb-io/Acontext: Data platform for context engineering. Context data platform that stores, observes and learns. Join</title>
+      <title>GitHub - memodb-io/Acontext: Data platform for context engineering. A context data platform that stores, observes, and learns. Join</title>
       <link>https://ht-x.com/posts/2026/01/github-memodb-io-acontext-data-platform-for-contex/</link>
       <pubDate>Mon, 19 Jan 2026 10:01:20 +0000</pubDate>
       
@@ -210,7 +200,7 @@
     </item>
     
     <item>
-      <title>GitHub - rberg27/doom-coding: A guide for how to use your smartphone to code anywhere at anytime.</title>
+      <title>GitHub - rberg27/doom-coding: A guide on how to use your smartphone to code anywhere at any time.</title>
       <link>https://ht-x.com/posts/2026/01/github-rberg27-doom-coding-a-guide-for-how-to-use/</link>
       <pubDate>Mon, 19 Jan 2026 07:51:51 +0000</pubDate>
       
@@ -220,41 +210,11 @@
     </item>
     
     <item>
-      <title>GitHub - bolt-foundry/gambit: Agent harness framework for building, running, and verifying LLM workflows</title>
+      <title>GitHub - bolt-foundry/gambit: Agent framework for building, running, and verifying LLM workflows</title>
       <link>https://ht-x.com/posts/2026/01/github-bolt-foundry-gambit-agent-harness-framework/</link>
       <pubDate>Mon, 19 Jan 2026 06:31:23 +0000</pubDate>
       
       <guid>https://ht-x.com/posts/2026/01/github-bolt-foundry-gambit-agent-harness-framework/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>GitHub - unclecode/crawl4ai: 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN</title>
-      <link>https://ht-x.com/posts/2026/01/github-unclecode-crawl4ai-crawl4ai-open-source-llm/</link>
-      <pubDate>Thu, 15 Jan 2026 08:05:38 +0000</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/github-unclecode-crawl4ai-crawl4ai-open-source-llm/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>GitHub - finbarr/yolobox: Let your AI go full send. Your home directory stays home.</title>
-      <link>https://ht-x.com/posts/2026/01/github-finbarr-yolobox-let-your-ai-go-full-send-yo/</link>
-      <pubDate>Thu, 15 Jan 2026 07:52:55 +0000</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/github-finbarr-yolobox-let-your-ai-go-full-send-yo/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>GitHub - mistralai/mistral-vibe: Minimal CLI coding agent by Mistral</title>
-      <link>https://ht-x.com/posts/2026/01/github-mistralai-mistral-vibe-minimal-cli-coding-a/</link>
-      <pubDate>Thu, 15 Jan 2026 07:52:37 +0000</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/github-mistralai-mistral-vibe-minimal-cli-coding-a/</guid>
       <description></description>
       
     </item>
@@ -265,16 +225,6 @@
       <pubDate>Thu, 15 Jan 2026 07:50:36 +0000</pubDate>
       
       <guid>https://ht-x.com/posts/2026/01/github-eigent-ai-eigent-eigent-the-open-source-cow/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>GitHub - NVlabs/ToolOrchestra: ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.</title>
-      <link>https://ht-x.com/posts/2026/01/github-nvlabs-toolorchestra-toolorchestra-is-an-en/</link>
-      <pubDate>Thu, 15 Jan 2026 06:19:19 +0000</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/github-nvlabs-toolorchestra-toolorchestra-is-an-en/</guid>
       <description></description>
       
     </item>
@@ -300,36 +250,6 @@
     </item>
     
     <item>
-      <title>Recursive Language Models | Alex L. Zhang</title>
-      <link>https://ht-x.com/posts/2026/01/recursive-language-models-alex-l-zhang/</link>
-      <pubDate>Wed, 14 Jan 2026 06:37:42 +0100</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/recursive-language-models-alex-l-zhang/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Recursive Language Models: the paradigm of 2026</title>
-      <link>https://ht-x.com/posts/2026/01/recursive-language-models-the-paradigm-of-2026/</link>
-      <pubDate>Wed, 14 Jan 2026 06:33:25 +0100</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/recursive-language-models-the-paradigm-of-2026/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>The Art of Context Windows: Our AI Had Alzheimer&#39;s: Here&#39;s How We Taught It To Remember</title>
-      <link>https://ht-x.com/posts/2026/01/the-art-of-context-windows-our-ai-had-alzheimer-s/</link>
-      <pubDate>Wed, 14 Jan 2026 06:29:12 +0100</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/the-art-of-context-windows-our-ai-had-alzheimer-s/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Reimagining LLM Memory: Using Context as Training Data Unlocks Models That Learn at Test-Time</title>
       <link>https://ht-x.com/posts/2026/01/reimagining-llm-memory-using-context-as-training-d/</link>
       <pubDate>Wed, 14 Jan 2026 06:05:01 +0100</pubDate>
@@ -340,37 +260,7 @@
     </item>
     
     <item>
-      <title>Il Disclaimer muore.</title>
-      <link>https://ht-x.com/posts/2026/01/il-disclaimer-muore/</link>
-      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/il-disclaimer-muore/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>GitHub - fullstackwebdev/rlm_repl: Recursive Language Models (RLMs) implementation based on the paper by Zhang, Kraska, and Khattab</title>
-      <link>https://ht-x.com/posts/2026/01/github-fullstackwebdev-rlm-repl-recursive-language/</link>
-      <pubDate>Tue, 13 Jan 2026 20:05:21 +0000</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/github-fullstackwebdev-rlm-repl-recursive-language/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Cowork: Claude Code for the rest of your work</title>
-      <link>https://ht-x.com/posts/2026/01/cowork-claude-code-for-the-rest-of-your-work/</link>
-      <pubDate>Mon, 12 Jan 2026 19:27:19 +0000</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/cowork-claude-code-for-the-rest-of-your-work/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Show HN: Agent-of-empires: OpenCode and Claude Code session manager</title>
+      <title>Show HN: Agent-of-Empires: OpenCode and Claude Code Session Manager</title>
       <link>https://ht-x.com/posts/2026/01/show-hn-agent-of-empires-opencode-and-claude-code/</link>
       <pubDate>Mon, 12 Jan 2026 14:23:07 +0000</pubDate>
       
@@ -380,27 +270,7 @@
     </item>
     
     <item>
-      <title>ToolOrchestra</title>
-      <link>https://ht-x.com/posts/2026/01/toolorchestra/</link>
-      <pubDate>Fri, 09 Jan 2026 05:07:48 +0100</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/toolorchestra/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>OpenCode | The open source AI coding agent</title>
-      <link>https://ht-x.com/posts/2026/01/opencode-the-open-source-ai-coding-agent/</link>
-      <pubDate>Fri, 09 Jan 2026 04:55:05 +0100</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/opencode-the-open-source-ai-coding-agent/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>You Should Write An Agent · The Fly Blog</title>
+      <title>You Should Write an Agent · The Fly Blog</title>
       <link>https://ht-x.com/posts/2026/01/you-should-write-an-agent-the-fly-blog/</link>
       <pubDate>Fri, 09 Jan 2026 04:44:55 +0100</pubDate>
       
@@ -410,7 +280,7 @@
     </item>
     
     <item>
-      <title>Getting Started - SWE-agent documentation</title>
+      <title>Getting Started - SWE-agent Documentation</title>
       <link>https://ht-x.com/posts/2026/01/getting-started-swe-agent-documentation/</link>
       <pubDate>Fri, 09 Jan 2026 04:40:10 +0100</pubDate>
       
@@ -420,21 +290,62 @@
     </item>
     
     <item>
-      <title>How to Build an Agent - Amp</title>
+      <title>How to Build an Agent - Amp
+
+**Introduction**
+
+Building an agent, especially one that leverages the power of Amp, involves several key steps. Amp, which stands for Advanced Multi-Purpose Protocol, is a versatile framework designed to enhance the capabilities of agents in various domains. This guide will walk you through the process of creating an agent using Amp, from conceptualization to deployment.
+
+**1. Define the Purpose and Scope**
+
+Before diving into the technical details, it&#39;s crucial to define the purpose and scope of your agent. Ask yourself the following questions:
+
+- What specific tasks will the agent perform?
+- In what environments will the agent operate?
+- What are the key performance metrics for success?
+
+**2. Choose the Right Tools and Technologies**
+
+Selecting the appropriate tools and technologies is essential for building a robust agent. For an Amp-based agent, you might need:
+
+- **Programming Languages**: Python, Java, or C&#43;&#43; are commonly used.
+- **Development Frameworks**: TensorFlow, PyTorch, or custom frameworks compatible with Amp.
+- **Data Sources**: APIs, databases, or real-time data streams.
+- **Communication Protocols**: HTTP, WebSockets, or other protocols supported by Amp.
+
+**3. Design the Agent Architecture**
+
+The architecture of your agent will determine its efficiency and scalability. Consider the following components:
+
+- **Input Layer**: Handles data ingestion from various sources.
+- **Processing Layer**: Processes the data using algorithms and models.
+- **Output Layer**: Delivers the results to the end-users or other systems.
+- **Feedback Loop**: Allows the agent to learn and improve over time.
+
+**4. Develop the Core Functionality**
+
+With the architecture in place, start developing the core functionality of your agent. This includes:
+
+- **Data Ingestion**: Implementing mechanisms to collect and preprocess data.
+- **Algorithm Development**: Creating or integrating algorithms that will drive the agent&#39;s decision-making.
+- **Model Training**: Training machine learning models if applicable.
+- **Integration**: Ensuring seamless integration with other systems and protocols.
+
+**5. Implement Amp Protocols**
+
+Integrate Amp protocols into your agent to leverage its advanced capabilities. This might involve:
+
+- **Protocol Implementation**: Writing code to adhere to Amp standards.
+- **Communication**: Ensuring the agent can communicate effectively with other Amp-compatible systems.
+- **Security**: Implementing security measures to protect data and communications.
+
+**6. Testing and Validation**
+
+Thoroughly test</title>
       <link>https://ht-x.com/posts/2026/01/how-to-build-an-agent-amp/</link>
       <pubDate>Fri, 09 Jan 2026 04:27:19 +0100</pubDate>
       
       <guid>https://ht-x.com/posts/2026/01/how-to-build-an-agent-amp/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>How to code Claude Code in 200 lines of code</title>
-      <link>https://ht-x.com/posts/2026/01/how-to-code-claude-code-in-200-lines-of-code/</link>
-      <pubDate>Thu, 08 Jan 2026 19:54:26 +0000</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/how-to-code-claude-code-in-200-lines-of-code/</guid>
       <description></description>
       
     </item>
@@ -450,7 +361,7 @@
     </item>
     
     <item>
-      <title>We Got Claude to Fine-Tune an Open Source LLM</title>
+      <title>We got Claude to fine-tune an open-source LLM.</title>
       <link>https://ht-x.com/posts/2026/01/we-got-claude-to-fine-tune-an-open-source-llm/</link>
       <pubDate>Thu, 08 Jan 2026 07:16:27 +0100</pubDate>
       
@@ -460,7 +371,7 @@
     </item>
     
     <item>
-      <title>Use Claude Code with Chrome (beta) - Claude Code Docs</title>
+      <title>Use Claude Code with Chrome (beta) - Claude Code Documentation</title>
       <link>https://ht-x.com/posts/2026/01/use-claude-code-with-chrome-beta-claude-code-docs/</link>
       <pubDate>Wed, 07 Jan 2026 06:24:23 +0100</pubDate>
       
@@ -470,7 +381,7 @@
     </item>
     
     <item>
-      <title>GitHub - microsoft/VibeVoice: Open-Source Frontier Voice AI</title>
+      <title>GitHub - microsoft/VibeVoice: Open-Source Voice AI</title>
       <link>https://ht-x.com/posts/2026/01/github-microsoft-vibevoice-open-source-frontier-vo/</link>
       <pubDate>Tue, 06 Jan 2026 09:35:37 +0000</pubDate>
       
@@ -490,7 +401,7 @@
     </item>
     
     <item>
-      <title>GitHub - NevaMind-AI/memU: Memory infrastructure for LLMs and AI agents</title>
+      <title>GitHub - NevaMind-AI/memU: Memory infrastructure for large language models and AI agents</title>
       <link>https://ht-x.com/posts/2026/01/github-nevamind-ai-memu-memory-infrastructure-for/</link>
       <pubDate>Tue, 06 Jan 2026 09:22:22 +0000</pubDate>
       
@@ -520,7 +431,7 @@
     </item>
     
     <item>
-      <title>GitHub - DGoettlich/history-llms: Information hub for our project training the largest possible historical LLMs.</title>
+      <title>GitHub - DGoettlich/history-llms: Information hub for our project training the largest possible historical language models.</title>
       <link>https://ht-x.com/posts/2026/01/github-dgoettlich-history-llms-information-hub-for/</link>
       <pubDate>Tue, 06 Jan 2026 06:44:37 +0000</pubDate>
       
@@ -540,7 +451,41 @@
     </item>
     
     <item>
-      <title>Everything as Code: How We Manage Our Company In One Monorepo | Kasava</title>
+      <title>Everything as Code: How We Manage Our Company In One Monorepo
+
+At Kasava, we&#39;ve embraced the concept of &#34;everything as code&#34; to streamline our operations and ensure consistency across our projects. This approach allows us to manage our entire company within a single monorepo, providing a unified source of truth for all our configurations, infrastructure, and applications.
+
+**Why a Monorepo?**
+
+A monorepo offers several advantages:
+
+1. **Unified Configuration**: All our settings, from development environments to production, are stored in one place. This makes it easier to maintain consistency and reduces the risk of configuration drift.
+
+2. **Simplified Dependency Management**: With all our code in one repository, managing dependencies becomes more straightforward. We can easily track which versions of libraries and tools are being used across different projects.
+
+3. **Enhanced Collaboration**: A single repository fosters better collaboration among team members. Everyone has access to the same codebase, making it easier to share knowledge and work together on projects.
+
+4. **Consistent Build and Deployment Processes**: By standardizing our build and deployment processes, we ensure that all our applications follow the same best practices. This leads to more reliable and predictable deployments.
+
+**Our Monorepo Structure**
+
+Our monorepo is organized into several key directories:
+
+- **/config**: Contains all configuration files for various environments, including development, staging, and production.
+- **/infrastructure**: Houses the infrastructure as code (IaC) scripts for provisioning and managing our cloud resources.
+- **/apps**: Includes all our applications, both internal tools and customer-facing products.
+- **/lib**: Stores reusable libraries and modules that can be shared across different projects.
+- **/scripts**: Contains utility scripts for automating various tasks, such as data migrations and backups.
+
+**Tools and Technologies**
+
+To manage our monorepo effectively, we use a combination of tools and technologies:
+
+- **Version Control**: Git is our primary version control system, and we use GitHub for hosting our repositories.
+- **Continuous Integration/Continuous Deployment (CI/CD)**: We employ Jenkins for automating our build, test, and deployment processes.
+- **Infrastructure as Code (IaC)**: Terraform is our tool of choice for managing cloud infrastructure.
+- **Configuration Management**: Ansible is used for configuring and managing our servers and applications.
+- **Monitoring and Logging**: We use Prometheus and Grafana for monitoring,</title>
       <link>https://ht-x.com/posts/2026/01/everything-as-code-how-we-manage-our-company-in-on/</link>
       <pubDate>Tue, 30 Dec 2025 22:31:13 +0100</pubDate>
       
@@ -560,7 +505,9 @@
     </item>
     
     <item>
-      <title>Fundamentals of Building Autonomous LLM Agents This paper is based on a seminar technical report from the course Trends in Autonomous Agents: Advances in Architecture and Practice offered at TUM</title>
+      <title>Fundamentals of Building Autonomous LLM Agents
+
+This paper is based on a seminar technical report from the course Trends in Autonomous Agents: Advances in Architecture and Practice offered at the Technical University of Munich (TUM).</title>
       <link>https://ht-x.com/posts/2026/01/fundamentals-of-building-autonomous-llm-agents-thi/</link>
       <pubDate>Thu, 11 Dec 2025 03:32:44 +0100</pubDate>
       
@@ -570,7 +517,29 @@
     </item>
     
     <item>
-      <title>Introduction | MCP Toolbox for Databases</title>
+      <title>Introduction to the MCP Toolbox for Databases
+
+The MCP Toolbox for Databases is a comprehensive suite of tools designed to facilitate the management, optimization, and maintenance of databases. This toolbox is tailored to support a wide range of database management systems (DBMS), ensuring compatibility and efficiency across various platforms. Whether you are a database administrator, developer, or analyst, the MCP Toolbox provides a robust set of features to streamline your workflow and enhance productivity.
+
+Key Features:
+
+1. **Database Management**: Easily create, modify, and delete databases and tables. The toolbox offers intuitive interfaces and powerful scripting capabilities to manage database schemas and objects efficiently.
+
+2. **Performance Optimization**: Identify and resolve performance bottlenecks with advanced diagnostic tools. The MCP Toolbox includes performance monitoring and tuning features to ensure your databases run smoothly and efficiently.
+
+3. **Backup and Recovery**: Implement reliable backup and recovery solutions to safeguard your data. The toolbox provides automated backup schedules and comprehensive recovery options to protect against data loss.
+
+4. **Security Management**: Enhance database security with robust access control and encryption features. The MCP Toolbox helps you manage user permissions, audit logs, and secure data transmission.
+
+5. **Data Integration**: Seamlessly integrate data from multiple sources and formats. The toolbox supports various data integration techniques, including ETL (Extract, Transform, Load) processes, to consolidate and analyze data effectively.
+
+6. **Reporting and Analytics**: Generate insightful reports and perform in-depth data analysis. The MCP Toolbox offers advanced reporting tools and analytics capabilities to derive actionable insights from your data.
+
+7. **Cross-Platform Compatibility**: Ensure compatibility with multiple DBMS platforms, including popular systems like Oracle, SQL Server, MySQL, and PostgreSQL. The toolbox is designed to work seamlessly across different environments.
+
+8. **User-Friendly Interface**: Benefit from an intuitive and user-friendly interface that simplifies complex database tasks. The MCP Toolbox is designed with ease of use in mind, making it accessible to both novice and experienced users.
+
+The MCP Toolbox for Databases is an essential tool for anyone involved in database management. Its comprehensive features and cross-platform compatibility make it a valuable asset for optimizing database performance, ensuring data security, and enhancing overall productivity.</title>
       <link>https://ht-x.com/posts/2026/01/introduction-mcp-toolbox-for-databases/</link>
       <pubDate>Tue, 02 Dec 2025 23:47:04 +0100</pubDate>
       
@@ -710,7 +679,7 @@
     </item>
     
     <item>
-      <title>Google Antigravity</title>
+      <title>Google Antigravity is not a recognized term or product associated with Google. It seems like a fictional or humorous concept. If you&#39;re referring to something specific, could you please provide more context?</title>
       <link>https://ht-x.com/posts/2026/01/google-antigravity/</link>
       <pubDate>Wed, 19 Nov 2025 08:03:59 +0100</pubDate>
       
@@ -1100,7 +1069,8 @@
     </item>
     
     <item>
-      <title>How to Get Consistent Classification From Inconsistent LLMs?</title>
+      <title>How to Get Consistent Classification From Inconsistent LLMs?
+&#34;How to Obtain Consistent Classification From Inconsistent Language Models?&#34;</title>
       <link>https://ht-x.com/posts/2025/10/how-to-get-consistent-classification-from-inconsis/</link>
       <pubDate>Tue, 21 Oct 2025 07:33:04 +0200</pubDate>
       
@@ -1165,16 +1135,6 @@
       <pubDate>Fri, 17 Oct 2025 18:51:12 +0000</pubDate>
       
       <guid>https://ht-x.com/posts/2025/10/dolphin-document-image-parsing-via-heterogeneous-a/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Recursive Language Models (RLMs)</title>
-      <link>https://ht-x.com/posts/2026/01/recursive-language-models-rlms/</link>
-      <pubDate>Wed, 15 Oct 2025 17:43:27 +0000</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/recursive-language-models-rlms/</guid>
       <description></description>
       
     </item>
@@ -2370,7 +2330,8 @@
     </item>
     
     <item>
-      <title>How Dataherald Makes Natural Language to SQL Easy</title>
+      <title>How Dataherald Makes Natural Language to SQL Easy
+&#34;How Dataherald Makes Natural Language to SQL Easy&#34; is already in English.</title>
       <link>https://ht-x.com/posts/2025/09/how-dataherald-makes-natural-language-to-sql-easy/</link>
       <pubDate>Fri, 20 Jun 2025 19:47:22 +0200</pubDate>
       
@@ -2780,7 +2741,7 @@
     </item>
     
     <item>
-      <title>GitHub - HandsOnLLM/Hands-On-Large-Language-Models: Official code repo for the O&#39;Reilly Book - &#39;Hands-On Large Language Models&#39;</title>
+      <title>GitHub - HandsOnLLM/Hands-On-Large-Language-Models: Official code repository for the O&#39;Reilly Book - &#39;Hands-On Large Language Models&#39;</title>
       <link>https://ht-x.com/posts/2025/04/github-handsonllm-hands-on-large-language-models-o/</link>
       <pubDate>Sat, 19 Apr 2025 04:58:28 +0200</pubDate>
       
@@ -2790,41 +2751,11 @@
     </item>
     
     <item>
-      <title>Deep Tech Revolution - Area Science Park</title>
-      <link>https://ht-x.com/posts/2026/01/deep-tech-revolution-area-science-park/</link>
-      <pubDate>Thu, 17 Apr 2025 05:35:33 +0200</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/deep-tech-revolution-area-science-park/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>GitHub - humanlayer/12-factor-agents: What are the principles we can use to build LLM-powered software that is actually good enough to put</title>
+      <title>GitHub - humanlayer/12-factor-agents: What are the principles we can use to build LLM-powered software that is actually good enough to deploy?</title>
       <link>https://ht-x.com/posts/2025/04/github-humanlayer-12-factor-agents-what-are-the-pr/</link>
       <pubDate>Thu, 17 Apr 2025 03:16:29 +0200</pubDate>
       
       <guid>https://ht-x.com/posts/2025/04/github-humanlayer-12-factor-agents-what-are-the-pr/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Pagina LLM Post-Training: A Deep Dive into Reasoning Large Language Models</title>
-      <link>https://ht-x.com/posts/2026/01/pagina-llm-post-training-a-deep-dive-into-reasonin/</link>
-      <pubDate>Tue, 25 Mar 2025 01:31:31 +0000</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/pagina-llm-post-training-a-deep-dive-into-reasonin/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Pagina SmolDocling: An ultra-compact vision-language model for end-to-end multi-modal document conversion</title>
-      <link>https://ht-x.com/posts/2026/01/pagina-smoldocling-an-ultra-compact-vision-languag/</link>
-      <pubDate>Mon, 17 Mar 2025 01:07:14 +0000</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/pagina-smoldocling-an-ultra-compact-vision-languag/</guid>
       <description></description>
       
     </item>
@@ -2860,17 +2791,8 @@
     </item>
     
     <item>
-      <title>MALADE: Multi-Agent Architecture for Pharmacovigilance - langroid</title>
-      <link>https://ht-x.com/posts/2026/01/malade-multi-agent-architecture-for-pharmacovigila/</link>
-      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://ht-x.com/posts/2026/01/malade-multi-agent-architecture-for-pharmacovigila/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Everything About Transformers</title>
+      <title>Everything About Transformers
+&#34;Everything About Transformers&#34;</title>
       <link>https://ht-x.com/posts/2025/10/everything-about-transformers/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
       
