@@ -5,7 +5,7 @@
 (function () {
   'use strict';
 
-  var API_URL = 'https://46.62.193.247:8002/api/v1/assess';
+  var API_URL = 'https://assessment.ht-x.com/api/v1/assess';
   var TOTAL_STEPS = 6;
   var currentStep = 1;
 
