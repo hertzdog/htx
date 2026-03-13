@@ -5,9 +5,80 @@
 (function () {
   'use strict';
 
-  var API_URL = 'http://46.62.193.247:8002/api/v1/assess';
+  var API_URL = 'https://46.62.193.247:8002/api/v1/assess';
   var TOTAL_STEPS = 6;
   var currentStep = 1;
+
+  // Detect language from URL path
+  var pathParts = window.location.pathname.split('/');
+  var lang = 'en';
+  var validLangs = ['it', 'en', 'fr', 'de', 'es'];
+  if (pathParts.length > 1 && validLangs.indexOf(pathParts[1]) !== -1) {
+    lang = pathParts[1];
+  }
+
+  // i18n error messages
+  var msgs = {
+    it: {
+      required: 'Compila tutti i campi obbligatori.',
+      email: 'Inserisci un indirizzo email valido.',
+      radio: 'Seleziona un\'opzione per ogni domanda obbligatoria.',
+      activity: 'Seleziona almeno un\'attività.',
+      problem: 'Seleziona almeno un problema.',
+      option: 'Seleziona almeno un\'opzione.',
+      specify: 'Specifica il settore.',
+      serverError: 'Errore del server',
+      genericError: 'Si è verificato un errore: '
+    },
+    en: {
+      required: 'Please fill in all required fields.',
+      email: 'Please enter a valid email address.',
+      radio: 'Please select an option for each required question.',
+      activity: 'Please select at least one activity.',
+      problem: 'Please select at least one problem.',
+      option: 'Please select at least one option.',
+      specify: 'Please specify your industry.',
+      serverError: 'Server error',
+      genericError: 'An error occurred: '
+    },
+    fr: {
+      required: 'Veuillez remplir tous les champs obligatoires.',
+      email: 'Veuillez entrer une adresse email valide.',
+      radio: 'Veuillez sélectionner une option pour chaque question obligatoire.',
+      activity: 'Veuillez sélectionner au moins une activité.',
+      problem: 'Veuillez sélectionner au moins un problème.',
+      option: 'Veuillez sélectionner au moins une option.',
+      specify: 'Veuillez préciser votre secteur.',
+      serverError: 'Erreur du serveur',
+      genericError: 'Une erreur s\'est produite : '
+    },
+    de: {
+      required: 'Bitte füllen Sie alle Pflichtfelder aus.',
+      email: 'Bitte geben Sie eine gültige E-Mail-Adresse ein.',
+      radio: 'Bitte wählen Sie eine Option für jede Pflichtfrage.',
+      activity: 'Bitte wählen Sie mindestens eine Aktivität.',
+      problem: 'Bitte wählen Sie mindestens ein Problem.',
+      option: 'Bitte wählen Sie mindestens eine Option.',
+      specify: 'Bitte geben Sie Ihre Branche an.',
+      serverError: 'Serverfehler',
+      genericError: 'Ein Fehler ist aufgetreten: '
+    },
+    es: {
+      required: 'Por favor, complete todos los campos obligatorios.',
+      email: 'Por favor, introduzca una dirección de email válida.',
+      radio: 'Por favor, seleccione una opción para cada pregunta obligatoria.',
+      activity: 'Por favor, seleccione al menos una actividad.',
+      problem: 'Por favor, seleccione al menos un problema.',
+      option: 'Por favor, seleccione al menos una opción.',
+      specify: 'Por favor, especifique su sector.',
+      serverError: 'Error del servidor',
+      genericError: 'Se ha producido un error: '
+    }
+  };
+
+  function t(key) {
+    return (msgs[lang] || msgs.en)[key] || msgs.en[key];
+  }
 
   // DOM refs
   var form = document.getElementById('assessment-form-el');
@@ -22,17 +93,19 @@
 
   if (!form) return;
 
+  // -- Hide error on user interaction --
+  form.addEventListener('input', hideError);
+  form.addEventListener('change', hideError);
+
   // -- Clickable step indicators --
   stepIndicators.forEach(function (s) {
     s.style.cursor = 'pointer';
     s.addEventListener('click', function () {
       var target = parseInt(this.dataset.step);
       if (target < currentStep) {
-        // Always allow going back
         hideError();
         showStep(target);
       } else if (target > currentStep) {
-        // Validate all steps up to target before jumping forward
         for (var i = currentStep; i < target; i++) {
           if (!validateStep(i)) return;
         }
@@ -41,12 +114,12 @@
     });
   });
 
-  // -- "Altro" settore toggle --
+  // -- "Other" industry toggle --
   var settoreRadios = form.querySelectorAll('input[name="q1_4_settore"]');
   var altroInput = form.querySelector('input[name="q1_4_settore_altro"]');
   settoreRadios.forEach(function (r) {
     r.addEventListener('change', function () {
-      altroInput.style.display = this.value === 'Altro (specificare)' ? 'block' : 'none';
+      altroInput.style.display = this.value === 'other' ? 'block' : 'none';
     });
   });
 
@@ -62,7 +135,6 @@
     btnNext.style.display = n < TOTAL_STEPS ? '' : 'none';
     btnSubmit.style.display = n === TOTAL_STEPS ? '' : 'none';
 
-    // Progress
     progressBar.style.width = ((n / TOTAL_STEPS) * 100) + '%';
     stepIndicators.forEach(function (s) {
       var sn = parseInt(s.dataset.step);
@@ -70,88 +142,84 @@
       s.classList.toggle('done', sn < n);
     });
 
-    // Save progress
-    try { sessionStorage.setItem('htx_assess_step', n); } catch (e) { /* noop */ }
+    try { sessionStorage.setItem('htx_assess_step', n); } catch (e) {}
 
-    // Scroll to form
     var formSection = document.getElementById('assessment-form');
     if (formSection) formSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
 
   function validateStep(n) {
+    hideError();
+
     var fieldset = form.querySelector('.htx-assess-fieldset[data-step="' + n + '"]');
     if (!fieldset) return true;
 
-    // Check required text/email inputs
+    // Required text/email inputs
     var inputs = fieldset.querySelectorAll('input[required]:not([type="radio"]):not([type="checkbox"])');
     for (var i = 0; i < inputs.length; i++) {
       if (!inputs[i].value.trim()) {
-        showError('Compila tutti i campi obbligatori.');
+        showError(t('required'));
         inputs[i].focus();
         return false;
       }
       if (inputs[i].type === 'email' && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(inputs[i].value)) {
-        showError('Inserisci un indirizzo email valido.');
+        showError(t('email'));
         inputs[i].focus();
         return false;
       }
     }
 
-    // Check required textareas
+    // Required textareas
     var textareas = fieldset.querySelectorAll('textarea[required]');
     for (var j = 0; j < textareas.length; j++) {
       if (!textareas[j].value.trim()) {
-        showError('Compila tutti i campi obbligatori.');
+        showError(t('required'));
         textareas[j].focus();
         return false;
       }
     }
 
-    // Check required radio groups
+    // Required radio groups
     var radioGroups = {};
     var radios = fieldset.querySelectorAll('input[type="radio"][required]');
     radios.forEach(function (r) { radioGroups[r.name] = true; });
     for (var name in radioGroups) {
       if (!fieldset.querySelector('input[name="' + name + '"]:checked')) {
-        showError('Seleziona un\'opzione per ogni domanda obbligatoria.');
+        showError(t('radio'));
         return false;
       }
     }
 
-    // Check checkbox groups (at least one checked for required groups)
+    // Checkbox groups (at least one checked)
     if (n === 2) {
-      var act = fieldset.querySelectorAll('input[name="q2_2_attivita"]:checked');
-      if (act.length === 0) {
-        showError('Seleziona almeno un\'attività.');
+      if (fieldset.querySelectorAll('input[name="q2_2_attivita"]:checked').length === 0) {
+        showError(t('activity'));
         return false;
       }
     }
     if (n === 3) {
-      var prob = fieldset.querySelectorAll('input[name="q3_3_problemi"]:checked');
-      if (prob.length === 0) {
-        showError('Seleziona almeno un problema.');
+      if (fieldset.querySelectorAll('input[name="q3_3_problemi"]:checked').length === 0) {
+        showError(t('problem'));
         return false;
       }
     }
     if (n === 5) {
-      var vinc = fieldset.querySelectorAll('input[name="q5_2_vincoli"]:checked');
-      if (vinc.length === 0) {
-        showError('Seleziona almeno un\'opzione.');
+      if (fieldset.querySelectorAll('input[name="q5_2_vincoli"]:checked').length === 0) {
+        showError(t('option'));
         return false;
       }
     }
 
-    // Check "Altro" settore
+    // Check "Other" industry
     if (n === 1) {
       var sel = fieldset.querySelector('input[name="q1_4_settore"]:checked');
-      if (sel && sel.value === 'Altro (specificare)' && !altroInput.value.trim()) {
-        showError('Specifica il settore.');
+      if (sel && sel.value === 'other' && !altroInput.value.trim()) {
+        showError(t('specify'));
         altroInput.focus();
         return false;
       }
     }
 
-    hideError();
     return true;
   }
 
@@ -197,7 +265,7 @@
       .then(function (res) {
         if (!res.ok) {
           return res.json().then(function (body) {
-            throw new Error(body.detail || 'Errore del server');
+            throw new Error(body.detail || t('serverError'));
           });
         }
         return res.json();
@@ -211,23 +279,14 @@
         document.querySelector('.htx-assess-nav').style.display = '';
         document.querySelector('.htx-assess-progress').style.display = '';
         document.querySelector('#assess-steps').style.display = '';
-        showError('Si è verificato un errore: ' + err.message);
+        showError(t('genericError') + err.message);
       });
   });
 
   function collectFormData() {
     var d = {};
-
-    // Detect language from URL path
-    var pathParts = window.location.pathname.split('/');
-    var lang = 'en';
-    var validLangs = ['it', 'en', 'fr', 'de', 'es'];
-    if (pathParts.length > 1 && validLangs.indexOf(pathParts[1]) !== -1) {
-      lang = pathParts[1];
-    }
     d.lang = lang;
 
-    // Text/email inputs
     d.q1_1_azienda = val('q1_1_azienda');
     d.q1_2_ruolo = val('q1_2_ruolo');
     d.q1_3_dimensione = radio('q1_3_dimensione');
@@ -276,11 +335,9 @@
   function showResults(result) {
     loadingDiv.style.display = 'none';
 
-    // Hide form section content
     var formSection = document.getElementById('assessment-form');
     if (formSection) formSection.style.display = 'none';
 
-    // Show results
     resultsDiv.style.display = 'block';
     document.getElementById('result-prontezza').textContent = result.prontezza + '%';
     document.getElementById('result-impatto').textContent = result.impatto + '%';
@@ -289,14 +346,11 @@
     var dlBtn = document.getElementById('result-download');
     dlBtn.href = result.pdf_url;
 
-    // Scroll to results
     resultsDiv.scrollIntoView({ behavior: 'smooth', block: 'start' });
 
-    // Clear session storage
-    try { sessionStorage.removeItem('htx_assess_step'); } catch (e) { /* noop */ }
+    try { sessionStorage.removeItem('htx_assess_step'); } catch (e) {}
   }
 
-  // -- Clear saved step on fresh load (avoid landing on step 6 with empty form) --
-  try { sessionStorage.removeItem('htx_assess_step'); } catch (e) { /* noop */ }
+  try { sessionStorage.removeItem('htx_assess_step'); } catch (e) {}
 
 })();
