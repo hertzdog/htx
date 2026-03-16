@@ -27,6 +27,7 @@
       problem: 'Seleziona almeno un problema.',
       option: 'Seleziona almeno un\'opzione.',
       specify: 'Specifica il settore.',
+      consent: 'Devi accettare l\'informativa privacy per proseguire.',
       serverError: 'Errore del server',
       genericError: 'Si è verificato un errore: '
     },
@@ -38,6 +39,7 @@
       problem: 'Please select at least one problem.',
       option: 'Please select at least one option.',
       specify: 'Please specify your industry.',
+      consent: 'You must accept the privacy policy to continue.',
       serverError: 'Server error',
       genericError: 'An error occurred: '
     },
@@ -49,6 +51,7 @@
       problem: 'Veuillez sélectionner au moins un problème.',
       option: 'Veuillez sélectionner au moins une option.',
       specify: 'Veuillez préciser votre secteur.',
+      consent: 'Vous devez accepter la politique de confidentialité pour continuer.',
       serverError: 'Erreur du serveur',
       genericError: 'Une erreur s\'est produite : '
     },
@@ -60,6 +63,7 @@
       problem: 'Bitte wählen Sie mindestens ein Problem.',
       option: 'Bitte wählen Sie mindestens eine Option.',
       specify: 'Bitte geben Sie Ihre Branche an.',
+      consent: 'Sie müssen die Datenschutzerklärung akzeptieren, um fortzufahren.',
       serverError: 'Serverfehler',
       genericError: 'Ein Fehler ist aufgetreten: '
     },
@@ -71,6 +75,7 @@
       problem: 'Por favor, seleccione al menos un problema.',
       option: 'Por favor, seleccione al menos una opción.',
       specify: 'Por favor, especifique su sector.',
+      consent: 'Debe aceptar la política de privacidad para continuar.',
       serverError: 'Error del servidor',
       genericError: 'Se ha producido un error: '
     }
@@ -92,6 +97,30 @@
   var resultsDiv = document.getElementById('assess-results');
 
   if (!form) return;
+
+  // -- Privacy consent gate --
+  var consentCheckbox = document.getElementById('privacy-consent');
+  var consentAcceptBtn = document.getElementById('consent-accept');
+  var consentError = document.getElementById('consent-error');
+  var consentBox = document.getElementById('assess-consent');
+
+  if (consentAcceptBtn && consentCheckbox) {
+    consentAcceptBtn.addEventListener('click', function () {
+      if (!consentCheckbox.checked) {
+        consentError.textContent = t('consent');
+        consentError.style.display = 'block';
+        return;
+      }
+      consentError.style.display = 'none';
+      consentBox.style.display = 'none';
+      document.getElementById('assess-progress').style.display = '';
+      document.getElementById('assess-steps').style.display = '';
+      form.style.display = '';
+    });
+    consentCheckbox.addEventListener('change', function () {
+      if (consentCheckbox.checked) consentError.style.display = 'none';
+    });
+  }
 
   // -- Hide error on user interaction --
   form.addEventListener('input', hideError);

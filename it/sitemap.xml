@@ -8585,6 +8585,35 @@
       href="https://ht-x.com/it/about/"
     />
   </url><url>
+    <loc>https://ht-x.com/it/assessment/privacy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/assessment/privacy/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/assessment/privacy/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/assessment/privacy/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/assessment/privacy/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/assessment/privacy/"
+    />
+  </url><url>
     <loc>https://ht-x.com/it/koi/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
