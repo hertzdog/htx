@@ -98,29 +98,9 @@
 
   if (!form) return;
 
-  // -- Privacy consent gate --
+  // -- Privacy consent (shown on last step, validated on submit) --
   var consentCheckbox = document.getElementById('privacy-consent');
-  var consentAcceptBtn = document.getElementById('consent-accept');
-  var consentError = document.getElementById('consent-error');
   var consentBox = document.getElementById('assess-consent');
-
-  if (consentAcceptBtn && consentCheckbox) {
-    consentAcceptBtn.addEventListener('click', function () {
-      if (!consentCheckbox.checked) {
-        consentError.textContent = t('consent');
-        consentError.style.display = 'block';
-        return;
-      }
-      consentError.style.display = 'none';
-      consentBox.style.display = 'none';
-      document.getElementById('assess-progress').style.display = '';
-      document.getElementById('assess-steps').style.display = '';
-      form.style.display = '';
-    });
-    consentCheckbox.addEventListener('change', function () {
-      if (consentCheckbox.checked) consentError.style.display = 'none';
-    });
-  }
 
   // -- Hide error on user interaction --
   form.addEventListener('input', hideError);
@@ -163,6 +143,9 @@
     btnBack.style.display = n > 1 ? '' : 'none';
     btnNext.style.display = n < TOTAL_STEPS ? '' : 'none';
     btnSubmit.style.display = n === TOTAL_STEPS ? '' : 'none';
+
+    // Show consent checkbox only on last step
+    if (consentBox) consentBox.style.display = n === TOTAL_STEPS ? '' : 'none';
 
     progressBar.style.width = ((n / TOTAL_STEPS) * 100) + '%';
     stepIndicators.forEach(function (s) {
@@ -277,8 +260,16 @@
     e.preventDefault();
     if (!validateStep(currentStep)) return;
 
+    // Validate privacy consent checkbox
+    if (consentCheckbox && !consentCheckbox.checked) {
+      showError(t('consent'));
+      consentCheckbox.focus();
+      return;
+    }
+
     hideError();
     form.style.display = 'none';
+    if (consentBox) consentBox.style.display = 'none';
     document.querySelector('.htx-assess-nav').style.display = 'none';
     document.querySelector('.htx-assess-progress').style.display = 'none';
     document.querySelector('#assess-steps').style.display = 'none';
