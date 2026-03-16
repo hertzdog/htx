@@ -44,8 +44,8 @@
   <link
     type="text/css"
     rel="stylesheet"
-    href="/css/main.bundle.min.3d0baee7800854e3b3f75b7e91b7662f025b057dee23fc83fd363136110e8eaabb9cb80259174e8bc3dd3afed49c9101002a0c1fe5dc600517a62c3cc7b2cfdf.css"
-    integrity="sha512-PQuu54AIVOOz91t&#43;kbdmLwJbBX3uI/yD/TYxNhEOjqq7nLgCWRdOi8PdOv7UnJEBACoMH&#43;XcYAUXpiw8x7LP3w==">
+    href="/css/main.bundle.min.8733c007a560bda6787a1d2238ea88b6948f62bafbb4905ab6f7377e643cbcb904802681d2fb071ddb2b4c73b7e18c7912a685c33c58a8076b3c04e71c2ae581.css"
+    integrity="sha512-hzPAB6VgvaZ4eh0iOOqItpSPYrr7tJBatvc3fmQ8vLkEgCaB0vsHHdsrTHO34Yx5EqaFwzxYqAdrPATnHCrlgQ==">
 
   
   
@@ -641,11 +641,22 @@
 <h2 id="assessment-form" style="font-size:clamp(28px,3.5vw,36px);font-weight:800;color:var(--black);letter-spacing:-.5px;margin:0 0 12px">Complete the questionnaire</h2>
 <p style="font-size:16px;color:var(--g500);line-height:1.7">There are no right or wrong answers — we're interested in your real experience.<br>Time required: <strong>5 minutes</strong>. Data is processed in compliance with GDPR.</p>
 </div>
+<!-- Privacy consent -->
+<div class="htx-assess-consent" id="assess-consent">
+<div class="htx-assess-consent-box">
+<label class="htx-assess-consent-label">
+<input type="checkbox" id="privacy-consent">
+<span>I consent to <strong>HT-X S.r.l.</strong> processing the data provided in this questionnaire for the purpose of generating a personalized AI Readiness Report. Data is processed exclusively within the <strong>European Union</strong>, in compliance with applicable EU and Italian regulations (GDPR, Reg. EU 2016/679). The analysis of responses and generation of the report may involve the use of <strong>generative AI tools</strong>. Providing an email address or requesting to be contacted is entirely optional and not required to receive the report.</span>
+</label>
+<div class="htx-assess-error" id="consent-error" style="display:none"></div>
+<button type="button" class="htx-assess-btn-next" id="consent-accept" style="margin-top:16px">Accept and start</button>
+</div>
+</div>
 <!-- Progress bar -->
-<div class="htx-assess-progress" id="assess-progress">
+<div class="htx-assess-progress" id="assess-progress" style="display:none">
 <div class="htx-assess-progress-bar" id="assess-progress-bar" style="width:16.66%"></div>
 </div>
-<div class="htx-assess-steps" id="assess-steps">
+<div class="htx-assess-steps" id="assess-steps" style="display:none">
 <span class="active" data-step="1">1. About You</span>
 <span data-step="2">2. Your Work</span>
 <span data-step="3">3. Pain Points</span>
@@ -653,7 +664,7 @@
 <span data-step="5">5. Privacy</span>
 <span data-step="6">6. Your Vision</span>
 </div>
-<form id="assessment-form-el" novalidate>
+<form id="assessment-form-el" novalidate style="display:none">
 <!-- STEP 1: About You -->
 <fieldset class="htx-assess-fieldset active" data-step="1">
 <legend class="htx-assess-legend">Section 1: About You</legend>

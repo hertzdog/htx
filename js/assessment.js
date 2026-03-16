@@ -314,6 +314,8 @@
     d.q6_2_disponibilita = radio('q6_2_disponibilita');
     d.q6_3_email = val('q6_3_email');
 
+    d.privacy_consent = true; // consent already validated at form start
+
     return d;
   }
 
