@@ -2,399 +2,419 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LLM on HUMAN TECHNOLOGY eXCELLENCE</title>
-    <link>https://ht-x.com/de/tags/llm/</link>
+    <link>http://localhost:1313/de/tags/llm/</link>
     <description>Recent content in LLM on HUMAN TECHNOLOGY eXCELLENCE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Tue, 10 Feb 2026 07:38:00 +0100</lastBuildDate><atom:link href="https://ht-x.com/de/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Mar 2026 08:33:39 +0100</lastBuildDate><atom:link href="http://localhost:1313/de/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GitHub - jundot/omlx: LLM-Inferenzserver mit kontinuierlichem Batching und SSD-Caching für Apple Silicon — verwaltet über den Mac</title>
+      <link>http://localhost:1313/de/posts/2026/03/github-jundot-omlx-llm-inference-server-with-conti/</link>
+      <pubDate>Fri, 13 Mar 2026 08:33:39 +0100</pubDate>
+      
+      <guid>http://localhost:1313/de/posts/2026/03/github-jundot-omlx-llm-inference-server-with-conti/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - z-lab/paroquant: [ICLR 2026] ParoQuant: Paarweise Rotationsquantisierung für effiziente Inferenz von LLM-Reasoning</title>
+      <link>http://localhost:1313/de/posts/2026/03/github-z-lab-paroquant-iclr-2026-paroquant-pairwis/</link>
+      <pubDate>Mon, 09 Mar 2026 03:41:18 +0100</pubDate>
+      
+      <guid>http://localhost:1313/de/posts/2026/03/github-z-lab-paroquant-iclr-2026-paroquant-pairwis/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>GitHub - EricLBuehler/mistral.rs: Schnelle, flexible LLM-Inferenz</title>
-      <link>https://ht-x.com/de/posts/2026/02/github-ericlbuehler-mistral-rs-fast-flexible-llm-i/</link>
+      <link>http://localhost:1313/de/posts/2026/02/github-ericlbuehler-mistral-rs-fast-flexible-llm-i/</link>
       <pubDate>Tue, 10 Feb 2026 07:38:00 +0100</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2026/02/github-ericlbuehler-mistral-rs-fast-flexible-llm-i/</guid>
+      <guid>http://localhost:1313/de/posts/2026/02/github-ericlbuehler-mistral-rs-fast-flexible-llm-i/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - aiming-lab/SimpleMem: SimpleMem: Effiziente Langzeitgedächtnis für LLM-Agenten</title>
-      <link>https://ht-x.com/de/posts/2026/01/github-aiming-lab-simplemem-simplemem-efficient-li/</link>
+      <link>http://localhost:1313/de/posts/2026/01/github-aiming-lab-simplemem-simplemem-efficient-li/</link>
       <pubDate>Tue, 27 Jan 2026 11:40:19 +0000</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2026/01/github-aiming-lab-simplemem-simplemem-efficient-li/</guid>
+      <guid>http://localhost:1313/de/posts/2026/01/github-aiming-lab-simplemem-simplemem-efficient-li/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Bedingtes Gedächtnis durch skalierbare Suche: Eine neue Achse der Sparsität für große Sprachmodelle</title>
-      <link>https://ht-x.com/de/posts/2026/01/conditional-memory-via-scalable-lookup-a-new-axis/</link>
+      <link>http://localhost:1313/de/posts/2026/01/conditional-memory-via-scalable-lookup-a-new-axis/</link>
       <pubDate>Sun, 25 Jan 2026 18:36:11 +0100</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2026/01/conditional-memory-via-scalable-lookup-a-new-axis/</guid>
+      <guid>http://localhost:1313/de/posts/2026/01/conditional-memory-via-scalable-lookup-a-new-axis/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - google/langextract: Eine Python-Bibliothek zur Extraktion strukturierter Informationen aus unstrukturiertem Text unter Verwendung von LLMs mit Präzision</title>
-      <link>https://ht-x.com/de/posts/2026/01/github-google-langextract-a-python-library-for-ext/</link>
+      <link>http://localhost:1313/de/posts/2026/01/github-google-langextract-a-python-library-for-ext/</link>
       <pubDate>Mon, 19 Jan 2026 10:47:44 +0000</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2026/01/github-google-langextract-a-python-library-for-ext/</guid>
+      <guid>http://localhost:1313/de/posts/2026/01/github-google-langextract-a-python-library-for-ext/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - bolt-foundry/gambit: Agentenrahmenwerk zum Erstellen, Ausführen und Überprüfen von LLM-Workflows</title>
-      <link>https://ht-x.com/de/posts/2026/01/github-bolt-foundry-gambit-agent-harness-framework/</link>
+      <link>http://localhost:1313/de/posts/2026/01/github-bolt-foundry-gambit-agent-harness-framework/</link>
       <pubDate>Mon, 19 Jan 2026 06:31:23 +0000</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2026/01/github-bolt-foundry-gambit-agent-harness-framework/</guid>
+      <guid>http://localhost:1313/de/posts/2026/01/github-bolt-foundry-gambit-agent-harness-framework/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Rekursive Sprachmodelle</title>
-      <link>https://ht-x.com/de/posts/2026/01/recursive-language-models/</link>
+      <link>http://localhost:1313/de/posts/2026/01/recursive-language-models/</link>
       <pubDate>Wed, 14 Jan 2026 06:49:31 +0100</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2026/01/recursive-language-models/</guid>
+      <guid>http://localhost:1313/de/posts/2026/01/recursive-language-models/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>LLM-Gedächtnis neu denken: Die Nutzung von Kontext als Trainingsdaten entsperrt Modelle, die im Testzeitpunkt lernen</title>
-      <link>https://ht-x.com/de/posts/2026/01/reimagining-llm-memory-using-context-as-training-d/</link>
+      <link>http://localhost:1313/de/posts/2026/01/reimagining-llm-memory-using-context-as-training-d/</link>
       <pubDate>Wed, 14 Jan 2026 06:05:01 +0100</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2026/01/reimagining-llm-memory-using-context-as-training-d/</guid>
+      <guid>http://localhost:1313/de/posts/2026/01/reimagining-llm-memory-using-context-as-training-d/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Wir haben Claude dazu gebracht, ein Open-Source-LLM zu feinabzustimmen.</title>
-      <link>https://ht-x.com/de/posts/2026/01/we-got-claude-to-fine-tune-an-open-source-llm/</link>
+      <link>http://localhost:1313/de/posts/2026/01/we-got-claude-to-fine-tune-an-open-source-llm/</link>
       <pubDate>Thu, 08 Jan 2026 07:16:27 +0100</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2026/01/we-got-claude-to-fine-tune-an-open-source-llm/</guid>
+      <guid>http://localhost:1313/de/posts/2026/01/we-got-claude-to-fine-tune-an-open-source-llm/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - NevaMind-AI/memU: Speicherinfrastruktur für LLMs und KI-Agenten</title>
-      <link>https://ht-x.com/de/posts/2026/01/github-nevamind-ai-memu-memory-infrastructure-for/</link>
+      <link>http://localhost:1313/de/posts/2026/01/github-nevamind-ai-memu-memory-infrastructure-for/</link>
       <pubDate>Tue, 06 Jan 2026 09:22:22 +0000</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2026/01/github-nevamind-ai-memu-memory-infrastructure-for/</guid>
+      <guid>http://localhost:1313/de/posts/2026/01/github-nevamind-ai-memu-memory-infrastructure-for/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - DGoettlich/history-llms: Informationshub für unser Projekt zur Schulung der größten möglichen historischen LLMs.</title>
-      <link>https://ht-x.com/de/posts/2026/01/github-dgoettlich-history-llms-information-hub-for/</link>
+      <link>http://localhost:1313/de/posts/2026/01/github-dgoettlich-history-llms-information-hub-for/</link>
       <pubDate>Tue, 06 Jan 2026 06:44:37 +0000</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2026/01/github-dgoettlich-history-llms-information-hub-for/</guid>
+      <guid>http://localhost:1313/de/posts/2026/01/github-dgoettlich-history-llms-information-hub-for/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>LLMRouter - LLMRouter</title>
-      <link>https://ht-x.com/de/posts/2026/01/llmrouter-llmrouter/</link>
+      <link>http://localhost:1313/de/posts/2026/01/llmrouter-llmrouter/</link>
       <pubDate>Wed, 31 Dec 2025 08:11:53 +0100</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2026/01/llmrouter-llmrouter/</guid>
+      <guid>http://localhost:1313/de/posts/2026/01/llmrouter-llmrouter/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Grundlagen des Aufbaus autonomer LLM-Agenten Dieser Aufsatz basiert auf einem Seminar-Technischen Bericht aus dem Kurs Trends in Autonomous Agents: Advances in Architecture and Practice, der an der TUM angeboten wird.</title>
-      <link>https://ht-x.com/de/posts/2026/01/fundamentals-of-building-autonomous-llm-agents-thi/</link>
+      <link>http://localhost:1313/de/posts/2026/01/fundamentals-of-building-autonomous-llm-agents-thi/</link>
       <pubDate>Thu, 11 Dec 2025 03:32:44 +0100</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2026/01/fundamentals-of-building-autonomous-llm-agents-thi/</guid>
+      <guid>http://localhost:1313/de/posts/2026/01/fundamentals-of-building-autonomous-llm-agents-thi/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Wir stellen Olmo 3 vor, unsere nächste Familie vollständig offener, führender Sprachmodelle.</title>
-      <link>https://ht-x.com/de/posts/2025/11/we-present-olmo-3-our-next-family-of-fully-open-le/</link>
+      <link>http://localhost:1313/de/posts/2025/11/we-present-olmo-3-our-next-family-of-fully-open-le/</link>
       <pubDate>Sat, 22 Nov 2025 03:33:18 +0100</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/11/we-present-olmo-3-our-next-family-of-fully-open-le/</guid>
+      <guid>http://localhost:1313/de/posts/2025/11/we-present-olmo-3-our-next-family-of-fully-open-le/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>A2UI wird zu A2UI.</title>
-      <link>https://ht-x.com/de/posts/2025/11/a2ui/</link>
+      <link>http://localhost:1313/de/posts/2025/11/a2ui/</link>
       <pubDate>Sat, 22 Nov 2025 03:16:02 +0100</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/11/a2ui/</guid>
+      <guid>http://localhost:1313/de/posts/2025/11/a2ui/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - GibsonAI/Memori: Open-Source-Speicher-Engine für LLMs, KI-Agenten &amp; Multi-Agenten-Systeme</title>
-      <link>https://ht-x.com/de/posts/2025/11/github-gibsonai-memori-open-source-memory-engine-f/</link>
+      <link>http://localhost:1313/de/posts/2025/11/github-gibsonai-memori-open-source-memory-engine-f/</link>
       <pubDate>Tue, 18 Nov 2025 14:05:11 +0000</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/11/github-gibsonai-memori-open-source-memory-engine-f/</guid>
+      <guid>http://localhost:1313/de/posts/2025/11/github-gibsonai-memori-open-source-memory-engine-f/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ich beginne, mir die Gewohnheit anzueignen, alles (Blogs, Artikel, Buchkapitel, ...) mit LLMs zu lesen.</title>
-      <link>https://ht-x.com/de/posts/2025/11/im-starting-to-get-into-a-habit-of-reading-everyth/</link>
+      <link>http://localhost:1313/de/posts/2025/11/im-starting-to-get-into-a-habit-of-reading-everyth/</link>
       <pubDate>Tue, 18 Nov 2025 04:04:47 +0100</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/11/im-starting-to-get-into-a-habit-of-reading-everyth/</guid>
+      <guid>http://localhost:1313/de/posts/2025/11/im-starting-to-get-into-a-habit-of-reading-everyth/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ein Million-Schritt-LLM-Aufgabe mit null Fehlern lösen</title>
-      <link>https://ht-x.com/de/posts/2025/11/2511-09030-solving-a-million-step-llm-task-with-ze/</link>
+      <link>http://localhost:1313/de/posts/2025/11/2511-09030-solving-a-million-step-llm-task-with-ze/</link>
       <pubDate>Tue, 18 Nov 2025 03:07:18 +0100</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/11/2511-09030-solving-a-million-step-llm-task-with-ze/</guid>
+      <guid>http://localhost:1313/de/posts/2025/11/2511-09030-solving-a-million-step-llm-task-with-ze/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>eurollm.de</title>
-      <link>https://ht-x.com/de/posts/2025/10/eurollm-io/</link>
+      <link>http://localhost:1313/de/posts/2025/10/eurollm-io/</link>
       <pubDate>Wed, 29 Oct 2025 13:47:51 +0100</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/10/eurollm-io/</guid>
+      <guid>http://localhost:1313/de/posts/2025/10/eurollm-io/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Wie man konsistente Klassifizierung von inkonsistenten LLMs erhält?</title>
-      <link>https://ht-x.com/de/posts/2025/10/how-to-get-consistent-classification-from-inconsis/</link>
+      <link>http://localhost:1313/de/posts/2025/10/how-to-get-consistent-classification-from-inconsis/</link>
       <pubDate>Tue, 21 Oct 2025 07:33:04 +0200</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/10/how-to-get-consistent-classification-from-inconsis/</guid>
+      <guid>http://localhost:1313/de/posts/2025/10/how-to-get-consistent-classification-from-inconsis/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Stanfords KURSE SIND KOSTENLOS [2024 &amp; 2025] ❯ CS230 - Deep Learning...</title>
-      <link>https://ht-x.com/de/posts/2025/10/stanford-s-all-free-courses-2024-2025-cs230-deep-l/</link>
+      <link>http://localhost:1313/de/posts/2025/10/stanford-s-all-free-courses-2024-2025-cs230-deep-l/</link>
       <pubDate>Sun, 19 Oct 2025 02:59:45 +0200</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/10/stanford-s-all-free-courses-2024-2025-cs230-deep-l/</guid>
+      <guid>http://localhost:1313/de/posts/2025/10/stanford-s-all-free-courses-2024-2025-cs230-deep-l/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>PaddleOCR-VL: Verbesserung der mehrsprachigen Dokumentenverarbeitung durch ein 0,9 Milliarden Parameter umfassendes, ultra-kompaktes Vision-Sprache-Modell</title>
-      <link>https://ht-x.com/de/posts/2025/10/paddleocr-vl-boosting-multilingual-document-parsin/</link>
+      <link>http://localhost:1313/de/posts/2025/10/paddleocr-vl-boosting-multilingual-document-parsin/</link>
       <pubDate>Sat, 18 Oct 2025 03:53:02 +0200</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/10/paddleocr-vl-boosting-multilingual-document-parsin/</guid>
+      <guid>http://localhost:1313/de/posts/2025/10/paddleocr-vl-boosting-multilingual-document-parsin/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Mein Trick für konsistente Klassifizierung von LLMs</title>
-      <link>https://ht-x.com/de/posts/2025/10/my-trick-for-getting-consistent-classification-fro/</link>
+      <link>http://localhost:1313/de/posts/2025/10/my-trick-for-getting-consistent-classification-fro/</link>
       <pubDate>Mon, 13 Oct 2025 18:01:07 +0000</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/10/my-trick-for-getting-consistent-classification-fro/</guid>
+      <guid>http://localhost:1313/de/posts/2025/10/my-trick-for-getting-consistent-classification-fro/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>EU-gefördertes TildeOpen LLM liefert europäischen Durchbruch bei KI für mehrsprachige Innovation | Gestaltung der digitalen Zukunft Europas</title>
-      <link>https://ht-x.com/de/posts/2025/10/eu-funded-tildeopen-llm-delivers-european-ai-break/</link>
+      <link>http://localhost:1313/de/posts/2025/10/eu-funded-tildeopen-llm-delivers-european-ai-break/</link>
       <pubDate>Fri, 03 Oct 2025 07:47:00 +0200</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/10/eu-funded-tildeopen-llm-delivers-european-ai-break/</guid>
+      <guid>http://localhost:1313/de/posts/2025/10/eu-funded-tildeopen-llm-delivers-european-ai-break/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>RAGLight</title>
-      <link>https://ht-x.com/de/posts/2025/09/raglight/</link>
+      <link>http://localhost:1313/de/posts/2025/09/raglight/</link>
       <pubDate>Mon, 29 Sep 2025 12:45:31 +0000</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/raglight/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/raglight/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>KI-Engineering-Hub</title>
-      <link>https://ht-x.com/de/posts/2025/09/ai-engineering-hub/</link>
+      <link>http://localhost:1313/de/posts/2025/09/ai-engineering-hub/</link>
       <pubDate>Mon, 22 Sep 2025 14:57:38 +0000</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/ai-engineering-hub/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/ai-engineering-hub/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>dots.ocr: Mehrsprachige Dokumentenlayout-Analyse in einem einzigen Vision-Sprache-Modell</title>
-      <link>https://ht-x.com/de/posts/2025/09/dots-ocr-multilingual-document-layout-parsing-in-a/</link>
+      <link>http://localhost:1313/de/posts/2025/09/dots-ocr-multilingual-document-layout-parsing-in-a/</link>
       <pubDate>Sun, 14 Sep 2025 15:17:44 +0000</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/dots-ocr-multilingual-document-layout-parsing-in-a/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/dots-ocr-multilingual-document-layout-parsing-in-a/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>RAGFlow</title>
-      <link>https://ht-x.com/de/posts/2025/09/ragflow/</link>
+      <link>http://localhost:1313/de/posts/2025/09/ragflow/</link>
       <pubDate>Sat, 06 Sep 2025 09:59:50 +0000</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/ragflow/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/ragflow/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>LoRAX: Multi-LoRA-Inferenzserver, der auf Tausende feinabgestimmter LLMs skaliert</title>
-      <link>https://ht-x.com/de/posts/2025/09/lorax-multi-lora-inference-server-that-scales-to-1/</link>
+      <link>http://localhost:1313/de/posts/2025/09/lorax-multi-lora-inference-server-that-scales-to-1/</link>
       <pubDate>Fri, 05 Sep 2025 07:09:18 +0000</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/lorax-multi-lora-inference-server-that-scales-to-1/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/lorax-multi-lora-inference-server-that-scales-to-1/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Das LLM Red Teaming Framework</title>
-      <link>https://ht-x.com/de/posts/2025/09/the-llm-red-teaming-framework/</link>
+      <link>http://localhost:1313/de/posts/2025/09/the-llm-red-teaming-framework/</link>
       <pubDate>Thu, 04 Sep 2025 14:51:19 +0000</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/the-llm-red-teaming-framework/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/the-llm-red-teaming-framework/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>A-MEM: Agentische Speicher für LLM-Agenten</title>
-      <link>https://ht-x.com/de/posts/2025/09/2502-12110-a-mem-agentic-memory-for-llm-agents/</link>
+      <link>http://localhost:1313/de/posts/2025/09/2502-12110-a-mem-agentic-memory-for-llm-agents/</link>
       <pubDate>Wed, 03 Sep 2025 07:50:32 +0200</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/2502-12110-a-mem-agentic-memory-for-llm-agents/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/2502-12110-a-mem-agentic-memory-for-llm-agents/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Apertus 70B: Wirklich offen - Schweizer LLM von ETH, EPFL und CSCS</title>
-      <link>https://ht-x.com/de/posts/2025/09/apertus-70b-truly-open-swiss-llm-by-eth-epfl-and-c/</link>
+      <link>http://localhost:1313/de/posts/2025/09/apertus-70b-truly-open-swiss-llm-by-eth-epfl-and-c/</link>
       <pubDate>Tue, 02 Sep 2025 20:14:51 +0000</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/apertus-70b-truly-open-swiss-llm-by-eth-epfl-and-c/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/apertus-70b-truly-open-swiss-llm-by-eth-epfl-and-c/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Menschenschicht</title>
-      <link>https://ht-x.com/de/posts/2025/09/humanlayer/</link>
+      <link>http://localhost:1313/de/posts/2025/09/humanlayer/</link>
       <pubDate>Sat, 30 Aug 2025 05:39:37 +0200</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/humanlayer/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/humanlayer/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>DSPy</title>
-      <link>https://ht-x.com/de/posts/2025/09/dspy/</link>
+      <link>http://localhost:1313/de/posts/2025/09/dspy/</link>
       <pubDate>Mon, 25 Aug 2025 04:11:52 +0200</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/dspy/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/dspy/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tiledesk Design Studio</title>
-      <link>https://ht-x.com/de/posts/2025/09/tiledesk-design-studio/</link>
+      <link>http://localhost:1313/de/posts/2025/09/tiledesk-design-studio/</link>
       <pubDate>Sat, 23 Aug 2025 23:06:18 +0200</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/tiledesk-design-studio/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/tiledesk-design-studio/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ein Großes Sprachmodell (Von Grund Auf) Bauen</title>
-      <link>https://ht-x.com/de/posts/2025/09/build-a-large-language-model-from-scratch/</link>
+      <link>http://localhost:1313/de/posts/2025/09/build-a-large-language-model-from-scratch/</link>
       <pubDate>Thu, 21 Aug 2025 08:47:45 +0200</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/build-a-large-language-model-from-scratch/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/build-a-large-language-model-from-scratch/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Sprechend</title>
-      <link>https://ht-x.com/de/posts/2025/09/parlant/</link>
+      <link>http://localhost:1313/de/posts/2025/09/parlant/</link>
       <pubDate>Tue, 19 Aug 2025 05:11:09 +0200</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/parlant/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/parlant/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>CS294/194-196 Agenten für große Sprachmodelle | CS 194/294-196 Agenten für große Sprachmodelle</title>
-      <link>https://ht-x.com/de/posts/2025/09/cs294-194-196-large-language-model-agents-cs-194-2/</link>
+      <link>http://localhost:1313/de/posts/2025/09/cs294-194-196-large-language-model-agents-cs-194-2/</link>
       <pubDate>Tue, 19 Aug 2025 04:35:05 +0200</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/cs294-194-196-large-language-model-agents-cs-194-2/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/cs294-194-196-large-language-model-agents-cs-194-2/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Papiere automatisch mit LLMs annotieren</title>
-      <link>https://ht-x.com/de/posts/2025/09/automatically-annotate-papers-using-llms/</link>
+      <link>http://localhost:1313/de/posts/2025/09/automatically-annotate-papers-using-llms/</link>
       <pubDate>Mon, 18 Aug 2025 04:29:38 +0200</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/automatically-annotate-papers-using-llms/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/automatically-annotate-papers-using-llms/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Llama-Scan: PDFs in Text umwandeln mit lokalen LLMs</title>
-      <link>https://ht-x.com/de/posts/2025/09/llama-scan-convert-pdfs-to-text-w-local-llms/</link>
+      <link>http://localhost:1313/de/posts/2025/09/llama-scan-convert-pdfs-to-text-w-local-llms/</link>
       <pubDate>Sun, 17 Aug 2025 21:40:47 +0000</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/llama-scan-convert-pdfs-to-text-w-local-llms/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/llama-scan-convert-pdfs-to-text-w-local-llms/</guid>
       <description></description>
       
     </item>
@@ -403,210 +423,210 @@
       <title>LangExtract
 
 Langextraktion</title>
-      <link>https://ht-x.com/de/posts/2025/09/langextract/</link>
+      <link>http://localhost:1313/de/posts/2025/09/langextract/</link>
       <pubDate>Sun, 17 Aug 2025 03:48:51 +0200</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/langextract/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/langextract/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>&#43;1 für &#34;Kontext-Engineering&#34; statt &#34;Prompt-Engineering&#34;</title>
-      <link>https://ht-x.com/de/posts/2025/09/1-for-context-engineering-over-prompt-engineering/</link>
+      <link>http://localhost:1313/de/posts/2025/09/1-for-context-engineering-over-prompt-engineering/</link>
       <pubDate>Tue, 12 Aug 2025 03:59:32 +0200</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/1-for-context-engineering-over-prompt-engineering/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/1-for-context-engineering-over-prompt-engineering/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Das Rennen um den kognitiven Kern von LLM</title>
-      <link>https://ht-x.com/de/posts/2025/09/the-race-for-llm-cognitive-core/</link>
+      <link>http://localhost:1313/de/posts/2025/09/the-race-for-llm-cognitive-core/</link>
       <pubDate>Tue, 12 Aug 2025 03:57:40 +0200</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/the-race-for-llm-cognitive-core/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/the-race-for-llm-cognitive-core/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Routine: Ein Strukturplanungsrahmen für ein LLM-Agentensystem im Unternehmen</title>
-      <link>https://ht-x.com/de/posts/2025/09/2507-14447-routine-a-structural-planning-framework/</link>
+      <link>http://localhost:1313/de/posts/2025/09/2507-14447-routine-a-structural-planning-framework/</link>
       <pubDate>Thu, 24 Jul 2025 07:41:30 +0200</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/2507-14447-routine-a-structural-planning-framework/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/2507-14447-routine-a-structural-planning-framework/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>SymbolicAI: Eine neuro-symbolische Perspektive auf LLMs</title>
-      <link>https://ht-x.com/de/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/</link>
+      <link>http://localhost:1313/de/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/</link>
       <pubDate>Fri, 27 Jun 2025 18:49:57 +0000</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Richter entscheidet, dass das Training von KI an urheberrechtlich geschützten Werken eine faire Nutzung ist, Agentic Biology entwickelt sich weiter, und mehr...</title>
-      <link>https://ht-x.com/de/posts/2025/09/judge-rules-training-ai-on-copyrighted-works-is-fa/</link>
+      <link>http://localhost:1313/de/posts/2025/09/judge-rules-training-ai-on-copyrighted-works-is-fa/</link>
       <pubDate>Thu, 26 Jun 2025 19:43:40 +0200</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/judge-rules-training-ai-on-copyrighted-works-is-fa/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/judge-rules-training-ai-on-copyrighted-works-is-fa/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Schön - mein Vortrag über meine AI-Startup-Schule ist jetzt online! Kapitel: 0:00 Es ist wohl fair zu sagen, dass sich Software wieder grundlegend verändert.</title>
-      <link>https://ht-x.com/de/posts/2025/09/nice-my-ai-startup-school-talk-is-now-up-chapters/</link>
+      <link>http://localhost:1313/de/posts/2025/09/nice-my-ai-startup-school-talk-is-now-up-chapters/</link>
       <pubDate>Thu, 19 Jun 2025 06:23:07 +0200</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/nice-my-ai-startup-school-talk-is-now-up-chapters/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/nice-my-ai-startup-school-talk-is-now-up-chapters/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Schön - mein Vortrag über meine KI-Startup-Schule ist jetzt online!</title>
-      <link>https://ht-x.com/de/posts/2025/09/nice-my-ai-startup-school-talk-is-now-up/</link>
+      <link>http://localhost:1313/de/posts/2025/09/nice-my-ai-startup-school-talk-is-now-up/</link>
       <pubDate>Thu, 19 Jun 2025 06:23:07 +0200</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/nice-my-ai-startup-school-talk-is-now-up/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/nice-my-ai-startup-school-talk-is-now-up/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Nanonets-OCR-s – OCR-Modell, das Dokumente in strukturiertes Markdown umwandelt</title>
-      <link>https://ht-x.com/de/posts/2025/09/nanonets-ocr-s-ocr-model-that-transforms-documents/</link>
+      <link>http://localhost:1313/de/posts/2025/09/nanonets-ocr-s-ocr-model-that-transforms-documents/</link>
       <pubDate>Mon, 16 Jun 2025 06:14:56 +0000</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/nanonets-ocr-s-ocr-model-that-transforms-documents/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/nanonets-ocr-s-ocr-model-that-transforms-documents/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>[2505.24864] ProRL: Verlängertes Verstärkungslernen erweitert die Denkgrenzen großer Sprachmodelle</title>
-      <link>https://ht-x.com/de/posts/2025/09/2505-24864-prorl-prolonged-reinforcement-learning/</link>
+      <link>http://localhost:1313/de/posts/2025/09/2505-24864-prorl-prolonged-reinforcement-learning/</link>
       <pubDate>Tue, 03 Jun 2025 03:29:10 +0200</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/2505-24864-prorl-prolonged-reinforcement-learning/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/2505-24864-prorl-prolonged-reinforcement-learning/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Meine skeptischen KI-Freunde sind alle verrückt · The Fly Blog</title>
-      <link>https://ht-x.com/de/posts/2025/09/my-ai-skeptic-friends-are-all-nuts-the-fly-blog/</link>
+      <link>http://localhost:1313/de/posts/2025/09/my-ai-skeptic-friends-are-all-nuts-the-fly-blog/</link>
       <pubDate>Tue, 03 Jun 2025 03:05:44 +0200</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/my-ai-skeptic-friends-are-all-nuts-the-fly-blog/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/my-ai-skeptic-friends-are-all-nuts-the-fly-blog/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ask HN: Welches ist das beste LLM für Consumer-Hardware?</title>
-      <link>https://ht-x.com/de/posts/2025/09/ask-hn-what-is-the-best-llm-for-consumer-grade-har/</link>
+      <link>http://localhost:1313/de/posts/2025/09/ask-hn-what-is-the-best-llm-for-consumer-grade-har/</link>
       <pubDate>Fri, 30 May 2025 11:02:19 +0000</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/ask-hn-what-is-the-best-llm-for-consumer-grade-har/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/ask-hn-what-is-the-best-llm-for-consumer-grade-har/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Show HN: AutoThink – Verbessert die Leistung lokaler LLMs durch adaptive Vernunft</title>
-      <link>https://ht-x.com/de/posts/2025/09/show-hn-autothink-boosts-local-llm-performance-wit/</link>
+      <link>http://localhost:1313/de/posts/2025/09/show-hn-autothink-boosts-local-llm-performance-wit/</link>
       <pubDate>Wed, 28 May 2025 02:39:11 +0000</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/show-hn-autothink-boosts-local-llm-performance-wit/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/show-hn-autothink-boosts-local-llm-performance-wit/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Zeige HN: Mein LLM-CLI-Tool kann jetzt Tools ausführen, entweder aus Python-Code oder Plugins.</title>
-      <link>https://ht-x.com/de/posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/</link>
+      <link>http://localhost:1313/de/posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/</link>
       <pubDate>Tue, 27 May 2025 20:53:03 +0000</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Wie man ein LLM mit Ihren persönlichen Daten trainiert: Vollständige Anleitung mit LLaMA 3.2</title>
-      <link>https://ht-x.com/de/posts/2025/09/come-addestrare-un-llm-con-i-tuoi-dati-personali-g/</link>
+      <link>http://localhost:1313/de/posts/2025/09/come-addestrare-un-llm-con-i-tuoi-dati-personali-g/</link>
       <pubDate>Wed, 21 May 2025 07:37:40 +0200</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/come-addestrare-un-llm-con-i-tuoi-dati-personali-g/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/come-addestrare-un-llm-con-i-tuoi-dati-personali-g/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>LLMs verlieren sich in mehrstufigen Gesprächen</title>
-      <link>https://ht-x.com/de/posts/2025/09/2505-06120-llms-get-lost-in-multi-turn-conversatio/</link>
+      <link>http://localhost:1313/de/posts/2025/09/2505-06120-llms-get-lost-in-multi-turn-conversatio/</link>
       <pubDate>Fri, 16 May 2025 07:37:01 +0200</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/2505-06120-llms-get-lost-in-multi-turn-conversatio/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/2505-06120-llms-get-lost-in-multi-turn-conversatio/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - HandsOnLLM/Hands-On-Large-Language-Models: Offizielles Code-Repository für das O&#39;Reilly-Buch - &#39;Hands-On Large Language Models&#39;</title>
-      <link>https://ht-x.com/de/posts/2025/04/github-handsonllm-hands-on-large-language-models-o/</link>
+      <link>http://localhost:1313/de/posts/2025/04/github-handsonllm-hands-on-large-language-models-o/</link>
       <pubDate>Sat, 19 Apr 2025 04:58:28 +0200</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/04/github-handsonllm-hands-on-large-language-models-o/</guid>
+      <guid>http://localhost:1313/de/posts/2025/04/github-handsonllm-hands-on-large-language-models-o/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - humanlayer/12-factor-agents: Welche Prinzipien können wir verwenden, um LLM-gestützte Software zu erstellen, die tatsächlich gut genug ist, um eingesetzt zu werden?</title>
-      <link>https://ht-x.com/de/posts/2025/04/github-humanlayer-12-factor-agents-what-are-the-pr/</link>
+      <link>http://localhost:1313/de/posts/2025/04/github-humanlayer-12-factor-agents-what-are-the-pr/</link>
       <pubDate>Thu, 17 Apr 2025 03:16:29 +0200</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/04/github-humanlayer-12-factor-agents-what-are-the-pr/</guid>
+      <guid>http://localhost:1313/de/posts/2025/04/github-humanlayer-12-factor-agents-what-are-the-pr/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>DeepSeek-R1 fördert durch Verstärkungslernen das Denken in Sprachmodellen | Nature</title>
-      <link>https://ht-x.com/de/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through/</link>
+      <link>http://localhost:1313/de/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through/</link>
       <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ein Grundmodell zur Vorhersage und Erfassung der menschlichen Kognition | Nature</title>
-      <link>https://ht-x.com/de/posts/2025/09/a-foundation-model-to-predict-and-capture-human-co/</link>
+      <link>http://localhost:1313/de/posts/2025/09/a-foundation-model-to-predict-and-capture-human-co/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/a-foundation-model-to-predict-and-capture-human-co/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/a-foundation-model-to-predict-and-capture-human-co/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Große Sprachmodelle sind in der Lage, emotionale Intelligenztests zu lösen und zu erstellen | Kommunikationspsychologie</title>
-      <link>https://ht-x.com/de/posts/2025/09/large-language-models-are-proficient-in-solving-an/</link>
+      <link>http://localhost:1313/de/posts/2025/09/large-language-models-are-proficient-in-solving-an/</link>
       <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2025/09/large-language-models-are-proficient-in-solving-an/</guid>
+      <guid>http://localhost:1313/de/posts/2025/09/large-language-models-are-proficient-in-solving-an/</guid>
       <description></description>
       
     </item>

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PRISMA on HUMAN TECHNOLOGY eXCELLENCE</title>
-    <link>https://ht-x.com/fr/tags/prisma/</link>
+    <link>http://localhost:1313/fr/tags/prisma/</link>
     <description>Recent content in PRISMA on HUMAN TECHNOLOGY eXCELLENCE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Sun, 08 Mar 2026 14:00:00 +0100</lastBuildDate><atom:link href="https://ht-x.com/fr/tags/prisma/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Mar 2026 14:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/fr/tags/prisma/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Comment choisir une infrastructure IA privee pour votre entreprise</title>
-      <link>https://ht-x.com/fr/posts/2026/03/come-scegliere-infrastruttura-ai-privata/</link>
+      <link>http://localhost:1313/fr/posts/2026/03/come-scegliere-infrastruttura-ai-privata/</link>
       <pubDate>Sun, 08 Mar 2026 14:00:00 +0100</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2026/03/come-scegliere-infrastruttura-ai-privata/</guid>
+      <guid>http://localhost:1313/fr/posts/2026/03/come-scegliere-infrastruttura-ai-privata/</guid>
       <description></description>
       
     </item>

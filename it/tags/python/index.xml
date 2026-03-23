@@ -2,519 +2,569 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on HUMAN TECHNOLOGY eXCELLENCE</title>
-    <link>https://ht-x.com/it/tags/python/</link>
+    <link>http://localhost:1313/it/tags/python/</link>
     <description>Recent content in Python on HUMAN TECHNOLOGY eXCELLENCE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Thu, 12 Feb 2026 07:46:12 +0100</lastBuildDate><atom:link href="https://ht-x.com/it/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Mar 2026 06:44:02 +0100</lastBuildDate><atom:link href="http://localhost:1313/it/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GitHub - 666ghj/MiroFish: A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物</title>
+      <link>http://localhost:1313/it/posts/2026/03/github-666ghj-mirofish-a-simple-and-universal-swar/</link>
+      <pubDate>Mon, 23 Mar 2026 06:44:02 +0100</pubDate>
+      
+      <guid>http://localhost:1313/it/posts/2026/03/github-666ghj-mirofish-a-simple-and-universal-swar/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - jundot/omlx: LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the mac</title>
+      <link>http://localhost:1313/it/posts/2026/03/github-jundot-omlx-llm-inference-server-with-conti/</link>
+      <pubDate>Fri, 13 Mar 2026 08:33:39 +0100</pubDate>
+      
+      <guid>http://localhost:1313/it/posts/2026/03/github-jundot-omlx-llm-inference-server-with-conti/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - NousResearch/hermes-agent: The agent that grows with you</title>
+      <link>http://localhost:1313/it/posts/2026/03/github-nousresearch-hermes-agent-the-agent-that-gr/</link>
+      <pubDate>Mon, 09 Mar 2026 04:28:33 +0100</pubDate>
+      
+      <guid>http://localhost:1313/it/posts/2026/03/github-nousresearch-hermes-agent-the-agent-that-gr/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - bytedance/deer-flow: An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, m</title>
+      <link>http://localhost:1313/it/posts/2026/03/github-bytedance-deer-flow-an-open-source-superage/</link>
+      <pubDate>Mon, 09 Mar 2026 04:08:33 +0100</pubDate>
+      
+      <guid>http://localhost:1313/it/posts/2026/03/github-bytedance-deer-flow-an-open-source-superage/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - z-lab/paroquant: [ICLR 2026] ParoQuant: Pairwise Rotation Quantization for Efficient Reasoning LLM Inference</title>
+      <link>http://localhost:1313/it/posts/2026/03/github-z-lab-paroquant-iclr-2026-paroquant-pairwis/</link>
+      <pubDate>Mon, 09 Mar 2026 03:41:18 +0100</pubDate>
+      
+      <guid>http://localhost:1313/it/posts/2026/03/github-z-lab-paroquant-iclr-2026-paroquant-pairwis/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>GitHub - zai-org/GLM-OCR: GLM-OCR: Accurate × Fast × Comprehensive</title>
-      <link>https://ht-x.com/it/posts/2026/02/github-zai-org-glm-ocr-glm-ocr-accurate-x-fast-x-c/</link>
+      <link>http://localhost:1313/it/posts/2026/02/github-zai-org-glm-ocr-glm-ocr-accurate-x-fast-x-c/</link>
       <pubDate>Thu, 12 Feb 2026 07:46:12 +0100</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2026/02/github-zai-org-glm-ocr-glm-ocr-accurate-x-fast-x-c/</guid>
+      <guid>http://localhost:1313/it/posts/2026/02/github-zai-org-glm-ocr-glm-ocr-accurate-x-fast-x-c/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - alexziskind1/llama-throughput-lab: Interactive launcher and benchmarking harness for llama.cpp server throughput, with tests, sweeps, and round-robin load tools.</title>
-      <link>https://ht-x.com/it/posts/2026/02/github-alexziskind1-llama-throughput-lab-interacti/</link>
+      <link>http://localhost:1313/it/posts/2026/02/github-alexziskind1-llama-throughput-lab-interacti/</link>
       <pubDate>Mon, 02 Feb 2026 08:25:08 +0100</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2026/02/github-alexziskind1-llama-throughput-lab-interacti/</guid>
+      <guid>http://localhost:1313/it/posts/2026/02/github-alexziskind1-llama-throughput-lab-interacti/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - aiming-lab/SimpleMem: SimpleMem: Efficient Lifelong Memory for LLM Agents</title>
-      <link>https://ht-x.com/it/posts/2026/01/github-aiming-lab-simplemem-simplemem-efficient-li/</link>
+      <link>http://localhost:1313/it/posts/2026/01/github-aiming-lab-simplemem-simplemem-efficient-li/</link>
       <pubDate>Tue, 27 Jan 2026 11:40:19 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2026/01/github-aiming-lab-simplemem-simplemem-efficient-li/</guid>
+      <guid>http://localhost:1313/it/posts/2026/01/github-aiming-lab-simplemem-simplemem-efficient-li/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - virattt/ai-hedge-fund: An AI Hedge Fund Team</title>
-      <link>https://ht-x.com/it/posts/2026/01/github-virattt-ai-hedge-fund-an-ai-hedge-fund-team/</link>
+      <link>http://localhost:1313/it/posts/2026/01/github-virattt-ai-hedge-fund-an-ai-hedge-fund-team/</link>
       <pubDate>Tue, 27 Jan 2026 11:27:36 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2026/01/github-virattt-ai-hedge-fund-an-ai-hedge-fund-team/</guid>
+      <guid>http://localhost:1313/it/posts/2026/01/github-virattt-ai-hedge-fund-an-ai-hedge-fund-team/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - google/langextract: A Python library for extracting structured information from unstructured text using LLMs with precis</title>
-      <link>https://ht-x.com/it/posts/2026/01/github-google-langextract-a-python-library-for-ext/</link>
+      <link>http://localhost:1313/it/posts/2026/01/github-google-langextract-a-python-library-for-ext/</link>
       <pubDate>Mon, 19 Jan 2026 10:47:44 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2026/01/github-google-langextract-a-python-library-for-ext/</guid>
+      <guid>http://localhost:1313/it/posts/2026/01/github-google-langextract-a-python-library-for-ext/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - unclecode/crawl4ai: 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN</title>
-      <link>https://ht-x.com/it/posts/2026/01/github-unclecode-crawl4ai-crawl4ai-open-source-llm/</link>
+      <link>http://localhost:1313/it/posts/2026/01/github-unclecode-crawl4ai-crawl4ai-open-source-llm/</link>
       <pubDate>Thu, 15 Jan 2026 08:05:38 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2026/01/github-unclecode-crawl4ai-crawl4ai-open-source-llm/</guid>
+      <guid>http://localhost:1313/it/posts/2026/01/github-unclecode-crawl4ai-crawl4ai-open-source-llm/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - mistralai/mistral-vibe: Minimal CLI coding agent by Mistral</title>
-      <link>https://ht-x.com/it/posts/2026/01/github-mistralai-mistral-vibe-minimal-cli-coding-a/</link>
+      <link>http://localhost:1313/it/posts/2026/01/github-mistralai-mistral-vibe-minimal-cli-coding-a/</link>
       <pubDate>Thu, 15 Jan 2026 07:52:37 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2026/01/github-mistralai-mistral-vibe-minimal-cli-coding-a/</guid>
+      <guid>http://localhost:1313/it/posts/2026/01/github-mistralai-mistral-vibe-minimal-cli-coding-a/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - NVlabs/ToolOrchestra: ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows.</title>
-      <link>https://ht-x.com/it/posts/2026/01/github-nvlabs-toolorchestra-toolorchestra-is-an-en/</link>
+      <link>http://localhost:1313/it/posts/2026/01/github-nvlabs-toolorchestra-toolorchestra-is-an-en/</link>
       <pubDate>Thu, 15 Jan 2026 06:19:19 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2026/01/github-nvlabs-toolorchestra-toolorchestra-is-an-en/</guid>
+      <guid>http://localhost:1313/it/posts/2026/01/github-nvlabs-toolorchestra-toolorchestra-is-an-en/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>The Art of Context Windows: Our AI Had Alzheimer&#39;s: Here&#39;s How We Taught It To Remember</title>
-      <link>https://ht-x.com/it/posts/2026/01/the-art-of-context-windows-our-ai-had-alzheimer-s/</link>
+      <link>http://localhost:1313/it/posts/2026/01/the-art-of-context-windows-our-ai-had-alzheimer-s/</link>
       <pubDate>Wed, 14 Jan 2026 06:29:12 +0100</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2026/01/the-art-of-context-windows-our-ai-had-alzheimer-s/</guid>
+      <guid>http://localhost:1313/it/posts/2026/01/the-art-of-context-windows-our-ai-had-alzheimer-s/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - fullstackwebdev/rlm_repl: Recursive Language Models (RLMs) implementation based on the paper by Zhang, Kraska, and Khattab</title>
-      <link>https://ht-x.com/it/posts/2026/01/github-fullstackwebdev-rlm-repl-recursive-language/</link>
+      <link>http://localhost:1313/it/posts/2026/01/github-fullstackwebdev-rlm-repl-recursive-language/</link>
       <pubDate>Tue, 13 Jan 2026 20:05:21 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2026/01/github-fullstackwebdev-rlm-repl-recursive-language/</guid>
+      <guid>http://localhost:1313/it/posts/2026/01/github-fullstackwebdev-rlm-repl-recursive-language/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>How to code Claude Code in 200 lines of code</title>
-      <link>https://ht-x.com/it/posts/2026/01/how-to-code-claude-code-in-200-lines-of-code/</link>
+      <link>http://localhost:1313/it/posts/2026/01/how-to-code-claude-code-in-200-lines-of-code/</link>
       <pubDate>Thu, 08 Jan 2026 19:54:26 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2026/01/how-to-code-claude-code-in-200-lines-of-code/</guid>
+      <guid>http://localhost:1313/it/posts/2026/01/how-to-code-claude-code-in-200-lines-of-code/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - microsoft/VibeVoice: Open-Source Frontier Voice AI</title>
-      <link>https://ht-x.com/it/posts/2026/01/github-microsoft-vibevoice-open-source-frontier-vo/</link>
+      <link>http://localhost:1313/it/posts/2026/01/github-microsoft-vibevoice-open-source-frontier-vo/</link>
       <pubDate>Tue, 06 Jan 2026 09:35:37 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2026/01/github-microsoft-vibevoice-open-source-frontier-vo/</guid>
+      <guid>http://localhost:1313/it/posts/2026/01/github-microsoft-vibevoice-open-source-frontier-vo/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - GVCLab/PersonaLive: PersonaLive! : Expressive Portrait Image Animation for Live Streaming</title>
-      <link>https://ht-x.com/it/posts/2026/01/github-gvclab-personalive-personalive-expressive-p/</link>
+      <link>http://localhost:1313/it/posts/2026/01/github-gvclab-personalive-personalive-expressive-p/</link>
       <pubDate>Tue, 06 Jan 2026 09:30:19 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2026/01/github-gvclab-personalive-personalive-expressive-p/</guid>
+      <guid>http://localhost:1313/it/posts/2026/01/github-gvclab-personalive-personalive-expressive-p/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - NevaMind-AI/memU: Memory infrastructure for LLMs and AI agents</title>
-      <link>https://ht-x.com/it/posts/2026/01/github-nevamind-ai-memu-memory-infrastructure-for/</link>
+      <link>http://localhost:1313/it/posts/2026/01/github-nevamind-ai-memu-memory-infrastructure-for/</link>
       <pubDate>Tue, 06 Jan 2026 09:22:22 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2026/01/github-nevamind-ai-memu-memory-infrastructure-for/</guid>
+      <guid>http://localhost:1313/it/posts/2026/01/github-nevamind-ai-memu-memory-infrastructure-for/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - yichuan-w/LEANN: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.</title>
-      <link>https://ht-x.com/it/posts/2026/01/github-yichuan-w-leann-rag-on-everything-with-lean/</link>
+      <link>http://localhost:1313/it/posts/2026/01/github-yichuan-w-leann-rag-on-everything-with-lean/</link>
       <pubDate>Tue, 06 Jan 2026 09:02:38 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2026/01/github-yichuan-w-leann-rag-on-everything-with-lean/</guid>
+      <guid>http://localhost:1313/it/posts/2026/01/github-yichuan-w-leann-rag-on-everything-with-lean/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - Tencent-Hunyuan/HunyuanOCR</title>
-      <link>https://ht-x.com/it/posts/2025/11/github-tencent-hunyuan-hunyuanocr/</link>
+      <link>http://localhost:1313/it/posts/2025/11/github-tencent-hunyuan-hunyuanocr/</link>
       <pubDate>Fri, 28 Nov 2025 18:00:35 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/11/github-tencent-hunyuan-hunyuanocr/</guid>
+      <guid>http://localhost:1313/it/posts/2025/11/github-tencent-hunyuan-hunyuanocr/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - pixeltable/pixeltable: Pixeltable — Data Infrastructure providing a declarative, incremental approach for multimodal AI workloads</title>
-      <link>https://ht-x.com/it/posts/2025/11/github-pixeltable-pixeltable-pixeltable-data-infra/</link>
+      <link>http://localhost:1313/it/posts/2025/11/github-pixeltable-pixeltable-pixeltable-data-infra/</link>
       <pubDate>Mon, 24 Nov 2025 15:32:16 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/11/github-pixeltable-pixeltable-pixeltable-data-infra/</guid>
+      <guid>http://localhost:1313/it/posts/2025/11/github-pixeltable-pixeltable-pixeltable-data-infra/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - GibsonAI/Memori: Open-Source Memory Engine for LLMs, AI Agents &amp; Multi-Agent Systems</title>
-      <link>https://ht-x.com/it/posts/2025/11/github-gibsonai-memori-open-source-memory-engine-f/</link>
+      <link>http://localhost:1313/it/posts/2025/11/github-gibsonai-memori-open-source-memory-engine-f/</link>
       <pubDate>Tue, 18 Nov 2025 14:05:11 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/11/github-gibsonai-memori-open-source-memory-engine-f/</guid>
+      <guid>http://localhost:1313/it/posts/2025/11/github-gibsonai-memori-open-source-memory-engine-f/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - rbalestr-lab/lejepa</title>
-      <link>https://ht-x.com/it/posts/2025/11/github-rbalestr-lab-lejepa/</link>
+      <link>http://localhost:1313/it/posts/2025/11/github-rbalestr-lab-lejepa/</link>
       <pubDate>Sat, 15 Nov 2025 09:43:20 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/11/github-rbalestr-lab-lejepa/</guid>
+      <guid>http://localhost:1313/it/posts/2025/11/github-rbalestr-lab-lejepa/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Context Retrieval for AI Agents across Apps &amp; Databases</title>
-      <link>https://ht-x.com/it/posts/2025/11/context-retrieval-for-ai-agents-across-apps-databa/</link>
+      <link>http://localhost:1313/it/posts/2025/11/context-retrieval-for-ai-agents-across-apps-databa/</link>
       <pubDate>Wed, 12 Nov 2025 15:52:24 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/11/context-retrieval-for-ai-agents-across-apps-databa/</guid>
+      <guid>http://localhost:1313/it/posts/2025/11/context-retrieval-for-ai-agents-across-apps-databa/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>DeepSeek-OCR</title>
-      <link>https://ht-x.com/it/posts/2025/10/deepseek-ocr/</link>
+      <link>http://localhost:1313/it/posts/2025/10/deepseek-ocr/</link>
       <pubDate>Thu, 23 Oct 2025 13:57:12 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/10/deepseek-ocr/</guid>
+      <guid>http://localhost:1313/it/posts/2025/10/deepseek-ocr/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Airbyte: The Leading Data Integration Platform for ETL/ELT Pipelines</title>
-      <link>https://ht-x.com/it/posts/2025/10/airbyte-the-leading-data-integration-platform-for/</link>
+      <link>http://localhost:1313/it/posts/2025/10/airbyte-the-leading-data-integration-platform-for/</link>
       <pubDate>Thu, 23 Oct 2025 13:54:13 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/10/airbyte-the-leading-data-integration-platform-for/</guid>
+      <guid>http://localhost:1313/it/posts/2025/10/airbyte-the-leading-data-integration-platform-for/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Enterprise Deep Research</title>
-      <link>https://ht-x.com/it/posts/2025/10/enterprise-deep-research/</link>
+      <link>http://localhost:1313/it/posts/2025/10/enterprise-deep-research/</link>
       <pubDate>Thu, 23 Oct 2025 13:53:13 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/10/enterprise-deep-research/</guid>
+      <guid>http://localhost:1313/it/posts/2025/10/enterprise-deep-research/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Make Any App Searchable for AI Agents</title>
-      <link>https://ht-x.com/it/posts/2025/10/make-any-app-searchable-for-ai-agents/</link>
+      <link>http://localhost:1313/it/posts/2025/10/make-any-app-searchable-for-ai-agents/</link>
       <pubDate>Sat, 18 Oct 2025 09:23:13 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/10/make-any-app-searchable-for-ai-agents/</guid>
+      <guid>http://localhost:1313/it/posts/2025/10/make-any-app-searchable-for-ai-agents/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting</title>
-      <link>https://ht-x.com/it/posts/2025/10/dolphin-document-image-parsing-via-heterogeneous-a/</link>
+      <link>http://localhost:1313/it/posts/2025/10/dolphin-document-image-parsing-via-heterogeneous-a/</link>
       <pubDate>Fri, 17 Oct 2025 18:51:12 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/10/dolphin-document-image-parsing-via-heterogeneous-a/</guid>
+      <guid>http://localhost:1313/it/posts/2025/10/dolphin-document-image-parsing-via-heterogeneous-a/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>nanochat</title>
-      <link>https://ht-x.com/it/posts/2025/10/nanochat/</link>
+      <link>http://localhost:1313/it/posts/2025/10/nanochat/</link>
       <pubDate>Tue, 14 Oct 2025 06:36:15 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/10/nanochat/</guid>
+      <guid>http://localhost:1313/it/posts/2025/10/nanochat/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>ROMA: Recursive Open Meta-Agents</title>
-      <link>https://ht-x.com/it/posts/2025/10/roma-recursive-open-meta-agents/</link>
+      <link>http://localhost:1313/it/posts/2025/10/roma-recursive-open-meta-agents/</link>
       <pubDate>Tue, 14 Oct 2025 06:35:25 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/10/roma-recursive-open-meta-agents/</guid>
+      <guid>http://localhost:1313/it/posts/2025/10/roma-recursive-open-meta-agents/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>NeuTTS Air</title>
-      <link>https://ht-x.com/it/posts/2025/10/neutts-air/</link>
+      <link>http://localhost:1313/it/posts/2025/10/neutts-air/</link>
       <pubDate>Tue, 14 Oct 2025 06:32:59 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/10/neutts-air/</guid>
+      <guid>http://localhost:1313/it/posts/2025/10/neutts-air/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Cua: Open-source infrastructure for Computer-Use Agents</title>
-      <link>https://ht-x.com/it/posts/2025/10/cua-open-source-infrastructure-for-computer-use-ag/</link>
+      <link>http://localhost:1313/it/posts/2025/10/cua-open-source-infrastructure-for-computer-use-ag/</link>
       <pubDate>Tue, 14 Oct 2025 06:17:05 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/10/cua-open-source-infrastructure-for-computer-use-ag/</guid>
+      <guid>http://localhost:1313/it/posts/2025/10/cua-open-source-infrastructure-for-computer-use-ag/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>RAG-Anything: All-in-One RAG Framework</title>
-      <link>https://ht-x.com/it/posts/2025/09/rag-anything-all-in-one-rag-framework/</link>
+      <link>http://localhost:1313/it/posts/2025/09/rag-anything-all-in-one-rag-framework/</link>
       <pubDate>Mon, 29 Sep 2025 13:02:53 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/09/rag-anything-all-in-one-rag-framework/</guid>
+      <guid>http://localhost:1313/it/posts/2025/09/rag-anything-all-in-one-rag-framework/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>RAGLight</title>
-      <link>https://ht-x.com/it/posts/2025/09/raglight/</link>
+      <link>http://localhost:1313/it/posts/2025/09/raglight/</link>
       <pubDate>Mon, 29 Sep 2025 12:45:31 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/09/raglight/</guid>
+      <guid>http://localhost:1313/it/posts/2025/09/raglight/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Turns Codebase into Easy Tutorial with AI</title>
-      <link>https://ht-x.com/it/posts/2025/09/turns-codebase-into-easy-tutorial-with-ai/</link>
+      <link>http://localhost:1313/it/posts/2025/09/turns-codebase-into-easy-tutorial-with-ai/</link>
       <pubDate>Mon, 29 Sep 2025 04:32:54 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/09/turns-codebase-into-easy-tutorial-with-ai/</guid>
+      <guid>http://localhost:1313/it/posts/2025/09/turns-codebase-into-easy-tutorial-with-ai/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>AI-Researcher: Autonomous Scientific Innovation</title>
-      <link>https://ht-x.com/it/posts/2025/09/ai-researcher-autonomous-scientific-innovation/</link>
+      <link>http://localhost:1313/it/posts/2025/09/ai-researcher-autonomous-scientific-innovation/</link>
       <pubDate>Wed, 24 Sep 2025 07:31:07 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/09/ai-researcher-autonomous-scientific-innovation/</guid>
+      <guid>http://localhost:1313/it/posts/2025/09/ai-researcher-autonomous-scientific-innovation/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>AgenticSeek: Private, Local Manus Alternative</title>
-      <link>https://ht-x.com/it/posts/2025/09/agenticseek-private-local-manus-alternative/</link>
+      <link>http://localhost:1313/it/posts/2025/09/agenticseek-private-local-manus-alternative/</link>
       <pubDate>Tue, 23 Sep 2025 16:44:11 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/09/agenticseek-private-local-manus-alternative/</guid>
+      <guid>http://localhost:1313/it/posts/2025/09/agenticseek-private-local-manus-alternative/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Qwen-Image</title>
-      <link>https://ht-x.com/it/posts/2025/09/qwen-image/</link>
+      <link>http://localhost:1313/it/posts/2025/09/qwen-image/</link>
       <pubDate>Tue, 23 Sep 2025 16:14:19 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/09/qwen-image/</guid>
+      <guid>http://localhost:1313/it/posts/2025/09/qwen-image/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Introducing Tongyi Deep Research</title>
-      <link>https://ht-x.com/it/posts/2025/09/introducing-tongyi-deep-research/</link>
+      <link>http://localhost:1313/it/posts/2025/09/introducing-tongyi-deep-research/</link>
       <pubDate>Mon, 22 Sep 2025 15:17:00 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/09/introducing-tongyi-deep-research/</guid>
+      <guid>http://localhost:1313/it/posts/2025/09/introducing-tongyi-deep-research/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>💾🎉 copyparty</title>
-      <link>https://ht-x.com/it/posts/2025/09/copyparty/</link>
+      <link>http://localhost:1313/it/posts/2025/09/copyparty/</link>
       <pubDate>Mon, 22 Sep 2025 15:04:19 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/09/copyparty/</guid>
+      <guid>http://localhost:1313/it/posts/2025/09/copyparty/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>MemoRAG: Moving Towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery</title>
-      <link>https://ht-x.com/it/posts/2025/09/memorag-moving-towards-next-gen-rag-via-memory-ins/</link>
+      <link>http://localhost:1313/it/posts/2025/09/memorag-moving-towards-next-gen-rag-via-memory-ins/</link>
       <pubDate>Thu, 18 Sep 2025 14:48:56 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/09/memorag-moving-towards-next-gen-rag-via-memory-ins/</guid>
+      <guid>http://localhost:1313/it/posts/2025/09/memorag-moving-towards-next-gen-rag-via-memory-ins/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Enable AI to control your browser 🤖</title>
-      <link>https://ht-x.com/it/posts/2025/09/enable-ai-to-control-your-browser/</link>
+      <link>http://localhost:1313/it/posts/2025/09/enable-ai-to-control-your-browser/</link>
       <pubDate>Thu, 18 Sep 2025 14:40:36 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/09/enable-ai-to-control-your-browser/</guid>
+      <guid>http://localhost:1313/it/posts/2025/09/enable-ai-to-control-your-browser/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>dots.ocr: Multilingual Document Layout Parsing in a Single Vision-Language Model</title>
-      <link>https://ht-x.com/it/posts/2025/09/dots-ocr-multilingual-document-layout-parsing-in-a/</link>
+      <link>http://localhost:1313/it/posts/2025/09/dots-ocr-multilingual-document-layout-parsing-in-a/</link>
       <pubDate>Sun, 14 Sep 2025 15:17:44 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/09/dots-ocr-multilingual-document-layout-parsing-in-a/</guid>
+      <guid>http://localhost:1313/it/posts/2025/09/dots-ocr-multilingual-document-layout-parsing-in-a/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>PaddleOCR</title>
-      <link>https://ht-x.com/it/posts/2025/09/paddleocr/</link>
+      <link>http://localhost:1313/it/posts/2025/09/paddleocr/</link>
       <pubDate>Sun, 14 Sep 2025 15:15:24 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/09/paddleocr/</guid>
+      <guid>http://localhost:1313/it/posts/2025/09/paddleocr/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>SurfSense</title>
-      <link>https://ht-x.com/it/posts/2025/09/surfsense/</link>
+      <link>http://localhost:1313/it/posts/2025/09/surfsense/</link>
       <pubDate>Sat, 06 Sep 2025 04:06:07 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/09/surfsense/</guid>
+      <guid>http://localhost:1313/it/posts/2025/09/surfsense/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>LoRAX: Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs</title>
-      <link>https://ht-x.com/it/posts/2025/09/lorax-multi-lora-inference-server-that-scales-to-1/</link>
+      <link>http://localhost:1313/it/posts/2025/09/lorax-multi-lora-inference-server-that-scales-to-1/</link>
       <pubDate>Fri, 05 Sep 2025 07:09:18 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/09/lorax-multi-lora-inference-server-that-scales-to-1/</guid>
+      <guid>http://localhost:1313/it/posts/2025/09/lorax-multi-lora-inference-server-that-scales-to-1/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>The LLM Red Teaming Framework</title>
-      <link>https://ht-x.com/it/posts/2025/09/the-llm-red-teaming-framework/</link>
+      <link>http://localhost:1313/it/posts/2025/09/the-llm-red-teaming-framework/</link>
       <pubDate>Thu, 04 Sep 2025 14:51:19 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/09/the-llm-red-teaming-framework/</guid>
+      <guid>http://localhost:1313/it/posts/2025/09/the-llm-red-teaming-framework/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Memvid</title>
-      <link>https://ht-x.com/it/posts/2025/09/memvid/</link>
+      <link>http://localhost:1313/it/posts/2025/09/memvid/</link>
       <pubDate>Thu, 04 Sep 2025 12:45:37 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/09/memvid/</guid>
+      <guid>http://localhost:1313/it/posts/2025/09/memvid/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Elysia: Agentic Framework Powered by Decision Trees</title>
-      <link>https://ht-x.com/it/posts/2025/09/elysia-agentic-framework-powered-by-decision-trees/</link>
+      <link>http://localhost:1313/it/posts/2025/09/elysia-agentic-framework-powered-by-decision-trees/</link>
       <pubDate>Sun, 17 Aug 2025 03:51:27 +0200</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/09/elysia-agentic-framework-powered-by-decision-trees/</guid>
+      <guid>http://localhost:1313/it/posts/2025/09/elysia-agentic-framework-powered-by-decision-trees/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>LangExtract</title>
-      <link>https://ht-x.com/it/posts/2025/09/langextract/</link>
+      <link>http://localhost:1313/it/posts/2025/09/langextract/</link>
       <pubDate>Sun, 17 Aug 2025 03:48:51 +0200</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/09/langextract/</guid>
+      <guid>http://localhost:1313/it/posts/2025/09/langextract/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Litestar is worth a look</title>
-      <link>https://ht-x.com/it/posts/2025/09/litestar-is-worth-a-look/</link>
+      <link>http://localhost:1313/it/posts/2025/09/litestar-is-worth-a-look/</link>
       <pubDate>Wed, 06 Aug 2025 19:43:01 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/09/litestar-is-worth-a-look/</guid>
+      <guid>http://localhost:1313/it/posts/2025/09/litestar-is-worth-a-look/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>SymbolicAI: A neuro-symbolic perspective on LLMs</title>
-      <link>https://ht-x.com/it/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/</link>
+      <link>http://localhost:1313/it/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/</link>
       <pubDate>Fri, 27 Jun 2025 18:49:57 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/</guid>
+      <guid>http://localhost:1313/it/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Agent Development Kit (ADK)</title>
-      <link>https://ht-x.com/it/posts/2025/09/agent-development-kit-adk/</link>
+      <link>http://localhost:1313/it/posts/2025/09/agent-development-kit-adk/</link>
       <pubDate>Thu, 29 May 2025 06:22:22 +0200</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/09/agent-development-kit-adk/</guid>
+      <guid>http://localhost:1313/it/posts/2025/09/agent-development-kit-adk/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Show HN: My LLM CLI tool can run tools now, from Python code or plugins</title>
-      <link>https://ht-x.com/it/posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/</link>
+      <link>http://localhost:1313/it/posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/</link>
       <pubDate>Tue, 27 May 2025 20:53:03 +0000</pubDate>
       
-      <guid>https://ht-x.com/it/posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/</guid>
+      <guid>http://localhost:1313/it/posts/2025/09/show-hn-my-llm-cli-tool-can-run-tools-now-from-pyt/</guid>
       <description></description>
       
     </item>

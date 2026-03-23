@@ -2,329 +2,349 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech on HUMAN TECHNOLOGY eXCELLENCE</title>
-    <link>https://ht-x.com/fr/tags/tech/</link>
+    <link>http://localhost:1313/fr/tags/tech/</link>
     <description>Recent content in Tech on HUMAN TECHNOLOGY eXCELLENCE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Sun, 01 Mar 2026 22:10:21 +0100</lastBuildDate><atom:link href="https://ht-x.com/fr/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Mar 2026 04:49:01 +0100</lastBuildDate><atom:link href="http://localhost:1313/fr/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mon chef SEO, Claude Cowork</title>
+      <link>http://localhost:1313/fr/posts/2026/03/my-chief-of-seo-claude-cowork/</link>
+      <pubDate>Mon, 09 Mar 2026 04:49:01 +0100</pubDate>
+      
+      <guid>http://localhost:1313/fr/posts/2026/03/my-chief-of-seo-claude-cowork/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>a passé toute la journée à tester Qwopus (Claude 4)</title>
+      <link>http://localhost:1313/fr/posts/2026/03/spent-the-entire-day-testing-qwopus-claude-4/</link>
+      <pubDate>Mon, 09 Mar 2026 03:43:54 +0100</pubDate>
+      
+      <guid>http://localhost:1313/fr/posts/2026/03/spent-the-entire-day-testing-qwopus-claude-4/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>microgpt</title>
-      <link>https://ht-x.com/fr/posts/2026/03/microgpt/</link>
+      <link>http://localhost:1313/fr/posts/2026/03/microgpt/</link>
       <pubDate>Sun, 01 Mar 2026 22:10:21 +0100</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2026/03/microgpt/</guid>
+      <guid>http://localhost:1313/fr/posts/2026/03/microgpt/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Modèle de Langue Génératif 5</title>
-      <link>https://ht-x.com/fr/posts/2026/03/glm-5/</link>
+      <link>http://localhost:1313/fr/posts/2026/03/glm-5/</link>
       <pubDate>Sun, 01 Mar 2026 22:06:18 +0100</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2026/03/glm-5/</guid>
+      <guid>http://localhost:1313/fr/posts/2026/03/glm-5/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Étape 3.5 Flash : Assez rapide pour penser. Assez fiable pour agir.</title>
-      <link>https://ht-x.com/fr/posts/2026/03/step-3-5-flash-fast-enough-to-think-reliable-enoug/</link>
+      <link>http://localhost:1313/fr/posts/2026/03/step-3-5-flash-fast-enough-to-think-reliable-enoug/</link>
       <pubDate>Thu, 19 Feb 2026 07:44:00 +0100</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2026/03/step-3-5-flash-fast-enough-to-think-reliable-enoug/</guid>
+      <guid>http://localhost:1313/fr/posts/2026/03/step-3-5-flash-fast-enough-to-think-reliable-enoug/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Keycloak</title>
-      <link>https://ht-x.com/fr/posts/2026/02/keycloak/</link>
+      <link>http://localhost:1313/fr/posts/2026/02/keycloak/</link>
       <pubDate>Sat, 14 Feb 2026 11:08:04 +0100</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2026/02/keycloak/</guid>
+      <guid>http://localhost:1313/fr/posts/2026/02/keycloak/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Bienvenue - Documentation Poke</title>
-      <link>https://ht-x.com/fr/posts/2026/01/welcome-poke-documentation/</link>
+      <link>http://localhost:1313/fr/posts/2026/01/welcome-poke-documentation/</link>
       <pubDate>Tue, 27 Jan 2026 04:43:53 +0100</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2026/01/welcome-poke-documentation/</guid>
+      <guid>http://localhost:1313/fr/posts/2026/01/welcome-poke-documentation/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Introduction | Boîte à outils MCP pour les bases de données</title>
-      <link>https://ht-x.com/fr/posts/2026/01/introduction-mcp-toolbox-for-databases/</link>
+      <link>http://localhost:1313/fr/posts/2026/01/introduction-mcp-toolbox-for-databases/</link>
       <pubDate>Tue, 02 Dec 2025 23:47:04 +0100</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2026/01/introduction-mcp-toolbox-for-databases/</guid>
+      <guid>http://localhost:1313/fr/posts/2026/01/introduction-mcp-toolbox-for-databases/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Cas d&#39;utilisation | Claude</title>
-      <link>https://ht-x.com/fr/posts/2025/11/use-cases-claude/</link>
+      <link>http://localhost:1313/fr/posts/2025/11/use-cases-claude/</link>
       <pubDate>Sat, 15 Nov 2025 03:48:27 +0100</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2025/11/use-cases-claude/</guid>
+      <guid>http://localhost:1313/fr/posts/2025/11/use-cases-claude/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Lien vers le dépôt GitHub de Strix : (n&#39;oubliez pas de mettre une étoile 🌟)</title>
-      <link>https://ht-x.com/fr/posts/2025/11/link-to-the-strix-github-repo-don-t-forget-to-star/</link>
+      <link>http://localhost:1313/fr/posts/2025/11/link-to-the-strix-github-repo-don-t-forget-to-star/</link>
       <pubDate>Wed, 05 Nov 2025 20:09:00 +0100</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2025/11/link-to-the-strix-github-repo-don-t-forget-to-star/</guid>
+      <guid>http://localhost:1313/fr/posts/2025/11/link-to-the-strix-github-repo-don-t-forget-to-star/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>OpenSnowcat - Plateforme de données comportementales de niveau entreprise.</title>
-      <link>https://ht-x.com/fr/posts/2025/10/opensnowcat-enterprise-grade-behavioral-data-platf/</link>
+      <link>http://localhost:1313/fr/posts/2025/10/opensnowcat-enterprise-grade-behavioral-data-platf/</link>
       <pubDate>Fri, 24 Oct 2025 02:11:12 +0200</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2025/10/opensnowcat-enterprise-grade-behavioral-data-platf/</guid>
+      <guid>http://localhost:1313/fr/posts/2025/10/opensnowcat-enterprise-grade-behavioral-data-platf/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Dr Milan Milanović (@milan_milanovic) sur X</title>
-      <link>https://ht-x.com/fr/posts/2025/10/dr-milan-milanovic-milan-milanovic-on-x/</link>
+      <link>http://localhost:1313/fr/posts/2025/10/dr-milan-milanovic-milan-milanovic-on-x/</link>
       <pubDate>Fri, 24 Oct 2025 02:02:31 +0200</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2025/10/dr-milan-milanovic-milan-milanovic-on-x/</guid>
+      <guid>http://localhost:1313/fr/posts/2025/10/dr-milan-milanovic-milan-milanovic-on-x/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Théorie des jeux | Open Yale Courses</title>
-      <link>https://ht-x.com/fr/posts/2025/10/game-theory-open-yale-courses/</link>
+      <link>http://localhost:1313/fr/posts/2025/10/game-theory-open-yale-courses/</link>
       <pubDate>Fri, 24 Oct 2025 01:58:37 +0200</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2025/10/game-theory-open-yale-courses/</guid>
+      <guid>http://localhost:1313/fr/posts/2025/10/game-theory-open-yale-courses/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Des scripts que j&#39;ai écrits et que j&#39;utilise tout le temps.</title>
-      <link>https://ht-x.com/fr/posts/2025/10/scripts-i-wrote-that-i-use-all-the-time/</link>
+      <link>http://localhost:1313/fr/posts/2025/10/scripts-i-wrote-that-i-use-all-the-time/</link>
       <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2025/10/scripts-i-wrote-that-i-use-all-the-time/</guid>
+      <guid>http://localhost:1313/fr/posts/2025/10/scripts-i-wrote-that-i-use-all-the-time/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Programme</title>
-      <link>https://ht-x.com/fr/posts/2025/10/syllabus/</link>
+      <link>http://localhost:1313/fr/posts/2025/10/syllabus/</link>
       <pubDate>Sun, 19 Oct 2025 02:39:22 +0200</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2025/10/syllabus/</guid>
+      <guid>http://localhost:1313/fr/posts/2025/10/syllabus/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Apprends à ta manière</title>
-      <link>https://ht-x.com/fr/posts/2025/09/learn-your-way/</link>
+      <link>http://localhost:1313/fr/posts/2025/09/learn-your-way/</link>
       <pubDate>Tue, 23 Sep 2025 18:36:37 +0200</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2025/09/learn-your-way/</guid>
+      <guid>http://localhost:1313/fr/posts/2025/09/learn-your-way/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>NocoDB Cloud</title>
-      <link>https://ht-x.com/fr/posts/2025/09/nocodb-cloud/</link>
+      <link>http://localhost:1313/fr/posts/2025/09/nocodb-cloud/</link>
       <pubDate>Sat, 20 Sep 2025 09:08:30 +0200</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2025/09/nocodb-cloud/</guid>
+      <guid>http://localhost:1313/fr/posts/2025/09/nocodb-cloud/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Un favoris à sauvegarder pour les codeurs branchés</title>
-      <link>https://ht-x.com/fr/posts/2025/09/a-must-bookmark-for-vibe-coders/</link>
+      <link>http://localhost:1313/fr/posts/2025/09/a-must-bookmark-for-vibe-coders/</link>
       <pubDate>Thu, 18 Sep 2025 05:51:20 +0200</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2025/09/a-must-bookmark-for-vibe-coders/</guid>
+      <guid>http://localhost:1313/fr/posts/2025/09/a-must-bookmark-for-vibe-coders/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Présentation HN : CLAVIER-36 – Un environnement de programmation pour la musique générative</title>
-      <link>https://ht-x.com/fr/posts/2025/09/show-hn-clavier-36-a-programming-environment-for-g/</link>
+      <link>http://localhost:1313/fr/posts/2025/09/show-hn-clavier-36-a-programming-environment-for-g/</link>
       <pubDate>Sat, 13 Sep 2025 14:22:59 +0000</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2025/09/show-hn-clavier-36-a-programming-environment-for-g/</guid>
+      <guid>http://localhost:1313/fr/posts/2025/09/show-hn-clavier-36-a-programming-environment-for-g/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Créer une police de caractères à partir de mon écriture · Chameth.com</title>
-      <link>https://ht-x.com/fr/posts/2025/09/making-a-font-of-my-handwriting-chameth-com/</link>
+      <link>http://localhost:1313/fr/posts/2025/09/making-a-font-of-my-handwriting-chameth-com/</link>
       <pubDate>Sat, 06 Sep 2025 08:41:06 +0200</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2025/09/making-a-font-of-my-handwriting-chameth-com/</guid>
+      <guid>http://localhost:1313/fr/posts/2025/09/making-a-font-of-my-handwriting-chameth-com/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Déploiement de DeepSeek sur 96 GPUs H100</title>
-      <link>https://ht-x.com/fr/posts/2025/09/deploying-deepseek-on-96-h100-gpus/</link>
+      <link>http://localhost:1313/fr/posts/2025/09/deploying-deepseek-on-96-h100-gpus/</link>
       <pubDate>Fri, 29 Aug 2025 14:07:28 +0000</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2025/09/deploying-deepseek-on-96-h100-gpus/</guid>
+      <guid>http://localhost:1313/fr/posts/2025/09/deploying-deepseek-on-96-h100-gpus/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Transformant Claude Code en mon meilleur partenaire de conception</title>
-      <link>https://ht-x.com/fr/posts/2025/09/turning-claude-code-into-my-best-design-partner/</link>
+      <link>http://localhost:1313/fr/posts/2025/09/turning-claude-code-into-my-best-design-partner/</link>
       <pubDate>Sun, 24 Aug 2025 08:06:03 +0000</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2025/09/turning-claude-code-into-my-best-design-partner/</guid>
+      <guid>http://localhost:1313/fr/posts/2025/09/turning-claude-code-into-my-best-design-partner/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Prava - Apprendre à GPT‑5 à utiliser un ordinateur</title>
-      <link>https://ht-x.com/fr/posts/2025/09/prava-teaching-gpt-5-to-use-a-computer/</link>
+      <link>http://localhost:1313/fr/posts/2025/09/prava-teaching-gpt-5-to-use-a-computer/</link>
       <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2025/09/prava-teaching-gpt-5-to-use-a-computer/</guid>
+      <guid>http://localhost:1313/fr/posts/2025/09/prava-teaching-gpt-5-to-use-a-computer/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>InstaVM - Plateforme d&#39;exécution de code sécurisée</title>
-      <link>https://ht-x.com/fr/posts/2025/09/instavm-secure-code-execution-platform/</link>
+      <link>http://localhost:1313/fr/posts/2025/09/instavm-secure-code-execution-platform/</link>
       <pubDate>Fri, 08 Aug 2025 23:10:02 +0200</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2025/09/instavm-secure-code-execution-platform/</guid>
+      <guid>http://localhost:1313/fr/posts/2025/09/instavm-secure-code-execution-platform/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Backlog.md – Gestionnaire de tâches et visualiseur Kanban natif Markdown pour tout dépôt Git</title>
-      <link>https://ht-x.com/fr/posts/2025/09/backlog-md-markdown-native-task-manager-and-kanban/</link>
+      <link>http://localhost:1313/fr/posts/2025/09/backlog-md-markdown-native-task-manager-and-kanban/</link>
       <pubDate>Sun, 06 Jul 2025 19:55:30 +0000</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2025/09/backlog-md-markdown-native-task-manager-and-kanban/</guid>
+      <guid>http://localhost:1313/fr/posts/2025/09/backlog-md-markdown-native-task-manager-and-kanban/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Notes de terrain sur l&#39;expédition de code réel avec Claude</title>
-      <link>https://ht-x.com/fr/posts/2025/09/field-notes-from-shipping-real-code-with-claude/</link>
+      <link>http://localhost:1313/fr/posts/2025/09/field-notes-from-shipping-real-code-with-claude/</link>
       <pubDate>Fri, 20 Jun 2025 06:11:13 +0200</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2025/09/field-notes-from-shipping-real-code-with-claude/</guid>
+      <guid>http://localhost:1313/fr/posts/2025/09/field-notes-from-shipping-real-code-with-claude/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Claude Code est Mon Ordinateur | Peter Steinberger</title>
-      <link>https://ht-x.com/fr/posts/2025/09/claude-code-is-my-computer-peter-steinberger/</link>
+      <link>http://localhost:1313/fr/posts/2025/09/claude-code-is-my-computer-peter-steinberger/</link>
       <pubDate>Wed, 04 Jun 2025 05:07:52 +0200</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2025/09/claude-code-is-my-computer-peter-steinberger/</guid>
+      <guid>http://localhost:1313/fr/posts/2025/09/claude-code-is-my-computer-peter-steinberger/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Show HN : Onlook – Cursor open-source, orienté visuel pour les designers</title>
-      <link>https://ht-x.com/fr/posts/2025/09/show-hn-onlook-open-source-visual-first-cursor-for/</link>
+      <link>http://localhost:1313/fr/posts/2025/09/show-hn-onlook-open-source-visual-first-cursor-for/</link>
       <pubDate>Thu, 29 May 2025 16:31:15 +0000</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2025/09/show-hn-onlook-open-source-visual-first-cursor-for/</guid>
+      <guid>http://localhost:1313/fr/posts/2025/09/show-hn-onlook-open-source-visual-first-cursor-for/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Introduction - Documentation du projet IntelOwl</title>
-      <link>https://ht-x.com/fr/posts/2025/09/introduction-intelowl-project-documentation/</link>
+      <link>http://localhost:1313/fr/posts/2025/09/introduction-intelowl-project-documentation/</link>
       <pubDate>Wed, 28 May 2025 02:02:07 +0200</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2025/09/introduction-intelowl-project-documentation/</guid>
+      <guid>http://localhost:1313/fr/posts/2025/09/introduction-intelowl-project-documentation/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>[2505.03335v2] Zéro absolu : Raisonnement par auto-apprentissage renforcé avec zéro donnée</title>
-      <link>https://ht-x.com/fr/posts/2025/09/2505-03335v2-absolute-zero-reinforced-self-play-re/</link>
+      <link>http://localhost:1313/fr/posts/2025/09/2505-03335v2-absolute-zero-reinforced-self-play-re/</link>
       <pubDate>Mon, 26 May 2025 22:34:40 +0200</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2025/09/2505-03335v2-absolute-zero-reinforced-self-play-re/</guid>
+      <guid>http://localhost:1313/fr/posts/2025/09/2505-03335v2-absolute-zero-reinforced-self-play-re/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Interroger des bases de données avec des appels de fonctions</title>
-      <link>https://ht-x.com/fr/posts/2025/09/2502-00032v1-querying-databases-with-function-call/</link>
+      <link>http://localhost:1313/fr/posts/2025/09/2502-00032v1-querying-databases-with-function-call/</link>
       <pubDate>Wed, 21 May 2025 08:20:09 +0200</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2025/09/2502-00032v1-querying-databases-with-function-call/</guid>
+      <guid>http://localhost:1313/fr/posts/2025/09/2502-00032v1-querying-databases-with-function-call/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Troy Hunt : Have I Been Pwned 2.0 est maintenant en ligne !</title>
-      <link>https://ht-x.com/fr/posts/2025/09/troy-hunt-have-i-been-pwned-2-0-is-now-live/</link>
+      <link>http://localhost:1313/fr/posts/2025/09/troy-hunt-have-i-been-pwned-2-0-is-now-live/</link>
       <pubDate>Tue, 20 May 2025 01:23:23 +0200</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2025/09/troy-hunt-have-i-been-pwned-2-0-is-now-live/</guid>
+      <guid>http://localhost:1313/fr/posts/2025/09/troy-hunt-have-i-been-pwned-2-0-is-now-live/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>[2505.03335] Zéro absolu : Raisonnement par auto-apprentissage renforcé avec zéro donnée</title>
-      <link>https://ht-x.com/fr/posts/2025/09/2505-03335-absolute-zero-reinforced-self-play-reas/</link>
+      <link>http://localhost:1313/fr/posts/2025/09/2505-03335-absolute-zero-reinforced-self-play-reas/</link>
       <pubDate>Fri, 09 May 2025 07:19:57 +0200</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2025/09/2505-03335-absolute-zero-reinforced-self-play-reas/</guid>
+      <guid>http://localhost:1313/fr/posts/2025/09/2505-03335-absolute-zero-reinforced-self-play-reas/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Demandes pour les startups | Y Combinator</title>
-      <link>https://ht-x.com/fr/posts/2025/09/requests-for-startups-y-combinator/</link>
+      <link>http://localhost:1313/fr/posts/2025/09/requests-for-startups-y-combinator/</link>
       <pubDate>Wed, 07 May 2025 22:08:25 +0200</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2025/09/requests-for-startups-y-combinator/</guid>
+      <guid>http://localhost:1313/fr/posts/2025/09/requests-for-startups-y-combinator/</guid>
       <description></description>
       
     </item>

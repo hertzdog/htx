@@ -2,29 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on HUMAN TECHNOLOGY eXCELLENCE</title>
-    <link>https://ht-x.com/fr/categories/research/</link>
+    <link>http://localhost:1313/fr/categories/research/</link>
     <description>Recent content in Research on HUMAN TECHNOLOGY eXCELLENCE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Sun, 25 Jan 2026 18:36:11 +0100</lastBuildDate><atom:link href="https://ht-x.com/fr/categories/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Mar 2026 04:42:59 +0100</lastBuildDate><atom:link href="http://localhost:1313/fr/categories/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Construire des agents de codage IA pour le terminal : échafaudage, harnais, ingénierie de contexte et leçons apprises</title>
+      <link>http://localhost:1313/fr/posts/2026/03/building-ai-coding-agents-for-the-terminal-scaffol/</link>
+      <pubDate>Mon, 09 Mar 2026 04:42:59 +0100</pubDate>
+      
+      <guid>http://localhost:1313/fr/posts/2026/03/building-ai-coding-agents-for-the-terminal-scaffol/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Mémoire conditionnelle par recherche évolutive : un nouvel axe de parcimonie pour les grands modèles de langage</title>
-      <link>https://ht-x.com/fr/posts/2026/01/conditional-memory-via-scalable-lookup-a-new-axis/</link>
+      <link>http://localhost:1313/fr/posts/2026/01/conditional-memory-via-scalable-lookup-a-new-axis/</link>
       <pubDate>Sun, 25 Jan 2026 18:36:11 +0100</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2026/01/conditional-memory-via-scalable-lookup-a-new-axis/</guid>
+      <guid>http://localhost:1313/fr/posts/2026/01/conditional-memory-via-scalable-lookup-a-new-axis/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Modèles de Langue Récursifs</title>
-      <link>https://ht-x.com/fr/posts/2026/01/recursive-language-models/</link>
+      <link>http://localhost:1313/fr/posts/2026/01/recursive-language-models/</link>
       <pubDate>Wed, 14 Jan 2026 06:49:31 +0100</pubDate>
       
-      <guid>https://ht-x.com/fr/posts/2026/01/recursive-language-models/</guid>
+      <guid>http://localhost:1313/fr/posts/2026/01/recursive-language-models/</guid>
       <description></description>
       
     </item>

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SQL on HUMAN TECHNOLOGY eXCELLENCE</title>
-    <link>https://ht-x.com/de/tags/sql/</link>
+    <link>http://localhost:1313/de/tags/sql/</link>
     <description>Recent content in SQL on HUMAN TECHNOLOGY eXCELLENCE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Sun, 08 Mar 2026 12:00:00 +0100</lastBuildDate><atom:link href="https://ht-x.com/de/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Mar 2026 12:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/de/tags/sql/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Natural Language to SQL: Unternehmensdatenbanken abfragen ohne Code zu schreiben</title>
-      <link>https://ht-x.com/de/posts/2026/03/natural-language-to-sql-database-senza-codice/</link>
+      <link>http://localhost:1313/de/posts/2026/03/natural-language-to-sql-database-senza-codice/</link>
       <pubDate>Sun, 08 Mar 2026 12:00:00 +0100</pubDate>
       
-      <guid>https://ht-x.com/de/posts/2026/03/natural-language-to-sql-database-senza-codice/</guid>
+      <guid>http://localhost:1313/de/posts/2026/03/natural-language-to-sql-database-senza-codice/</guid>
       <description></description>
       
     </item>
