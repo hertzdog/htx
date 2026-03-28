@@ -2,189 +2,239 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Best Practices on HUMAN TECHNOLOGY eXCELLENCE</title>
-    <link>http://localhost:1313/fr/tags/best-practices/</link>
+    <link>https://ht-x.com/fr/tags/best-practices/</link>
     <description>Recent content in Best Practices on HUMAN TECHNOLOGY eXCELLENCE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Sat, 28 Feb 2026 10:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/fr/tags/best-practices/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it | [Cookies](/fr/cookie/) | [Confidentialité](/fr/privacy/)</copyright>
+    <lastBuildDate>Thu, 26 Mar 2026 10:00:00 +0100</lastBuildDate><atom:link href="https://ht-x.com/fr/tags/best-practices/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Vibe Coding pour Entreprises : Comment Utiliser l&#39;IA pour le Développement Logiciel Sans Risques</title>
+      <link>https://ht-x.com/fr/posts/2026/03/vibe-coding-aziende/</link>
+      <pubDate>Thu, 26 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/fr/posts/2026/03/vibe-coding-aziende/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>IA On-Premise vs Cloud : Quel Choix pour Votre PME — Analyse Complète</title>
+      <link>https://ht-x.com/fr/posts/2026/03/on-premise-vs-cloud-ai-pmi/</link>
+      <pubDate>Thu, 12 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/fr/posts/2026/03/on-premise-vs-cloud-ai-pmi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cout de l&#39;IA pour PME : Ventilation Complete des Couts et Calculateur de ROI</title>
+      <link>https://ht-x.com/fr/posts/2026/02/costo-ai-pmi-roi/</link>
+      <pubDate>Tue, 24 Feb 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/fr/posts/2026/02/costo-ai-pmi-roi/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Pourquoi votre entreprise a besoin d&#39;IA privee (et pas de ChatGPT)</title>
-      <link>http://localhost:1313/fr/posts/2026/02/pourquoi-votre-entreprise-a-besoin-d-ia-privee/</link>
-      <pubDate>Sat, 28 Feb 2026 10:00:00 +0100</pubDate>
+      <link>https://ht-x.com/fr/posts/2026/02/pourquoi-votre-entreprise-a-besoin-d-ia-privee/</link>
+      <pubDate>Thu, 05 Feb 2026 10:00:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/fr/posts/2026/02/pourquoi-votre-entreprise-a-besoin-d-ia-privee/</guid>
+      <guid>https://ht-x.com/fr/posts/2026/02/pourquoi-votre-entreprise-a-besoin-d-ia-privee/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Comment Implementer l&#39;IA en Entreprise : La Feuille de Route Complete</title>
+      <link>https://ht-x.com/fr/posts/2026/01/implementare-ai-azienda-roadmap/</link>
+      <pubDate>Wed, 28 Jan 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/fr/posts/2026/01/implementare-ai-azienda-roadmap/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - bolt-foundry/gambit : Cadre d&#39;agent pour construire, exécuter et vérifier des flux de travail LLM</title>
-      <link>http://localhost:1313/fr/posts/2026/01/github-bolt-foundry-gambit-agent-harness-framework/</link>
+      <link>https://ht-x.com/fr/posts/2026/01/github-bolt-foundry-gambit-agent-harness-framework/</link>
       <pubDate>Mon, 19 Jan 2026 06:31:23 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/posts/2026/01/github-bolt-foundry-gambit-agent-harness-framework/</guid>
+      <guid>https://ht-x.com/fr/posts/2026/01/github-bolt-foundry-gambit-agent-harness-framework/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>IA Privée pour PME : Le Guide Complet 2026 pour les Entreprises Européennes</title>
+      <link>https://ht-x.com/fr/posts/2026/01/ai-privata-pmi-guida-completa/</link>
+      <pubDate>Thu, 15 Jan 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/fr/posts/2026/01/ai-privata-pmi-guida-completa/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Améliorer la conception frontale grâce aux compétences | Claude</title>
-      <link>http://localhost:1313/fr/posts/2025/11/improving-frontend-design-through-skills-claude/</link>
+      <link>https://ht-x.com/fr/posts/2025/11/improving-frontend-design-through-skills-claude/</link>
       <pubDate>Sat, 15 Nov 2025 03:33:17 +0100</pubDate>
       
-      <guid>http://localhost:1313/fr/posts/2025/11/improving-frontend-design-through-skills-claude/</guid>
+      <guid>https://ht-x.com/fr/posts/2025/11/improving-frontend-design-through-skills-claude/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>ROMA: Agents méta-ouverts récursifs</title>
-      <link>http://localhost:1313/fr/posts/2025/10/roma-recursive-open-meta-agents/</link>
+      <link>https://ht-x.com/fr/posts/2025/10/roma-recursive-open-meta-agents/</link>
       <pubDate>Tue, 14 Oct 2025 06:35:25 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/posts/2025/10/roma-recursive-open-meta-agents/</guid>
+      <guid>https://ht-x.com/fr/posts/2025/10/roma-recursive-open-meta-agents/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Claude Code best practices | Coder avec Claude - YouTube</title>
-      <link>http://localhost:1313/fr/posts/2025/10/claude-code-best-practices-code-w-claude-youtube/</link>
+      <link>https://ht-x.com/fr/posts/2025/10/claude-code-best-practices-code-w-claude-youtube/</link>
       <pubDate>Thu, 09 Oct 2025 03:43:11 +0200</pubDate>
       
-      <guid>http://localhost:1313/fr/posts/2025/10/claude-code-best-practices-code-w-claude-youtube/</guid>
+      <guid>https://ht-x.com/fr/posts/2025/10/claude-code-best-practices-code-w-claude-youtube/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>RAG-Anything : Cadre tout-en-un pour RAG</title>
-      <link>http://localhost:1313/fr/posts/2025/09/rag-anything-all-in-one-rag-framework/</link>
+      <link>https://ht-x.com/fr/posts/2025/09/rag-anything-all-in-one-rag-framework/</link>
       <pubDate>Mon, 29 Sep 2025 13:02:53 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/posts/2025/09/rag-anything-all-in-one-rag-framework/</guid>
+      <guid>https://ht-x.com/fr/posts/2025/09/rag-anything-all-in-one-rag-framework/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>RAGLight</title>
-      <link>http://localhost:1313/fr/posts/2025/09/raglight/</link>
+      <link>https://ht-x.com/fr/posts/2025/09/raglight/</link>
       <pubDate>Mon, 29 Sep 2025 12:45:31 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/posts/2025/09/raglight/</guid>
+      <guid>https://ht-x.com/fr/posts/2025/09/raglight/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Le cadre de travail de l&#39;équipe rouge pour les LLM</title>
-      <link>http://localhost:1313/fr/posts/2025/09/the-llm-red-teaming-framework/</link>
+      <link>https://ht-x.com/fr/posts/2025/09/the-llm-red-teaming-framework/</link>
       <pubDate>Thu, 04 Sep 2025 14:51:19 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/posts/2025/09/the-llm-red-teaming-framework/</guid>
+      <guid>https://ht-x.com/fr/posts/2025/09/the-llm-red-teaming-framework/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>VibeVoice : Un Modèle de Synthèse Vocale Open-Source de Pointe</title>
-      <link>http://localhost:1313/fr/posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/</link>
+      <link>https://ht-x.com/fr/posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/</link>
       <pubDate>Wed, 03 Sep 2025 10:44:01 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/</guid>
+      <guid>https://ht-x.com/fr/posts/2025/09/vibevoice-a-frontier-open-source-text-to-speech-mo/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Couche humaine</title>
-      <link>http://localhost:1313/fr/posts/2025/09/humanlayer/</link>
+      <link>https://ht-x.com/fr/posts/2025/09/humanlayer/</link>
       <pubDate>Sat, 30 Aug 2025 05:39:37 +0200</pubDate>
       
-      <guid>http://localhost:1313/fr/posts/2025/09/humanlayer/</guid>
+      <guid>https://ht-x.com/fr/posts/2025/09/humanlayer/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>DSPy</title>
-      <link>http://localhost:1313/fr/posts/2025/09/dspy/</link>
+      <link>https://ht-x.com/fr/posts/2025/09/dspy/</link>
       <pubDate>Mon, 25 Aug 2025 04:11:52 +0200</pubDate>
       
-      <guid>http://localhost:1313/fr/posts/2025/09/dspy/</guid>
+      <guid>https://ht-x.com/fr/posts/2025/09/dspy/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Elysia : Cadre agentique alimenté par des arbres de décision</title>
-      <link>http://localhost:1313/fr/posts/2025/09/elysia-agentic-framework-powered-by-decision-trees/</link>
+      <link>https://ht-x.com/fr/posts/2025/09/elysia-agentic-framework-powered-by-decision-trees/</link>
       <pubDate>Sun, 17 Aug 2025 03:51:27 +0200</pubDate>
       
-      <guid>http://localhost:1313/fr/posts/2025/09/elysia-agentic-framework-powered-by-decision-trees/</guid>
+      <guid>https://ht-x.com/fr/posts/2025/09/elysia-agentic-framework-powered-by-decision-trees/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Litestar vaut le détour</title>
-      <link>http://localhost:1313/fr/posts/2025/09/litestar-is-worth-a-look/</link>
+      <link>https://ht-x.com/fr/posts/2025/09/litestar-is-worth-a-look/</link>
       <pubDate>Wed, 06 Aug 2025 19:43:01 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/posts/2025/09/litestar-is-worth-a-look/</guid>
+      <guid>https://ht-x.com/fr/posts/2025/09/litestar-is-worth-a-look/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Routine : Un Cadre de Planification Structuré pour un Système d&#39;Agent LLM en Entreprise</title>
-      <link>http://localhost:1313/fr/posts/2025/09/2507-14447-routine-a-structural-planning-framework/</link>
+      <link>https://ht-x.com/fr/posts/2025/09/2507-14447-routine-a-structural-planning-framework/</link>
       <pubDate>Thu, 24 Jul 2025 07:41:30 +0200</pubDate>
       
-      <guid>http://localhost:1313/fr/posts/2025/09/2507-14447-routine-a-structural-planning-framework/</guid>
+      <guid>https://ht-x.com/fr/posts/2025/09/2507-14447-routine-a-structural-planning-framework/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Loi sur l&#39;IA, il existe un code de conduite pour une approche responsable et facilitée pour les PME - Cyber Sécurité 360</title>
-      <link>http://localhost:1313/fr/posts/2025/09/ai-act-c-e-il-codice-di-condotta-per-un-approccio/</link>
+      <link>https://ht-x.com/fr/posts/2025/09/ai-act-c-e-il-codice-di-condotta-per-un-approccio/</link>
       <pubDate>Wed, 16 Jul 2025 02:36:35 +0200</pubDate>
       
-      <guid>http://localhost:1313/fr/posts/2025/09/ai-act-c-e-il-codice-di-condotta-per-un-approccio/</guid>
+      <guid>https://ht-x.com/fr/posts/2025/09/ai-act-c-e-il-codice-di-condotta-per-un-approccio/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>SymbolicAI : Une perspective neuro-symbolique sur les LLMs</title>
-      <link>http://localhost:1313/fr/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/</link>
+      <link>https://ht-x.com/fr/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/</link>
       <pubDate>Fri, 27 Jun 2025 18:49:57 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/</guid>
+      <guid>https://ht-x.com/fr/posts/2025/09/symbolicai-a-neuro-symbolic-perspective-on-llms/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Sniffant l&#39;IA avec le code Claude</title>
-      <link>http://localhost:1313/fr/posts/2025/09/snorting-the-agi-with-claude-code/</link>
+      <link>https://ht-x.com/fr/posts/2025/09/snorting-the-agi-with-claude-code/</link>
       <pubDate>Mon, 16 Jun 2025 11:01:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/posts/2025/09/snorting-the-agi-with-claude-code/</guid>
+      <guid>https://ht-x.com/fr/posts/2025/09/snorting-the-agi-with-claude-code/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>DeepSeek-R1 incite la raisonnement dans les modèles de langage par apprentissage par renforcement | Nature</title>
-      <link>http://localhost:1313/fr/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through/</link>
+      <link>https://ht-x.com/fr/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through/</link>
       <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through/</guid>
+      <guid>https://ht-x.com/fr/posts/2025/09/deepseek-r1-incentivizes-reasoning-in-llms-through/</guid>
       <description></description>
       
     </item>

@@ -2,119 +2,119 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on HUMAN TECHNOLOGY eXCELLENCE</title>
-    <link>http://localhost:1313/es/categories/</link>
+    <link>https://ht-x.com/es/categories/</link>
     <description>Recent content in Categories on HUMAN TECHNOLOGY eXCELLENCE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Mon, 23 Mar 2026 06:44:02 +0100</lastBuildDate><atom:link href="http://localhost:1313/es/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it | [Cookies](/es/cookie/) | [Privacidad](/es/privacy/)</copyright>
+    <lastBuildDate>Sat, 28 Mar 2026 07:44:11 +0100</lastBuildDate><atom:link href="https://ht-x.com/es/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>GitHub</title>
-      <link>http://localhost:1313/es/categories/github/</link>
-      <pubDate>Mon, 23 Mar 2026 06:44:02 +0100</pubDate>
+      <link>https://ht-x.com/es/categories/github/</link>
+      <pubDate>Sat, 28 Mar 2026 07:44:11 +0100</pubDate>
       
-      <guid>http://localhost:1313/es/categories/github/</guid>
+      <guid>https://ht-x.com/es/categories/github/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Articoli</title>
-      <link>http://localhost:1313/es/categories/articoli/</link>
-      <pubDate>Tue, 17 Mar 2026 02:46:05 +0100</pubDate>
+      <link>https://ht-x.com/es/categories/articoli/</link>
+      <pubDate>Thu, 26 Mar 2026 10:00:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/es/categories/articoli/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>http://localhost:1313/es/categories/research/</link>
-      <pubDate>Mon, 09 Mar 2026 04:42:59 +0100</pubDate>
-      
-      <guid>http://localhost:1313/es/categories/research/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tool</title>
-      <link>http://localhost:1313/es/categories/tool/</link>
-      <pubDate>Mon, 09 Mar 2026 04:08:33 +0100</pubDate>
-      
-      <guid>http://localhost:1313/es/categories/tool/</guid>
+      <guid>https://ht-x.com/es/categories/articoli/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Original</title>
-      <link>http://localhost:1313/es/categories/original/</link>
-      <pubDate>Sun, 08 Mar 2026 14:00:00 +0100</pubDate>
+      <link>https://ht-x.com/es/categories/original/</link>
+      <pubDate>Thu, 26 Mar 2026 10:00:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/es/categories/original/</guid>
+      <guid>https://ht-x.com/es/categories/original/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://ht-x.com/es/categories/research/</link>
+      <pubDate>Mon, 09 Mar 2026 04:42:59 +0100</pubDate>
+      
+      <guid>https://ht-x.com/es/categories/research/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tool</title>
+      <link>https://ht-x.com/es/categories/tool/</link>
+      <pubDate>Mon, 09 Mar 2026 04:08:33 +0100</pubDate>
+      
+      <guid>https://ht-x.com/es/categories/tool/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>API</title>
-      <link>http://localhost:1313/es/categories/api/</link>
+      <link>https://ht-x.com/es/categories/api/</link>
       <pubDate>Sat, 14 Feb 2026 11:08:04 +0100</pubDate>
       
-      <guid>http://localhost:1313/es/categories/api/</guid>
+      <guid>https://ht-x.com/es/categories/api/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Framework</title>
-      <link>http://localhost:1313/es/categories/framework/</link>
+      <link>https://ht-x.com/es/categories/framework/</link>
       <pubDate>Mon, 19 Jan 2026 10:47:44 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/categories/framework/</guid>
+      <guid>https://ht-x.com/es/categories/framework/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hacker News</title>
-      <link>http://localhost:1313/es/categories/hacker-news/</link>
+      <link>https://ht-x.com/es/categories/hacker-news/</link>
       <pubDate>Thu, 15 Jan 2026 01:20:22 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/categories/hacker-news/</guid>
+      <guid>https://ht-x.com/es/categories/hacker-news/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Corso</title>
-      <link>http://localhost:1313/es/categories/corso/</link>
+      <link>https://ht-x.com/es/categories/corso/</link>
       <pubDate>Wed, 14 Jan 2026 06:05:01 +0100</pubDate>
       
-      <guid>http://localhost:1313/es/categories/corso/</guid>
+      <guid>https://ht-x.com/es/categories/corso/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Proyectos Financiados</title>
-      <link>http://localhost:1313/es/categories/proyectos-financiados/</link>
+      <link>https://ht-x.com/es/categories/proyectos-financiados/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/categories/proyectos-financiados/</guid>
+      <guid>https://ht-x.com/es/categories/proyectos-financiados/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Progetti Finanziati</title>
-      <link>http://localhost:1313/es/categories/progetti-finanziati/</link>
+      <link>https://ht-x.com/es/categories/progetti-finanziati/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/es/categories/progetti-finanziati/</guid>
+      <guid>https://ht-x.com/es/categories/progetti-finanziati/</guid>
       <description></description>
       
     </item>

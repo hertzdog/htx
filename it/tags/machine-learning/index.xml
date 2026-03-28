@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning on HUMAN TECHNOLOGY eXCELLENCE</title>
-    <link>http://localhost:1313/it/tags/machine-learning/</link>
+    <link>https://ht-x.com/it/tags/machine-learning/</link>
     <description>Recent content in Machine Learning on HUMAN TECHNOLOGY eXCELLENCE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Fri, 13 Mar 2026 08:33:39 +0100</lastBuildDate><atom:link href="http://localhost:1313/it/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it | [Cookie Policy](/it/cookie/) | [Privacy](/it/privacy/)</copyright>
+    <lastBuildDate>Fri, 13 Mar 2026 08:33:39 +0100</lastBuildDate><atom:link href="https://ht-x.com/it/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>GitHub - jundot/omlx: LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the mac</title>
-      <link>http://localhost:1313/it/posts/2026/03/github-jundot-omlx-llm-inference-server-with-conti/</link>
+      <link>https://ht-x.com/it/posts/2026/03/github-jundot-omlx-llm-inference-server-with-conti/</link>
       <pubDate>Fri, 13 Mar 2026 08:33:39 +0100</pubDate>
       
-      <guid>http://localhost:1313/it/posts/2026/03/github-jundot-omlx-llm-inference-server-with-conti/</guid>
+      <guid>https://ht-x.com/it/posts/2026/03/github-jundot-omlx-llm-inference-server-with-conti/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub - z-lab/paroquant: [ICLR 2026] ParoQuant: Pairwise Rotation Quantization for Efficient Reasoning LLM Inference</title>
-      <link>http://localhost:1313/it/posts/2026/03/github-z-lab-paroquant-iclr-2026-paroquant-pairwis/</link>
+      <link>https://ht-x.com/it/posts/2026/03/github-z-lab-paroquant-iclr-2026-paroquant-pairwis/</link>
       <pubDate>Mon, 09 Mar 2026 03:41:18 +0100</pubDate>
       
-      <guid>http://localhost:1313/it/posts/2026/03/github-z-lab-paroquant-iclr-2026-paroquant-pairwis/</guid>
+      <guid>https://ht-x.com/it/posts/2026/03/github-z-lab-paroquant-iclr-2026-paroquant-pairwis/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Introduction to LLM Post-Training Techniques | PDF</title>
-      <link>http://localhost:1313/it/posts/2026/03/introduction-to-llm-post-training-techniques-pdf/</link>
+      <link>https://ht-x.com/it/posts/2026/03/introduction-to-llm-post-training-techniques-pdf/</link>
       <pubDate>Sat, 07 Mar 2026 08:48:57 +0100</pubDate>
       
-      <guid>http://localhost:1313/it/posts/2026/03/introduction-to-llm-post-training-techniques-pdf/</guid>
+      <guid>https://ht-x.com/it/posts/2026/03/introduction-to-llm-post-training-techniques-pdf/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>I&#39;ve been thinking a bit about continual learning recently, especially as it relates to long-running agents (and running a few toy experiments with MLX)</title>
-      <link>http://localhost:1313/it/posts/2026/03/i-ve-been-thinking-a-bit-about-continual-learning/</link>
+      <link>https://ht-x.com/it/posts/2026/03/i-ve-been-thinking-a-bit-about-continual-learning/</link>
       <pubDate>Fri, 06 Mar 2026 05:46:38 +0100</pubDate>
       
-      <guid>http://localhost:1313/it/posts/2026/03/i-ve-been-thinking-a-bit-about-continual-learning/</guid>
+      <guid>https://ht-x.com/it/posts/2026/03/i-ve-been-thinking-a-bit-about-continual-learning/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub Projects Community (@GithubProjects) on X</title>
-      <link>http://localhost:1313/it/posts/2025/11/github-projects-community-githubprojects-on-x/</link>
+      <link>https://ht-x.com/it/posts/2025/11/github-projects-community-githubprojects-on-x/</link>
       <pubDate>Tue, 18 Nov 2025 07:30:31 +0100</pubDate>
       
-      <guid>http://localhost:1313/it/posts/2025/11/github-projects-community-githubprojects-on-x/</guid>
+      <guid>https://ht-x.com/it/posts/2025/11/github-projects-community-githubprojects-on-x/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>RAGLight</title>
-      <link>http://localhost:1313/it/posts/2025/09/raglight/</link>
+      <link>https://ht-x.com/it/posts/2025/09/raglight/</link>
       <pubDate>Mon, 29 Sep 2025 12:45:31 +0000</pubDate>
       
-      <guid>http://localhost:1313/it/posts/2025/09/raglight/</guid>
+      <guid>https://ht-x.com/it/posts/2025/09/raglight/</guid>
       <description></description>
       
     </item>

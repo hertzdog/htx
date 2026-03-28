@@ -2,19 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PMI on HUMAN TECHNOLOGY eXCELLENCE</title>
-    <link>http://localhost:1313/it/tags/pmi/</link>
+    <link>https://ht-x.com/it/tags/pmi/</link>
     <description>Recent content in PMI on HUMAN TECHNOLOGY eXCELLENCE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Sun, 08 Mar 2026 11:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/it/tags/pmi/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it | [Cookie Policy](/it/cookie/) | [Privacy](/it/privacy/)</copyright>
+    <lastBuildDate>Tue, 03 Mar 2026 10:00:00 +0100</lastBuildDate><atom:link href="https://ht-x.com/it/tags/pmi/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AI Act 2026: guida pratica per le PMI europee</title>
-      <link>http://localhost:1313/it/posts/2026/03/ai-act-2026-guida-pratica-pmi/</link>
-      <pubDate>Sun, 08 Mar 2026 11:00:00 +0100</pubDate>
+      <link>https://ht-x.com/it/posts/2026/03/ai-act-2026-guida-pratica-pmi/</link>
+      <pubDate>Tue, 03 Mar 2026 10:00:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/it/posts/2026/03/ai-act-2026-guida-pratica-pmi/</guid>
+      <guid>https://ht-x.com/it/posts/2026/03/ai-act-2026-guida-pratica-pmi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Costo dell&#39;AI per PMI: Breakdown Completo dei Costi e Calcolatore ROI</title>
+      <link>https://ht-x.com/it/posts/2026/02/costo-ai-pmi-roi/</link>
+      <pubDate>Tue, 24 Feb 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/it/posts/2026/02/costo-ai-pmi-roi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Come Implementare AI in Azienda: La Roadmap Completa da Zero a Produzione</title>
+      <link>https://ht-x.com/it/posts/2026/01/implementare-ai-azienda-roadmap/</link>
+      <pubDate>Wed, 28 Jan 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/it/posts/2026/01/implementare-ai-azienda-roadmap/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AI Privata per PMI: La Guida Completa 2026 per Imprese Europee</title>
+      <link>https://ht-x.com/it/posts/2026/01/ai-privata-pmi-guida-completa/</link>
+      <pubDate>Thu, 15 Jan 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/it/posts/2026/01/ai-privata-pmi-guida-completa/</guid>
       <description></description>
       
     </item>

@@ -2,489 +2,529 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on HUMAN TECHNOLOGY eXCELLENCE</title>
-    <link>http://localhost:1313/de/tags/</link>
+    <link>https://ht-x.com/de/tags/</link>
     <description>Recent content in Tags on HUMAN TECHNOLOGY eXCELLENCE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Mon, 23 Mar 2026 06:44:02 +0100</lastBuildDate><atom:link href="http://localhost:1313/de/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Open Source</title>
-      <link>http://localhost:1313/de/tags/open-source/</link>
-      <pubDate>Mon, 23 Mar 2026 06:44:02 +0100</pubDate>
-      
-      <guid>http://localhost:1313/de/tags/open-source/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>http://localhost:1313/de/tags/python/</link>
-      <pubDate>Mon, 23 Mar 2026 06:44:02 +0100</pubDate>
-      
-      <guid>http://localhost:1313/de/tags/python/</guid>
-      <description></description>
-      
-    </item>
+    <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it | [Cookies](/de/cookie/) | [Datenschutz](/de/privacy/)</copyright>
+    <lastBuildDate>Sat, 28 Mar 2026 07:44:11 +0100</lastBuildDate><atom:link href="https://ht-x.com/de/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AI</title>
-      <link>http://localhost:1313/de/tags/ai/</link>
-      <pubDate>Tue, 17 Mar 2026 02:46:05 +0100</pubDate>
+      <link>https://ht-x.com/de/tags/ai/</link>
+      <pubDate>Sat, 28 Mar 2026 07:44:11 +0100</pubDate>
       
-      <guid>http://localhost:1313/de/tags/ai/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>JavaScript</title>
-      <link>http://localhost:1313/de/tags/javascript/</link>
-      <pubDate>Mon, 16 Mar 2026 18:00:21 +0100</pubDate>
-      
-      <guid>http://localhost:1313/de/tags/javascript/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Natural Language Processing</title>
-      <link>http://localhost:1313/de/tags/natural-language-processing/</link>
-      <pubDate>Mon, 16 Mar 2026 18:00:21 +0100</pubDate>
-      
-      <guid>http://localhost:1313/de/tags/natural-language-processing/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Go</title>
-      <link>http://localhost:1313/de/tags/go/</link>
-      <pubDate>Sat, 14 Mar 2026 03:49:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/de/tags/go/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Java</title>
-      <link>http://localhost:1313/de/tags/java/</link>
-      <pubDate>Sat, 14 Mar 2026 03:49:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/de/tags/java/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>LLM</title>
-      <link>http://localhost:1313/de/tags/llm/</link>
-      <pubDate>Fri, 13 Mar 2026 08:33:39 +0100</pubDate>
-      
-      <guid>http://localhost:1313/de/tags/llm/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>http://localhost:1313/de/tags/machine-learning/</link>
-      <pubDate>Fri, 13 Mar 2026 08:33:39 +0100</pubDate>
-      
-      <guid>http://localhost:1313/de/tags/machine-learning/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tech</title>
-      <link>http://localhost:1313/de/tags/tech/</link>
-      <pubDate>Mon, 09 Mar 2026 04:49:01 +0100</pubDate>
-      
-      <guid>http://localhost:1313/de/tags/tech/</guid>
+      <guid>https://ht-x.com/de/tags/ai/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>AI Agent</title>
-      <link>http://localhost:1313/de/tags/ai-agent/</link>
-      <pubDate>Mon, 09 Mar 2026 04:42:59 +0100</pubDate>
+      <link>https://ht-x.com/de/tags/ai-agent/</link>
+      <pubDate>Sat, 28 Mar 2026 07:44:11 +0100</pubDate>
       
-      <guid>http://localhost:1313/de/tags/ai-agent/</guid>
+      <guid>https://ht-x.com/de/tags/ai-agent/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Foundation Model</title>
-      <link>http://localhost:1313/de/tags/foundation-model/</link>
-      <pubDate>Mon, 09 Mar 2026 03:41:18 +0100</pubDate>
+      <title>Open Source</title>
+      <link>https://ht-x.com/de/tags/open-source/</link>
+      <pubDate>Sat, 28 Mar 2026 07:44:11 +0100</pubDate>
       
-      <guid>http://localhost:1313/de/tags/foundation-model/</guid>
+      <guid>https://ht-x.com/de/tags/open-source/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Code Review</title>
-      <link>http://localhost:1313/de/tags/code-review/</link>
-      <pubDate>Mon, 09 Mar 2026 03:19:53 +0100</pubDate>
+      <title>Python</title>
+      <link>https://ht-x.com/de/tags/python/</link>
+      <pubDate>Sat, 28 Mar 2026 07:44:11 +0100</pubDate>
       
-      <guid>http://localhost:1313/de/tags/code-review/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Software Development</title>
-      <link>http://localhost:1313/de/tags/software-development/</link>
-      <pubDate>Mon, 09 Mar 2026 03:19:53 +0100</pubDate>
-      
-      <guid>http://localhost:1313/de/tags/software-development/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Infrastructure</title>
-      <link>http://localhost:1313/de/tags/infrastructure/</link>
-      <pubDate>Sun, 08 Mar 2026 14:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/de/tags/infrastructure/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>On-Premise</title>
-      <link>http://localhost:1313/de/tags/on-premise/</link>
-      <pubDate>Sun, 08 Mar 2026 14:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/de/tags/on-premise/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>PRISMA</title>
-      <link>http://localhost:1313/de/tags/prisma/</link>
-      <pubDate>Sun, 08 Mar 2026 14:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/de/tags/prisma/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Privacy</title>
-      <link>http://localhost:1313/de/tags/privacy/</link>
-      <pubDate>Sun, 08 Mar 2026 14:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/de/tags/privacy/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Anesthesia</title>
-      <link>http://localhost:1313/de/tags/anesthesia/</link>
-      <pubDate>Sun, 08 Mar 2026 13:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/de/tags/anesthesia/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Healthcare</title>
-      <link>http://localhost:1313/de/tags/healthcare/</link>
-      <pubDate>Sun, 08 Mar 2026 13:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/de/tags/healthcare/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>KOI</title>
-      <link>http://localhost:1313/de/tags/koi/</link>
-      <pubDate>Sun, 08 Mar 2026 13:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/de/tags/koi/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>http://localhost:1313/de/tags/research/</link>
-      <pubDate>Sun, 08 Mar 2026 13:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/de/tags/research/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Business Intelligence</title>
-      <link>http://localhost:1313/de/tags/business-intelligence/</link>
-      <pubDate>Sun, 08 Mar 2026 12:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/de/tags/business-intelligence/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Database</title>
-      <link>http://localhost:1313/de/tags/database/</link>
-      <pubDate>Sun, 08 Mar 2026 12:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/de/tags/database/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>MANTA</title>
-      <link>http://localhost:1313/de/tags/manta/</link>
-      <pubDate>Sun, 08 Mar 2026 12:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/de/tags/manta/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>SQL</title>
-      <link>http://localhost:1313/de/tags/sql/</link>
-      <pubDate>Sun, 08 Mar 2026 12:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/de/tags/sql/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>AI Act</title>
-      <link>http://localhost:1313/de/tags/ai-act/</link>
-      <pubDate>Sun, 08 Mar 2026 11:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/de/tags/ai-act/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Compliance</title>
-      <link>http://localhost:1313/de/tags/compliance/</link>
-      <pubDate>Sun, 08 Mar 2026 11:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/de/tags/compliance/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>GDPR</title>
-      <link>http://localhost:1313/de/tags/gdpr/</link>
-      <pubDate>Sun, 08 Mar 2026 11:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/de/tags/gdpr/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>KMU</title>
-      <link>http://localhost:1313/de/tags/kmu/</link>
-      <pubDate>Sun, 08 Mar 2026 11:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/de/tags/kmu/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>ChatGPT</title>
-      <link>http://localhost:1313/de/tags/chatgpt/</link>
-      <pubDate>Sun, 08 Mar 2026 10:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/de/tags/chatgpt/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>ORCA</title>
-      <link>http://localhost:1313/de/tags/orca/</link>
-      <pubDate>Sun, 08 Mar 2026 10:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/de/tags/orca/</guid>
+      <guid>https://ht-x.com/de/tags/python/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Best Practices</title>
-      <link>http://localhost:1313/de/tags/best-practices/</link>
-      <pubDate>Sat, 28 Feb 2026 10:00:00 +0100</pubDate>
+      <link>https://ht-x.com/de/tags/best-practices/</link>
+      <pubDate>Thu, 26 Mar 2026 10:00:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/de/tags/best-practices/</guid>
+      <guid>https://ht-x.com/de/tags/best-practices/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://ht-x.com/de/tags/development/</link>
+      <pubDate>Thu, 26 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/development/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>LLM</title>
+      <link>https://ht-x.com/de/tags/llm/</link>
+      <pubDate>Wed, 25 Mar 2026 07:30:12 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/llm/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Anesthesia</title>
+      <link>https://ht-x.com/de/tags/anesthesia/</link>
+      <pubDate>Tue, 24 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/anesthesia/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Healthcare</title>
+      <link>https://ht-x.com/de/tags/healthcare/</link>
+      <pubDate>Tue, 24 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/healthcare/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>KOI</title>
+      <link>https://ht-x.com/de/tags/koi/</link>
+      <pubDate>Tue, 24 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/koi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://ht-x.com/de/tags/research/</link>
+      <pubDate>Tue, 24 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/research/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AI Act</title>
+      <link>https://ht-x.com/de/tags/ai-act/</link>
+      <pubDate>Thu, 19 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/ai-act/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Compliance</title>
+      <link>https://ht-x.com/de/tags/compliance/</link>
+      <pubDate>Thu, 19 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/compliance/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GDPR</title>
+      <link>https://ht-x.com/de/tags/gdpr/</link>
+      <pubDate>Thu, 19 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/gdpr/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>https://ht-x.com/de/tags/privacy/</link>
+      <pubDate>Thu, 19 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/privacy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Infrastructure</title>
+      <link>https://ht-x.com/de/tags/infrastructure/</link>
+      <pubDate>Tue, 17 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/infrastructure/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>On-Premise</title>
+      <link>https://ht-x.com/de/tags/on-premise/</link>
+      <pubDate>Tue, 17 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/on-premise/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PRISMA</title>
+      <link>https://ht-x.com/de/tags/prisma/</link>
+      <pubDate>Tue, 17 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/prisma/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>https://ht-x.com/de/tags/javascript/</link>
+      <pubDate>Mon, 16 Mar 2026 18:00:21 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/javascript/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Natural Language Processing</title>
+      <link>https://ht-x.com/de/tags/natural-language-processing/</link>
+      <pubDate>Mon, 16 Mar 2026 18:00:21 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/natural-language-processing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>https://ht-x.com/de/tags/go/</link>
+      <pubDate>Sat, 14 Mar 2026 03:49:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/go/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://ht-x.com/de/tags/java/</link>
+      <pubDate>Sat, 14 Mar 2026 03:49:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/java/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://ht-x.com/de/tags/machine-learning/</link>
+      <pubDate>Fri, 13 Mar 2026 08:33:39 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/machine-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Business Intelligence</title>
+      <link>https://ht-x.com/de/tags/business-intelligence/</link>
+      <pubDate>Tue, 10 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/business-intelligence/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>https://ht-x.com/de/tags/database/</link>
+      <pubDate>Tue, 10 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/database/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>MANTA</title>
+      <link>https://ht-x.com/de/tags/manta/</link>
+      <pubDate>Tue, 10 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/manta/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://ht-x.com/de/tags/sql/</link>
+      <pubDate>Tue, 10 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/sql/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://ht-x.com/de/tags/tech/</link>
+      <pubDate>Mon, 09 Mar 2026 04:49:01 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/tech/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Foundation Model</title>
+      <link>https://ht-x.com/de/tags/foundation-model/</link>
+      <pubDate>Mon, 09 Mar 2026 03:41:18 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/foundation-model/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Code Review</title>
+      <link>https://ht-x.com/de/tags/code-review/</link>
+      <pubDate>Mon, 09 Mar 2026 03:19:53 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/code-review/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Software Development</title>
+      <link>https://ht-x.com/de/tags/software-development/</link>
+      <pubDate>Mon, 09 Mar 2026 03:19:53 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/software-development/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Professional Services</title>
+      <link>https://ht-x.com/de/tags/professional-services/</link>
+      <pubDate>Thu, 05 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/professional-services/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>KMU</title>
+      <link>https://ht-x.com/de/tags/kmu/</link>
+      <pubDate>Tue, 03 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/kmu/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PMI</title>
+      <link>https://ht-x.com/de/tags/pmi/</link>
+      <pubDate>Tue, 24 Feb 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/pmi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ROI</title>
+      <link>https://ht-x.com/de/tags/roi/</link>
+      <pubDate>Tue, 24 Feb 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/roi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ChatGPT</title>
+      <link>https://ht-x.com/de/tags/chatgpt/</link>
+      <pubDate>Wed, 18 Feb 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/chatgpt/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ORCA</title>
+      <link>https://ht-x.com/de/tags/orca/</link>
+      <pubDate>Wed, 18 Feb 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/tags/orca/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Rust</title>
-      <link>http://localhost:1313/de/tags/rust/</link>
+      <link>https://ht-x.com/de/tags/rust/</link>
       <pubDate>Tue, 10 Feb 2026 07:38:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/de/tags/rust/</guid>
+      <guid>https://ht-x.com/de/tags/rust/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Typescript</title>
-      <link>http://localhost:1313/de/tags/typescript/</link>
+      <link>https://ht-x.com/de/tags/typescript/</link>
       <pubDate>Mon, 02 Feb 2026 03:13:37 +0100</pubDate>
       
-      <guid>http://localhost:1313/de/tags/typescript/</guid>
+      <guid>https://ht-x.com/de/tags/typescript/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Browser Automation</title>
-      <link>http://localhost:1313/de/tags/browser-automation/</link>
+      <link>https://ht-x.com/de/tags/browser-automation/</link>
       <pubDate>Wed, 07 Jan 2026 06:24:23 +0100</pubDate>
       
-      <guid>http://localhost:1313/de/tags/browser-automation/</guid>
+      <guid>https://ht-x.com/de/tags/browser-automation/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Image Generation</title>
-      <link>http://localhost:1313/de/tags/image-generation/</link>
+      <link>https://ht-x.com/de/tags/image-generation/</link>
       <pubDate>Tue, 06 Jan 2026 09:30:19 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/tags/image-generation/</guid>
+      <guid>https://ht-x.com/de/tags/image-generation/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Chatbot</title>
-      <link>http://localhost:1313/de/tags/chatbot/</link>
+      <link>https://ht-x.com/de/tags/chatbot/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/tags/chatbot/</guid>
+      <guid>https://ht-x.com/de/tags/chatbot/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>NLP</title>
-      <link>http://localhost:1313/de/tags/nlp/</link>
+      <link>https://ht-x.com/de/tags/nlp/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/tags/nlp/</guid>
+      <guid>https://ht-x.com/de/tags/nlp/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>DevOps</title>
-      <link>http://localhost:1313/de/tags/devops/</link>
+      <link>https://ht-x.com/de/tags/devops/</link>
       <pubDate>Tue, 18 Nov 2025 03:33:45 +0100</pubDate>
       
-      <guid>http://localhost:1313/de/tags/devops/</guid>
+      <guid>https://ht-x.com/de/tags/devops/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Computer Vision</title>
-      <link>http://localhost:1313/de/tags/computer-vision/</link>
+      <link>https://ht-x.com/de/tags/computer-vision/</link>
       <pubDate>Wed, 05 Nov 2025 19:54:18 +0100</pubDate>
       
-      <guid>http://localhost:1313/de/tags/computer-vision/</guid>
+      <guid>https://ht-x.com/de/tags/computer-vision/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>http://localhost:1313/de/tags/deep-learning/</link>
+      <link>https://ht-x.com/de/tags/deep-learning/</link>
       <pubDate>Sun, 19 Oct 2025 02:59:45 +0200</pubDate>
       
-      <guid>http://localhost:1313/de/tags/deep-learning/</guid>
+      <guid>https://ht-x.com/de/tags/deep-learning/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Transformer</title>
-      <link>http://localhost:1313/de/tags/transformer/</link>
+      <link>https://ht-x.com/de/tags/transformer/</link>
       <pubDate>Sun, 19 Oct 2025 02:59:45 +0200</pubDate>
       
-      <guid>http://localhost:1313/de/tags/transformer/</guid>
+      <guid>https://ht-x.com/de/tags/transformer/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Html</title>
-      <link>http://localhost:1313/de/tags/html/</link>
+      <link>https://ht-x.com/de/tags/html/</link>
       <pubDate>Thu, 04 Sep 2025 14:12:51 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/tags/html/</guid>
+      <guid>https://ht-x.com/de/tags/html/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Bandi</title>
-      <link>http://localhost:1313/de/tags/bandi/</link>
+      <link>https://ht-x.com/de/tags/bandi/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/tags/bandi/</guid>
+      <guid>https://ht-x.com/de/tags/bandi/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>FVG</title>
-      <link>http://localhost:1313/de/tags/fvg/</link>
+      <link>https://ht-x.com/de/tags/fvg/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/tags/fvg/</guid>
+      <guid>https://ht-x.com/de/tags/fvg/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Imorenditoria</title>
-      <link>http://localhost:1313/de/tags/imorenditoria/</link>
+      <link>https://ht-x.com/de/tags/imorenditoria/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/tags/imorenditoria/</guid>
+      <guid>https://ht-x.com/de/tags/imorenditoria/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Startup</title>
-      <link>http://localhost:1313/de/tags/startup/</link>
+      <link>https://ht-x.com/de/tags/startup/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/de/tags/startup/</guid>
+      <guid>https://ht-x.com/de/tags/startup/</guid>
       <description></description>
       
     </item>

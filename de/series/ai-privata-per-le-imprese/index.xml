@@ -2,69 +2,149 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI Privata per Le Imprese on HUMAN TECHNOLOGY eXCELLENCE</title>
-    <link>http://localhost:1313/de/series/ai-privata-per-le-imprese/</link>
+    <link>https://ht-x.com/de/series/ai-privata-per-le-imprese/</link>
     <description>Recent content in AI Privata per Le Imprese on HUMAN TECHNOLOGY eXCELLENCE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Sun, 08 Mar 2026 14:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/de/series/ai-privata-per-le-imprese/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it | [Cookies](/de/cookie/) | [Datenschutz](/de/privacy/)</copyright>
+    <lastBuildDate>Thu, 26 Mar 2026 10:00:00 +0100</lastBuildDate><atom:link href="https://ht-x.com/de/series/ai-privata-per-le-imprese/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Wie Sie eine private KI Infrastruktur fuer Ihr Unternehmen auswaehlen</title>
-      <link>http://localhost:1313/de/posts/2026/03/come-scegliere-infrastruttura-ai-privata/</link>
-      <pubDate>Sun, 08 Mar 2026 14:00:00 +0100</pubDate>
+      <title>Vibe Coding für Unternehmen: Wie Sie KI für Softwareentwicklung Ohne Risiken Nutzen</title>
+      <link>https://ht-x.com/de/posts/2026/03/vibe-coding-aziende/</link>
+      <pubDate>Thu, 26 Mar 2026 10:00:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2026/03/come-scegliere-infrastruttura-ai-privata/</guid>
+      <guid>https://ht-x.com/de/posts/2026/03/vibe-coding-aziende/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>KI in der Anaesthesie: Wie KOI die Fehler bei der ASA-PS Klassifikation um 89% reduziert</title>
-      <link>http://localhost:1313/de/posts/2026/03/ai-anestesia-koi-errori-classificazione-asa/</link>
-      <pubDate>Sun, 08 Mar 2026 13:00:00 +0100</pubDate>
+      <link>https://ht-x.com/de/posts/2026/03/ai-anestesia-koi-errori-classificazione-asa/</link>
+      <pubDate>Tue, 24 Mar 2026 10:00:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2026/03/ai-anestesia-koi-errori-classificazione-asa/</guid>
+      <guid>https://ht-x.com/de/posts/2026/03/ai-anestesia-koi-errori-classificazione-asa/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DSGVO und Künstliche Intelligenz: Praxisleitfaden für Europäische Unternehmen</title>
+      <link>https://ht-x.com/de/posts/2026/03/gdpr-intelligenza-artificiale-guida/</link>
+      <pubDate>Thu, 19 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/03/gdpr-intelligenza-artificiale-guida/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Wie Sie eine private KI Infrastruktur fuer Ihr Unternehmen auswaehlen</title>
+      <link>https://ht-x.com/de/posts/2026/03/come-scegliere-infrastruttura-ai-privata/</link>
+      <pubDate>Tue, 17 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/03/come-scegliere-infrastruttura-ai-privata/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>On-Premise vs Cloud-KI: Was Ist das Richtige für Ihr KMU — Vollständige Analyse</title>
+      <link>https://ht-x.com/de/posts/2026/03/on-premise-vs-cloud-ai-pmi/</link>
+      <pubDate>Thu, 12 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/03/on-premise-vs-cloud-ai-pmi/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Natural Language to SQL: Unternehmensdatenbanken abfragen ohne Code zu schreiben</title>
-      <link>http://localhost:1313/de/posts/2026/03/natural-language-to-sql-database-senza-codice/</link>
-      <pubDate>Sun, 08 Mar 2026 12:00:00 +0100</pubDate>
+      <link>https://ht-x.com/de/posts/2026/03/natural-language-to-sql-database-senza-codice/</link>
+      <pubDate>Tue, 10 Mar 2026 10:00:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2026/03/natural-language-to-sql-database-senza-codice/</guid>
+      <guid>https://ht-x.com/de/posts/2026/03/natural-language-to-sql-database-senza-codice/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>KI für Professionelle Kanzleien: Vollständiger DSGVO-Leitfaden &#43; 15 Konkrete Anwendungsfälle</title>
+      <link>https://ht-x.com/de/posts/2026/03/ai-studi-professionali-gdpr/</link>
+      <pubDate>Thu, 05 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/03/ai-studi-professionali-gdpr/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>AI Act 2026: Praktischer Leitfaden fuer europaeische KMU</title>
-      <link>http://localhost:1313/de/posts/2026/03/ai-act-2026-guida-pratica-pmi/</link>
-      <pubDate>Sun, 08 Mar 2026 11:00:00 +0100</pubDate>
+      <link>https://ht-x.com/de/posts/2026/03/ai-act-2026-guida-pratica-pmi/</link>
+      <pubDate>Tue, 03 Mar 2026 10:00:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2026/03/ai-act-2026-guida-pratica-pmi/</guid>
+      <guid>https://ht-x.com/de/posts/2026/03/ai-act-2026-guida-pratica-pmi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>KI-Kosten fuer KMU: Vollstaendige Kostenaufschluesselung und ROI-Rechner</title>
+      <link>https://ht-x.com/de/posts/2026/02/costo-ai-pmi-roi/</link>
+      <pubDate>Tue, 24 Feb 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/02/costo-ai-pmi-roi/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>ORCA vs ChatGPT: Warum Ihr Unternehmens-Chatbot privat sein muss</title>
-      <link>http://localhost:1313/de/posts/2026/03/orca-vs-chatgpt-chatbot-aziendale-privato/</link>
-      <pubDate>Sun, 08 Mar 2026 10:00:00 +0100</pubDate>
+      <link>https://ht-x.com/de/posts/2026/02/orca-vs-chatgpt-chatbot-aziendale-privato/</link>
+      <pubDate>Wed, 18 Feb 2026 10:00:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2026/03/orca-vs-chatgpt-chatbot-aziendale-privato/</guid>
+      <guid>https://ht-x.com/de/posts/2026/02/orca-vs-chatgpt-chatbot-aziendale-privato/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ChatGPT-Alternativen fuer Unternehmen: Vollstaendiger DSGVO-, Kosten- und Sicherheitsvergleich</title>
+      <link>https://ht-x.com/de/posts/2026/02/alternativa-chatgpt-aziende-gdpr/</link>
+      <pubDate>Tue, 10 Feb 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/02/alternativa-chatgpt-aziende-gdpr/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Warum Ihr Unternehmen private KI braucht (und nicht ChatGPT)</title>
-      <link>http://localhost:1313/de/posts/2026/02/warum-ihr-unternehmen-private-ki-braucht/</link>
-      <pubDate>Sat, 28 Feb 2026 10:00:00 +0100</pubDate>
+      <link>https://ht-x.com/de/posts/2026/02/warum-ihr-unternehmen-private-ki-braucht/</link>
+      <pubDate>Thu, 05 Feb 2026 10:00:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/de/posts/2026/02/warum-ihr-unternehmen-private-ki-braucht/</guid>
+      <guid>https://ht-x.com/de/posts/2026/02/warum-ihr-unternehmen-private-ki-braucht/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>KI im Unternehmen Implementieren: Die Komplette Roadmap von Null bis Produktion</title>
+      <link>https://ht-x.com/de/posts/2026/01/implementare-ai-azienda-roadmap/</link>
+      <pubDate>Wed, 28 Jan 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/01/implementare-ai-azienda-roadmap/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Private KI für KMU: Der Komplette Leitfaden 2026 für Europäische Unternehmen</title>
+      <link>https://ht-x.com/de/posts/2026/01/ai-privata-pmi-guida-completa/</link>
+      <pubDate>Thu, 15 Jan 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/01/ai-privata-pmi-guida-completa/</guid>
       <description></description>
       
     </item>

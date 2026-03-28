@@ -2,69 +2,149 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI Privata per Le Imprese on HUMAN TECHNOLOGY eXCELLENCE</title>
-    <link>http://localhost:1313/series/ai-privata-per-le-imprese/</link>
+    <link>https://ht-x.com/series/ai-privata-per-le-imprese/</link>
     <description>Recent content in AI Privata per Le Imprese on HUMAN TECHNOLOGY eXCELLENCE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Sun, 08 Mar 2026 14:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/series/ai-privata-per-le-imprese/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it | [Cookie Policy](/cookie/) | [Privacy](/privacy/)</copyright>
+    <lastBuildDate>Thu, 26 Mar 2026 10:00:00 +0100</lastBuildDate><atom:link href="https://ht-x.com/series/ai-privata-per-le-imprese/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>How to choose a private AI infrastructure for your business</title>
-      <link>http://localhost:1313/posts/2026/03/come-scegliere-infrastruttura-ai-privata/</link>
-      <pubDate>Sun, 08 Mar 2026 14:00:00 +0100</pubDate>
+      <title>Vibe Coding for Business: How to Use AI for Software Development Without Risks</title>
+      <link>https://ht-x.com/posts/2026/03/vibe-coding-aziende/</link>
+      <pubDate>Thu, 26 Mar 2026 10:00:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/posts/2026/03/come-scegliere-infrastruttura-ai-privata/</guid>
+      <guid>https://ht-x.com/posts/2026/03/vibe-coding-aziende/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>AI in anesthesia: how KOI reduces ASA-PS classification errors by 89%</title>
-      <link>http://localhost:1313/posts/2026/03/ai-anestesia-koi-errori-classificazione-asa/</link>
-      <pubDate>Sun, 08 Mar 2026 13:00:00 +0100</pubDate>
+      <link>https://ht-x.com/posts/2026/03/ai-anestesia-koi-errori-classificazione-asa/</link>
+      <pubDate>Tue, 24 Mar 2026 10:00:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/posts/2026/03/ai-anestesia-koi-errori-classificazione-asa/</guid>
+      <guid>https://ht-x.com/posts/2026/03/ai-anestesia-koi-errori-classificazione-asa/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GDPR and Artificial Intelligence: Practical Guide for European Businesses</title>
+      <link>https://ht-x.com/posts/2026/03/gdpr-intelligenza-artificiale-guida/</link>
+      <pubDate>Thu, 19 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/03/gdpr-intelligenza-artificiale-guida/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>How to choose a private AI infrastructure for your business</title>
+      <link>https://ht-x.com/posts/2026/03/come-scegliere-infrastruttura-ai-privata/</link>
+      <pubDate>Tue, 17 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/03/come-scegliere-infrastruttura-ai-privata/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>On-Premise vs Cloud AI: Which to Choose for Your SME — Complete Analysis</title>
+      <link>https://ht-x.com/posts/2026/03/on-premise-vs-cloud-ai-pmi/</link>
+      <pubDate>Thu, 12 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/03/on-premise-vs-cloud-ai-pmi/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Natural Language to SQL: query your enterprise databases without writing code</title>
-      <link>http://localhost:1313/posts/2026/03/natural-language-to-sql-database-senza-codice/</link>
-      <pubDate>Sun, 08 Mar 2026 12:00:00 +0100</pubDate>
+      <link>https://ht-x.com/posts/2026/03/natural-language-to-sql-database-senza-codice/</link>
+      <pubDate>Tue, 10 Mar 2026 10:00:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/posts/2026/03/natural-language-to-sql-database-senza-codice/</guid>
+      <guid>https://ht-x.com/posts/2026/03/natural-language-to-sql-database-senza-codice/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AI for Professional Firms: Complete GDPR Guide &#43; 15 Concrete Use Cases</title>
+      <link>https://ht-x.com/posts/2026/03/ai-studi-professionali-gdpr/</link>
+      <pubDate>Thu, 05 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/03/ai-studi-professionali-gdpr/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>AI Act 2026: a practical guide for European SMEs</title>
-      <link>http://localhost:1313/posts/2026/03/ai-act-2026-guida-pratica-pmi/</link>
-      <pubDate>Sun, 08 Mar 2026 11:00:00 +0100</pubDate>
+      <link>https://ht-x.com/posts/2026/03/ai-act-2026-guida-pratica-pmi/</link>
+      <pubDate>Tue, 03 Mar 2026 10:00:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/posts/2026/03/ai-act-2026-guida-pratica-pmi/</guid>
+      <guid>https://ht-x.com/posts/2026/03/ai-act-2026-guida-pratica-pmi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AI Costs for SMEs: Complete Cost Breakdown and ROI Calculator</title>
+      <link>https://ht-x.com/posts/2026/02/costo-ai-pmi-roi/</link>
+      <pubDate>Tue, 24 Feb 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/02/costo-ai-pmi-roi/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>ORCA vs ChatGPT: why your enterprise chatbot must be private</title>
-      <link>http://localhost:1313/posts/2026/03/orca-vs-chatgpt-chatbot-aziendale-privato/</link>
-      <pubDate>Sun, 08 Mar 2026 10:00:00 +0100</pubDate>
+      <link>https://ht-x.com/posts/2026/02/orca-vs-chatgpt-chatbot-aziendale-privato/</link>
+      <pubDate>Wed, 18 Feb 2026 10:00:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/posts/2026/03/orca-vs-chatgpt-chatbot-aziendale-privato/</guid>
+      <guid>https://ht-x.com/posts/2026/02/orca-vs-chatgpt-chatbot-aziendale-privato/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ChatGPT Alternatives for Business: Complete GDPR, Cost, and Security Comparison</title>
+      <link>https://ht-x.com/posts/2026/02/alternativa-chatgpt-aziende-gdpr/</link>
+      <pubDate>Tue, 10 Feb 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/02/alternativa-chatgpt-aziende-gdpr/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Why your business needs private AI (not ChatGPT)</title>
-      <link>http://localhost:1313/posts/2026/02/why-your-business-needs-private-ai/</link>
-      <pubDate>Sat, 28 Feb 2026 10:00:00 +0100</pubDate>
+      <link>https://ht-x.com/posts/2026/02/why-your-business-needs-private-ai/</link>
+      <pubDate>Thu, 05 Feb 2026 10:00:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/posts/2026/02/why-your-business-needs-private-ai/</guid>
+      <guid>https://ht-x.com/posts/2026/02/why-your-business-needs-private-ai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>How to Implement AI in Your Business: The Complete Roadmap from Zero to Production</title>
+      <link>https://ht-x.com/posts/2026/01/implementare-ai-azienda-roadmap/</link>
+      <pubDate>Wed, 28 Jan 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/01/implementare-ai-azienda-roadmap/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Private AI for SMEs: The Complete 2026 Guide for European Businesses</title>
+      <link>https://ht-x.com/posts/2026/01/ai-privata-pmi-guida-completa/</link>
+      <pubDate>Thu, 15 Jan 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/01/ai-privata-pmi-guida-completa/</guid>
       <description></description>
       
     </item>

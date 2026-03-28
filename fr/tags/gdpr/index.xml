@@ -2,59 +2,99 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GDPR on HUMAN TECHNOLOGY eXCELLENCE</title>
-    <link>http://localhost:1313/fr/tags/gdpr/</link>
+    <link>https://ht-x.com/fr/tags/gdpr/</link>
     <description>Recent content in GDPR on HUMAN TECHNOLOGY eXCELLENCE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it</copyright>
-    <lastBuildDate>Sun, 08 Mar 2026 11:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/fr/tags/gdpr/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it | [Cookies](/fr/cookie/) | [Confidentialité](/fr/privacy/)</copyright>
+    <lastBuildDate>Thu, 19 Mar 2026 10:00:00 +0100</lastBuildDate><atom:link href="https://ht-x.com/fr/tags/gdpr/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RGPD et Intelligence Artificielle : Guide Pratique pour les Entreprises Européennes</title>
+      <link>https://ht-x.com/fr/posts/2026/03/gdpr-intelligenza-artificiale-guida/</link>
+      <pubDate>Thu, 19 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/fr/posts/2026/03/gdpr-intelligenza-artificiale-guida/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>IA pour Cabinets Professionnels : Guide RGPD Complet &#43; 15 Cas d&#39;Usage Concrets</title>
+      <link>https://ht-x.com/fr/posts/2026/03/ai-studi-professionali-gdpr/</link>
+      <pubDate>Thu, 05 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/fr/posts/2026/03/ai-studi-professionali-gdpr/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>AI Act 2026 : guide pratique pour les PME europeennes</title>
-      <link>http://localhost:1313/fr/posts/2026/03/ai-act-2026-guida-pratica-pmi/</link>
-      <pubDate>Sun, 08 Mar 2026 11:00:00 +0100</pubDate>
+      <link>https://ht-x.com/fr/posts/2026/03/ai-act-2026-guida-pratica-pmi/</link>
+      <pubDate>Tue, 03 Mar 2026 10:00:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/fr/posts/2026/03/ai-act-2026-guida-pratica-pmi/</guid>
+      <guid>https://ht-x.com/fr/posts/2026/03/ai-act-2026-guida-pratica-pmi/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>ORCA vs ChatGPT : pourquoi votre chatbot d&#39;entreprise doit etre prive</title>
-      <link>http://localhost:1313/fr/posts/2026/03/orca-vs-chatgpt-chatbot-aziendale-privato/</link>
-      <pubDate>Sun, 08 Mar 2026 10:00:00 +0100</pubDate>
+      <link>https://ht-x.com/fr/posts/2026/02/orca-vs-chatgpt-chatbot-aziendale-privato/</link>
+      <pubDate>Wed, 18 Feb 2026 10:00:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/fr/posts/2026/03/orca-vs-chatgpt-chatbot-aziendale-privato/</guid>
+      <guid>https://ht-x.com/fr/posts/2026/02/orca-vs-chatgpt-chatbot-aziendale-privato/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Alternative a ChatGPT pour Entreprises : Comparaison RGPD, Couts et Securite</title>
+      <link>https://ht-x.com/fr/posts/2026/02/alternativa-chatgpt-aziende-gdpr/</link>
+      <pubDate>Tue, 10 Feb 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/fr/posts/2026/02/alternativa-chatgpt-aziende-gdpr/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Pourquoi votre entreprise a besoin d&#39;IA privee (et pas de ChatGPT)</title>
-      <link>http://localhost:1313/fr/posts/2026/02/pourquoi-votre-entreprise-a-besoin-d-ia-privee/</link>
-      <pubDate>Sat, 28 Feb 2026 10:00:00 +0100</pubDate>
+      <link>https://ht-x.com/fr/posts/2026/02/pourquoi-votre-entreprise-a-besoin-d-ia-privee/</link>
+      <pubDate>Thu, 05 Feb 2026 10:00:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/fr/posts/2026/02/pourquoi-votre-entreprise-a-besoin-d-ia-privee/</guid>
+      <guid>https://ht-x.com/fr/posts/2026/02/pourquoi-votre-entreprise-a-besoin-d-ia-privee/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>IA Privée pour PME : Le Guide Complet 2026 pour les Entreprises Européennes</title>
+      <link>https://ht-x.com/fr/posts/2026/01/ai-privata-pmi-guida-completa/</link>
+      <pubDate>Thu, 15 Jan 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://ht-x.com/fr/posts/2026/01/ai-privata-pmi-guida-completa/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>KOI: Classification ASA PS</title>
-      <link>http://localhost:1313/fr/grants/asa-ps-classification/</link>
+      <link>https://ht-x.com/fr/grants/asa-ps-classification/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/grants/asa-ps-classification/</guid>
+      <guid>https://ht-x.com/fr/grants/asa-ps-classification/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>ChatPrivéIA</title>
-      <link>http://localhost:1313/fr/grants/private-chatbot-ai/</link>
+      <link>https://ht-x.com/fr/grants/private-chatbot-ai/</link>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/grants/private-chatbot-ai/</guid>
+      <guid>https://ht-x.com/fr/grants/private-chatbot-ai/</guid>
       <description></description>
       
     </item>
