@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it | [Cookie Policy](/it/cookie/) | [Privacy](/it/privacy/)</copyright>
-    <lastBuildDate>Sat, 28 Mar 2026 07:44:11 +0100</lastBuildDate><atom:link href="https://ht-x.com/it/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Apr 2026 03:29:29 +0200</lastBuildDate><atom:link href="https://ht-x.com/it/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GitHub - arman-bd/guppylm: A ~9M parameter LLM that talks like a small fish.</title>
+      <link>https://ht-x.com/it/posts/2026/04/github-arman-bd-guppylm-a-9m-parameter-llm-that-ta/</link>
+      <pubDate>Mon, 06 Apr 2026 03:29:29 +0200</pubDate>
+      
+      <guid>https://ht-x.com/it/posts/2026/04/github-arman-bd-guppylm-a-9m-parameter-llm-that-ta/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - microsoft/VibeVoice: Open-Source Frontier Voice AI</title>
+      <link>https://ht-x.com/it/posts/2026/04/github-microsoft-vibevoice-open-source-frontier-vo/</link>
+      <pubDate>Mon, 30 Mar 2026 08:03:06 +0200</pubDate>
+      
+      <guid>https://ht-x.com/it/posts/2026/04/github-microsoft-vibevoice-open-source-frontier-vo/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>GitHub - karpathy/autoresearch: AI agents running research on single-GPU nanochat training automatically</title>

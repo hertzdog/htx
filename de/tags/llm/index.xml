@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it | [Cookies](/de/cookie/) | [Datenschutz](/de/privacy/)</copyright>
-    <lastBuildDate>Wed, 25 Mar 2026 07:30:12 +0100</lastBuildDate><atom:link href="https://ht-x.com/de/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Apr 2026 03:29:29 +0200</lastBuildDate><atom:link href="https://ht-x.com/de/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GitHub - arman-bd/guppylm: Ein ~9M Parameter LLM, das wie ein kleiner Fisch spricht.</title>
+      <link>https://ht-x.com/de/posts/2026/04/github-arman-bd-guppylm-a-9m-parameter-llm-that-ta/</link>
+      <pubDate>Mon, 06 Apr 2026 03:29:29 +0200</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/04/github-arman-bd-guppylm-a-9m-parameter-llm-that-ta/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Peinlich Einfache Selbst-Destillation Verbessert Code-Generierung</title>
+      <link>https://ht-x.com/de/posts/2026/04/embarrassingly-simple-self-distillation-improves-c/</link>
+      <pubDate>Sun, 05 Apr 2026 01:55:55 +0200</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/04/embarrassingly-simple-self-distillation-improves-c/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Show HN: 1-Bit Bonsai, die ersten kommerziell tragfähigen 1-Bit LLMs</title>
+      <link>https://ht-x.com/de/posts/2026/04/show-hn-1-bit-bonsai-the-first-commercially-viable/</link>
+      <pubDate>Wed, 01 Apr 2026 07:57:57 +0200</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/04/show-hn-1-bit-bonsai-the-first-commercially-viable/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>GitHub - Pinperepette/snakebite: Erkennen Sie schädliche PyPI-Pakete mit heuristischer Analyse und LLM-gestützter Filterung, um Credentials aufzudecken</title>

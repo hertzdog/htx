@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it | [Cookie Policy](/it/cookie/) | [Privacy](/it/privacy/)</copyright>
-    <lastBuildDate>Wed, 25 Mar 2026 07:30:12 +0100</lastBuildDate><atom:link href="https://ht-x.com/it/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Apr 2026 03:29:29 +0200</lastBuildDate><atom:link href="https://ht-x.com/it/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GitHub - arman-bd/guppylm: A ~9M parameter LLM that talks like a small fish.</title>
+      <link>https://ht-x.com/it/posts/2026/04/github-arman-bd-guppylm-a-9m-parameter-llm-that-ta/</link>
+      <pubDate>Mon, 06 Apr 2026 03:29:29 +0200</pubDate>
+      
+      <guid>https://ht-x.com/it/posts/2026/04/github-arman-bd-guppylm-a-9m-parameter-llm-that-ta/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Embarrassingly Simple Self-Distillation Improves Code Generation</title>
+      <link>https://ht-x.com/it/posts/2026/04/embarrassingly-simple-self-distillation-improves-c/</link>
+      <pubDate>Sun, 05 Apr 2026 01:55:55 +0200</pubDate>
+      
+      <guid>https://ht-x.com/it/posts/2026/04/embarrassingly-simple-self-distillation-improves-c/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs</title>
+      <link>https://ht-x.com/it/posts/2026/04/show-hn-1-bit-bonsai-the-first-commercially-viable/</link>
+      <pubDate>Wed, 01 Apr 2026 07:57:57 +0200</pubDate>
+      
+      <guid>https://ht-x.com/it/posts/2026/04/show-hn-1-bit-bonsai-the-first-commercially-viable/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>GitHub - Pinperepette/snakebite: Detect malicious PyPI packages using heuristic analysis and LLM-powered filtering to uncover credent</title>

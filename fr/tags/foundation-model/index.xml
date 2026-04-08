@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it | [Cookies](/fr/cookie/) | [Confidentialité](/fr/privacy/)</copyright>
-    <lastBuildDate>Mon, 09 Mar 2026 03:41:18 +0100</lastBuildDate><atom:link href="https://ht-x.com/fr/tags/foundation-model/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Apr 2026 01:55:55 +0200</lastBuildDate><atom:link href="https://ht-x.com/fr/tags/foundation-model/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Auto-distillation embarrassamment simple améliore la génération de code</title>
+      <link>https://ht-x.com/fr/posts/2026/04/embarrassingly-simple-self-distillation-improves-c/</link>
+      <pubDate>Sun, 05 Apr 2026 01:55:55 +0200</pubDate>
+      
+      <guid>https://ht-x.com/fr/posts/2026/04/embarrassingly-simple-self-distillation-improves-c/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Montre HN : 1-Bit Bonsai, le premier LLM commercialement viable à 1 bit</title>
+      <link>https://ht-x.com/fr/posts/2026/04/show-hn-1-bit-bonsai-the-first-commercially-viable/</link>
+      <pubDate>Wed, 01 Apr 2026 07:57:57 +0200</pubDate>
+      
+      <guid>https://ht-x.com/fr/posts/2026/04/show-hn-1-bit-bonsai-the-first-commercially-viable/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PrismML — Concentration d&#39;intelligence</title>
+      <link>https://ht-x.com/fr/posts/2026/04/prismml-concentrating-intelligence/</link>
+      <pubDate>Wed, 01 Apr 2026 07:57:21 +0200</pubDate>
+      
+      <guid>https://ht-x.com/fr/posts/2026/04/prismml-concentrating-intelligence/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>GitHub - z-lab/paroquant : [ICLR 2026] ParoQuant : Quantification par rotation par paires pour une inférence efficace des LLM de raisonnement</title>

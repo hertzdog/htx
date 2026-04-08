@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it | [Cookie Policy](/cookie/) | [Privacy](/privacy/)</copyright>
-    <lastBuildDate>Fri, 13 Mar 2026 08:33:39 +0100</lastBuildDate><atom:link href="https://ht-x.com/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2026 07:57:21 +0200</lastBuildDate><atom:link href="https://ht-x.com/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PrismML — Concentrating Intelligence</title>
+      <link>https://ht-x.com/posts/2026/04/prismml-concentrating-intelligence/</link>
+      <pubDate>Wed, 01 Apr 2026 07:57:21 +0200</pubDate>
+      
+      <guid>https://ht-x.com/posts/2026/04/prismml-concentrating-intelligence/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>GitHub - jundot/omlx: LLM inference server with continuous batching and SSD caching for Apple Silicon — managed from the Mac</title>
