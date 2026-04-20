@@ -2,8 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 <url>
+    <loc>https://ht-x.com/es/categories/articoli/</loc>
+    <lastmod>2026-04-17T07:26:57+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/categories/articoli/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/categories/articoli/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/categories/articoli/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/categories/articoli/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/categories/articoli/"
+    />
+  </url><url>
     <loc>https://ht-x.com/es/series/articoli-interessanti/</loc>
-    <lastmod>2026-04-06T03:29:29+02:00</lastmod>
+    <lastmod>2026-04-17T07:26:57+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -33,7 +63,7 @@
     />
   </url><url>
     <loc>https://ht-x.com/es/posts/</loc>
-    <lastmod>2026-04-06T03:29:29+02:00</lastmod>
+    <lastmod>2026-04-17T07:26:57+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
     <xhtml:link
@@ -63,7 +93,7 @@
     />
   </url><url>
     <loc>https://ht-x.com/es/categories/</loc>
-    <lastmod>2026-04-06T03:29:29+02:00</lastmod>
+    <lastmod>2026-04-17T07:26:57+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -90,6 +120,276 @@
       rel="alternate"
       hreflang="es"
       href="https://ht-x.com/es/categories/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/es/</loc>
+    <lastmod>2026-04-17T07:26:57+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/es/tags/image-generation/</loc>
+    <lastmod>2026-04-17T07:26:57+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/tags/image-generation/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/tags/image-generation/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/tags/image-generation/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/tags/image-generation/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/tags/image-generation/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/es/posts/2026/04/qwen/</loc>
+    <lastmod>2026-04-17T07:26:57+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/posts/2026/04/qwen/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/posts/2026/04/qwen/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/posts/2026/04/qwen/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/posts/2026/04/qwen/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/posts/2026/04/qwen/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/es/series/</loc>
+    <lastmod>2026-04-17T07:26:57+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/series/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/series/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/series/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/series/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/series/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/es/tags/</loc>
+    <lastmod>2026-04-17T07:26:57+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/tags/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/es/categories/tool/</loc>
+    <lastmod>2026-04-17T07:26:57+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/categories/tool/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/categories/tool/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/categories/tool/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/categories/tool/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/categories/tool/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/es/tags/ai/</loc>
+    <lastmod>2026-04-16T19:11:34+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/tags/ai/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/tags/ai/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/tags/ai/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/tags/ai/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/tags/ai/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/es/tags/foundation-model/</loc>
+    <lastmod>2026-04-16T19:11:34+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/tags/foundation-model/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/tags/foundation-model/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/tags/foundation-model/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/tags/foundation-model/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/tags/foundation-model/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/es/posts/2026/04/introducing-claude-opus-4-7-anthropic/</loc>
+    <lastmod>2026-04-16T19:11:34+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/posts/2026/04/introducing-claude-opus-4-7-anthropic/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/posts/2026/04/introducing-claude-opus-4-7-anthropic/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/posts/2026/04/introducing-claude-opus-4-7-anthropic/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/posts/2026/04/introducing-claude-opus-4-7-anthropic/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/posts/2026/04/introducing-claude-opus-4-7-anthropic/"
     />
   </url><url>
     <loc>https://ht-x.com/es/categories/github/</loc>
@@ -150,36 +450,6 @@
       rel="alternate"
       hreflang="es"
       href="https://ht-x.com/es/posts/2026/04/github-arman-bd-guppylm-a-9m-parameter-llm-that-ta/"
-    />
-  </url><url>
-    <loc>https://ht-x.com/es/</loc>
-    <lastmod>2026-04-06T03:29:29+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ht-x.com/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://ht-x.com/it/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://ht-x.com/fr/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://ht-x.com/de/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://ht-x.com/es/"
     />
   </url><url>
     <loc>https://ht-x.com/es/tags/llm/</loc>
@@ -272,96 +542,6 @@
       href="https://ht-x.com/es/tags/python/"
     />
   </url><url>
-    <loc>https://ht-x.com/es/series/</loc>
-    <lastmod>2026-04-06T03:29:29+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ht-x.com/series/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://ht-x.com/it/series/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://ht-x.com/fr/series/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://ht-x.com/de/series/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://ht-x.com/es/series/"
-    />
-  </url><url>
-    <loc>https://ht-x.com/es/tags/</loc>
-    <lastmod>2026-04-06T03:29:29+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ht-x.com/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://ht-x.com/it/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://ht-x.com/fr/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://ht-x.com/de/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://ht-x.com/es/tags/"
-    />
-  </url><url>
-    <loc>https://ht-x.com/es/tags/foundation-model/</loc>
-    <lastmod>2026-04-05T01:55:55+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ht-x.com/tags/foundation-model/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://ht-x.com/it/tags/foundation-model/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://ht-x.com/fr/tags/foundation-model/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://ht-x.com/de/tags/foundation-model/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://ht-x.com/es/tags/foundation-model/"
-    />
-  </url><url>
     <loc>https://ht-x.com/es/posts/2026/04/embarrassingly-simple-self-distillation-improves-c/</loc>
     <lastmod>2026-04-05T01:55:55+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -422,36 +602,6 @@
       href="https://ht-x.com/es/categories/research/"
     />
   </url><url>
-    <loc>https://ht-x.com/es/tags/ai/</loc>
-    <lastmod>2026-04-01T07:57:57+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ht-x.com/tags/ai/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://ht-x.com/it/tags/ai/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://ht-x.com/fr/tags/ai/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://ht-x.com/de/tags/ai/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://ht-x.com/es/tags/ai/"
-    />
-  </url><url>
     <loc>https://ht-x.com/es/categories/hacker-news/</loc>
     <lastmod>2026-04-01T07:57:57+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -510,36 +660,6 @@
       rel="alternate"
       hreflang="es"
       href="https://ht-x.com/es/posts/2026/04/show-hn-1-bit-bonsai-the-first-commercially-viable/"
-    />
-  </url><url>
-    <loc>https://ht-x.com/es/categories/articoli/</loc>
-    <lastmod>2026-04-01T07:57:21+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ht-x.com/categories/articoli/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://ht-x.com/it/categories/articoli/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://ht-x.com/fr/categories/articoli/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://ht-x.com/de/categories/articoli/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://ht-x.com/es/categories/articoli/"
     />
   </url><url>
     <loc>https://ht-x.com/es/tags/machine-learning/</loc>
@@ -1890,36 +2010,6 @@
       rel="alternate"
       hreflang="es"
       href="https://ht-x.com/es/posts/2026/03/github-bytedance-deer-flow-an-open-source-superage/"
-    />
-  </url><url>
-    <loc>https://ht-x.com/es/categories/tool/</loc>
-    <lastmod>2026-03-09T04:08:33+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ht-x.com/categories/tool/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://ht-x.com/it/categories/tool/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://ht-x.com/fr/categories/tool/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://ht-x.com/de/categories/tool/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://ht-x.com/es/categories/tool/"
     />
   </url><url>
     <loc>https://ht-x.com/es/posts/2026/03/spent-the-entire-day-testing-qwopus-claude-4/</loc>
@@ -3660,36 +3750,6 @@
       rel="alternate"
       hreflang="es"
       href="https://ht-x.com/es/posts/2026/01/github-gvclab-personalive-personalive-expressive-p/"
-    />
-  </url><url>
-    <loc>https://ht-x.com/es/tags/image-generation/</loc>
-    <lastmod>2026-01-06T09:30:19+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ht-x.com/tags/image-generation/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://ht-x.com/it/tags/image-generation/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://ht-x.com/fr/tags/image-generation/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://ht-x.com/de/tags/image-generation/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://ht-x.com/es/tags/image-generation/"
     />
   </url><url>
     <loc>https://ht-x.com/es/posts/2026/01/github-nevamind-ai-memu-memory-infrastructure-for/</loc>

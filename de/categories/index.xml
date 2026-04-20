@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it | [Cookies](/de/cookie/) | [Datenschutz](/de/privacy/)</copyright>
-    <lastBuildDate>Mon, 06 Apr 2026 03:29:29 +0200</lastBuildDate><atom:link href="https://ht-x.com/de/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Apr 2026 07:26:57 +0200</lastBuildDate><atom:link href="https://ht-x.com/de/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Articoli</title>
+      <link>https://ht-x.com/de/categories/articoli/</link>
+      <pubDate>Fri, 17 Apr 2026 07:26:57 +0200</pubDate>
+      
+      <guid>https://ht-x.com/de/categories/articoli/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tool</title>
+      <link>https://ht-x.com/de/categories/tool/</link>
+      <pubDate>Fri, 17 Apr 2026 07:26:57 +0200</pubDate>
+      
+      <guid>https://ht-x.com/de/categories/tool/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>GitHub</title>
@@ -40,31 +60,11 @@
     </item>
     
     <item>
-      <title>Articoli</title>
-      <link>https://ht-x.com/de/categories/articoli/</link>
-      <pubDate>Wed, 01 Apr 2026 07:57:21 +0200</pubDate>
-      
-      <guid>https://ht-x.com/de/categories/articoli/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Original</title>
       <link>https://ht-x.com/de/categories/original/</link>
       <pubDate>Thu, 26 Mar 2026 10:00:00 +0100</pubDate>
       
       <guid>https://ht-x.com/de/categories/original/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tool</title>
-      <link>https://ht-x.com/de/categories/tool/</link>
-      <pubDate>Mon, 09 Mar 2026 04:08:33 +0100</pubDate>
-      
-      <guid>https://ht-x.com/de/categories/tool/</guid>
       <description></description>
       
     </item>
