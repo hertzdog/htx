@@ -7,14 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it | [Cookies](/fr/cookie/) | [Confidentialité](/fr/privacy/)</copyright>
-    <lastBuildDate>Fri, 17 Apr 2026 07:26:57 +0200</lastBuildDate><atom:link href="https://ht-x.com/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 May 2026 08:59:07 +0200</lastBuildDate><atom:link href="https://ht-x.com/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Image Generation</title>
-      <link>https://ht-x.com/fr/tags/image-generation/</link>
-      <pubDate>Fri, 17 Apr 2026 07:26:57 +0200</pubDate>
+      <title>AI Agent</title>
+      <link>https://ht-x.com/fr/tags/ai-agent/</link>
+      <pubDate>Mon, 04 May 2026 08:59:07 +0200</pubDate>
       
-      <guid>https://ht-x.com/fr/tags/image-generation/</guid>
+      <guid>https://ht-x.com/fr/tags/ai-agent/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>https://ht-x.com/fr/tags/devops/</link>
+      <pubDate>Mon, 04 May 2026 08:59:07 +0200</pubDate>
+      
+      <guid>https://ht-x.com/fr/tags/devops/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://ht-x.com/fr/tags/machine-learning/</link>
+      <pubDate>Mon, 04 May 2026 08:59:07 +0200</pubDate>
+      
+      <guid>https://ht-x.com/fr/tags/machine-learning/</guid>
       <description></description>
       
     </item>
@@ -22,7 +42,7 @@
     <item>
       <title>AI</title>
       <link>https://ht-x.com/fr/tags/ai/</link>
-      <pubDate>Thu, 16 Apr 2026 19:11:34 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 08:09:31 +0200</pubDate>
       
       <guid>https://ht-x.com/fr/tags/ai/</guid>
       <description></description>
@@ -30,9 +50,49 @@
     </item>
     
     <item>
+      <title>Browser Automation</title>
+      <link>https://ht-x.com/fr/tags/browser-automation/</link>
+      <pubDate>Sat, 02 May 2026 08:09:31 +0200</pubDate>
+      
+      <guid>https://ht-x.com/fr/tags/browser-automation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>https://ht-x.com/fr/tags/open-source/</link>
+      <pubDate>Sat, 02 May 2026 08:09:31 +0200</pubDate>
+      
+      <guid>https://ht-x.com/fr/tags/open-source/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rust</title>
+      <link>https://ht-x.com/fr/tags/rust/</link>
+      <pubDate>Sat, 02 May 2026 08:09:31 +0200</pubDate>
+      
+      <guid>https://ht-x.com/fr/tags/rust/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://ht-x.com/fr/tags/python/</link>
+      <pubDate>Thu, 23 Apr 2026 16:38:34 +0200</pubDate>
+      
+      <guid>https://ht-x.com/fr/tags/python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Foundation Model</title>
       <link>https://ht-x.com/fr/tags/foundation-model/</link>
-      <pubDate>Thu, 16 Apr 2026 19:11:34 +0000</pubDate>
+      <pubDate>Thu, 23 Apr 2026 08:42:42 +0200</pubDate>
       
       <guid>https://ht-x.com/fr/tags/foundation-model/</guid>
       <description></description>
@@ -42,7 +102,7 @@
     <item>
       <title>LLM</title>
       <link>https://ht-x.com/fr/tags/llm/</link>
-      <pubDate>Mon, 06 Apr 2026 03:29:29 +0200</pubDate>
+      <pubDate>Wed, 22 Apr 2026 05:24:30 +0200</pubDate>
       
       <guid>https://ht-x.com/fr/tags/llm/</guid>
       <description></description>
@@ -50,41 +110,11 @@
     </item>
     
     <item>
-      <title>Open Source</title>
-      <link>https://ht-x.com/fr/tags/open-source/</link>
-      <pubDate>Mon, 06 Apr 2026 03:29:29 +0200</pubDate>
+      <title>Image Generation</title>
+      <link>https://ht-x.com/fr/tags/image-generation/</link>
+      <pubDate>Fri, 17 Apr 2026 07:26:57 +0200</pubDate>
       
-      <guid>https://ht-x.com/fr/tags/open-source/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://ht-x.com/fr/tags/python/</link>
-      <pubDate>Mon, 06 Apr 2026 03:29:29 +0200</pubDate>
-      
-      <guid>https://ht-x.com/fr/tags/python/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://ht-x.com/fr/tags/machine-learning/</link>
-      <pubDate>Wed, 01 Apr 2026 07:57:21 +0200</pubDate>
-      
-      <guid>https://ht-x.com/fr/tags/machine-learning/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>AI Agent</title>
-      <link>https://ht-x.com/fr/tags/ai-agent/</link>
-      <pubDate>Sat, 28 Mar 2026 07:44:11 +0100</pubDate>
-      
-      <guid>https://ht-x.com/fr/tags/ai-agent/</guid>
+      <guid>https://ht-x.com/fr/tags/image-generation/</guid>
       <description></description>
       
     </item>
@@ -380,31 +410,11 @@
     </item>
     
     <item>
-      <title>Rust</title>
-      <link>https://ht-x.com/fr/tags/rust/</link>
-      <pubDate>Tue, 10 Feb 2026 07:38:00 +0100</pubDate>
-      
-      <guid>https://ht-x.com/fr/tags/rust/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Typescript</title>
       <link>https://ht-x.com/fr/tags/typescript/</link>
       <pubDate>Mon, 02 Feb 2026 03:13:37 +0100</pubDate>
       
       <guid>https://ht-x.com/fr/tags/typescript/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Browser Automation</title>
-      <link>https://ht-x.com/fr/tags/browser-automation/</link>
-      <pubDate>Wed, 07 Jan 2026 06:24:23 +0100</pubDate>
-      
-      <guid>https://ht-x.com/fr/tags/browser-automation/</guid>
       <description></description>
       
     </item>
@@ -425,16 +435,6 @@
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       
       <guid>https://ht-x.com/fr/tags/nlp/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>DevOps</title>
-      <link>https://ht-x.com/fr/tags/devops/</link>
-      <pubDate>Tue, 18 Nov 2025 03:33:45 +0100</pubDate>
-      
-      <guid>https://ht-x.com/fr/tags/devops/</guid>
       <description></description>
       
     </item>

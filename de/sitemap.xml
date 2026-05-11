@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 <url>
-    <loc>https://ht-x.com/de/categories/articoli/</loc>
-    <lastmod>2026-04-17T07:26:57+02:00</lastmod>
+    <loc>https://ht-x.com/de/tags/ai-agent/</loc>
+    <lastmod>2026-05-04T08:59:07+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://ht-x.com/categories/articoli/"
+      href="https://ht-x.com/tags/ai-agent/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://ht-x.com/it/categories/articoli/"
+      href="https://ht-x.com/it/tags/ai-agent/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://ht-x.com/fr/categories/articoli/"
+      href="https://ht-x.com/fr/tags/ai-agent/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://ht-x.com/es/categories/articoli/"
+      href="https://ht-x.com/es/tags/ai-agent/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://ht-x.com/de/categories/articoli/"
+      href="https://ht-x.com/de/tags/ai-agent/"
     />
   </url><url>
     <loc>https://ht-x.com/de/series/articoli-interessanti/</loc>
-    <lastmod>2026-04-17T07:26:57+02:00</lastmod>
+    <lastmod>2026-05-04T08:59:07+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -63,7 +63,7 @@
     />
   </url><url>
     <loc>https://ht-x.com/de/posts/</loc>
-    <lastmod>2026-04-17T07:26:57+02:00</lastmod>
+    <lastmod>2026-05-04T08:59:07+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
     <xhtml:link
@@ -93,7 +93,7 @@
     />
   </url><url>
     <loc>https://ht-x.com/de/categories/</loc>
-    <lastmod>2026-04-17T07:26:57+02:00</lastmod>
+    <lastmod>2026-05-04T08:59:07+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -122,8 +122,68 @@
       href="https://ht-x.com/de/categories/"
     />
   </url><url>
+    <loc>https://ht-x.com/de/tags/devops/</loc>
+    <lastmod>2026-05-04T08:59:07+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/tags/devops/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/tags/devops/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/tags/devops/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/tags/devops/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/tags/devops/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/de/posts/2026/05/frontier-coding-agents-can-now-implement-an-alphaz/</loc>
+    <lastmod>2026-05-04T08:59:07+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/posts/2026/05/frontier-coding-agents-can-now-implement-an-alphaz/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/posts/2026/05/frontier-coding-agents-can-now-implement-an-alphaz/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/posts/2026/05/frontier-coding-agents-can-now-implement-an-alphaz/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/posts/2026/05/frontier-coding-agents-can-now-implement-an-alphaz/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/posts/2026/05/frontier-coding-agents-can-now-implement-an-alphaz/"
+    />
+  </url><url>
     <loc>https://ht-x.com/de/</loc>
-    <lastmod>2026-04-17T07:26:57+02:00</lastmod>
+    <lastmod>2026-05-04T08:59:07+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
     <xhtml:link
@@ -150,6 +210,576 @@
       rel="alternate"
       hreflang="de"
       href="https://ht-x.com/de/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/de/tags/machine-learning/</loc>
+    <lastmod>2026-05-04T08:59:07+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/tags/machine-learning/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/tags/machine-learning/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/tags/machine-learning/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/tags/machine-learning/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/tags/machine-learning/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/de/categories/research/</loc>
+    <lastmod>2026-05-04T08:59:07+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/categories/research/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/categories/research/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/categories/research/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/categories/research/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/categories/research/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/de/series/</loc>
+    <lastmod>2026-05-04T08:59:07+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/series/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/series/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/series/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/series/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/series/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/de/tags/</loc>
+    <lastmod>2026-05-04T08:59:07+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/tags/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/de/tags/ai/</loc>
+    <lastmod>2026-05-02T08:09:31+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/tags/ai/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/tags/ai/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/tags/ai/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/tags/ai/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/tags/ai/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/de/tags/browser-automation/</loc>
+    <lastmod>2026-05-02T08:09:31+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/tags/browser-automation/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/tags/browser-automation/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/tags/browser-automation/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/tags/browser-automation/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/tags/browser-automation/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/de/categories/github/</loc>
+    <lastmod>2026-05-02T08:09:31+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/categories/github/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/categories/github/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/categories/github/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/categories/github/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/categories/github/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/de/posts/2026/05/github-lahfir-agent-desktop-native-desktop-automat/</loc>
+    <lastmod>2026-05-02T08:09:31+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/posts/2026/05/github-lahfir-agent-desktop-native-desktop-automat/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/posts/2026/05/github-lahfir-agent-desktop-native-desktop-automat/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/posts/2026/05/github-lahfir-agent-desktop-native-desktop-automat/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/posts/2026/05/github-lahfir-agent-desktop-native-desktop-automat/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/posts/2026/05/github-lahfir-agent-desktop-native-desktop-automat/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/de/tags/open-source/</loc>
+    <lastmod>2026-05-02T08:09:31+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/tags/open-source/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/tags/open-source/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/tags/open-source/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/tags/open-source/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/tags/open-source/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/de/tags/rust/</loc>
+    <lastmod>2026-05-02T08:09:31+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/tags/rust/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/tags/rust/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/tags/rust/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/tags/rust/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/tags/rust/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/de/posts/2026/05/github-openai-privacy-filter-openai-privacy-filter/</loc>
+    <lastmod>2026-04-23T16:38:34+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/posts/2026/05/github-openai-privacy-filter-openai-privacy-filter/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/posts/2026/05/github-openai-privacy-filter-openai-privacy-filter/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/posts/2026/05/github-openai-privacy-filter-openai-privacy-filter/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/posts/2026/05/github-openai-privacy-filter-openai-privacy-filter/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/posts/2026/05/github-openai-privacy-filter-openai-privacy-filter/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/de/tags/python/</loc>
+    <lastmod>2026-04-23T16:38:34+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/tags/python/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/tags/python/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/tags/python/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/tags/python/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/tags/python/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/de/categories/articoli/</loc>
+    <lastmod>2026-04-23T08:42:42+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/categories/articoli/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/categories/articoli/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/categories/articoli/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/categories/articoli/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/categories/articoli/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/de/tags/foundation-model/</loc>
+    <lastmod>2026-04-23T08:42:42+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/tags/foundation-model/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/tags/foundation-model/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/tags/foundation-model/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/tags/foundation-model/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/tags/foundation-model/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/de/posts/2026/05/introducing-unsloth-studio-unsloth-documentation/</loc>
+    <lastmod>2026-04-23T08:42:42+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/posts/2026/05/introducing-unsloth-studio-unsloth-documentation/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/posts/2026/05/introducing-unsloth-studio-unsloth-documentation/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/posts/2026/05/introducing-unsloth-studio-unsloth-documentation/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/posts/2026/05/introducing-unsloth-studio-unsloth-documentation/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/posts/2026/05/introducing-unsloth-studio-unsloth-documentation/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/de/posts/2026/05/bring-your-agent-to-teams-teams-sdk/</loc>
+    <lastmod>2026-04-23T08:26:28+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/posts/2026/05/bring-your-agent-to-teams-teams-sdk/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/posts/2026/05/bring-your-agent-to-teams-teams-sdk/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/posts/2026/05/bring-your-agent-to-teams-teams-sdk/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/posts/2026/05/bring-your-agent-to-teams-teams-sdk/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/posts/2026/05/bring-your-agent-to-teams-teams-sdk/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/de/posts/2026/05/emotion-concepts-and-their-function-in-a-large/</loc>
+    <lastmod>2026-04-22T05:24:30+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/posts/2026/05/emotion-concepts-and-their-function-in-a-large/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/posts/2026/05/emotion-concepts-and-their-function-in-a-large/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/posts/2026/05/emotion-concepts-and-their-function-in-a-large/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/posts/2026/05/emotion-concepts-and-their-function-in-a-large/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/posts/2026/05/emotion-concepts-and-their-function-in-a-large/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/de/tags/llm/</loc>
+    <lastmod>2026-04-22T05:24:30+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/tags/llm/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/tags/llm/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/tags/llm/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/tags/llm/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/tags/llm/"
+    />
+  </url><url>
+    <loc>https://ht-x.com/de/posts/2026/05/nicholas-carlini-black-hat-llms-un-prompted-2026-y/</loc>
+    <lastmod>2026-04-21T08:34:32+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ht-x.com/posts/2026/05/nicholas-carlini-black-hat-llms-un-prompted-2026-y/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://ht-x.com/it/posts/2026/05/nicholas-carlini-black-hat-llms-un-prompted-2026-y/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ht-x.com/fr/posts/2026/05/nicholas-carlini-black-hat-llms-un-prompted-2026-y/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://ht-x.com/es/posts/2026/05/nicholas-carlini-black-hat-llms-un-prompted-2026-y/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://ht-x.com/de/posts/2026/05/nicholas-carlini-black-hat-llms-un-prompted-2026-y/"
     />
   </url><url>
     <loc>https://ht-x.com/de/tags/image-generation/</loc>
@@ -212,66 +842,6 @@
       href="https://ht-x.com/de/posts/2026/04/qwen/"
     />
   </url><url>
-    <loc>https://ht-x.com/de/series/</loc>
-    <lastmod>2026-04-17T07:26:57+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ht-x.com/series/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://ht-x.com/it/series/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://ht-x.com/fr/series/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://ht-x.com/es/series/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://ht-x.com/de/series/"
-    />
-  </url><url>
-    <loc>https://ht-x.com/de/tags/</loc>
-    <lastmod>2026-04-17T07:26:57+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ht-x.com/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://ht-x.com/it/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://ht-x.com/fr/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://ht-x.com/es/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://ht-x.com/de/tags/"
-    />
-  </url><url>
     <loc>https://ht-x.com/de/categories/tool/</loc>
     <lastmod>2026-04-17T07:26:57+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -300,66 +870,6 @@
       rel="alternate"
       hreflang="de"
       href="https://ht-x.com/de/categories/tool/"
-    />
-  </url><url>
-    <loc>https://ht-x.com/de/tags/ai/</loc>
-    <lastmod>2026-04-16T19:11:34+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ht-x.com/tags/ai/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://ht-x.com/it/tags/ai/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://ht-x.com/fr/tags/ai/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://ht-x.com/es/tags/ai/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://ht-x.com/de/tags/ai/"
-    />
-  </url><url>
-    <loc>https://ht-x.com/de/tags/foundation-model/</loc>
-    <lastmod>2026-04-16T19:11:34+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ht-x.com/tags/foundation-model/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://ht-x.com/it/tags/foundation-model/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://ht-x.com/fr/tags/foundation-model/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://ht-x.com/es/tags/foundation-model/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://ht-x.com/de/tags/foundation-model/"
     />
   </url><url>
     <loc>https://ht-x.com/de/posts/2026/04/introducing-claude-opus-4-7-anthropic/</loc>
@@ -392,36 +902,6 @@
       href="https://ht-x.com/de/posts/2026/04/introducing-claude-opus-4-7-anthropic/"
     />
   </url><url>
-    <loc>https://ht-x.com/de/categories/github/</loc>
-    <lastmod>2026-04-06T03:29:29+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ht-x.com/categories/github/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://ht-x.com/it/categories/github/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://ht-x.com/fr/categories/github/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://ht-x.com/es/categories/github/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://ht-x.com/de/categories/github/"
-    />
-  </url><url>
     <loc>https://ht-x.com/de/posts/2026/04/github-arman-bd-guppylm-a-9m-parameter-llm-that-ta/</loc>
     <lastmod>2026-04-06T03:29:29+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -452,96 +932,6 @@
       href="https://ht-x.com/de/posts/2026/04/github-arman-bd-guppylm-a-9m-parameter-llm-that-ta/"
     />
   </url><url>
-    <loc>https://ht-x.com/de/tags/llm/</loc>
-    <lastmod>2026-04-06T03:29:29+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ht-x.com/tags/llm/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://ht-x.com/it/tags/llm/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://ht-x.com/fr/tags/llm/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://ht-x.com/es/tags/llm/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://ht-x.com/de/tags/llm/"
-    />
-  </url><url>
-    <loc>https://ht-x.com/de/tags/open-source/</loc>
-    <lastmod>2026-04-06T03:29:29+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ht-x.com/tags/open-source/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://ht-x.com/it/tags/open-source/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://ht-x.com/fr/tags/open-source/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://ht-x.com/es/tags/open-source/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://ht-x.com/de/tags/open-source/"
-    />
-  </url><url>
-    <loc>https://ht-x.com/de/tags/python/</loc>
-    <lastmod>2026-04-06T03:29:29+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ht-x.com/tags/python/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://ht-x.com/it/tags/python/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://ht-x.com/fr/tags/python/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://ht-x.com/es/tags/python/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://ht-x.com/de/tags/python/"
-    />
-  </url><url>
     <loc>https://ht-x.com/de/posts/2026/04/embarrassingly-simple-self-distillation-improves-c/</loc>
     <lastmod>2026-04-05T01:55:55+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -570,36 +960,6 @@
       rel="alternate"
       hreflang="de"
       href="https://ht-x.com/de/posts/2026/04/embarrassingly-simple-self-distillation-improves-c/"
-    />
-  </url><url>
-    <loc>https://ht-x.com/de/categories/research/</loc>
-    <lastmod>2026-04-05T01:55:55+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ht-x.com/categories/research/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://ht-x.com/it/categories/research/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://ht-x.com/fr/categories/research/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://ht-x.com/es/categories/research/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://ht-x.com/de/categories/research/"
     />
   </url><url>
     <loc>https://ht-x.com/de/categories/hacker-news/</loc>
@@ -662,36 +1022,6 @@
       href="https://ht-x.com/de/posts/2026/04/show-hn-1-bit-bonsai-the-first-commercially-viable/"
     />
   </url><url>
-    <loc>https://ht-x.com/de/tags/machine-learning/</loc>
-    <lastmod>2026-04-01T07:57:21+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ht-x.com/tags/machine-learning/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://ht-x.com/it/tags/machine-learning/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://ht-x.com/fr/tags/machine-learning/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://ht-x.com/es/tags/machine-learning/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://ht-x.com/de/tags/machine-learning/"
-    />
-  </url><url>
     <loc>https://ht-x.com/de/posts/2026/04/prismml-concentrating-intelligence/</loc>
     <lastmod>2026-04-01T07:57:21+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -750,36 +1080,6 @@
       rel="alternate"
       hreflang="de"
       href="https://ht-x.com/de/posts/2026/04/github-microsoft-vibevoice-open-source-frontier-vo/"
-    />
-  </url><url>
-    <loc>https://ht-x.com/de/tags/ai-agent/</loc>
-    <lastmod>2026-03-28T07:44:11+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ht-x.com/tags/ai-agent/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://ht-x.com/it/tags/ai-agent/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://ht-x.com/fr/tags/ai-agent/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://ht-x.com/es/tags/ai-agent/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://ht-x.com/de/tags/ai-agent/"
     />
   </url><url>
     <loc>https://ht-x.com/de/posts/2026/03/github-karpathy-autoresearch-ai-agents-running-res/</loc>
@@ -2677,36 +2977,6 @@
       href="https://ht-x.com/de/posts/2026/02/github-ericlbuehler-mistral-rs-fast-flexible-llm-i/"
     />
   </url><url>
-    <loc>https://ht-x.com/de/tags/rust/</loc>
-    <lastmod>2026-02-10T07:38:00+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ht-x.com/tags/rust/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://ht-x.com/it/tags/rust/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://ht-x.com/fr/tags/rust/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://ht-x.com/es/tags/rust/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://ht-x.com/de/tags/rust/"
-    />
-  </url><url>
     <loc>https://ht-x.com/de/posts/2026/02/warum-ihr-unternehmen-private-ki-braucht/</loc>
     <lastmod>2026-02-05T10:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -3635,36 +3905,6 @@
       rel="alternate"
       hreflang="de"
       href="https://ht-x.com/de/posts/2026/01/we-got-claude-to-fine-tune-an-open-source-llm/"
-    />
-  </url><url>
-    <loc>https://ht-x.com/de/tags/browser-automation/</loc>
-    <lastmod>2026-01-07T06:24:23+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ht-x.com/tags/browser-automation/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://ht-x.com/it/tags/browser-automation/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://ht-x.com/fr/tags/browser-automation/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://ht-x.com/es/tags/browser-automation/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://ht-x.com/de/tags/browser-automation/"
     />
   </url><url>
     <loc>https://ht-x.com/de/posts/2026/01/use-claude-code-with-chrome-beta-claude-code-docs/</loc>
@@ -4720,36 +4960,6 @@
       rel="alternate"
       hreflang="de"
       href="https://ht-x.com/de/posts/2025/11/love-this-framing-this-is-exactly-what-were-buildi/"
-    />
-  </url><url>
-    <loc>https://ht-x.com/de/tags/devops/</loc>
-    <lastmod>2025-11-18T03:33:45+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ht-x.com/tags/devops/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://ht-x.com/it/tags/devops/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://ht-x.com/fr/tags/devops/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://ht-x.com/es/tags/devops/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://ht-x.com/de/tags/devops/"
     />
   </url><url>
     <loc>https://ht-x.com/de/posts/2025/11/supercharge-your-ocr-pipelines-with-open-models/</loc>

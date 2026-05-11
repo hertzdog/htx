@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it | [Cookies](/de/cookie/) | [Datenschutz](/de/privacy/)</copyright>
-    <lastBuildDate>Wed, 01 Apr 2026 07:57:21 +0200</lastBuildDate><atom:link href="https://ht-x.com/de/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 May 2026 08:59:07 +0200</lastBuildDate><atom:link href="https://ht-x.com/de/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Frontier Coding Agents können nun eine AlphaZero-Self-Play-Maschinelles-Lernen-Pipeline für Vier Gewinnt implementieren, die sich mit einem externen Solver messen kann.</title>
+      <link>https://ht-x.com/de/posts/2026/05/frontier-coding-agents-can-now-implement-an-alphaz/</link>
+      <pubDate>Mon, 04 May 2026 08:59:07 +0200</pubDate>
+      
+      <guid>https://ht-x.com/de/posts/2026/05/frontier-coding-agents-can-now-implement-an-alphaz/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>PrismML — Intelligenz bündeln</title>

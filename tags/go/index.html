@@ -661,7 +661,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2026-03-14T03:49:00&#43;01:00">14 March 2026</time><span class="px-2 text-primary-500">&middot;</span><span>985 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">5 mins</span>
+      <time datetime="2026-03-14T03:49:00&#43;01:00">14 March 2026</time><span class="px-2 text-primary-500">&middot;</span><span>982 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">5 mins</span>
     
 
     
@@ -836,7 +836,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2026-01-19T10:47:44&#43;00:00">19 January 2026</time><span class="px-2 text-primary-500">&middot;</span><span>1425 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">7 mins</span>
+      <time datetime="2026-01-19T10:47:44&#43;00:00">19 January 2026</time><span class="px-2 text-primary-500">&middot;</span><span>1416 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">7 mins</span>
     
 
     
@@ -1048,7 +1048,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2026-01-19T10:01:20&#43;00:00">19 January 2026</time><span class="px-2 text-primary-500">&middot;</span><span>1337 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">7 mins</span>
+      <time datetime="2026-01-19T10:01:20&#43;00:00">19 January 2026</time><span class="px-2 text-primary-500">&middot;</span><span>1353 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">7 mins</span>
     
 
     
@@ -1227,7 +1227,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2026-01-08T07:16:27&#43;01:00">8 January 2026</time><span class="px-2 text-primary-500">&middot;</span><span>1159 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">6 mins</span>
+      <time datetime="2026-01-08T07:16:27&#43;01:00">8 January 2026</time><span class="px-2 text-primary-500">&middot;</span><span>1100 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">6 mins</span>
     
 
     
@@ -1402,7 +1402,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2026-01-06T09:12:49&#43;00:00">6 January 2026</time><span class="px-2 text-primary-500">&middot;</span><span>1193 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">6 mins</span>
+      <time datetime="2026-01-06T09:12:49&#43;00:00">6 January 2026</time><span class="px-2 text-primary-500">&middot;</span><span>1189 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">6 mins</span>
     
 
     
@@ -1604,7 +1604,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2026-01-06T06:44:37&#43;00:00">6 January 2026</time><span class="px-2 text-primary-500">&middot;</span><span>1294 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">7 mins</span>
+      <time datetime="2026-01-06T06:44:37&#43;00:00">6 January 2026</time><span class="px-2 text-primary-500">&middot;</span><span>1308 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">7 mins</span>
     
 
     
@@ -1743,41 +1743,7 @@
         <div
           class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
           href="/posts/2026/01/everything-as-code-how-we-manage-our-company-in-on/">
-          Everything as Code: How We Manage Our Company In One Monorepo
-
-At Kasava, we've embraced the concept of "everything as code" to streamline our operations and ensure consistency across our projects. This approach allows us to manage our entire company within a single monorepo, providing a unified source of truth for all our configurations, infrastructure, and applications.
-
-**Why a Monorepo?**
-
-A monorepo offers several advantages:
-
-1. **Unified Configuration**: All our settings, from development environments to production, are stored in one place. This makes it easier to maintain consistency and reduces the risk of configuration drift.
-
-2. **Simplified Dependency Management**: With all our code in one repository, managing dependencies becomes more straightforward. We can easily track which versions of libraries and tools are being used across different projects.
-
-3. **Enhanced Collaboration**: A single repository fosters better collaboration among team members. Everyone has access to the same codebase, making it easier to share knowledge and work together on projects.
-
-4. **Consistent Build and Deployment Processes**: By standardizing our build and deployment processes, we ensure that all our applications follow the same best practices. This leads to more reliable and predictable deployments.
-
-**Our Monorepo Structure**
-
-Our monorepo is organized into several key directories:
-
-- **/config**: Contains all configuration files for various environments, including development, staging, and production.
-- **/infrastructure**: Houses the infrastructure as code (IaC) scripts for provisioning and managing our cloud resources.
-- **/apps**: Includes all our applications, both internal tools and customer-facing products.
-- **/lib**: Stores reusable libraries and modules that can be shared across different projects.
-- **/scripts**: Contains utility scripts for automating various tasks, such as data migrations and backups.
-
-**Tools and Technologies**
-
-To manage our monorepo effectively, we use a combination of tools and technologies:
-
-- **Version Control**: Git is our primary version control system, and we use GitHub for hosting our repositories.
-- **Continuous Integration/Continuous Deployment (CI/CD)**: We employ Jenkins for automating our build, test, and deployment processes.
-- **Infrastructure as Code (IaC)**: Terraform is our tool of choice for managing cloud infrastructure.
-- **Configuration Management**: Ansible is used for configuring and managing our servers and applications.
-- **Monitoring and Logging**: We use Prometheus and Grafana for monitoring,
+          Everything as Code: How We Manage Our Company In One Monorepo | Kasava
         </div>
       
       
@@ -1831,7 +1797,7 @@ To manage our monorepo effectively, we use a combination of tools and technologi
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2025-12-30T22:31:13&#43;01:00">30 December 2025</time><span class="px-2 text-primary-500">&middot;</span><span>1615 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">8 mins</span>
+      <time datetime="2025-12-30T22:31:13&#43;01:00">30 December 2025</time><span class="px-2 text-primary-500">&middot;</span><span>1285 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">7 mins</span>
     
 
     
@@ -1982,7 +1948,7 @@ To manage our monorepo effectively, we use a combination of tools and technologi
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2025-11-23T00:17:52&#43;01:00">23 November 2025</time><span class="px-2 text-primary-500">&middot;</span><span>1162 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">6 mins</span>
+      <time datetime="2025-11-23T00:17:52&#43;01:00">23 November 2025</time><span class="px-2 text-primary-500">&middot;</span><span>1138 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">6 mins</span>
     
 
     
@@ -2145,7 +2111,7 @@ To manage our monorepo effectively, we use a combination of tools and technologi
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2025-11-22T02:44:08&#43;01:00">22 November 2025</time><span class="px-2 text-primary-500">&middot;</span><span>984 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">5 mins</span>
+      <time datetime="2025-11-22T02:44:08&#43;01:00">22 November 2025</time><span class="px-2 text-primary-500">&middot;</span><span>981 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">5 mins</span>
     
 
     
@@ -2309,7 +2275,7 @@ To manage our monorepo effectively, we use a combination of tools and technologi
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2025-11-20T00:00:00&#43;00:00">20 November 2025</time><span class="px-2 text-primary-500">&middot;</span><span>1092 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">6 mins</span>
+      <time datetime="2025-11-20T00:00:00&#43;00:00">20 November 2025</time><span class="px-2 text-primary-500">&middot;</span><span>1087 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">6 mins</span>
     
 
     
@@ -2484,7 +2450,7 @@ To manage our monorepo effectively, we use a combination of tools and technologi
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2025-11-19T08:03:59&#43;01:00">19 November 2025</time><span class="px-2 text-primary-500">&middot;</span><span>967 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">5 mins</span>
+      <time datetime="2025-11-19T08:03:59&#43;01:00">19 November 2025</time><span class="px-2 text-primary-500">&middot;</span><span>976 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">5 mins</span>
     
 
     
@@ -2636,7 +2602,7 @@ To manage our monorepo effectively, we use a combination of tools and technologi
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2025-11-18T00:00:00&#43;00:00">18 November 2025</time><span class="px-2 text-primary-500">&middot;</span><span>949 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">5 mins</span>
+      <time datetime="2025-11-18T00:00:00&#43;00:00">18 November 2025</time><span class="px-2 text-primary-500">&middot;</span><span>959 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">5 mins</span>
     
 
     
@@ -2811,7 +2777,7 @@ To manage our monorepo effectively, we use a combination of tools and technologi
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2025-10-23T06:34:30&#43;02:00">23 October 2025</time><span class="px-2 text-primary-500">&middot;</span><span>489 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span>
+      <time datetime="2025-10-23T06:34:30&#43;02:00">23 October 2025</time><span class="px-2 text-primary-500">&middot;</span><span>497 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span>
     
 
     
@@ -3004,7 +2970,7 @@ To manage our monorepo effectively, we use a combination of tools and technologi
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2025-10-21T07:33:04&#43;02:00">21 October 2025</time><span class="px-2 text-primary-500">&middot;</span><span>568 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span>
+      <time datetime="2025-10-21T07:33:04&#43;02:00">21 October 2025</time><span class="px-2 text-primary-500">&middot;</span><span>566 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span>
     
 
     
@@ -3359,7 +3325,7 @@ To manage our monorepo effectively, we use a combination of tools and technologi
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2025-09-22T08:53:27&#43;02:00">22 September 2025</time><span class="px-2 text-primary-500">&middot;</span><span>464 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span>
+      <time datetime="2025-09-22T08:53:27&#43;02:00">22 September 2025</time><span class="px-2 text-primary-500">&middot;</span><span>475 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span>
     
 
     
@@ -3534,7 +3500,7 @@ To manage our monorepo effectively, we use a combination of tools and technologi
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2025-07-24T13:32:11&#43;02:00">24 July 2025</time><span class="px-2 text-primary-500">&middot;</span><span>466 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span>
+      <time datetime="2025-07-24T13:32:11&#43;02:00">24 July 2025</time><span class="px-2 text-primary-500">&middot;</span><span>463 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span>
     
 
     
@@ -3697,7 +3663,7 @@ To manage our monorepo effectively, we use a combination of tools and technologi
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2025-07-16T03:21:12&#43;02:00">16 July 2025</time><span class="px-2 text-primary-500">&middot;</span><span>527 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span>
+      <time datetime="2025-07-16T03:21:12&#43;02:00">16 July 2025</time><span class="px-2 text-primary-500">&middot;</span><span>525 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span>
     
 
     
@@ -3885,7 +3851,7 @@ To manage our monorepo effectively, we use a combination of tools and technologi
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2025-07-16T02:36:35&#43;02:00">16 July 2025</time><span class="px-2 text-primary-500">&middot;</span><span>542 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span>
+      <time datetime="2025-07-16T02:36:35&#43;02:00">16 July 2025</time><span class="px-2 text-primary-500">&middot;</span><span>548 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span>
     
 
     
@@ -4063,7 +4029,7 @@ To manage our monorepo effectively, we use a combination of tools and technologi
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2025-06-27T08:24:59&#43;02:00">27 June 2025</time><span class="px-2 text-primary-500">&middot;</span><span>464 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span>
+      <time datetime="2025-06-27T08:24:59&#43;02:00">27 June 2025</time><span class="px-2 text-primary-500">&middot;</span><span>457 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span>
     
 
     
@@ -4591,7 +4557,7 @@ To manage our monorepo effectively, we use a combination of tools and technologi
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2025-04-21T07:38:58&#43;02:00">21 April 2025</time><span class="px-2 text-primary-500">&middot;</span><span>540 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span>
+      <time datetime="2025-04-21T07:38:58&#43;02:00">21 April 2025</time><span class="px-2 text-primary-500">&middot;</span><span>537 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span>
     
 
     
@@ -4769,7 +4735,7 @@ To manage our monorepo effectively, we use a combination of tools and technologi
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2025-04-17T03:16:29&#43;02:00">17 April 2025</time><span class="px-2 text-primary-500">&middot;</span><span>1089 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">6 mins</span>
+      <time datetime="2025-04-17T03:16:29&#43;02:00">17 April 2025</time><span class="px-2 text-primary-500">&middot;</span><span>1099 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">6 mins</span>
     
 
     
@@ -4974,7 +4940,7 @@ To manage our monorepo effectively, we use a combination of tools and technologi
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2024-10-26T00:00:00&#43;00:00">26 October 2024</time><span class="px-2 text-primary-500">&middot;</span><span>490 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span>
+      <time datetime="2024-10-26T00:00:00&#43;00:00">26 October 2024</time><span class="px-2 text-primary-500">&middot;</span><span>492 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span>
     
 
     
