@@ -1,1 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Transformer on HUMAN TECHNOLOGY eXCELLENCE</title><link>https://ht-x.com/it/tags/transformer/</link><description>Recent content in Transformer on HUMAN TECHNOLOGY eXCELLENCE</description><generator>Hugo -- gohugo.io</generator><language>it</language><copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it | [Cookie Policy](/it/cookie/) | [Privacy](/it/privacy/)</copyright><lastBuildDate>Sat, 06 Jun 2026 07:06:27 +0200</lastBuildDate><atom:link href="https://ht-x.com/it/tags/transformer/index.xml" rel="self" type="application/rss+xml"/><item><title>How LLMs Actually Work | 0xkato</title><link>https://ht-x.com/it/posts/2026/07/how-llms-actually-work-0xkato/</link><pubDate>Sat, 06 Jun 2026 07:06:27 +0200</pubDate><guid>https://ht-x.com/it/posts/2026/07/how-llms-actually-work-0xkato/</guid><description/></item><item><title>GitHub - chiennv2000/orthrus: Fast, lossless LLM inference via dual-view diffusion…</title><link>https://ht-x.com/it/posts/2026/07/github-chiennv2000-orthrus-fast-lossless-llm/</link><pubDate>Sat, 16 May 2026 07:27:02 +0200</pubDate><guid>https://ht-x.com/it/posts/2026/07/github-chiennv2000-orthrus-fast-lossless-llm/</guid><description/></item><item><title>Stanford's ALL FREE Courses [2024 &amp;amp; 2025] ❯ CS230 - Deep Learni...</title><link>https://ht-x.com/it/posts/2025/10/stanford-s-all-free-courses-2024-2025-cs230-deep-l/</link><pubDate>Sun, 19 Oct 2025 02:59:45 +0200</pubDate><guid>https://ht-x.com/it/posts/2025/10/stanford-s-all-free-courses-2024-2025-cs230-deep-l/</guid><description/></item><item><title>Everything About Transformers</title><link>https://ht-x.com/it/posts/2025/10/everything-about-transformers/</link><pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate><guid>https://ht-x.com/it/posts/2025/10/everything-about-transformers/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transformer on HUMAN TECHNOLOGY eXCELLENCE</title>
+    <link>https://ht-x.com/it/tags/transformer/</link>
+    <description>Recent content in Transformer on HUMAN TECHNOLOGY eXCELLENCE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <copyright>Copyright (C) HTX S.r.l. | PIVA: 01407090321 | Capitale Sociale €72.000 i.v. | htx@pec.it | [Cookie Policy](/it/cookie/) | [Privacy](/it/privacy/)</copyright>
+    <lastBuildDate>Sat, 06 Jun 2026 07:06:27 +0200</lastBuildDate><atom:link href="https://ht-x.com/it/tags/transformer/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How LLMs Actually Work | 0xkato</title>
+      <link>https://ht-x.com/it/posts/2026/07/how-llms-actually-work-0xkato/</link>
+      <pubDate>Sat, 06 Jun 2026 07:06:27 +0200</pubDate>
+      
+      <guid>https://ht-x.com/it/posts/2026/07/how-llms-actually-work-0xkato/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub - chiennv2000/orthrus: Fast, lossless LLM inference via dual-view diffusion…</title>
+      <link>https://ht-x.com/it/posts/2026/07/github-chiennv2000-orthrus-fast-lossless-llm/</link>
+      <pubDate>Sat, 16 May 2026 07:27:02 +0200</pubDate>
+      
+      <guid>https://ht-x.com/it/posts/2026/07/github-chiennv2000-orthrus-fast-lossless-llm/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Stanford&#39;s ALL FREE Courses [2024 &amp;amp; 2025] ❯ CS230 - Deep Learni...</title>
+      <link>https://ht-x.com/it/posts/2025/10/stanford-s-all-free-courses-2024-2025-cs230-deep-l/</link>
+      <pubDate>Sun, 19 Oct 2025 02:59:45 +0200</pubDate>
+      
+      <guid>https://ht-x.com/it/posts/2025/10/stanford-s-all-free-courses-2024-2025-cs230-deep-l/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Everything About Transformers</title>
+      <link>https://ht-x.com/it/posts/2025/10/everything-about-transformers/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ht-x.com/it/posts/2025/10/everything-about-transformers/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
